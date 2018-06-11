@@ -8,5 +8,17 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
+    <pubDate>Mon, 11 Jun 2018 21:33:47 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 21–30 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-05-30-Inizio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.7–26.4%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 20.3–23.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 17.8–21.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.1–4.8%&lt;/li&gt;&lt;li&gt;Centerpartiet: 8.3–10.8%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.1–9.4%&lt;/li&gt;&lt;li&gt;Folkpartiet liberalerna: 3.5–5.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.1–5.9%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ: 1.1–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-05-30-Inizio.png"
+        length="225371"
+        type="image/png"/>
+      <pubDate>Mon, 11 Jun 2018 21:33:47 +0200</pubDate>
+      <dc:date>2018-06-11T21:33:47.322677+02:00</dc:date>
+    </item>
+    <dc:date>2018-06-11T21:33:47.322677+02:00</dc:date>
   </channel>
 </rss>
