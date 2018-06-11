@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | S | M | SD | MP | C | V | L | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 14 September 2014 | General Election | 31.0% <br> 113 | 23.3% <br> 84 | 12.9% <br> 49 | 6.9% <br> 25 | 6.1% <br> 22 | 5.7% <br> 21 | 5.4% <br> 19 | 4.6% <br> 16 | 3.1% <br> 0 |
-| N/A | [Poll Average](average.html) | 23–26% <br> N/A | 20–24% <br> N/A | 18–21% <br> N/A | 3–5% <br> N/A | 8–11% <br> N/A | 7–9% <br> N/A | 4–5% <br> N/A | 4–6% <br> N/A | 1–2% <br> N/A |
-| [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 23–26% <br> N/A | 20–24% <br> N/A | 18–21% <br> N/A | 3–5% <br> N/A | 8–11% <br> N/A | 7–9% <br> N/A | 3–5% <br> N/A | 4–6% <br> N/A | 1–2% <br> N/A |
-| [27 April–29 May 2018](2018-05-29-SCB.html) | SCB | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 23–29% <br> 93–99 | 20–24% <br> 81–96 | 18–21% <br> 70–71 | 3–5% <br> 0–16 | 8–11% <br> 33–37 | 7–9% <br> 32–34 | 4–5% <br> 0 | 2–6% <br> 18 | 1–2% <br> 0 |
+| [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 23–26% <br> 93–99 | 20–24% <br> 81–96 | 18–21% <br> 70–71 | 3–5% <br> 0–16 | 8–11% <br> 33–37 | 7–9% <br> 32–34 | 4–5% <br> 0 | 4–6% <br> 18 | 1–2% <br> 0 |
+| [27 April–29 May 2018](2018-05-29-SCB.html) | SCB | 27–30% <br> N/A | 21–24% <br> N/A | 17–20% <br> N/A | 4–5% <br> N/A | 8–10% <br> N/A | 7–8% <br> N/A | 4–5% <br> N/A | 2–3% <br> N/A | N/A <br> N/A |
 | [10–21 May 2018](2018-05-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–17 May 2018](2018-05-17-Sifo.html) | Sifo <br> Svenska Dagbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [11–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> Metro | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
