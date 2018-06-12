@@ -10,16 +10,16 @@ Last result: **6.9%** (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.4–4.5% | 3.2–4.7% | 3.1–4.8% | 2.8–5.1% |
-| [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 4.5% | N/A | N/A | N/A | N/A |
-| [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 4.9% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 4.2% | 3.5–4.9% | 3.3–5.2% | 3.1–5.5% | 2.8–6.0% |
+| [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 4.5% | 4.1–4.9% | 4.0–5.0% | 3.9–5.1% | 3.7–5.3% |
+| [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 4.9% | 4.3–5.7% | 4.1–5.9% | 3.9–6.1% | 3.7–6.5% |
 | [1–5 June 2018](2018-06-05-Sentio.html) | Sentio <br> Nyheter Idag | 4.8% | N/A | N/A | N/A | N/A |
 | [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 3.9% | 3.4–4.5% | 3.2–4.6% | 3.1–4.8% | 2.9–5.1% |
 | [27 April–29 May 2018](2018-05-29-SCB.html) | SCB | 4.3% | 3.9–4.7% | 3.8–4.8% | 3.7–4.9% | 3.6–5.1% |
 | [10–21 May 2018](2018-05-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.0% | 3.4–4.6% | 3.3–4.8% | 3.2–5.0% | 2.9–5.3% |
 | [7–17 May 2018](2018-05-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 4.0% | 3.7–4.4% | 3.6–4.4% | 3.6–4.5% | 3.4–4.7% |
 | [11–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> Metro | 3.6% | 3.1–4.3% | 2.9–4.5% | 2.8–4.7% | 2.5–5.0% |
-| [16 April–13 May 2018](2018-05-13-Novus.html) | Novus <br> SVT | 4.3% | 3.9–4.7% | 3.8–4.8% | 3.7–4.9% | 3.6–5.1% |
+| [16 April–13 May 2018](2018-05-13-Novus.html) | Novus <br> SVT | 4.3% | 3.9–4.7% | 3.9–4.8% | 3.8–4.9% | 3.6–5.1% |
 | [4–7 May 2018](2018-05-07-Sentio.html) | Sentio <br> Nyheter Idag | 4.4% | N/A | N/A | N/A | N/A |
 | [1–7 May 2018](2018-05-07-Inizio.html) | Inizio <br> Aftonbladet | 3.8% | N/A | N/A | N/A | N/A |
 | [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 4.4% | N/A | N/A | N/A | N/A |
@@ -54,11 +54,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 16% | 99.9% |  |
-| 3.5–4.5% | 75% | 84% | Median |
-| 4.5–5.5% | 9% | 9% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 2.5–3.5% | 11% | 99.9% |  |
+| 3.5–4.5% | 65% | 89% | Median |
+| 4.5–5.5% | 21% | 24% |  |
+| 5.5–6.5% | 2% | 2% |  |
 | 6.5–7.5% | 0% | 0% | Last Result |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -69,9 +70,9 @@ Last result: **25** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–17 | 0–17 | 0–19 | 0–20 |
-| [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT |  |  |  |  |  |
-| [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 16 | 0–21 | 0–21 | 0–21 | 0–21 |
+| [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 16 | 16 | 16–17 | 16–17 | 15–17 |
+| [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 21 | 20–21 | 20–21 | 20–21 | 17–21 |
 | [1–5 June 2018](2018-06-05-Sentio.html) | Sentio <br> Nyheter Idag |  |  |  |  |  |
 | [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 16 | 0–16 | 0–16 | 0–16 | 0–16 |
 | [27 April–29 May 2018](2018-05-29-SCB.html) | SCB | 0 | 0–17 | 0–17 | 0–19 | 0–19 |
@@ -114,30 +115,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 57% | 100% | Median |
-| 1 | 0% | 43% |  |
-| 2 | 0% | 43% |  |
-| 3 | 0% | 43% |  |
-| 4 | 0% | 43% |  |
-| 5 | 0% | 43% |  |
-| 6 | 0% | 43% |  |
-| 7 | 0% | 43% |  |
-| 8 | 0% | 43% |  |
-| 9 | 0% | 43% |  |
-| 10 | 0% | 43% |  |
-| 11 | 0% | 43% |  |
-| 12 | 0% | 43% |  |
-| 13 | 0% | 43% |  |
-| 14 | 0% | 43% |  |
-| 15 | 15% | 43% |  |
-| 16 | 15% | 28% |  |
-| 17 | 9% | 12% |  |
-| 18 | 0.1% | 3% |  |
-| 19 | 1.4% | 3% |  |
-| 20 | 1.5% | 2% |  |
-| 21 | 0% | 0.1% |  |
+| 0 | 38% | 100% |  |
+| 1 | 0% | 62% |  |
+| 2 | 0% | 62% |  |
+| 3 | 0% | 62% |  |
+| 4 | 0% | 62% |  |
+| 5 | 0% | 62% |  |
+| 6 | 0% | 62% |  |
+| 7 | 0% | 62% |  |
+| 8 | 0% | 62% |  |
+| 9 | 0% | 62% |  |
+| 10 | 0% | 62% |  |
+| 11 | 0% | 62% |  |
+| 12 | 0% | 62% |  |
+| 13 | 0% | 62% |  |
+| 14 | 0% | 62% |  |
+| 15 | 10% | 62% |  |
+| 16 | 25% | 52% | Median |
+| 17 | 8% | 26% |  |
+| 18 | 0.1% | 19% |  |
+| 19 | 0.9% | 19% |  |
+| 20 | 6% | 18% |  |
+| 21 | 12% | 12% |  |
 | 22 | 0% | 0.1% |  |
-| 23 | 0.1% | 0.1% |  |
+| 23 | 0% | 0.1% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% | Last Result |
 
