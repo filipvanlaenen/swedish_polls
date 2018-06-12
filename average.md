@@ -9,9 +9,9 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | S | M | SD | MP | C | V | L | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 14 September 2014 | General Election | 31.0% <br> 113 | 23.3% <br> 84 | 12.9% <br> 49 | 6.9% <br> 25 | 6.1% <br> 22 | 5.7% <br> 21 | 5.4% <br> 19 | 4.6% <br> 16 | 3.1% <br> 0 |
-| N/A | Poll Average | 22–29% <br> 79–111 | 17–24% <br> 65–96 | 18–24% <br> 64–107 | 3–5% <br> 0–19 | 8–11% <br> 27–46 | 7–10% <br> 26–43 | 3–5% <br> 0–21 | 2–6% <br> 0–18 | 1–3% <br> 0 |
-| [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 22–29% <br> 81–111 | 17–24% <br> 65–96 | 18–24% <br> 64–96 | 3–6% <br> 0–21 | 8–11% <br> 27–46 | 7–10% <br> 24–40 | 4–6% <br> 0–21 | 2–5% <br> 0–18 | 1–3% <br> 0 |
+| [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 23–25% <br> 85–88 | 20–22% <br> 79 | 21–23% <br> 78–79 | 4–5% <br> 16–17 | 8–10% <br> 33–34 | 8–10% <br> 35–39 | 4–5% <br> 17–19 | 2–3% <br> 0 | N/A <br> N/A |
+| [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 21–25% <br> 81–93 | 18–22% <br> 73–74 | 19–23% <br> 71–77 | 4–6% <br> 20–21 | 8–11% <br> 37–41 | 7–10% <br> 24–30 | 4–6% <br> 18–21 | 3–5% <br> 0–17 | 2–3% <br> 0 |
 | [1–5 June 2018](2018-06-05-Sentio.html) | Sentio <br> Nyheter Idag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 23–26% <br> 93–99 | 20–24% <br> 81–96 | 18–21% <br> 70–71 | 3–5% <br> 0–16 | 8–11% <br> 33–37 | 7–9% <br> 32–34 | N/A <br> N/A | 4–6% <br> 18 | 1–2% <br> 0 |
 | [27 April–29 May 2018](2018-05-29-SCB.html) | SCB | 27–30% <br> 102–114 | 21–24% <br> 81–94 | 17–20% <br> 64–79 | 4–5% <br> 0–19 | 8–10% <br> 30–36 | 7–8% <br> 25–32 | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A |
@@ -46,13 +46,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#sveriges-socialdemokratiska-arbetareparti">Sveriges socialdemokratiska arbetareparti</a> | 31.0% | 24.7% | 22.7–28.3% |22.2–28.8% | 21.7–29.1% | 21.0–29.6% |
-| <a href="#moderata-samlingspartiet">Moderata samlingspartiet</a> | 23.3% | 22.2% | 18.3–23.7% |17.7–23.9% | 17.2–24.2% | 16.5–24.6% |
-| <a href="#sverigedemokraterna">Sverigedemokraterna</a> | 12.9% | 19.3% | 18.2–23.1% |17.9–23.8% | 17.7–24.3% | 17.3–25.2% |
-| <a href="#miljöpartiet-de-gröna">Miljöpartiet de gröna</a> | 6.9% | 4.0% | 3.4–4.5% |3.2–4.7% | 3.1–4.8% | 2.8–5.1% |
-| <a href="#centerpartiet">Centerpartiet</a> | 6.1% | 9.0% | 8.0–10.4% |7.9–10.8% | 7.8–11.1% | 7.5–11.7% |
-| <a href="#vänsterpartiet">Vänsterpartiet</a> | 5.7% | 8.7% | 7.3–9.7% |7.1–9.9% | 7.0–10.1% | 6.7–10.7% |
-| <a href="#liberalerna">Liberalerna</a> | 5.4% | 4.2% | 3.6–4.9% |3.5–5.1% | 3.3–5.3% | 3.0–5.7% |
-| <a href="#kristdemokraterna">Kristdemokraterna</a> | 4.6% | 3.5% | 2.7–5.1% |2.6–5.4% | 2.5–5.6% | 2.2–6.0% |
-| <a href="#feministiskt-initiativ">Feministiskt initiativ</a> | 3.1% | 1.8% | 1.3–2.3% |1.2–2.5% | 1.2–2.6% | 1.0–2.9% |
+| <a href="#sveriges-socialdemokratiska-arbetareparti">Sveriges socialdemokratiska arbetareparti</a> | 31.0% | 24.2% | 22.5–28.0% |22.0–28.6% | 21.6–28.9% | 20.9–29.5% |
+| <a href="#moderata-samlingspartiet">Moderata samlingspartiet</a> | 23.3% | 21.6% | 18.6–23.5% |17.9–23.8% | 17.4–24.1% | 16.6–24.5% |
+| <a href="#sverigedemokraterna">Sverigedemokraterna</a> | 12.9% | 20.1% | 18.3–22.8% |18.0–23.5% | 17.8–24.1% | 17.4–25.1% |
+| <a href="#miljöpartiet-de-gröna">Miljöpartiet de gröna</a> | 6.9% | 4.2% | 3.5–4.9% |3.3–5.2% | 3.1–5.5% | 2.8–6.0% |
+| <a href="#centerpartiet">Centerpartiet</a> | 6.1% | 9.1% | 8.1–10.4% |7.9–10.8% | 7.8–11.1% | 7.5–11.7% |
+| <a href="#vänsterpartiet">Vänsterpartiet</a> | 5.7% | 8.8% | 7.4–9.6% |7.2–9.8% | 7.0–10.1% | 6.7–10.6% |
+| <a href="#liberalerna">Liberalerna</a> | 5.4% | 4.6% | 3.9–5.5% |3.7–5.7% | 3.5–6.0% | 3.2–6.4% |
+| <a href="#kristdemokraterna">Kristdemokraterna</a> | 4.6% | 3.4% | 2.7–4.9% |2.6–5.2% | 2.5–5.4% | 2.3–5.9% |
+| <a href="#feministiskt-initiativ">Feministiskt initiativ</a> | 3.1% | 1.9% | 1.4–2.5% |1.3–2.7% | 1.2–2.9% | 1.0–3.2% |
 
