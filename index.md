@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | S | M | SD | MP | C | V | L | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 14 September 2014 | General Election | 31.0% <br> 113 | 23.3% <br> 84 | 12.9% <br> 49 | 6.9% <br> 25 | 6.1% <br> 22 | 5.7% <br> 21 | 5.4% <br> 19 | 4.6% <br> 16 | 3.1% <br> 0 |
-| N/A | [Poll Average](average.html) | 22–29% <br> 79–111 | 17–24% <br> 65–96 | 18–24% <br> 64–107 | 3–5% <br> 0–19 | 8–11% <br> 27–46 | 7–10% <br> 26–43 | 3–5% <br> 0–21 | 2–6% <br> 0–18 | 1–3% <br> 0 |
-| [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 22–29% <br> 81–111 | 17–24% <br> 65–96 | 18–24% <br> 64–96 | 3–6% <br> 0–21 | 8–11% <br> 27–46 | 7–10% <br> 24–40 | 4–6% <br> 0–21 | 2–5% <br> 0–18 | 1–3% <br> 0 |
+| [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 23–25% <br> 85–88 | 20–22% <br> 79 | 21–23% <br> 78–79 | 4–5% <br> 16–17 | 8–10% <br> 33–34 | 8–10% <br> 35–39 | 4–5% <br> 17–19 | 2–3% <br> 0 | N/A <br> N/A |
+| [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 21–25% <br> 81–93 | 18–22% <br> 73–74 | 19–23% <br> 71–77 | 4–6% <br> 20–21 | 8–11% <br> 37–41 | 7–10% <br> 24–30 | 4–6% <br> 18–21 | 3–5% <br> 0–17 | 2–3% <br> 0 |
 | [1–5 June 2018](2018-06-05-Sentio.html) | Sentio <br> Nyheter Idag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 23–26% <br> 93–99 | 20–24% <br> 81–96 | 18–21% <br> 70–71 | 3–5% <br> 0–16 | 8–11% <br> 33–37 | 7–9% <br> 32–34 | N/A <br> N/A | 4–6% <br> 18 | 1–2% <br> 0 |
 | [27 April–29 May 2018](2018-05-29-SCB.html) | SCB | 27–30% <br> 102–114 | 21–24% <br> 81–94 | 17–20% <br> 64–79 | 4–5% <br> 0–19 | 8–10% <br> 30–36 | 7–8% <br> 25–32 | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A |
