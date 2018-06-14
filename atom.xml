@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Filip van Laenen</name>
+  </author>
+  <id>https://filipvanlaenen.github.io/swedish_polls</id>
+  <title>All Registered Polls for the Riksdagen</title>
+  <updated>2018-06-14T21:02:32.736224+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 22.6–25.1%, 84–94 seats</li><li>Moderata samlingspartiet: 20.0–22.3%, 74–84 seats</li><li>Sverigedemokraterna: 20.7–23.1%, 77–87 seats</li><li>Miljöpartiet de gröna: 3.9–5.1%, 0–19 seats</li><li>Centerpartiet: 8.1–9.8%, 30–36 seats</li><li>Vänsterpartiet: 8.3–10.0%, 31–37 seats</li><li>Liberalerna: 4.0–5.2%, 15–19 seats</li><li>Kristdemokraterna: 2.4–3.4%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_polls/2018-06-06-Novus.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_polls/2018-06-06-Novus.html"/>
+    <title>Opinion Poll by Novus for SVT, 14 May–6 June 2018</title>
+    <updated>2018-06-14T21:02:32.736224+02:00</updated>
+    <dc:date>2018-06-14T21:02:32.736224+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 23.9–28.3%, 90–108 seats</li><li>Moderata samlingspartiet: 19.0–23.1%, 71–89 seats</li><li>Sverigedemokraterna: 15.2–18.9%, 57–72 seats</li><li>Miljöpartiet de gröna: 3.1–5.1%, 0–19 seats</li><li>Centerpartiet: 10.5–13.7%, 39–53 seats</li><li>Vänsterpartiet: 6.7–9.5%, 26–36 seats</li><li>Liberalerna: 4.0–6.2%, 15–24 seats</li><li>Kristdemokraterna: 2.3–4.0%, 0 seats</li><li>Feministiskt initiativ: 1.4–2.9%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_polls/2018-04-23-Ipsos.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_polls/2018-04-23-Ipsos.html"/>
+    <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–23 April 2018</title>
+    <updated>2018-06-14T20:37:29.417094+02:00</updated>
+    <dc:date>2018-06-14T20:37:29.417094+02:00</dc:date>
+  </entry>
+  <dc:date>2018-06-14T21:02:32.736224+02:00</dc:date>
+</feed>
