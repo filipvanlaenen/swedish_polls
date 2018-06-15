@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Thu, 14 Jun 2018 22:28:38 +0200</pubDate>
+    <pubDate>Fri, 15 Jun 2018 19:58:47 +0200</pubDate>
     <item>
       <title>Opinion Poll by Novus for SVT, 14 May–6 June 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-06-Novus.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2018-06-14T21:02:32.736224+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Demoskop for Expressen, 29 May–6 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-06-Demoskop.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 77–95 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 66–82 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 71–87 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 14–22 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 31–43 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 26–36 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 15–23 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0–17 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-06-Demoskop-seats.png"
+        length="207717"
+        type="image/png"/>
+      <pubDate>Fri, 15 Jun 2018 19:01:52 +0200</pubDate>
+      <dc:date>2018-06-15T19:01:52.033525+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Expressen, 29 May–6 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-06-Demoskop.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-06-Demoskop-coalitions-seats.png"
+        length="244949"
+        type="image/png"/>
+      <pubDate>Fri, 15 Jun 2018 19:01:52 +0200</pubDate>
+      <dc:date>2018-06-15T19:01:52.033525+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Demoskop for Expressen, 29 May–6 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-06-Demoskop.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 21.1–25.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 18.0–21.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 19.1–23.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.9–6.1%&lt;/li&gt;&lt;li&gt;Centerpartiet: 8.5–11.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.1–9.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 4.1–6.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 3.0–4.8%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ: 1.7–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-06-Demoskop.png"
         length="233694"
         type="image/png"/>
-      <pubDate>Thu, 14 Jun 2018 22:28:38 +0200</pubDate>
-      <dc:date>2018-06-14T22:28:38.78042+02:00</dc:date>
+      <pubDate>Fri, 15 Jun 2018 19:01:52 +0200</pubDate>
+      <dc:date>2018-06-15T19:01:52.033525+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 1–5 June 2018 – Voting Intentions</title>
@@ -56,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-05-Sentio.png"
         length="246975"
         type="image/png"/>
-      <pubDate>Wed, 13 Jun 2018 15:57:23 +0200</pubDate>
-      <dc:date>2018-06-13T15:57:23.414031+02:00</dc:date>
+      <pubDate>Fri, 15 Jun 2018 19:38:13 +0200</pubDate>
+      <dc:date>2018-06-15T19:38:13.590044+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 21–30 May 2018 – Voting Intentions</title>
@@ -226,8 +246,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-04-10-Sentio.png"
         length="243163"
         type="image/png"/>
-      <pubDate>Wed, 13 Jun 2018 16:11:11 +0200</pubDate>
-      <dc:date>2018-06-13T16:11:11.660283+02:00</dc:date>
+      <pubDate>Fri, 15 Jun 2018 19:58:47 +0200</pubDate>
+      <dc:date>2018-06-15T19:58:47.226384+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 3–9 April 2018 – Voting Intentions</title>
@@ -256,8 +276,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-03-19-YouGov.png"
         length="243161"
         type="image/png"/>
-      <pubDate>Thu, 14 Jun 2018 07:42:04 +0200</pubDate>
-      <dc:date>2018-06-14T07:42:04.658692+02:00</dc:date>
+      <pubDate>Fri, 15 Jun 2018 07:29:32 +0200</pubDate>
+      <dc:date>2018-06-15T07:29:32.606477+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 8–19 March 2018 – Voting Intentions</title>
@@ -290,14 +310,34 @@
       <dc:date>2018-06-14T17:48:15.397396+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 8–14 March 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-03-14-Sentio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 80–108 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 62–85 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 74–101 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–25 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 18–32 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 23–39 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–20 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0–25 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-03-14-Sentio-seats.png"
+        length="275381"
+        type="image/png"/>
+      <pubDate>Fri, 15 Jun 2018 19:35:40 +0200</pubDate>
+      <dc:date>2018-06-15T19:35:40.173566+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 8–14 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-03-14-Sentio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-03-14-Sentio-coalitions-seats.png"
+        length="315605"
+        type="image/png"/>
+      <pubDate>Fri, 15 Jun 2018 19:35:40 +0200</pubDate>
+      <dc:date>2018-06-15T19:35:40.173566+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 8–14 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-03-14-Sentio.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 21.6–27.8%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.8–22.5%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 20.1–26.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.4–6.5%&lt;/li&gt;&lt;li&gt;Centerpartiet: 4.9–8.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 6.3–10.2%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.7–5.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 3.5–6.6%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ: 1.2–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-03-14-Sentio.png"
         length="257414"
         type="image/png"/>
-      <pubDate>Wed, 13 Jun 2018 17:18:02 +0200</pubDate>
-      <dc:date>2018-06-13T17:18:02.992941+02:00</dc:date>
+      <pubDate>Fri, 15 Jun 2018 19:35:40 +0200</pubDate>
+      <dc:date>2018-06-15T19:35:40.173566+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop for Expressen, 27 February–7 March 2018 – Voting Intentions</title>
@@ -399,6 +439,6 @@
       <pubDate>Thu, 14 Jun 2018 07:13:37 +0200</pubDate>
       <dc:date>2018-06-14T07:13:37.012982+02:00</dc:date>
     </item>
-    <dc:date>2018-06-14T22:28:38.78042+02:00</dc:date>
+    <dc:date>2018-06-15T19:58:47.226384+02:00</dc:date>
   </channel>
 </rss>
