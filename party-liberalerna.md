@@ -96,7 +96,7 @@ Last result: **19** seats (General Election of 14 September 2014)
 | [3–9 April 2018](2018-04-09-Inizio.html) | Inizio <br> Aftonbladet | 15 | 0–17 | 0–19 | 0–19 | 0–19 |
 | [27 March–4 April 2018](2018-04-04-Demoskop.html) | Demoskop <br> Expressen | 15 | 0–17 | 0–17 | 0–18 | 0–20 |
 | [16–19 March 2018](2018-03-19-YouGov.html) | YouGov <br> Metro | 18 | 0–23 | 0–24 | 0–24 | 0–26 |
-| [8–19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 19 | 16–22 | 16–23 | 0–23 | 0–24 |
+| [8–19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 20 | 16–23 | 15–23 | 0–24 | 0–24 |
 | [19 February–18 March 2018](2018-03-18-Novus.html) | Novus <br> SVT | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
 | [5–15 March 2018](2018-03-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 17 | 16–18 | 16–19 | 15–19 | 0–19 |
 | [8–14 March 2018](2018-03-14-Sentio.html) | Sentio <br> Nyheter Idag | 15 | 0–18 | 0–19 | 0–20 | 0–23 |
