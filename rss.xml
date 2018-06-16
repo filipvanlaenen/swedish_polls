@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sat, 16 Jun 2018 18:04:14 +0200</pubDate>
+    <pubDate>Sat, 16 Jun 2018 19:43:33 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 4–14 June 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-14-Sifo.html#seats</link>
@@ -376,8 +376,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-03-19-Ipsos.png"
         length="232847"
         type="image/png"/>
-      <pubDate>Wed, 13 Jun 2018 15:24:29 +0200</pubDate>
-      <dc:date>2018-06-13T15:24:29.654861+02:00</dc:date>
+      <pubDate>Sat, 16 Jun 2018 19:43:33 +0200</pubDate>
+      <dc:date>2018-06-16T19:43:33.280008+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 19 February–18 March 2018 – Voting Intentions</title>
@@ -529,6 +529,6 @@
       <pubDate>Thu, 14 Jun 2018 07:13:37 +0200</pubDate>
       <dc:date>2018-06-14T07:13:37.012982+02:00</dc:date>
     </item>
-    <dc:date>2018-06-16T18:04:14.348847+02:00</dc:date>
+    <dc:date>2018-06-16T19:43:33.280008+02:00</dc:date>
   </channel>
 </rss>
