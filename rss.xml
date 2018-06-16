@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Fri, 15 Jun 2018 19:58:47 +0200</pubDate>
+    <pubDate>Sat, 16 Jun 2018 10:20:03 +0200</pubDate>
     <item>
       <title>Opinion Poll by Novus for SVT, 14 May–6 June 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-06-Novus.html#seats</link>
@@ -70,14 +70,34 @@
       <dc:date>2018-06-15T19:01:52.033525+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 1–5 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-05-Sentio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 71–90 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 55–73 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 86–107 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–23 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 21–33 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 29–44 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 20–32 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0–16 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-05-Sentio-seats.png"
+        length="236867"
+        type="image/png"/>
+      <pubDate>Sat, 16 Jun 2018 09:49:40 +0200</pubDate>
+      <dc:date>2018-06-16T09:49:40.802365+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 1–5 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-05-Sentio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-05-Sentio-coalitions-seats.png"
+        length="268332"
+        type="image/png"/>
+      <pubDate>Sat, 16 Jun 2018 09:49:40 +0200</pubDate>
+      <dc:date>2018-06-16T09:49:40.802365+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 1–5 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-05-Sentio.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 19.3–24.4%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 14.9–19.6%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 23.5–28.9%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.6–6.3%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.7–8.9%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.0–11.7%&lt;/li&gt;&lt;li&gt;Liberalerna: 5.5–8.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 2.3–4.6%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ: 0.3–1.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-05-Sentio.png"
         length="246975"
         type="image/png"/>
-      <pubDate>Fri, 15 Jun 2018 19:38:13 +0200</pubDate>
-      <dc:date>2018-06-15T19:38:13.590044+02:00</dc:date>
+      <pubDate>Sat, 16 Jun 2018 09:49:40 +0200</pubDate>
+      <dc:date>2018-06-16T09:49:40.802365+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 21–30 May 2018 – Voting Intentions</title>
@@ -86,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-05-30-Inizio.png"
         length="224608"
         type="image/png"/>
-      <pubDate>Wed, 13 Jun 2018 21:38:10 +0200</pubDate>
-      <dc:date>2018-06-13T21:38:10.501874+02:00</dc:date>
+      <pubDate>Sat, 16 Jun 2018 10:20:03 +0200</pubDate>
+      <dc:date>2018-06-16T10:20:03.96168+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SCB, 27 April–29 May 2018 – Voting Intentions</title>
@@ -246,8 +266,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-04-10-Sentio.png"
         length="243163"
         type="image/png"/>
-      <pubDate>Fri, 15 Jun 2018 19:58:47 +0200</pubDate>
-      <dc:date>2018-06-15T19:58:47.226384+02:00</dc:date>
+      <pubDate>Fri, 15 Jun 2018 20:46:29 +0200</pubDate>
+      <dc:date>2018-06-15T20:46:29.223097+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 3–9 April 2018 – Voting Intentions</title>
@@ -439,6 +459,6 @@
       <pubDate>Thu, 14 Jun 2018 07:13:37 +0200</pubDate>
       <dc:date>2018-06-14T07:13:37.012982+02:00</dc:date>
     </item>
-    <dc:date>2018-06-15T19:58:47.226384+02:00</dc:date>
+    <dc:date>2018-06-16T10:20:03.96168+02:00</dc:date>
   </channel>
 </rss>
