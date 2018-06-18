@@ -81,7 +81,7 @@ Last result: **84** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 78 | 66–90 | 64–95 | 60–100 | 56–102 |
+| N/A | [Poll Average](average.html) | 78 | 66–91 | 64–97 | 60–99 | 56–102 |
 | [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 77 | 73–82 | 72–84 | 71–85 | 69–87 |
 | [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 78 | 76–82 | 75–83 | 74–84 | 73–86 |
 | [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 73 | 69–79 | 67–82 | 66–82 | 64–85 |
@@ -93,12 +93,12 @@ Last result: **84** seats (General Election of 14 September 2014)
 | [11–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> Metro | 72 | 66–78 | 65–80 | 63–81 | 59–82 |
 | [16 April–13 May 2018](2018-05-13-Novus.html) | Novus <br> SVT | 78 | 74–80 | 74–82 | 74–83 | 72–85 |
 | [4–7 May 2018](2018-05-07-Sentio.html) | Sentio <br> Nyheter Idag | 79 | 75–84 | 72–86 | 68–88 | 67–90 |
-| [1–7 May 2018](2018-05-07-Inizio.html) | Inizio <br> Aftonbladet | 85 | 82–89 | 80–93 | 78–93 | 73–95 |
+| [1–7 May 2018](2018-05-07-Inizio.html) | Inizio <br> Aftonbladet | 85 | 80–90 | 80–93 | 77–93 | 73–96 |
 | [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 83 | 80–89 | 77–90 | 75–93 | 72–94 |
 | [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 81 | 75–85 | 73–87 | 71–89 | 69–92 |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 80 | 72–84 | 70–86 | 67–89 | 66–93 |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 84 | 80–89 | 79–89 | 78–89 | 77–91 |
-| [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 94 | 87–100 | 85–102 | 82–107 | 81–110 |
+| [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 96 | 88–99 | 86–102 | 84–104 | 81–107 |
 | [2–12 April 2018](2018-04-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 88 | 84–90 | 84–91 | 84–91 | 83–94 |
 | [5–10 April 2018](2018-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 77 | 71–83 | 68–86 | 67–88 | 65–92 |
 | [3–9 April 2018](2018-04-09-Inizio.html) | Inizio <br> Aftonbladet | 89 | 84–95 | 82–97 | 82–97 | 79–100 |
@@ -111,7 +111,7 @@ Last result: **84** seats (General Election of 14 September 2014)
 | [27 February–7 March 2018](2018-03-07-Demoskop.html) | Demoskop <br> Expressen | 83 | 72–89 | 72–91 | 72–91 | 69–92 |
 | [1–5 March 2018](2018-03-05-Inizio.html) | Inizio <br> Aftonbladet | 96 | 91–101 | 90–101 | 90–101 | 85–104 |
 | [16–19 February 2018](2018-02-19-YouGov.html) | YouGov <br> Metro | 78 | 76–85 | 73–87 | 71–89 | 66–92 |
-| [8–19 February 2018](2018-02-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 81 | 75–86 | 75–87 | 73–89 | 69–91 |
+| [8–19 February 2018](2018-02-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 81 | 75–86 | 74–87 | 73–89 | 69–91 |
 | [22 January–18 February 2018](2018-02-18-Novus.html) | Novus <br> SVT | 88 | 85–90 | 84–92 | 83–93 | 81–95 |
 | [5–15 February 2018](2018-02-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 87 | 86–89 | 86–89 | 86–90 | 85–91 |
 | [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 77 | 73–89 | 72–91 | 71–94 | 66–98 |
@@ -155,36 +155,34 @@ The following table shows the probability mass function per seat for the [poll a
 | 78 | 8% | 55% | Median |
 | 79 | 5% | 47% |  |
 | 80 | 5% | 42% |  |
-| 81 | 5% | 37% |  |
+| 81 | 4% | 37% |  |
 | 82 | 4% | 32% |  |
 | 83 | 2% | 28% |  |
 | 84 | 5% | 26% | Last Result |
 | 85 | 2% | 20% |  |
-| 86 | 3% | 18% |  |
-| 87 | 2% | 15% |  |
-| 88 | 1.0% | 14% |  |
-| 89 | 1.1% | 13% |  |
-| 90 | 3% | 12% |  |
-| 91 | 0.5% | 9% |  |
-| 92 | 1.1% | 9% |  |
-| 93 | 0.4% | 8% |  |
-| 94 | 2% | 7% |  |
-| 95 | 1.1% | 5% |  |
-| 96 | 0.7% | 4% |  |
-| 97 | 0.1% | 4% |  |
-| 98 | 0.2% | 4% |  |
-| 99 | 0.7% | 3% |  |
-| 100 | 2% | 3% |  |
-| 101 | 0.2% | 0.9% |  |
-| 102 | 0.3% | 0.7% |  |
-| 103 | 0% | 0.4% |  |
-| 104 | 0% | 0.4% |  |
-| 105 | 0% | 0.4% |  |
-| 106 | 0% | 0.3% |  |
-| 107 | 0.3% | 0.3% |  |
+| 86 | 3% | 19% |  |
+| 87 | 2% | 16% |  |
+| 88 | 1.1% | 14% |  |
+| 89 | 1.3% | 13% |  |
+| 90 | 1.4% | 12% |  |
+| 91 | 0.7% | 10% |  |
+| 92 | 1.4% | 9% |  |
+| 93 | 0.9% | 8% |  |
+| 94 | 0.6% | 7% |  |
+| 95 | 0.6% | 7% |  |
+| 96 | 0.6% | 6% |  |
+| 97 | 0.9% | 5% |  |
+| 98 | 0.4% | 4% |  |
+| 99 | 3% | 4% |  |
+| 100 | 0.2% | 0.9% |  |
+| 101 | 0.1% | 0.7% |  |
+| 102 | 0.2% | 0.6% |  |
+| 103 | 0.1% | 0.4% |  |
+| 104 | 0.1% | 0.3% |  |
+| 105 | 0.1% | 0.2% |  |
+| 106 | 0% | 0.1% |  |
+| 107 | 0% | 0.1% |  |
 | 108 | 0% | 0.1% |  |
-| 109 | 0% | 0.1% |  |
-| 110 | 0% | 0.1% |  |
-| 111 | 0% | 0% |  |
+| 109 | 0% | 0% |  |
 
 
