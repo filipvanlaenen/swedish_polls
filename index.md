@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | S | M | SD | MP | C | V | L | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 14 September 2014 | General Election | 31.0% <br> 113 | 23.3% <br> 84 | 12.9% <br> 49 | 6.9% <br> 25 | 6.1% <br> 22 | 5.7% <br> 21 | 5.4% <br> 19 | 4.6% <br> 16 | 3.1% <br> 0 |
-| N/A | [Poll Average](average.html) | 21–29% <br> 77–109 | 16–26% <br> 60–100 | 16–27% <br> 59–101 | 3–6% <br> 0–21 | 7–12% <br> 25–45 | 6–11% <br> 23–42 | 4–8% <br> 0–28 | 2–5% <br> 0–20 | 0–3% <br> 0 |
+| N/A | [Poll Average](average.html) | 21–29% <br> 77–108 | 16–26% <br> 60–99 | 16–27% <br> 60–101 | 3–6% <br> 0–21 | 7–12% <br> 25–45 | 6–11% <br> 24–42 | 4–8% <br> 0–28 | 2–5% <br> 0–20 | 0–3% <br> 0 |
 | [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 24–28% <br> 91–107 | 19–22% <br> 71–85 | 17–20% <br> 63–76 | 3–5% <br> 0–18 | 10–12% <br> 36–46 | 9–11% <br> 32–42 | 4–6% <br> 15–22 | 2–3% <br> 0 | 1–2% <br> 0 |
 | [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 23–25% <br> 84–94 | 20–22% <br> 74–84 | 21–23% <br> 77–87 | 4–5% <br> 0–19 | 8–10% <br> 30–36 | 8–10% <br> 31–37 | 4–5% <br> 15–19 | 2–3% <br> 0 | N/A <br> N/A |
 | [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 21–25% <br> 77–95 | 18–22% <br> 66–82 | 19–23% <br> 71–87 | 4–6% <br> 14–22 | 8–11% <br> 31–43 | 7–10% <br> 26–36 | 4–6% <br> 15–23 | 3–5% <br> 0–17 | 2–3% <br> 0 |
@@ -14,7 +14,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | [27 April–29 May 2018](2018-05-29-SCB.html) | SCB | 27–30% <br> 100–113 | 21–24% <br> 80–90 | 17–20% <br> 64–74 | 4–5% <br> 0–18 | 8–10% <br> 29–36 | 7–8% <br> 25–31 | 4–5% <br> 0–19 | 2–3% <br> 0 | N/A <br> N/A |
 | [10–21 May 2018](2018-05-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 22–26% <br> 80–99 | 20–24% <br> 74–92 | 18–22% <br> 67–83 | 3–5% <br> 0–18 | 8–10% <br> 27–36 | 8–10% <br> 31–42 | 4–6% <br> 15–23 | 3–5% <br> 0–18 | 1–3% <br> 0 |
 | [11–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> Metro | 21–25% <br> 80–101 | 16–20% <br> 63–81 | 21–25% <br> 77–102 | 3–5% <br> 0–17 | 9–12% <br> 33–48 | 8–11% <br> 29–43 | 3–5% <br> 0–21 | 2–4% <br> 0–16 | 1–3% <br> 0 |
-| [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 24–29% <br> 88–111 | 23–27% <br> 82–107 | 15–19% <br> 54–74 | 3–5% <br> 0–17 | 8–11% <br> 28–42 | 6–9% <br> 20–32 | 4–6% <br> 0–24 | 3–6% <br> 0–21 | 2–3% <br> 0 |
+| [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 24–29% <br> 90–109 | 23–27% <br> 84–104 | 15–19% <br> 55–70 | 3–5% <br> 0–16 | 8–11% <br> 28–40 | 6–9% <br> 21–32 | 4–6% <br> 15–24 | 3–6% <br> 0–20 | 2–3% <br> 0 |
 | 14 September 2014 | General Election | 31.0% <br> 113 | 23.3% <br> 84 | 12.9% <br> 49 | 6.9% <br> 25 | 6.1% <br> 22 | 5.7% <br> 21 | 5.4% <br> 19 | 4.6% <br> 16 | 3.1% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
