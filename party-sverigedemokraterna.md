@@ -88,7 +88,7 @@ Last result: **49** seats (General Election of 14 September 2014)
 | [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 81 | 79–85 | 78–86 | 77–87 | 76–89 |
 | [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 79 | 72–83 | 71–84 | 71–87 | 68–89 |
 | [1–5 June 2018](2018-06-05-Sentio.html) | Sentio <br> Nyheter Idag | 95 | 90–102 | 88–106 | 86–108 | 83–111 |
-| [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 75 | 69–76 | 69–77 | 67–79 | 64–80 |
+| [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 72 | 68–77 | 67–78 | 65–80 | 63–84 |
 | [27 April–29 May 2018](2018-05-29-SCB.html) | SCB | 68 | 65–72 | 65–73 | 64–74 | 64–77 |
 | [10–21 May 2018](2018-05-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 75 | 69–80 | 68–82 | 67–83 | 64–86 |
 | [7–17 May 2018](2018-05-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 69 | 67–73 | 67–74 | 67–74 | 66–76 |
@@ -96,15 +96,15 @@ Last result: **49** seats (General Election of 14 September 2014)
 | [16 April–13 May 2018](2018-05-13-Novus.html) | Novus <br> SVT | 73 | 71–75 | 70–76 | 69–77 | 67–79 |
 | [4–7 May 2018](2018-05-07-Sentio.html) | Sentio <br> Nyheter Idag | 87 | 84–96 | 81–97 | 80–99 | 76–104 |
 | [1–7 May 2018](2018-05-07-Inizio.html) | Inizio <br> Aftonbladet | 65 | 61–70 | 60–70 | 59–72 | 56–78 |
-| [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 74 | 68–77 | 66–78 | 65–80 | 64–84 |
+| [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 73 | 68–78 | 67–80 | 65–80 | 63–83 |
 | [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 65 | 60–70 | 59–71 | 57–72 | 55–75 |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 85 | 80–93 | 76–96 | 75–99 | 73–101 |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 69 | 66–72 | 65–73 | 64–75 | 62–76 |
 | [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 65 | 57–68 | 57–69 | 55–70 | 52–74 |
 | [2–12 April 2018](2018-04-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 56 | 53–59 | 53–59 | 53–60 | 53–62 |
 | [5–10 April 2018](2018-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 82 | 74–89 | 73–93 | 72–95 | 69–97 |
-| [3–9 April 2018](2018-04-09-Inizio.html) | Inizio <br> Aftonbladet | 62 | 56–67 | 56–67 | 54–67 | 53–70 |
-| [27 March–4 April 2018](2018-04-04-Demoskop.html) | Demoskop <br> Expressen | 71 | 63–75 | 63–77 | 63–79 | 60–82 |
+| [3–9 April 2018](2018-04-09-Inizio.html) | Inizio <br> Aftonbladet | 61 | 56–65 | 56–67 | 55–68 | 52–71 |
+| [27 March–4 April 2018](2018-04-04-Demoskop.html) | Demoskop <br> Expressen | 70 | 66–76 | 64–77 | 62–78 | 61–82 |
 | [16–19 March 2018](2018-03-19-YouGov.html) | YouGov <br> Metro | 84 | 78–93 | 77–96 | 75–97 | 72–101 |
 | [8–19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 64 | 60–69 | 58–70 | 57–72 | 55–75 |
 | [19 February–18 March 2018](2018-03-18-Novus.html) | Novus <br> SVT | 68 | 66–70 | 65–72 | 64–73 | 62–74 |
@@ -147,19 +147,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 64 | 2% | 94% |  |
 | 65 | 5% | 93% |  |
 | 66 | 3% | 88% |  |
-| 67 | 3% | 85% |  |
-| 68 | 5% | 82% |  |
-| 69 | 5% | 77% |  |
-| 70 | 4% | 71% |  |
-| 71 | 3% | 67% |  |
-| 72 | 4% | 64% |  |
-| 73 | 3% | 60% |  |
-| 74 | 2% | 57% |  |
-| 75 | 6% | 55% | Median |
+| 67 | 4% | 85% |  |
+| 68 | 6% | 81% |  |
+| 69 | 3% | 76% |  |
+| 70 | 4% | 72% |  |
+| 71 | 4% | 68% |  |
+| 72 | 5% | 64% |  |
+| 73 | 4% | 59% |  |
+| 74 | 3% | 55% |  |
+| 75 | 3% | 52% | Median |
 | 76 | 3% | 49% |  |
-| 77 | 2% | 45% |  |
+| 77 | 2% | 46% |  |
 | 78 | 2% | 43% |  |
-| 79 | 4% | 40% |  |
+| 79 | 5% | 41% |  |
 | 80 | 4% | 36% |  |
 | 81 | 3% | 32% |  |
 | 82 | 3% | 30% |  |
