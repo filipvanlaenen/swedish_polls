@@ -89,9 +89,9 @@ Last result: **113** seats (General Election of 14 September 2014)
 | [7–17 May 2018](2018-05-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 95 | 93–100 | 92–101 | 90–101 | 89–101 |
 | [11–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> Metro | 89 | 82–95 | 81–100 | 80–101 | 77–102 |
 | [16 April–13 May 2018](2018-05-13-Novus.html) | Novus <br> SVT | 101 | 97–105 | 97–105 | 96–109 | 95–110 |
-| [4–7 May 2018](2018-05-07-Sentio.html) | Sentio <br> Nyheter Idag | 98 | 93–100 | 90–103 | 89–105 | 84–114 |
+| [4–7 May 2018](2018-05-07-Sentio.html) | Sentio <br> Nyheter Idag | 98 | 90–102 | 89–104 | 88–107 | 84–114 |
 | [1–7 May 2018](2018-05-07-Inizio.html) | Inizio <br> Aftonbladet | 102 | 95–108 | 94–109 | 91–110 | 91–114 |
-| [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 96 | 92–104 | 90–105 | 89–106 | 88–109 |
+| [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 100 | 92–104 | 92–104 | 90–106 | 89–111 |
 | [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 101 | 93–106 | 91–106 | 90–108 | 86–112 |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 96 | 84–100 | 82–101 | 81–104 | 80–105 |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 102 | 98–107 | 96–108 | 94–109 | 93–111 |
@@ -113,7 +113,7 @@ Last result: **113** seats (General Election of 14 September 2014)
 | [5–15 February 2018](2018-02-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 101 | 99–102 | 99–102 | 98–103 | 97–105 |
 | [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 99 | 86–102 | 83–102 | 81–103 | 79–109 |
 | [30 January–6 February 2018](2018-02-06-Demoskop.html) | Demoskop <br> Expressen | 101 | 96–108 | 95–109 | 93–111 | 90–114 |
-| [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 110 | 105–117 | 98–117 | 98–119 | 97–122 |
+| [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 110 | 104–116 | 103–120 | 101–120 | 97–125 |
 | [11 January–2 February 2018](2018-02-02-SKOP.html) | SKOP | 103 | 97–112 | 93–112 | 93–112 | 90–115 |
 
 ### Probability Mass Function

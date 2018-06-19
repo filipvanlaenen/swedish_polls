@@ -94,9 +94,9 @@ Last result: **49** seats (General Election of 14 September 2014)
 | [7–17 May 2018](2018-05-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 69 | 67–73 | 67–74 | 67–74 | 66–76 |
 | [11–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> Metro | 88 | 79–99 | 77–100 | 77–102 | 75–104 |
 | [16 April–13 May 2018](2018-05-13-Novus.html) | Novus <br> SVT | 73 | 71–75 | 70–76 | 69–77 | 67–79 |
-| [4–7 May 2018](2018-05-07-Sentio.html) | Sentio <br> Nyheter Idag | 86 | 84–95 | 80–98 | 80–99 | 77–105 |
+| [4–7 May 2018](2018-05-07-Sentio.html) | Sentio <br> Nyheter Idag | 87 | 84–96 | 81–97 | 80–99 | 76–104 |
 | [1–7 May 2018](2018-05-07-Inizio.html) | Inizio <br> Aftonbladet | 65 | 61–70 | 60–70 | 59–72 | 56–78 |
-| [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 72 | 66–78 | 65–78 | 65–80 | 64–84 |
+| [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 74 | 68–77 | 66–78 | 65–80 | 64–84 |
 | [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 65 | 60–70 | 59–71 | 57–72 | 55–75 |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 85 | 80–93 | 76–96 | 75–99 | 73–101 |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 69 | 66–72 | 65–73 | 64–75 | 62–76 |
@@ -118,7 +118,7 @@ Last result: **49** seats (General Election of 14 September 2014)
 | [5–15 February 2018](2018-02-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 61 | 59–61 | 58–62 | 57–62 | 57–63 |
 | [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 83 | 77–88 | 74–90 | 73–92 | 70–97 |
 | [30 January–6 February 2018](2018-02-06-Demoskop.html) | Demoskop <br> Expressen | 58 | 51–62 | 51–63 | 50–64 | 49–66 |
-| [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 61 | 55–66 | 54–70 | 54–70 | 52–72 |
+| [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 61 | 56–65 | 55–65 | 54–67 | 51–70 |
 | [11 January–2 February 2018](2018-02-02-SKOP.html) | SKOP | 57 | 52–61 | 50–63 | 50–65 | 49–67 |
 
 ### Probability Mass Function

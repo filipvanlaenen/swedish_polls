@@ -86,9 +86,9 @@ Last result: **22** seats (General Election of 14 September 2014)
 | [7–17 May 2018](2018-05-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 30 | 29–32 | 28–32 | 28–33 | 27–34 |
 | [11–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> Metro | 40 | 35–46 | 33–48 | 33–48 | 31–49 |
 | [16 April–13 May 2018](2018-05-13-Novus.html) | Novus <br> SVT | 36 | 34–38 | 33–39 | 33–39 | 32–40 |
-| [4–7 May 2018](2018-05-07-Sentio.html) | Sentio <br> Nyheter Idag | 32 | 26–32 | 25–34 | 24–34 | 21–38 |
+| [4–7 May 2018](2018-05-07-Sentio.html) | Sentio <br> Nyheter Idag | 30 | 25–32 | 24–34 | 24–36 | 21–38 |
 | [1–7 May 2018](2018-05-07-Inizio.html) | Inizio <br> Aftonbladet | 34 | 32–38 | 30–38 | 29–40 | 28–41 |
-| [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 36 | 30–37 | 29–38 | 29–40 | 28–41 |
+| [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 35 | 31–36 | 30–38 | 29–39 | 28–41 |
 | [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 46 | 42–50 | 41–52 | 39–53 | 38–55 |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 36 | 31–39 | 31–41 | 30–43 | 27–43 |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 35 | 32–37 | 32–38 | 31–38 | 30–39 |
@@ -110,7 +110,7 @@ Last result: **22** seats (General Election of 14 September 2014)
 | [5–15 February 2018](2018-02-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 38 | 38–40 | 37–40 | 37–41 | 36–41 |
 | [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 41 | 36–45 | 35–47 | 33–49 | 31–54 |
 | [30 January–6 February 2018](2018-02-06-Demoskop.html) | Demoskop <br> Expressen | 35 | 32–39 | 30–40 | 30–41 | 28–42 |
-| [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 35 | 33–40 | 31–42 | 30–43 | 30–44 |
+| [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 37 | 33–40 | 32–41 | 32–42 | 30–44 |
 | [11 January–2 February 2018](2018-02-02-SKOP.html) | SKOP | 41 | 37–44 | 37–45 | 35–48 | 33–50 |
 
 ### Probability Mass Function
