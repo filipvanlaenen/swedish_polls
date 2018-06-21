@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Wed, 20 Jun 2018 22:50:12 +0200</pubDate>
+    <pubDate>Thu, 21 Jun 2018 20:06:24 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by YouGov for Metro, 15–18 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-18-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 76–95 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 59–75 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 99–126 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–19 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 23–33 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 31–43 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–21 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0–15 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-18-YouGov-seats.png"
+        length="220770"
+        type="image/png"/>
+      <pubDate>Thu, 21 Jun 2018 18:37:08 +0200</pubDate>
+      <dc:date>2018-06-21T18:37:08.498475+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for Metro, 15–18 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-18-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-18-YouGov-coalitions-seats.png"
+        length="307516"
+        type="image/png"/>
+      <pubDate>Thu, 21 Jun 2018 18:37:08 +0200</pubDate>
+      <dc:date>2018-06-21T18:37:08.498475+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by YouGov for Metro, 15–18 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-18-YouGov.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-18-YouGov.png"
         length="233083"
         type="image/png"/>
-      <pubDate>Wed, 20 Jun 2018 22:30:18 +0200</pubDate>
-      <dc:date>2018-06-20T22:30:18.267545+02:00</dc:date>
+      <pubDate>Thu, 21 Jun 2018 18:37:08 +0200</pubDate>
+      <dc:date>2018-06-21T18:37:08.498475+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 7–18 June 2018 – Voting Intentions</title>
@@ -26,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-18-Ipsos.png"
         length="212326"
         type="image/png"/>
-      <pubDate>Wed, 20 Jun 2018 22:50:12 +0200</pubDate>
-      <dc:date>2018-06-20T22:50:12.737167+02:00</dc:date>
+      <pubDate>Thu, 21 Jun 2018 19:40:06 +0200</pubDate>
+      <dc:date>2018-06-21T19:40:06.24662+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 4–14 June 2018 – Seat Projections for the Parties</title>
@@ -630,14 +650,34 @@
       <dc:date>2018-06-20T17:17:55.556304+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by YouGov for Metro, 16–19 February 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-02-19-YouGov.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 78–97 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 71–89 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 77–97 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–17 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 30–44 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 33–46 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–23 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-02-19-YouGov-seats.png"
+        length="224560"
+        type="image/png"/>
+      <pubDate>Thu, 21 Jun 2018 20:06:24 +0200</pubDate>
+      <dc:date>2018-06-21T20:06:24.711362+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by YouGov for Metro, 16–19 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-02-19-YouGov.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-02-19-YouGov-coalitions-seats.png"
+        length="303208"
+        type="image/png"/>
+      <pubDate>Thu, 21 Jun 2018 20:06:24 +0200</pubDate>
+      <dc:date>2018-06-21T20:06:24.711362+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by YouGov for Metro, 16–19 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-02-19-YouGov.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 20.1–24.9%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 18.3–22.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 19.8–24.6%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.5–4.6%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.8–11.2%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.4–11.9%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.6–6.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 1.8–3.7%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ: 1.8–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-02-19-YouGov.png"
         length="245016"
         type="image/png"/>
-      <pubDate>Wed, 13 Jun 2018 17:33:18 +0200</pubDate>
-      <dc:date>2018-06-13T17:33:18.607914+02:00</dc:date>
+      <pubDate>Thu, 21 Jun 2018 20:06:24 +0200</pubDate>
+      <dc:date>2018-06-21T20:06:24.711362+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 8–19 February 2018 – Seat Projections for the Parties</title>
@@ -789,6 +829,6 @@
       <pubDate>Wed, 20 Jun 2018 12:25:21 +0200</pubDate>
       <dc:date>2018-06-20T12:25:21.014204+02:00</dc:date>
     </item>
-    <dc:date>2018-06-20T22:50:12.737167+02:00</dc:date>
+    <dc:date>2018-06-21T20:06:24.711362+02:00</dc:date>
   </channel>
 </rss>
