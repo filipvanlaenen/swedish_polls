@@ -74,8 +74,8 @@ Last result: **16** seats (General Election of 14 September 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–18 | 0–19 | 0–20 | 0–22 |
-| [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0–14 | 0–17 |
-| [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0 |
+| [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0–15 | 0–17 |
+| [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0–15 |
 | [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
 | [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 0 | 0–16 | 0–16 | 0–17 | 0–19 |
@@ -104,7 +104,7 @@ Last result: **16** seats (General Election of 14 September 2014)
 | [8–14 March 2018](2018-03-14-Sentio.html) | Sentio <br> Nyheter Idag | 18 | 0–22 | 0–24 | 0–25 | 0–28 |
 | [27 February–7 March 2018](2018-03-07-Demoskop.html) | Demoskop <br> Expressen | 0 | 0 | 0–14 | 0–15 | 0–16 |
 | [1–5 March 2018](2018-03-05-Inizio.html) | Inizio <br> Aftonbladet | 24 | 21–26 | 20–27 | 19–27 | 18–29 |
-| [16–19 February 2018](2018-02-19-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0 | 0 |
+| [16–19 February 2018](2018-02-19-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0 | 0–15 |
 | [8–19 February 2018](2018-02-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0–16 |
 | [22 January–18 February 2018](2018-02-18-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [5–15 February 2018](2018-02-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
@@ -121,30 +121,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 75% | 100% | Median |
-| 1 | 0% | 25% |  |
-| 2 | 0% | 25% |  |
-| 3 | 0% | 25% |  |
-| 4 | 0% | 25% |  |
-| 5 | 0% | 25% |  |
-| 6 | 0% | 25% |  |
-| 7 | 0% | 25% |  |
-| 8 | 0% | 25% |  |
-| 9 | 0% | 25% |  |
-| 10 | 0% | 25% |  |
-| 11 | 0% | 25% |  |
-| 12 | 0% | 25% |  |
-| 13 | 0% | 25% |  |
-| 14 | 0.2% | 25% |  |
-| 15 | 5% | 25% |  |
-| 16 | 4% | 20% | Last Result |
-| 17 | 4% | 15% |  |
-| 18 | 5% | 12% |  |
-| 19 | 2% | 7% |  |
-| 20 | 3% | 5% |  |
-| 21 | 0.7% | 2% |  |
-| 22 | 0.8% | 0.9% |  |
-| 23 | 0.1% | 0.2% |  |
+| 0 | 78% | 100% | Median |
+| 1 | 0% | 22% |  |
+| 2 | 0% | 22% |  |
+| 3 | 0% | 22% |  |
+| 4 | 0% | 22% |  |
+| 5 | 0% | 22% |  |
+| 6 | 0% | 22% |  |
+| 7 | 0% | 22% |  |
+| 8 | 0% | 22% |  |
+| 9 | 0% | 22% |  |
+| 10 | 0% | 22% |  |
+| 11 | 0% | 22% |  |
+| 12 | 0% | 22% |  |
+| 13 | 0% | 22% |  |
+| 14 | 0.2% | 22% |  |
+| 15 | 4% | 22% |  |
+| 16 | 4% | 18% | Last Result |
+| 17 | 3% | 14% |  |
+| 18 | 4% | 10% |  |
+| 19 | 2% | 6% |  |
+| 20 | 3% | 4% |  |
+| 21 | 0.7% | 1.5% |  |
+| 22 | 0.7% | 0.8% |  |
+| 23 | 0.1% | 0.1% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
 
