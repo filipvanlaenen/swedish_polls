@@ -75,7 +75,7 @@ Last result: **16** seats (General Election of 14 September 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–18 | 0–19 | 0–20 | 0–22 |
 | [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0–15 | 0–17 |
-| [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0–15 |
+| [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0–16 |
 | [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
 | [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 0 | 0–16 | 0–16 | 0–17 | 0–19 |
@@ -84,10 +84,10 @@ Last result: **16** seats (General Election of 14 September 2014)
 | [27 April–29 May 2018](2018-05-29-SCB.html) | SCB | 0 | 0 | 0 | 0 | 0 |
 | [10–21 May 2018](2018-05-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0–17 | 0–18 | 0–18 | 0–20 |
 | [7–17 May 2018](2018-05-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0–14 |
-| [11–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0–16 | 0–17 |
+| [11–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0–16 | 0–18 |
 | [16 April–13 May 2018](2018-05-13-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0–15 |
 | [4–7 May 2018](2018-05-07-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0 | 0 | 0 |
-| [1–7 May 2018](2018-05-07-Inizio.html) | Inizio <br> Aftonbladet | 19 | 16–21 | 16–21 | 0–22 | 0–23 |
+| [1–7 May 2018](2018-05-07-Inizio.html) | Inizio <br> Aftonbladet | 18 | 17–21 | 16–21 | 0–22 | 0–23 |
 | [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 0 | 0 | 0 | 0 | 0–15 |
 | [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0–16 |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0–15 | 0–16 | 0–17 |
@@ -135,7 +135,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 22% |  |
 | 12 | 0% | 22% |  |
 | 13 | 0% | 22% |  |
-| 14 | 0.2% | 22% |  |
+| 14 | 0.1% | 22% |  |
 | 15 | 4% | 22% |  |
 | 16 | 4% | 18% | Last Result |
 | 17 | 3% | 14% |  |
