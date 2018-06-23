@@ -92,11 +92,11 @@ Last result: **19** seats (General Election of 14 September 2014)
 | [1–7 May 2018](2018-05-07-Inizio.html) | Inizio <br> Aftonbladet | 16 | 0–18 | 0–19 | 0–19 | 0–20 |
 | [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 18 | 16–21 | 16–22 | 15–22 | 0–24 |
 | [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 19 | 17–22 | 16–23 | 15–24 | 0–25 |
-| [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 15 | 0–19 | 0–19 | 0–20 | 0–22 |
+| [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 16 | 0–18 | 0–19 | 0–20 | 0–22 |
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 19 | 17–21 | 16–21 | 16–21 | 16–22 |
 | [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 19 | 17–22 | 16–23 | 15–24 | 0–25 |
 | [2–12 April 2018](2018-04-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 17 | 16–18 | 15–18 | 0–19 | 0–19 |
-| [5–10 April 2018](2018-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 17 | 0–20 | 0–21 | 0–22 | 0–24 |
+| [5–10 April 2018](2018-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 18 | 0–20 | 0–21 | 0–23 | 0–24 |
 | [3–9 April 2018](2018-04-09-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–17 | 0–17 | 0–18 | 0–19 |
 | [27 March–4 April 2018](2018-04-04-Demoskop.html) | Demoskop <br> Expressen | 15 | 0–17 | 0–18 | 0–18 | 0–20 |
 | [16–19 March 2018](2018-03-19-YouGov.html) | YouGov <br> Metro | 18 | 0–23 | 0–24 | 0–24 | 0–26 |
@@ -108,9 +108,9 @@ Last result: **19** seats (General Election of 14 September 2014)
 | [1–5 March 2018](2018-03-05-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–16 | 0–16 | 0–17 | 0–18 |
 | [16–19 February 2018](2018-02-19-YouGov.html) | YouGov <br> Metro | 18 | 0–21 | 0–22 | 0–23 | 0–25 |
 | [8–19 February 2018](2018-02-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 19 | 16–22 | 16–23 | 0–24 | 0–25 |
-| [22 January–18 February 2018](2018-02-18-Novus.html) | Novus <br> SVT | 17 | 15–18 | 15–19 | 15–19 | 0–20 |
+| [22 January–18 February 2018](2018-02-18-Novus.html) | Novus <br> SVT | 17 | 16–19 | 15–19 | 15–19 | 0–20 |
 | [5–15 February 2018](2018-02-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 19 | 18–20 | 17–20 | 17–20 | 17–20 |
-| [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 19 | 15–19 | 0–19 | 0–20 | 0–22 |
+| [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 16 | 0–21 | 0–22 | 0–23 | 0–25 |
 | [30 January–6 February 2018](2018-02-06-Demoskop.html) | Demoskop <br> Expressen | 19 | 15–21 | 0–22 | 0–23 | 0–24 |
 | [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 16 | 0–18 | 0–18 | 0–19 | 0–20 |
 | [11 January–2 February 2018](2018-02-02-SKOP.html) | SKOP | 20 | 17–22 | 16–24 | 0–25 | 0–26 |
