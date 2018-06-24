@@ -28,7 +28,7 @@ Last result: **4.6%** (General Election of 14 September 2014)
 | [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 2.9% | 2.4–3.5% | 2.3–3.7% | 2.2–3.8% | 2.0–4.1% |
 | [12–23 April 2018](2018-04-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3.0% | 2.5–3.7% | 2.4–3.8% | 2.3–4.0% | 2.0–4.3% |
 | [13–16 April 2018](2018-04-16-YouGov.html) | YouGov <br> Metro | 3.2% | 2.7–3.8% | 2.5–4.0% | 2.4–4.2% | 2.2–4.5% |
-| [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 3.5% | 3.2–3.9% | 3.1–4.0% | 3.0–4.1% | 2.9–4.2% |
+| [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 3.5% | 3.2–3.9% | 3.1–4.0% | 3.0–4.1% | 2.8–4.3% |
 | [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 4.3% | 3.7–5.1% | 3.5–5.3% | 3.3–5.5% | 3.0–5.9% |
 | [2–12 April 2018](2018-04-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 3.4% | 3.2–3.7% | 3.1–3.7% | 3.0–3.8% | 2.9–3.9% |
 | [5–10 April 2018](2018-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.7–3.5% | 1.5–3.9% |
@@ -36,7 +36,7 @@ Last result: **4.6%** (General Election of 14 September 2014)
 | [27 March–4 April 2018](2018-04-04-Demoskop.html) | Demoskop <br> Expressen | 3.3% | 2.8–4.0% | 2.7–4.1% | 2.5–4.3% | 2.3–4.6% |
 | [16–19 March 2018](2018-03-19-YouGov.html) | YouGov <br> Metro | 3.6% | 3.0–4.4% | 2.8–4.6% | 2.7–4.8% | 2.4–5.3% |
 | [8–19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–4.0% | 2.0–4.3% |
-| [19 February–18 March 2018](2018-03-18-Novus.html) | Novus <br> SVT | 3.2% | 2.9–3.6% | 2.8–3.7% | 2.7–3.7% | 2.6–3.9% |
+| [19 February–18 March 2018](2018-03-18-Novus.html) | Novus <br> SVT | 3.2% | 2.9–3.5% | 2.8–3.6% | 2.8–3.7% | 2.6–3.9% |
 | [5–15 March 2018](2018-03-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 3.0% | 2.8–3.2% | 2.7–3.3% | 2.7–3.4% | 2.6–3.5% |
 | [8–14 March 2018](2018-03-14-Sentio.html) | Sentio <br> Nyheter Idag | 4.8% | 4.0–6.0% | 3.7–6.3% | 3.5–6.6% | 3.1–7.2% |
 | [27 February–7 March 2018](2018-03-07-Demoskop.html) | Demoskop <br> Expressen | 3.3% | 2.8–3.9% | 2.6–4.1% | 2.5–4.3% | 2.3–4.6% |
@@ -44,7 +44,7 @@ Last result: **4.6%** (General Election of 14 September 2014)
 | [16–19 February 2018](2018-02-19-YouGov.html) | YouGov <br> Metro | 2.6% | 2.1–3.3% | 1.9–3.5% | 1.8–3.7% | 1.6–4.1% |
 | [8–19 February 2018](2018-02-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3.0% | 2.5–3.7% | 2.3–3.8% | 2.2–4.0% | 2.0–4.4% |
 | [22 January–18 February 2018](2018-02-18-Novus.html) | Novus <br> SVT | 2.7% | 2.4–3.0% | 2.3–3.1% | 2.3–3.2% | 2.1–3.4% |
-| [5–15 February 2018](2018-02-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 2.8% | 2.5–3.7% | 2.5–3.7% | 2.5–3.7% | 2.5–3.7% |
+| [5–15 February 2018](2018-02-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 2.8% | 2.6–3.0% | 2.5–3.1% | 2.5–3.1% | 2.4–3.3% |
 | [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 2.2% | 1.6–3.1% | 1.4–3.3% | 1.3–3.6% | 1.1–4.0% |
 | [30 January–6 February 2018](2018-02-06-Demoskop.html) | Demoskop <br> Expressen | 3.5% | 3.0–4.2% | 2.9–4.4% | 2.7–4.5% | 2.5–4.9% |
 | [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 4.1% | 3.6–4.7% | 3.4–4.9% | 3.3–5.0% | 3.1–5.3% |
@@ -85,7 +85,7 @@ Last result: **16** seats (General Election of 14 September 2014)
 | [10–21 May 2018](2018-05-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0–17 | 0–18 | 0–18 | 0–20 |
 | [7–17 May 2018](2018-05-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0–14 |
 | [11–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0 | 0–17 |
-| [16 April–13 May 2018](2018-05-13-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0–15 |
+| [16 April–13 May 2018](2018-05-13-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0–14 | 0–15 |
 | [4–7 May 2018](2018-05-07-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0 | 0 | 0 |
 | [1–7 May 2018](2018-05-07-Inizio.html) | Inizio <br> Aftonbladet | 18 | 16–21 | 16–22 | 15–22 | 0–23 |
 | [24 April–2 May 2018](2018-05-02-Demoskop.html) | Demoskop <br> Expressen | 0 | 0 | 0 | 0 | 0–15 |
