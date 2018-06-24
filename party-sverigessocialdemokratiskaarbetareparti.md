@@ -44,7 +44,7 @@ Last result: **31.0%** (General Election of 14 September 2014)
 | [16–19 February 2018](2018-02-19-YouGov.html) | YouGov <br> Metro | 22.4% | 20.9–24.0% | 20.4–24.5% | 20.1–24.9% | 19.4–25.7% |
 | [8–19 February 2018](2018-02-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 29.0% | 27.5–30.6% | 27.1–31.1% | 26.7–31.5% | 26.0–32.2% |
 | [22 January–18 February 2018](2018-02-18-Novus.html) | Novus <br> SVT | 28.4% | 27.6–29.2% | 27.4–29.5% | 27.2–29.7% | 26.8–30.1% |
-| [5–15 February 2018](2018-02-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 27.2% | 26.7–27.8% | 26.5–28.0% | 26.4–28.1% | 26.1–28.4% |
+| [5–15 February 2018](2018-02-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 27.2% | 25.9–28.4% | 25.9–28.4% | 25.9–28.4% | 25.9–28.4% |
 | [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 24.6% | 22.6–26.8% | 22.0–27.4% | 21.5–28.0% | 20.6–29.0% |
 | [30 January–6 February 2018](2018-02-06-Demoskop.html) | Demoskop <br> Expressen | 27.3% | 25.9–28.8% | 25.5–29.2% | 25.2–29.5% | 24.5–30.2% |
 | [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 28.5% | 27.2–29.7% | 26.9–30.1% | 26.6–30.4% | 26.0–31.0% |
@@ -101,13 +101,13 @@ Last result: **113** seats (General Election of 14 September 2014)
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 102 | 98–107 | 96–108 | 94–109 | 93–111 |
 | [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 101 | 93–105 | 91–107 | 90–109 | 87–117 |
 | [2–12 April 2018](2018-04-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 108 | 105–114 | 104–114 | 104–114 | 103–117 |
-| [5–10 April 2018](2018-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 95 | 93–106 | 88–108 | 87–108 | 84–114 |
+| [5–10 April 2018](2018-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 100 | 92–109 | 90–109 | 87–111 | 84–116 |
 | [3–9 April 2018](2018-04-09-Inizio.html) | Inizio <br> Aftonbladet | 104 | 99–110 | 97–112 | 95–114 | 93–117 |
 | [27 March–4 April 2018](2018-04-04-Demoskop.html) | Demoskop <br> Expressen | 97 | 92–103 | 89–105 | 88–106 | 85–109 |
 | [16–19 March 2018](2018-03-19-YouGov.html) | YouGov <br> Metro | 91 | 83–103 | 80–106 | 78–106 | 75–111 |
 | [8–19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 105 | 99–113 | 98–114 | 97–117 | 93–120 |
 | [19 February–18 March 2018](2018-03-18-Novus.html) | Novus <br> SVT | 107 | 102–110 | 100–111 | 99–111 | 99–113 |
-| [5–15 March 2018](2018-03-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 114 | 110–115 | 108–116 | 106–116 | 105–117 |
+| [5–15 March 2018](2018-03-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 112 | 108–114 | 107–115 | 106–116 | 105–119 |
 | [8–14 March 2018](2018-03-14-Sentio.html) | Sentio <br> Nyheter Idag | 91 | 84–102 | 81–105 | 80–108 | 76–112 |
 | [27 February–7 March 2018](2018-03-07-Demoskop.html) | Demoskop <br> Expressen | 102 | 96–106 | 94–107 | 92–109 | 90–113 |
 | [1–5 March 2018](2018-03-05-Inizio.html) | Inizio <br> Aftonbladet | 104 | 98–108 | 97–110 | 95–111 | 93–113 |

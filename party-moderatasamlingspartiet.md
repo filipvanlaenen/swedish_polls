@@ -36,7 +36,7 @@ Last result: **23.3%** (General Election of 14 September 2014)
 | [27 March–4 April 2018](2018-04-04-Demoskop.html) | Demoskop <br> Expressen | 22.2% | 20.9–23.6% | 20.5–24.0% | 20.2–24.3% | 19.6–25.0% |
 | [16–19 March 2018](2018-03-19-YouGov.html) | YouGov <br> Metro | 18.8% | 17.3–20.3% | 16.9–20.8% | 16.6–21.2% | 15.9–21.9% |
 | [8–19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 20.8% | 19.5–22.2% | 19.2–22.6% | 18.9–22.9% | 18.3–23.6% |
-| [19 February–18 March 2018](2018-03-18-Novus.html) | Novus <br> SVT | 22.6% | 21.9–23.3% | 21.7–23.5% | 21.5–23.7% | 21.2–24.1% |
+| [19 February–18 March 2018](2018-03-18-Novus.html) | Novus <br> SVT | 22.6% | 21.9–23.4% | 21.7–23.5% | 21.5–23.7% | 21.1–24.1% |
 | [5–15 March 2018](2018-03-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 23.1% | 22.5–23.7% | 22.4–23.8% | 22.3–24.0% | 22.0–24.2% |
 | [8–14 March 2018](2018-03-14-Sentio.html) | Sentio <br> Nyheter Idag | 19.5% | 17.7–21.4% | 17.2–22.0% | 16.8–22.5% | 16.0–23.4% |
 | [27 February–7 March 2018](2018-03-07-Demoskop.html) | Demoskop <br> Expressen | 21.8% | 20.5–23.2% | 20.1–23.5% | 19.8–23.9% | 19.3–24.5% |
@@ -44,7 +44,7 @@ Last result: **23.3%** (General Election of 14 September 2014)
 | [16–19 February 2018](2018-02-19-YouGov.html) | YouGov <br> Metro | 20.5% | 19.0–22.1% | 18.6–22.5% | 18.3–22.9% | 17.6–23.7% |
 | [8–19 February 2018](2018-02-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 21.0% | 19.7–22.5% | 19.3–22.9% | 19.0–23.2% | 18.3–23.9% |
 | [22 January–18 February 2018](2018-02-18-Novus.html) | Novus <br> SVT | 23.7% | 22.9–24.5% | 22.7–24.7% | 22.5–24.9% | 22.2–25.3% |
-| [5–15 February 2018](2018-02-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 23.7% | 23.2–24.3% | 23.0–24.5% | 22.9–24.6% | 22.6–24.9% |
+| [5–15 February 2018](2018-02-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 23.7% | 22.2–24.7% | 22.2–24.7% | 22.2–24.7% | 22.2–24.7% |
 | [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 21.0% | 19.1–23.1% | 18.6–23.7% | 18.1–24.2% | 17.2–25.2% |
 | [30 January–6 February 2018](2018-02-06-Demoskop.html) | Demoskop <br> Expressen | 23.9% | 22.6–25.3% | 22.2–25.7% | 21.9–26.0% | 21.3–26.7% |
 | [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 24.6% | 23.4–25.8% | 23.1–26.1% | 22.8–26.4% | 22.2–27.0% |
@@ -104,13 +104,13 @@ Last result: **84** seats (General Election of 14 September 2014)
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT | 84 | 80–89 | 79–89 | 78–89 | 77–91 |
 | [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 96 | 88–99 | 86–102 | 84–104 | 81–107 |
 | [2–12 April 2018](2018-04-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 88 | 84–92 | 84–93 | 84–94 | 82–96 |
-| [5–10 April 2018](2018-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 74 | 72–81 | 72–84 | 69–85 | 64–92 |
+| [5–10 April 2018](2018-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 78 | 71–84 | 68–86 | 66–89 | 64–92 |
 | [3–9 April 2018](2018-04-09-Inizio.html) | Inizio <br> Aftonbladet | 90 | 84–96 | 82–96 | 81–98 | 78–101 |
 | [27 March–4 April 2018](2018-04-04-Demoskop.html) | Demoskop <br> Expressen | 84 | 78–89 | 77–90 | 75–92 | 73–94 |
 | [16–19 March 2018](2018-03-19-YouGov.html) | YouGov <br> Metro | 70 | 62–79 | 61–81 | 61–85 | 58–89 |
 | [8–19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 80 | 73–86 | 72–87 | 72–89 | 68–91 |
 | [19 February–18 March 2018](2018-03-18-Novus.html) | Novus <br> SVT | 87 | 83–90 | 82–91 | 81–91 | 79–93 |
-| [5–15 March 2018](2018-03-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 89 | 88–91 | 86–92 | 85–93 | 84–94 |
+| [5–15 March 2018](2018-03-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 89 | 85–92 | 84–92 | 84–93 | 82–95 |
 | [8–14 March 2018](2018-03-14-Sentio.html) | Sentio <br> Nyheter Idag | 72 | 66–81 | 64–84 | 62–85 | 59–91 |
 | [27 February–7 March 2018](2018-03-07-Demoskop.html) | Demoskop <br> Expressen | 81 | 75–86 | 74–89 | 73–90 | 70–92 |
 | [1–5 March 2018](2018-03-05-Inizio.html) | Inizio <br> Aftonbladet | 96 | 91–101 | 89–101 | 89–102 | 86–105 |
