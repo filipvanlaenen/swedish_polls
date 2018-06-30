@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Mon, 25 Jun 2018 17:19:57 +0200</pubDate>
+    <pubDate>Sat, 30 Jun 2018 09:13:13 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 7–24 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-24-Novus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 84–98 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 68–79 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 77–89 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 15–20 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 29–38 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 30–38 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 15–21 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-24-Novus-seats.png"
+        length="185156"
+        type="image/png"/>
+      <pubDate>Sat, 30 Jun 2018 09:13:13 +0200</pubDate>
+      <dc:date>2018-06-30T09:13:13.351454+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 7–24 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-24-Novus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-24-Novus-coalitions-seats.png"
+        length="239071"
+        type="image/png"/>
+      <pubDate>Sat, 30 Jun 2018 09:13:13 +0200</pubDate>
+      <dc:date>2018-06-30T09:13:13.351454+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 7–24 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-24-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.9–26.2%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 18.3–21.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 20.8–24.0%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.9–5.6%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.8–10.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.0–10.2%&lt;/li&gt;&lt;li&gt;Liberalerna: 4.0–5.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 2.8–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-24-Novus.png"
+        length="207301"
+        type="image/png"/>
+      <pubDate>Sat, 30 Jun 2018 09:13:13 +0200</pubDate>
+      <dc:date>2018-06-30T09:13:13.351454+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by YouGov for Metro, 15–18 June 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-18-YouGov.html#seats</link>
@@ -38,6 +68,36 @@
         type="image/png"/>
       <pubDate>Thu, 21 Jun 2018 18:37:08 +0200</pubDate>
       <dc:date>2018-06-21T18:37:08.498475+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 8 May–18 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-18-SKOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 89–110 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 77–97 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 63–82 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–22 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 28–41 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 23–36 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–22 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-18-SKOP-seats.png"
+        length="236999"
+        type="image/png"/>
+      <pubDate>Fri, 29 Jun 2018 23:28:44 +0200</pubDate>
+      <dc:date>2018-06-29T23:28:44.511563+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 8 May–18 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-18-SKOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-18-SKOP-coalitions-seats.png"
+        length="304158"
+        type="image/png"/>
+      <pubDate>Fri, 29 Jun 2018 23:28:44 +0200</pubDate>
+      <dc:date>2018-06-29T23:28:44.511563+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 8 May–18 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-18-SKOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 23.9–28.8%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 20.6–25.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 16.9–21.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.4–5.8%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.5–10.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 6.3–9.3%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.4–5.8%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 1.8–3.6%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ: 1.1–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-18-SKOP.png"
+        length="236964"
+        type="image/png"/>
+      <pubDate>Fri, 29 Jun 2018 23:28:44 +0200</pubDate>
+      <dc:date>2018-06-29T23:28:44.511563+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 7–18 June 2018 – Seat Projections for the Parties</title>
@@ -1149,6 +1209,6 @@
       <pubDate>Wed, 20 Jun 2018 12:25:21 +0200</pubDate>
       <dc:date>2018-06-20T12:25:21.014204+02:00</dc:date>
     </item>
-    <dc:date>2018-06-25T17:19:57.819505+02:00</dc:date>
+    <dc:date>2018-06-30T09:13:13.351454+02:00</dc:date>
   </channel>
 </rss>
