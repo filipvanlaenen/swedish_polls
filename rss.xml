@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sat, 30 Jun 2018 09:13:13 +0200</pubDate>
+    <pubDate>Sat, 30 Jun 2018 17:48:14 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 20–26 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-26-Inizio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 80–98 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 69–84 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 68–84 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–17 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 30–41 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 28–38 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 16–23 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-26-Inizio-seats.png"
+        length="209750"
+        type="image/png"/>
+      <pubDate>Sat, 30 Jun 2018 17:48:14 +0200</pubDate>
+      <dc:date>2018-06-30T17:48:14.790396+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 20–26 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-26-Inizio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-26-Inizio-coalitions-seats.png"
+        length="279266"
+        type="image/png"/>
+      <pubDate>Sat, 30 Jun 2018 17:48:14 +0200</pubDate>
+      <dc:date>2018-06-30T17:48:14.790396+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 20–26 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-26-Inizio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.1–25.8%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 18.9–22.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.8–22.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.1–4.8%&lt;/li&gt;&lt;li&gt;Centerpartiet: 8.3–10.8%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.8–10.2%&lt;/li&gt;&lt;li&gt;Liberalerna: 4.2–6.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 3.7–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-26-Inizio.png"
+        length="211654"
+        type="image/png"/>
+      <pubDate>Sat, 30 Jun 2018 17:48:14 +0200</pubDate>
+      <dc:date>2018-06-30T17:48:14.790396+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 7–24 June 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-24-Novus.html#seats</link>
@@ -1209,6 +1239,6 @@
       <pubDate>Wed, 20 Jun 2018 12:25:21 +0200</pubDate>
       <dc:date>2018-06-20T12:25:21.014204+02:00</dc:date>
     </item>
-    <dc:date>2018-06-30T09:13:13.351454+02:00</dc:date>
+    <dc:date>2018-06-30T17:48:14.790396+02:00</dc:date>
   </channel>
 </rss>
