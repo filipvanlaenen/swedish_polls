@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_polls</id>
   <title>All Registered Polls for the Riksdagen</title>
-  <updated>2018-06-25T17:19:57.819505+02:00</updated>
+  <updated>2018-06-30T09:13:13.351454+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 22.9–26.2%, 84–98 seats</li><li>Moderata samlingspartiet: 18.3–21.4%, 68–79 seats</li><li>Sverigedemokraterna: 20.8–24.0%, 77–89 seats</li><li>Miljöpartiet de gröna: 3.9–5.6%, 15–20 seats</li><li>Centerpartiet: 7.8–10.0%, 29–38 seats</li><li>Vänsterpartiet: 8.0–10.2%, 30–38 seats</li><li>Liberalerna: 4.0–5.7%, 15–21 seats</li><li>Kristdemokraterna: 2.8–4.2%, 0–15 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_polls/2018-06-24-Novus.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_polls/2018-06-24-Novus.html"/>
+    <title>Opinion Poll by Novus for SVT, 7–24 June 2018</title>
+    <updated>2018-06-30T09:13:13.351454+02:00</updated>
+    <dc:date>2018-06-30T09:13:13.351454+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 20.0–24.1%, 76–95 seats</li><li>Moderata samlingspartiet: 15.4–19.2%, 59–75 seats</li><li>Sverigedemokraterna: 26.2–30.7%, 99–126 seats</li><li>Miljöpartiet de gröna: 3.0–4.9%, 0–19 seats</li><li>Centerpartiet: 5.9–8.5%, 23–33 seats</li><li>Vänsterpartiet: 7.9–10.9%, 31–43 seats</li><li>Liberalerna: 3.4–5.4%, 0–21 seats</li><li>Kristdemokraterna: 2.3–4.1%, 0–15 seats</li><li>Feministiskt initiativ: 0.9–2.1%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_polls/2018-06-18-YouGov.html</id>
@@ -14,6 +22,14 @@
     <title>Opinion Poll by YouGov for Metro, 15–18 June 2018</title>
     <updated>2018-06-21T18:37:08.498475+02:00</updated>
     <dc:date>2018-06-21T18:37:08.498475+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 23.9–28.8%, 89–110 seats</li><li>Moderata samlingspartiet: 20.6–25.3%, 77–97 seats</li><li>Sverigedemokraterna: 16.9–21.3%, 63–82 seats</li><li>Miljöpartiet de gröna: 3.4–5.8%, 0–22 seats</li><li>Centerpartiet: 7.5–10.7%, 28–41 seats</li><li>Vänsterpartiet: 6.3–9.3%, 23–36 seats</li><li>Liberalerna: 3.4–5.8%, 0–22 seats</li><li>Kristdemokraterna: 1.8–3.6%, 0 seats</li><li>Feministiskt initiativ: 1.1–2.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_polls/2018-06-18-SKOP.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_polls/2018-06-18-SKOP.html"/>
+    <title>Opinion Poll by SKOP, 8 May–18 June 2018</title>
+    <updated>2018-06-29T23:28:44.511563+02:00</updated>
+    <dc:date>2018-06-29T23:28:44.511563+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 22.1–26.0%, 83–103 seats</li><li>Moderata samlingspartiet: 17.3–20.9%, 66–82 seats</li><li>Sverigedemokraterna: 18.2–21.9%, 69–86 seats</li><li>Miljöpartiet de gröna: 3.2–5.0%, 0–19 seats</li><li>Centerpartiet: 8.7–11.5%, 33–45 seats</li><li>Vänsterpartiet: 7.7–10.4%, 29–41 seats</li><li>Liberalerna: 5.0–7.2%, 18–29 seats</li><li>Kristdemokraterna: 2.3–3.9%, 0 seats</li><li>Feministiskt initiativ: 1.4–2.8%, 0 seats</li></ul></div></content>
@@ -311,5 +327,5 @@
     <updated>2018-06-20T12:25:21.014204+02:00</updated>
     <dc:date>2018-06-20T12:25:21.014204+02:00</dc:date>
   </entry>
-  <dc:date>2018-06-25T17:19:57.819505+02:00</dc:date>
+  <dc:date>2018-06-30T09:13:13.351454+02:00</dc:date>
 </feed>
