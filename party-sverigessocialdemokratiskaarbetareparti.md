@@ -41,7 +41,7 @@ Last result: **31.0%** (General Election of 14 September 2014)
 | [8–19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 27.7% | 26.3–29.2% | 25.9–29.7% | 25.5–30.0% | 24.9–30.8% |
 | [19 February–18 March 2018](2018-03-18-Novus.html) | Novus <br> SVT | 27.8% | 27.0–28.6% | 26.8–28.8% | 26.6–29.0% | 26.2–29.4% |
 | [5–15 March 2018](2018-03-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 29.0% | 28.4–29.6% | 28.2–29.8% | 28.1–29.9% | 27.8–30.2% |
-| [8–14 March 2018](2018-03-14-Sentio.html) | Sentio <br> Nyheter Idag | 24.6% | 22.6–26.7% | 22.1–27.3% | 21.6–27.8% | 20.7–28.8% |
+| [8–14 March 2018](2018-03-14-Sentio.html) | Sentio <br> Nyheter Idag | 24.6% | 22.6–26.7% | 22.0–27.3% | 21.6–27.8% | 20.7–28.9% |
 | [27 February–7 March 2018](2018-03-07-Demoskop.html) | Demoskop <br> Expressen | 27.2% | 25.8–28.7% | 25.4–29.1% | 25.1–29.4% | 24.4–30.1% |
 | [1–5 March 2018](2018-03-05-Inizio.html) | Inizio <br> Aftonbladet | 26.4% | 25.3–27.6% | 24.9–28.0% | 24.7–28.3% | 24.1–28.8% |
 | [16–19 February 2018](2018-02-19-YouGov.html) | YouGov <br> Metro | 22.4% | 20.9–24.0% | 20.4–24.5% | 20.1–24.9% | 19.4–25.7% |
@@ -121,7 +121,7 @@ Last result: **113** seats (General Election of 14 September 2014)
 | [8–19 February 2018](2018-02-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 112 | 105–116 | 103–119 | 101–120 | 99–124 |
 | [22 January–18 February 2018](2018-02-18-Novus.html) | Novus <br> SVT | 105 | 102–109 | 101–110 | 100–111 | 99–114 |
 | [5–15 February 2018](2018-02-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 101 | 99–102 | 98–104 | 98–104 | 97–105 |
-| [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 94 | 85–102 | 83–107 | 81–108 | 77–111 |
+| [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 94 | 86–102 | 83–104 | 81–107 | 78–111 |
 | [30 January–6 February 2018](2018-02-06-Demoskop.html) | Demoskop <br> Expressen | 101 | 96–108 | 95–109 | 93–111 | 90–114 |
 | [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 110 | 104–116 | 103–120 | 101–120 | 97–125 |
 | [11 January–2 February 2018](2018-02-02-SKOP.html) | SKOP | 102 | 97–110 | 94–112 | 92–112 | 89–115 |
