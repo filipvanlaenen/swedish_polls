@@ -41,7 +41,7 @@ Last result: **12.9%** (General Election of 14 September 2014)
 | [8–19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 16.8% | 15.7–18.1% | 15.3–18.5% | 15.0–18.8% | 14.5–19.4% |
 | [19 February–18 March 2018](2018-03-18-Novus.html) | Novus <br> SVT | 17.8% | 17.1–18.5% | 17.0–18.7% | 16.8–18.9% | 16.5–19.2% |
 | [5–15 March 2018](2018-03-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 15.9% | 15.4–16.4% | 15.3–16.5% | 15.2–16.6% | 15.0–16.9% |
-| [8–14 March 2018](2018-03-14-Sentio.html) | Sentio <br> Nyheter Idag | 23.0% | 21.0–25.1% | 20.5–25.6% | 20.1–26.2% | 19.2–27.2% |
+| [8–14 March 2018](2018-03-14-Sentio.html) | Sentio <br> Nyheter Idag | 23.0% | 21.1–25.0% | 20.5–25.6% | 20.1–26.1% | 19.2–27.1% |
 | [27 February–7 March 2018](2018-03-07-Demoskop.html) | Demoskop <br> Expressen | 18.6% | 17.4–19.9% | 17.0–20.2% | 16.8–20.6% | 16.2–21.2% |
 | [1–5 March 2018](2018-03-05-Inizio.html) | Inizio <br> Aftonbladet | 15.7% | 14.8–16.7% | 14.5–17.0% | 14.3–17.3% | 13.8–17.7% |
 | [16–19 February 2018](2018-02-19-YouGov.html) | YouGov <br> Metro | 22.1% | 20.6–23.8% | 20.2–24.2% | 19.8–24.6% | 19.1–25.4% |
@@ -128,7 +128,7 @@ Last result: **49** seats (General Election of 14 September 2014)
 | [8–19 February 2018](2018-02-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 60 | 57–66 | 55–67 | 54–68 | 52–72 |
 | [22 January–18 February 2018](2018-02-18-Novus.html) | Novus <br> SVT | 63 | 61–66 | 60–67 | 59–68 | 58–70 |
 | [5–15 February 2018](2018-02-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 60 | 58–61 | 58–62 | 57–63 | 57–63 |
-| [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 84 | 75–91 | 74–95 | 72–97 | 68–100 |
+| [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 84 | 75–92 | 74–94 | 71–97 | 68–100 |
 | [30 January–6 February 2018](2018-02-06-Demoskop.html) | Demoskop <br> Expressen | 58 | 51–62 | 51–63 | 50–64 | 49–66 |
 | [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 61 | 56–65 | 55–65 | 54–67 | 51–70 |
 | [11 January–2 February 2018](2018-02-02-SKOP.html) | SKOP | 58 | 54–65 | 53–66 | 51–67 | 49–69 |

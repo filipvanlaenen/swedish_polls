@@ -41,7 +41,7 @@ Last result: **6.1%** (General Election of 14 September 2014)
 | [8–19 March 2018](2018-03-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 9.9% | 9.0–11.0% | 8.7–11.3% | 8.5–11.5% | 8.1–12.0% |
 | [19 February–18 March 2018](2018-03-18-Novus.html) | Novus <br> SVT | 9.3% | 8.8–9.8% | 8.7–10.0% | 8.6–10.1% | 8.3–10.4% |
 | [5–15 March 2018](2018-03-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 10.0% | 9.6–10.4% | 9.5–10.5% | 9.4–10.6% | 9.2–10.8% |
-| [8–14 March 2018](2018-03-14-Sentio.html) | Sentio <br> Nyheter Idag | 6.4% | 5.4–7.8% | 5.1–8.1% | 4.9–8.5% | 4.4–9.1% |
+| [8–14 March 2018](2018-03-14-Sentio.html) | Sentio <br> Nyheter Idag | 6.4% | 5.4–7.7% | 5.1–8.1% | 4.9–8.4% | 4.4–9.1% |
 | [27 February–7 March 2018](2018-03-07-Demoskop.html) | Demoskop <br> Expressen | 7.9% | 7.1–8.8% | 6.9–9.1% | 6.7–9.3% | 6.3–9.8% |
 | [1–5 March 2018](2018-03-05-Inizio.html) | Inizio <br> Aftonbladet | 8.8% | 8.1–9.6% | 7.9–9.8% | 7.7–10.0% | 7.4–10.4% |
 | [16–19 February 2018](2018-02-19-YouGov.html) | YouGov <br> Metro | 9.3% | 8.3–10.5% | 8.0–10.9% | 7.8–11.2% | 7.3–11.8% |
@@ -118,7 +118,7 @@ Last result: **22** seats (General Election of 14 September 2014)
 | [8–19 February 2018](2018-02-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 43 | 38–46 | 37–47 | 36–49 | 34–52 |
 | [22 January–18 February 2018](2018-02-18-Novus.html) | Novus <br> SVT | 33 | 31–35 | 30–35 | 30–36 | 29–37 |
 | [5–15 February 2018](2018-02-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 39 | 37–40 | 37–40 | 36–41 | 36–42 |
-| [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 42 | 36–47 | 34–50 | 33–51 | 30–55 |
+| [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 42 | 36–48 | 34–50 | 33–51 | 31–55 |
 | [30 January–6 February 2018](2018-02-06-Demoskop.html) | Demoskop <br> Expressen | 35 | 32–39 | 30–40 | 30–41 | 28–42 |
 | [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 37 | 33–40 | 32–41 | 32–42 | 30–44 |
 | [11 January–2 February 2018](2018-02-02-SKOP.html) | SKOP | 40 | 36–44 | 36–46 | 34–47 | 33–49 |
