@@ -85,7 +85,7 @@ Last result: **84** seats (General Election of 14 September 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 75 | 65–86 | 62–89 | 60–91 | 56–95 |
-| [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 76 | 71–81 | 70–83 | 69–84 | 67–87 |
+| [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 76 | 71–81 | 70–84 | 69–86 | 67–88 |
 | [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 73 | 70–77 | 69–78 | 68–79 | 66–82 |
 | [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 67 | 61–72 | 60–74 | 59–75 | 56–79 |
 | [8 May–18 June 2018](2018-06-18-SKOP.html) | SKOP | 86 | 80–93 | 78–95 | 77–97 | 74–100 |
@@ -125,7 +125,7 @@ Last result: **84** seats (General Election of 14 September 2014)
 | [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 79 | 72–88 | 70–91 | 68–93 | 65–97 |
 | [30 January–6 February 2018](2018-02-06-Demoskop.html) | Demoskop <br> Expressen | 89 | 84–94 | 82–96 | 80–98 | 78–101 |
 | [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 94 | 89–101 | 88–104 | 87–105 | 85–108 |
-| [11 January–2 February 2018](2018-02-02-SKOP.html) | SKOP | 94 | 89–101 | 87–102 | 86–103 | 83–108 |
+| [11 January–2 February 2018](2018-02-02-SKOP.html) | SKOP | 94 | 89–101 | 87–102 | 86–105 | 83–107 |
 
 ### Probability Mass Function
 
@@ -154,24 +154,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 68 | 3% | 83% |  |
 | 69 | 3% | 80% |  |
 | 70 | 4% | 77% |  |
-| 71 | 5% | 74% |  |
+| 71 | 6% | 74% |  |
 | 72 | 6% | 68% |  |
-| 73 | 5% | 62% |  |
+| 73 | 4% | 61% |  |
 | 74 | 5% | 57% |  |
-| 75 | 6% | 52% | Median |
-| 76 | 6% | 46% |  |
+| 75 | 5% | 52% | Median |
+| 76 | 6% | 47% |  |
 | 77 | 5% | 40% |  |
-| 78 | 3% | 35% |  |
-| 79 | 3% | 32% |  |
-| 80 | 3% | 29% |  |
+| 78 | 5% | 36% |  |
+| 79 | 3% | 31% |  |
+| 80 | 3% | 28% |  |
 | 81 | 3% | 26% |  |
 | 82 | 4% | 23% |  |
 | 83 | 2% | 19% |  |
 | 84 | 5% | 17% | Last Result |
-| 85 | 2% | 12% |  |
+| 85 | 2% | 13% |  |
 | 86 | 2% | 10% |  |
 | 87 | 2% | 8% |  |
-| 88 | 1.2% | 6% |  |
+| 88 | 1.2% | 7% |  |
 | 89 | 2% | 5% |  |
 | 90 | 1.1% | 4% |  |
 | 91 | 0.5% | 3% |  |

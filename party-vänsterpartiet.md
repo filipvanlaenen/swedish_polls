@@ -79,7 +79,7 @@ Last result: **21** seats (General Election of 14 September 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 33 | 27–38 | 26–40 | 25–41 | 24–44 |
-| [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 32 | 30–36 | 29–37 | 28–38 | 27–40 |
+| [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 33 | 30–36 | 29–37 | 28–38 | 27–40 |
 | [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 34 | 31–36 | 30–37 | 30–38 | 28–39 |
 | [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 36 | 32–40 | 31–41 | 31–43 | 29–45 |
 | [8 May–18 June 2018](2018-06-18-SKOP.html) | SKOP | 28 | 25–33 | 24–34 | 23–36 | 21–37 |
@@ -119,7 +119,7 @@ Last result: **21** seats (General Election of 14 September 2014)
 | [9–14 February 2018](2018-02-14-Sentio.html) | Sentio <br> Nyheter Idag | 34 | 29–40 | 28–42 | 27–43 | 25–47 |
 | [30 January–6 February 2018](2018-02-06-Demoskop.html) | Demoskop <br> Expressen | 27 | 24–30 | 23–31 | 23–32 | 21–34 |
 | [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 27 | 24–30 | 23–30 | 23–31 | 21–33 |
-| [11 January–2 February 2018](2018-02-02-SKOP.html) | SKOP | 29 | 26–34 | 24–34 | 24–35 | 23–37 |
+| [11 January–2 February 2018](2018-02-02-SKOP.html) | SKOP | 29 | 26–33 | 25–34 | 24–35 | 23–37 |
 
 ### Probability Mass Function
 
@@ -140,11 +140,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 6% | 83% |  |
 | 30 | 6% | 77% |  |
 | 31 | 6% | 71% |  |
-| 32 | 8% | 65% |  |
-| 33 | 9% | 57% | Median |
-| 34 | 9% | 48% |  |
-| 35 | 8% | 39% |  |
-| 36 | 11% | 32% |  |
+| 32 | 7% | 65% |  |
+| 33 | 10% | 58% | Median |
+| 34 | 9% | 49% |  |
+| 35 | 8% | 40% |  |
+| 36 | 11% | 31% |  |
 | 37 | 7% | 20% |  |
 | 38 | 5% | 14% |  |
 | 39 | 4% | 9% |  |
