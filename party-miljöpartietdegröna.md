@@ -10,7 +10,7 @@ Last result: **6.9%** (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 3.5–5.1% | 3.4–5.3% | 3.2–5.6% | 3.0–6.1% |
+| N/A | [Poll Average](average.html) | 4.3% | 3.6–5.1% | 3.4–5.3% | 3.3–5.6% | 3.0–6.1% |
 | [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 4.2% | 3.6–4.9% | 3.5–5.1% | 3.3–5.3% | 3.1–5.7% |
 | [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 3.9% | 3.4–4.5% | 3.3–4.7% | 3.1–4.8% | 2.9–5.1% |
 | [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 4.7% | 4.2–5.3% | 4.1–5.4% | 3.9–5.6% | 3.7–5.9% |
@@ -61,8 +61,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 10% | 100% |  |
-| 3.5–4.5% | 60% | 90% | Median |
+| 2.5–3.5% | 9% | 100% |  |
+| 3.5–4.5% | 61% | 91% | Median |
 | 4.5–5.5% | 27% | 30% |  |
 | 5.5–6.5% | 3% | 3% |  |
 | 6.5–7.5% | 0.1% | 0.1% | Last Result |
@@ -77,19 +77,19 @@ Last result: **25** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 0–19 | 0–20 | 0–20 | 0–23 |
+| N/A | [Poll Average](average.html) | 16 | 0–18 | 0–18 | 0–19 | 0–22 |
 | [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 16 | 16–18 | 16–18 | 0–18 | 0–18 |
-| [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–16 | 0–17 | 0–17 | 0–19 |
-| [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 17 | 15–19 | 15–20 | 15–20 | 0–22 |
-| [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 0 | 0–17 | 0–18 | 0–19 | 0–20 |
-| [8 May–18 June 2018](2018-06-18-SKOP.html) | SKOP | 17 | 0–20 | 0–21 | 0–22 | 0–23 |
-| [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 15 | 0–18 | 0–18 | 0–19 | 0–20 |
-| [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 15 | 0–17 | 0–18 | 0–18 | 0–19 |
+| [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 15 | 15–19 | 15–19 | 0–19 | 0–19 |
+| [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 0 | 0–18 | 0–20 | 0–23 | 0–23 |
+| [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 18 | 0–18 | 0–18 | 0–18 | 0–20 |
+| [8 May–18 June 2018](2018-06-18-SKOP.html) | SKOP | 17 | 0–18 | 0–18 | 0–21 | 0–21 |
+| [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0–17 | 0–18 | 0–18 | 0–19 |
+| [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 15 | 0–17 | 0–17 | 0–18 | 0–19 |
 | [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 17 | 15–18 | 15–19 | 0–19 | 0–20 |
 | [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 18 | 16–22 | 15–22 | 14–22 | 0–24 |
-| [1–5 June 2018](2018-06-05-Sentio.html) | Sentio <br> Nyheter Idag | 18 | 15–21 | 0–22 | 0–23 | 0–25 |
+| [1–5 June 2018](2018-06-05-Sentio.html) | Sentio <br> Nyheter Idag | 17 | 16–18 | 16–21 | 0–24 | 0–24 |
 | [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–16 | 0–17 | 0–17 | 0–19 |
-| [27 April–29 May 2018](2018-05-29-SCB.html) | SCB | 16 | 0–18 | 0–18 | 0–18 | 0–19 |
+| [27 April–29 May 2018](2018-05-29-SCB.html) | SCB | 0 | 0–17 | 0–17 | 0–19 | 0–19 |
 | [10–21 May 2018](2018-05-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 15 | 0–17 | 0–18 | 0–18 | 0–20 |
 | [7–17 May 2018](2018-05-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 15 | 0–16 | 0–16 | 0–17 | 0–17 |
 | [11–14 May 2018](2018-05-14-YouGov.html) | YouGov <br> Metro | 0 | 0–17 | 0–17 | 0–18 | 0–19 |
@@ -129,32 +129,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 29% | 100% |  |
-| 1 | 0% | 71% |  |
-| 2 | 0% | 71% |  |
-| 3 | 0% | 71% |  |
-| 4 | 0% | 71% |  |
-| 5 | 0% | 71% |  |
-| 6 | 0% | 71% |  |
-| 7 | 0% | 71% |  |
-| 8 | 0% | 71% |  |
-| 9 | 0% | 71% |  |
-| 10 | 0% | 71% |  |
-| 11 | 0% | 71% |  |
-| 12 | 0% | 71% |  |
-| 13 | 0% | 71% |  |
-| 14 | 0.1% | 71% |  |
-| 15 | 10% | 71% |  |
-| 16 | 26% | 61% | Median |
-| 17 | 10% | 35% |  |
-| 18 | 15% | 25% |  |
-| 19 | 5% | 10% |  |
-| 20 | 3% | 5% |  |
-| 21 | 1.1% | 2% |  |
-| 22 | 0.7% | 1.2% |  |
-| 23 | 0.4% | 0.6% |  |
-| 24 | 0.1% | 0.2% |  |
-| 25 | 0% | 0.1% | Last Result |
-| 26 | 0% | 0% |  |
+| 0 | 34% | 100% |  |
+| 1 | 0% | 66% |  |
+| 2 | 0% | 66% |  |
+| 3 | 0% | 66% |  |
+| 4 | 0% | 66% |  |
+| 5 | 0% | 66% |  |
+| 6 | 0% | 66% |  |
+| 7 | 0% | 66% |  |
+| 8 | 0% | 66% |  |
+| 9 | 0% | 66% |  |
+| 10 | 0% | 66% |  |
+| 11 | 0% | 66% |  |
+| 12 | 0% | 66% |  |
+| 13 | 0% | 66% |  |
+| 14 | 0% | 66% |  |
+| 15 | 12% | 66% |  |
+| 16 | 22% | 54% | Median |
+| 17 | 9% | 32% |  |
+| 18 | 18% | 23% |  |
+| 19 | 3% | 5% |  |
+| 20 | 0.3% | 1.4% |  |
+| 21 | 0.5% | 1.1% |  |
+| 22 | 0.2% | 0.6% |  |
+| 23 | 0.3% | 0.4% |  |
+| 24 | 0.1% | 0.1% |  |
+| 25 | 0% | 0% | Last Result |
 
 
