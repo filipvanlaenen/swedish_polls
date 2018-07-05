@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_polls</id>
   <title>All Registered Polls for the Riksdagen</title>
-  <updated>2018-07-04T20:04:52.246059+02:00</updated>
+  <updated>2018-07-05T13:31:18.27857+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 23.8–28.1%, 89–109 seats</li><li>Moderata samlingspartiet: 18.0–21.9%, 67–84 seats</li><li>Sverigedemokraterna: 19.1–23.1%, 71–89 seats</li><li>Miljöpartiet de gröna: 3.3–5.3%, 0–20 seats</li><li>Centerpartiet: 8.4–11.3%, 32–43 seats</li><li>Vänsterpartiet: 7.8–10.6%, 29–41 seats</li><li>Liberalerna: 3.4–5.4%, 0–20 seats</li><li>Kristdemokraterna: 1.8–3.4%, 0 seats</li><li>Feministiskt initiativ: 1.4–2.7%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_polls/2018-07-03-Demoskop.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_polls/2018-07-03-Demoskop.html"/>
+    <title>Opinion Poll by Demoskop for Expressen, 25 June–3 July 2018</title>
+    <updated>2018-07-05T13:31:18.27857+02:00</updated>
+    <dc:date>2018-07-05T13:31:18.27857+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 22.1–25.8%, 79–97 seats</li><li>Moderata samlingspartiet: 18.9–22.4%, 69–86 seats</li><li>Sverigedemokraterna: 18.8–22.3%, 69–84 seats</li><li>Miljöpartiet de gröna: 3.1–4.8%, 0–17 seats</li><li>Centerpartiet: 8.3–10.8%, 31–40 seats</li><li>Vänsterpartiet: 7.8–10.2%, 28–38 seats</li><li>Liberalerna: 4.2–6.1%, 16–23 seats</li><li>Kristdemokraterna: 3.7–5.5%, 0–20 seats</li><li>Feministiskt initiativ: 1.0–2.0%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_polls/2018-06-26-Inizio.html</id>
@@ -335,5 +343,5 @@
     <updated>2018-07-04T20:04:52.246059+02:00</updated>
     <dc:date>2018-07-04T20:04:52.246059+02:00</dc:date>
   </entry>
-  <dc:date>2018-07-04T20:04:52.246059+02:00</dc:date>
+  <dc:date>2018-07-05T13:31:18.27857+02:00</dc:date>
 </feed>
