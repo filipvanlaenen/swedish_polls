@@ -61,8 +61,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 5% | 100% |  |
-| 0.5–1.5% | 43% | 95% |  |
-| 1.5–2.5% | 50% | 53% | Median |
+| 0.5–1.5% | 45% | 95% |  |
+| 1.5–2.5% | 49% | 51% | Median |
 | 2.5–3.5% | 2% | 2% | Last Result |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -100,7 +100,7 @@ Last result: **0** seats (General Election of 14 September 2014)
 | [19 March–15 April 2018](2018-04-15-Novus.html) | Novus <br> SVT |  |  |  |  |  |
 | [16 March–13 April 2018](2018-04-13-SKOP.html) | SKOP | 0 | 0 | 0 | 0 | 0 |
 | [2–12 April 2018](2018-04-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
-| [5–10 April 2018](2018-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0–15 | 0–16 | 0–18 |
+| [5–10 April 2018](2018-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0–15 | 0–16 | 0–17 |
 | [3–9 April 2018](2018-04-09-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0 | 0 | 0 |
 | [27 March–4 April 2018](2018-04-04-Demoskop.html) | Demoskop <br> Expressen | 0 | 0 | 0 | 0 | 0 |
 | [16–19 March 2018](2018-03-19-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0 | 0–14 |
