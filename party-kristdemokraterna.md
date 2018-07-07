@@ -10,7 +10,8 @@ Last result: **4.6%** (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.3–4.2% | 2.1–4.6% | 2.0–4.9% | 1.8–5.3% |
+| N/A | [Poll Average](average.html) | 3.0% | 2.3–4.4% | 2.1–4.8% | 2.0–5.1% | 1.8–5.6% |
+| [28 June–3 July 2018](2018-07-03-Sentio.html) | Sentio <br> Nyheter Idag | 4.0% | 3.2–5.1% | 3.0–5.4% | 2.8–5.7% | 2.5–6.3% |
 | [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 2.5% | 2.0–3.0% | 1.9–3.2% | 1.8–3.4% | 1.6–3.7% |
 | [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 4.5% | 3.9–5.1% | 3.8–5.3% | 3.7–5.5% | 3.4–5.8% |
 | [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 3.4% | 3.0–3.9% | 2.9–4.0% | 2.8–4.2% | 2.6–4.4% |
@@ -62,10 +63,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0.1% | 100% |  |
 | 1.5–2.5% | 21% | 99.9% |  |
-| 2.5–3.5% | 56% | 79% | Median |
-| 3.5–4.5% | 17% | 23% |  |
-| 4.5–5.5% | 5% | 5% | Last Result |
-| 5.5–6.5% | 0.2% | 0.2% |  |
+| 2.5–3.5% | 52% | 79% | Median |
+| 3.5–4.5% | 19% | 27% |  |
+| 4.5–5.5% | 8% | 8% | Last Result |
+| 5.5–6.5% | 0.6% | 0.6% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -77,9 +78,10 @@ Last result: **16** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–16 | 0–17 | 0–18 | 0–19 |
+| N/A | [Poll Average](average.html) | 0 | 0–16 | 0–18 | 0–18 | 0–21 |
+| [28 June–3 July 2018](2018-07-03-Sentio.html) | Sentio <br> Nyheter Idag | 15 | 0–19 | 0–20 | 0–21 | 0–23 |
 | [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 0 | 0 | 0 | 0 | 0 |
-| [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 17 | 15–18 | 0–19 | 0–20 | 0–21 |
+| [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 17 | 0–18 | 0–19 | 0–20 | 0–21 |
 | [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 0 | 0 | 0–14 | 0–15 | 0–16 |
 | [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0–14 | 0–17 |
 | [8 May–18 June 2018](2018-06-18-SKOP.html) | SKOP | 0 | 0 | 0 | 0 | 0 |
@@ -129,28 +131,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 86% | 100% | Median |
-| 1 | 0% | 14% |  |
-| 2 | 0% | 14% |  |
-| 3 | 0% | 14% |  |
-| 4 | 0% | 14% |  |
-| 5 | 0% | 14% |  |
-| 6 | 0% | 14% |  |
-| 7 | 0% | 14% |  |
-| 8 | 0% | 14% |  |
-| 9 | 0% | 14% |  |
-| 10 | 0% | 14% |  |
-| 11 | 0% | 14% |  |
-| 12 | 0% | 14% |  |
-| 13 | 0% | 14% |  |
-| 14 | 0.9% | 14% |  |
-| 15 | 2% | 13% |  |
-| 16 | 3% | 11% | Last Result |
-| 17 | 3% | 8% |  |
-| 18 | 3% | 4% |  |
-| 19 | 0.7% | 1.1% |  |
-| 20 | 0.3% | 0.4% |  |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 0 | 83% | 100% | Median |
+| 1 | 0% | 17% |  |
+| 2 | 0% | 17% |  |
+| 3 | 0% | 17% |  |
+| 4 | 0% | 17% |  |
+| 5 | 0% | 17% |  |
+| 6 | 0% | 17% |  |
+| 7 | 0% | 17% |  |
+| 8 | 0% | 17% |  |
+| 9 | 0% | 17% |  |
+| 10 | 0% | 17% |  |
+| 11 | 0% | 17% |  |
+| 12 | 0% | 17% |  |
+| 13 | 0% | 17% |  |
+| 14 | 0.8% | 17% |  |
+| 15 | 2% | 16% |  |
+| 16 | 4% | 14% | Last Result |
+| 17 | 4% | 10% |  |
+| 18 | 3% | 6% |  |
+| 19 | 1.0% | 2% |  |
+| 20 | 0.8% | 1.4% |  |
+| 21 | 0.3% | 0.6% |  |
+| 22 | 0.2% | 0.3% |  |
+| 23 | 0.1% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 
