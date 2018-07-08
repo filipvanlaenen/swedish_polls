@@ -83,13 +83,13 @@ Last result: **25** seats (General Election of 14 September 2014)
 | [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 16 | 0–18 | 0–19 | 0–20 | 0–21 |
 | [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–16 | 0–17 | 0–17 | 0–19 |
 | [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 18 | 16–19 | 15–19 | 15–20 | 0–22 |
-| [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 0 | 0–18 | 0–19 | 0–19 | 0–20 |
+| [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 0 | 0–18 | 0–18 | 0–19 | 0–20 |
 | [8 May–18 June 2018](2018-06-18-SKOP.html) | SKOP | 17 | 0–20 | 0–21 | 0–22 | 0–23 |
 | [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0–17 | 0–18 | 0–19 | 0–20 |
 | [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 15 | 0–17 | 0–17 | 0–18 | 0–19 |
 | [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 17 | 15–18 | 15–19 | 0–19 | 0–20 |
 | [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 18 | 16–22 | 15–22 | 14–22 | 0–24 |
-| [1–5 June 2018](2018-06-05-Sentio.html) | Sentio <br> Nyheter Idag | 17 | 15–21 | 0–22 | 0–23 | 0–25 |
+| [1–5 June 2018](2018-06-05-Sentio.html) | Sentio <br> Nyheter Idag | 18 | 15–21 | 0–22 | 0–23 | 0–25 |
 | [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–16 | 0–17 | 0–17 | 0–19 |
 | [27 April–29 May 2018](2018-05-29-SCB.html) | SCB | 16 | 0–17 | 0–18 | 0–18 | 0–19 |
 | [10–21 May 2018](2018-05-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 15 | 0–17 | 0–18 | 0–18 | 0–20 |
@@ -147,9 +147,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 63% |  |
 | 14 | 0.1% | 63% |  |
 | 15 | 10% | 63% |  |
-| 16 | 22% | 52% | Median |
-| 17 | 12% | 30% |  |
-| 18 | 11% | 18% |  |
+| 16 | 21% | 52% | Median |
+| 17 | 14% | 31% |  |
+| 18 | 11% | 17% |  |
 | 19 | 4% | 7% |  |
 | 20 | 2% | 3% |  |
 | 21 | 0.7% | 1.2% |  |
