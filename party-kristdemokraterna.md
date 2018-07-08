@@ -82,8 +82,8 @@ Last result: **16** seats (General Election of 14 September 2014)
 | [28 June–3 July 2018](2018-07-03-Sentio.html) | Sentio <br> Nyheter Idag | 15 | 0–19 | 0–20 | 0–21 | 0–23 |
 | [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 0 | 0 | 0 | 0 | 0 |
 | [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 17 | 0–19 | 0–19 | 0–20 | 0–21 |
-| [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 0 | 0 | 0–14 | 0–15 | 0–16 |
-| [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0–14 | 0–17 |
+| [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 0 | 0 | 0–15 | 0–15 | 0–16 |
+| [15–18 June 2018](2018-06-18-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0–15 | 0–17 |
 | [8 May–18 June 2018](2018-06-18-SKOP.html) | SKOP | 0 | 0 | 0 | 0 | 0 |
 | [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0–16 |
 | [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
@@ -145,7 +145,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 17% |  |
 | 12 | 0% | 17% |  |
 | 13 | 0% | 17% |  |
-| 14 | 0.6% | 17% |  |
+| 14 | 0.3% | 17% |  |
 | 15 | 2% | 17% |  |
 | 16 | 5% | 14% | Last Result |
 | 17 | 3% | 10% |  |
