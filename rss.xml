@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sat, 07 Jul 2018 19:44:00 +0200</pubDate>
+    <pubDate>Sun, 08 Jul 2018 09:53:41 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 28 June–3 July 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-07-03-Sentio.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-07-03-Demoskop.png"
         length="232932"
         type="image/png"/>
-      <pubDate>Sat, 07 Jul 2018 10:26:33 +0200</pubDate>
-      <dc:date>2018-07-07T10:26:33.362437+02:00</dc:date>
+      <pubDate>Sun, 08 Jul 2018 09:53:41 +0200</pubDate>
+      <dc:date>2018-07-08T09:53:41.873616+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 20–26 June 2018 – Seat Projections for the Parties</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-18-YouGov.png"
         length="233083"
         type="image/png"/>
-      <pubDate>Fri, 06 Jul 2018 20:06:29 +0200</pubDate>
-      <dc:date>2018-07-06T20:06:29.688284+02:00</dc:date>
+      <pubDate>Sat, 07 Jul 2018 23:35:44 +0200</pubDate>
+      <dc:date>2018-07-07T23:35:44.534378+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKOP, 8 May–18 June 2018 – Seat Projections for the Parties</title>
@@ -210,14 +210,34 @@
       <dc:date>2018-06-17T18:53:16.490703+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 1–5 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-05-Sentio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 71–90 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 55–73 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 86–107 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–23 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 21–33 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 29–44 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 20–32 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0–16 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-05-Sentio-seats.png"
+        length="222887"
+        type="image/png"/>
+      <pubDate>Sat, 07 Jul 2018 20:54:38 +0200</pubDate>
+      <dc:date>2018-07-07T20:54:38.289094+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 1–5 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-05-Sentio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-05-Sentio-coalitions-seats.png"
+        length="310600"
+        type="image/png"/>
+      <pubDate>Sat, 07 Jul 2018 20:54:38 +0200</pubDate>
+      <dc:date>2018-07-07T20:54:38.289094+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 1–5 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-06-05-Sentio.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 19.3–24.4%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 14.9–19.6%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 23.5–28.9%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.6–6.3%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.7–8.9%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.0–11.7%&lt;/li&gt;&lt;li&gt;Liberalerna: 5.5–8.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 2.3–4.6%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ: 0.3–1.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-06-05-Sentio.png"
         length="246975"
         type="image/png"/>
-      <pubDate>Sat, 07 Jul 2018 19:44:00 +0200</pubDate>
-      <dc:date>2018-07-07T19:44:00.585296+02:00</dc:date>
+      <pubDate>Sat, 07 Jul 2018 20:54:38 +0200</pubDate>
+      <dc:date>2018-07-07T20:54:38.289094+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 21–30 May 2018 – Seat Projections for the Parties</title>
@@ -1159,6 +1179,6 @@
       <pubDate>Wed, 04 Jul 2018 20:04:52 +0200</pubDate>
       <dc:date>2018-07-04T20:04:52.246059+02:00</dc:date>
     </item>
-    <dc:date>2018-07-07T19:44:00.585296+02:00</dc:date>
+    <dc:date>2018-07-08T09:53:41.873616+02:00</dc:date>
   </channel>
 </rss>
