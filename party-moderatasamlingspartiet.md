@@ -86,7 +86,7 @@ Last result: **84** seats (General Election of 14 September 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 75 | 66–86 | 63–89 | 61–91 | 57–95 |
-| [28 June–3 July 2018](2018-07-03-Sentio.html) | Sentio <br> Nyheter Idag | 67 | 59–75 | 58–77 | 56–79 | 54–84 |
+| [28 June–3 July 2018](2018-07-03-Sentio.html) | Sentio <br> Nyheter Idag | 67 | 60–75 | 58–77 | 57–79 | 54–83 |
 | [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 75 | 69–80 | 68–83 | 67–84 | 65–87 |
 | [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 76 | 71–81 | 70–84 | 69–86 | 67–88 |
 | [7–24 June 2018](2018-06-24-Novus.html) | Novus <br> SVT | 73 | 70–77 | 69–78 | 68–79 | 66–82 |
@@ -138,18 +138,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 53 | 0% | 100% |  |
-| 54 | 0% | 99.9% |  |
-| 55 | 0% | 99.9% |  |
+| 54 | 0% | 100% |  |
+| 55 | 0.1% | 99.9% |  |
 | 56 | 0.2% | 99.9% |  |
-| 57 | 0.2% | 99.6% |  |
-| 58 | 0.4% | 99.4% |  |
-| 59 | 0.7% | 99.0% |  |
-| 60 | 0.4% | 98% |  |
-| 61 | 1.0% | 98% |  |
-| 62 | 0.8% | 97% |  |
-| 63 | 2% | 96% |  |
-| 64 | 1.3% | 95% |  |
+| 57 | 0.3% | 99.7% |  |
+| 58 | 0.3% | 99.5% |  |
+| 59 | 0.7% | 99.1% |  |
+| 60 | 0.8% | 98% |  |
+| 61 | 1.1% | 98% |  |
+| 62 | 0.9% | 96% |  |
+| 63 | 1.5% | 96% |  |
+| 64 | 1.3% | 94% |  |
 | 65 | 2% | 93% |  |
 | 66 | 2% | 91% |  |
 | 67 | 2% | 89% |  |
@@ -158,7 +157,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 3% | 80% |  |
 | 71 | 5% | 77% |  |
 | 72 | 6% | 72% |  |
-| 73 | 5% | 66% |  |
+| 73 | 5% | 65% |  |
 | 74 | 6% | 60% |  |
 | 75 | 6% | 54% | Median |
 | 76 | 6% | 49% |  |

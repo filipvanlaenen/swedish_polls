@@ -78,7 +78,7 @@ Last result: **25** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 0–18 | 0–19 | 0–20 | 0–22 |
+| N/A | [Poll Average](average.html) | 15 | 0–18 | 0–19 | 0–20 | 0–22 |
 | [28 June–3 July 2018](2018-07-03-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–18 | 0–19 | 0–20 | 0–22 |
 | [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 16 | 0–18 | 0–19 | 0–20 | 0–21 |
 | [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–16 | 0–17 | 0–17 | 0–19 |
@@ -146,8 +146,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 62% |  |
 | 13 | 0% | 62% |  |
 | 14 | 0.1% | 62% |  |
-| 15 | 11% | 62% |  |
-| 16 | 22% | 50% | Median |
+| 15 | 12% | 62% | Median |
+| 16 | 21% | 50% |  |
 | 17 | 11% | 29% |  |
 | 18 | 10% | 18% |  |
 | 19 | 5% | 8% |  |
