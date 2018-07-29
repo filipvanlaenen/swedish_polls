@@ -89,7 +89,7 @@ Last result: **84** seats (General Election of 14 September 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 74 | 61–83 | 57–85 | 54–87 | 52–90 |
-| [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 72 | 70–75 | 69–76 | 68–76 | 67–78 |
+| [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 72 | 70–75 | 69–76 | 69–77 | 67–78 |
 | [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 72 | 67–79 | 65–81 | 64–83 | 61–85 |
 | [13–15 July 2018](2018-07-15-YouGov.html) | YouGov <br> Metro | 58 | 53–65 | 52–67 | 50–68 | 48–70 |
 | [28 June–3 July 2018](2018-07-03-Sentio.html) | Sentio <br> Nyheter Idag | 67 | 60–75 | 58–77 | 57–79 | 54–83 |
@@ -168,9 +168,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 69 | 4% | 77% |  |
 | 70 | 3% | 73% |  |
 | 71 | 6% | 70% |  |
-| 72 | 7% | 64% |  |
-| 73 | 7% | 57% |  |
-| 74 | 6% | 50% | Median |
+| 72 | 6% | 64% |  |
+| 73 | 6% | 57% |  |
+| 74 | 7% | 51% | Median |
 | 75 | 5% | 44% |  |
 | 76 | 6% | 39% |  |
 | 77 | 5% | 33% |  |

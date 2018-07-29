@@ -82,7 +82,7 @@ Last result: **25** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 0–20 | 0–21 | 0–23 | 0–23 |
+| N/A | [Poll Average](average.html) | 15 | 0–20 | 0–22 | 0–22 | 0–23 |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 21 | 19–23 | 19–23 | 19–24 | 18–24 |
 | [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 0 | 0–16 | 0–17 | 0–17 | 0–19 |
 | [13–15 July 2018](2018-07-15-YouGov.html) | YouGov <br> Metro | 14 | 0–17 | 0–18 | 0–19 | 0–20 |
@@ -158,11 +158,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 10% | 28% |  |
 | 18 | 5% | 19% |  |
 | 19 | 3% | 14% |  |
-| 20 | 3% | 10% |  |
-| 21 | 2% | 7% |  |
-| 22 | 2% | 5% |  |
-| 23 | 3% | 3% |  |
-| 24 | 0.4% | 0.4% |  |
+| 20 | 3% | 11% |  |
+| 21 | 2% | 8% |  |
+| 22 | 4% | 6% |  |
+| 23 | 2% | 2% |  |
+| 24 | 0.3% | 0.4% |  |
 | 25 | 0% | 0% | Last Result |
 
 
