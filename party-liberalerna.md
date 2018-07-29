@@ -85,7 +85,7 @@ Last result: **19** seats (General Election of 14 September 2014)
 | N/A | [Poll Average](average.html) | 19 | 16–24 | 0–25 | 0–27 | 0–29 |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 18 | 17–20 | 17–20 | 16–21 | 16–22 |
 | [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 18 | 15–22 | 0–23 | 0–24 | 0–26 |
-| [13–15 July 2018](2018-07-15-YouGov.html) | YouGov <br> Metro | 20 | 17–24 | 16–25 | 15–25 | 0–27 |
+| [13–15 July 2018](2018-07-15-YouGov.html) | YouGov <br> Metro | 20 | 17–24 | 16–24 | 15–25 | 0–27 |
 | [28 June–3 July 2018](2018-07-03-Sentio.html) | Sentio <br> Nyheter Idag | 22 | 18–27 | 17–28 | 16–29 | 0–31 |
 | [25 June–3 July 2018](2018-07-03-Demoskop.html) | Demoskop <br> Expressen | 16 | 0–19 | 0–19 | 0–20 | 0–22 |
 | [20–26 June 2018](2018-06-26-Inizio.html) | Inizio <br> Aftonbladet | 19 | 17–22 | 16–22 | 16–23 | 0–24 |
@@ -158,8 +158,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 14% | 82% |  |
 | 18 | 16% | 68% |  |
 | 19 | 12% | 52% | Last Result, Median |
-| 20 | 12% | 40% |  |
-| 21 | 9% | 29% |  |
+| 20 | 11% | 40% |  |
+| 21 | 8% | 29% |  |
 | 22 | 5% | 20% |  |
 | 23 | 4% | 15% |  |
 | 24 | 4% | 11% |  |
