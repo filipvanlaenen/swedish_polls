@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_polls</id>
   <title>All Registered Polls for the Riksdagen</title>
-  <updated>2018-07-29T13:38:56.438752+02:00</updated>
+  <updated>2018-07-29T15:43:14.96057+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 22.5–24.9%, 83–92 seats</li><li>Moderata samlingspartiet: 18.5–20.7%, 69–77 seats</li><li>Sverigedemokraterna: 20.5–22.8%, 76–84 seats</li><li>Miljöpartiet de gröna: 5.1–6.4%, 19–24 seats</li><li>Centerpartiet: 7.7–9.2%, 28–34 seats</li><li>Vänsterpartiet: 9.3–11.0%, 35–41 seats</li><li>Liberalerna: 4.4–5.7%, 16–21 seats</li><li>Kristdemokraterna: 2.7–3.7%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_polls/2018-07-22-Novus.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_polls/2018-07-22-Novus.html"/>
+    <title>Opinion Poll by Novus for SVT, 25 June–22 July 2018</title>
+    <updated>2018-07-29T15:43:14.96057+02:00</updated>
+    <dc:date>2018-07-29T15:43:14.96057+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 23.5–28.5%, 88–109 seats</li><li>Moderata samlingspartiet: 17.1–21.6%, 64–83 seats</li><li>Sverigedemokraterna: 18.5–23.1%, 69–88 seats</li><li>Miljöpartiet de gröna: 2.6–4.7%, 0–17 seats</li><li>Centerpartiet: 8.5–11.9%, 31–45 seats</li><li>Vänsterpartiet: 8.7–12.2%, 33–47 seats</li><li>Liberalerna: 3.8–6.3%, 0–24 seats</li><li>Kristdemokraterna: 2.4–4.5%, 0–17 seats</li><li>Feministiskt initiativ: 0.5–1.7%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_polls/2018-07-21-SKOP.html</id>
@@ -367,5 +375,5 @@
     <updated>2018-07-04T20:04:52.246059+02:00</updated>
     <dc:date>2018-07-04T20:04:52.246059+02:00</dc:date>
   </entry>
-  <dc:date>2018-07-29T13:38:56.438752+02:00</dc:date>
+  <dc:date>2018-07-29T15:43:14.96057+02:00</dc:date>
 </feed>
