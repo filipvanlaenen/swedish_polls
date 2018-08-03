@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sun, 29 Jul 2018 19:26:59 +0200</pubDate>
+    <pubDate>Fri, 03 Aug 2018 19:27:50 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 27 July–1 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-08-01-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 18.4–24.2%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.5–22.1%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 22.5–28.7%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.7–5.6%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.3–8.9%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 10.5–15.3%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.3–6.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 1.5–3.8%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ: 0.6–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-08-01-Sentio.png"
+        length="258074"
+        type="image/png"/>
+      <pubDate>Fri, 03 Aug 2018 19:27:50 +0200</pubDate>
+      <dc:date>2018-08-03T19:27:50.263892+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 25 June–22 July 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-07-22-Novus.html#seats</link>
@@ -1389,6 +1399,6 @@
       <pubDate>Wed, 04 Jul 2018 20:04:52 +0200</pubDate>
       <dc:date>2018-07-04T20:04:52.246059+02:00</dc:date>
     </item>
-    <dc:date>2018-07-29T19:26:59.996297+02:00</dc:date>
+    <dc:date>2018-08-03T19:27:50.263892+02:00</dc:date>
   </channel>
 </rss>
