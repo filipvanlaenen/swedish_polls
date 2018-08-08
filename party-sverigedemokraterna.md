@@ -96,7 +96,7 @@ Last result: **49** seats (General Election of 14 September 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 78 | 67–97 | 66–100 | 65–103 | 63–109 |
-| [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 68 | 65–73 | 63–75 | 62–76 | 61–79 |
+| [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 68 | 65–73 | 65–74 | 64–76 | 62–80 |
 | [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 97 | 89–107 | 86–108 | 83–110 | 80–114 |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 80 | 77–83 | 76–84 | 76–84 | 74–86 |
 | [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 78 | 72–85 | 70–86 | 69–88 | 66–91 |
@@ -110,7 +110,7 @@ Last result: **49** seats (General Election of 14 September 2014)
 | [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 77 | 72–83 | 70–84 | 69–86 | 66–90 |
 | [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 69 | 65–74 | 64–75 | 63–76 | 61–78 |
 | [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 81 | 79–85 | 78–86 | 77–87 | 76–89 |
-| [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 79 | 72–83 | 71–84 | 71–87 | 68–89 |
+| [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 78 | 73–83 | 72–84 | 71–87 | 69–90 |
 | [1–5 June 2018](2018-06-05-Sentio.html) | Sentio <br> Nyheter Idag | 96 | 90–103 | 88–104 | 86–107 | 83–111 |
 | [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 72 | 68–77 | 67–78 | 65–80 | 63–84 |
 | [27 April–29 May 2018](2018-05-29-SCB.html) | SCB | 69 | 66–72 | 65–74 | 65–75 | 63–78 |
@@ -164,19 +164,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 57 | 0% | 100% |  |
 | 58 | 0% | 100% |  |
 | 59 | 0% | 100% |  |
-| 60 | 0.1% | 100% |  |
+| 60 | 0% | 100% |  |
 | 61 | 0.1% | 99.9% |  |
-| 62 | 0.3% | 99.8% |  |
-| 63 | 0.5% | 99.5% |  |
-| 64 | 1.3% | 99.0% |  |
-| 65 | 2% | 98% |  |
+| 62 | 0.2% | 99.9% |  |
+| 63 | 0.5% | 99.6% |  |
+| 64 | 1.1% | 99.2% |  |
+| 65 | 3% | 98% |  |
 | 66 | 4% | 95% |  |
 | 67 | 3% | 92% |  |
-| 68 | 4% | 88% |  |
-| 69 | 4% | 84% |  |
-| 70 | 4% | 80% |  |
-| 71 | 4% | 76% |  |
-| 72 | 4% | 72% |  |
+| 68 | 6% | 89% |  |
+| 69 | 4% | 83% |  |
+| 70 | 4% | 79% |  |
+| 71 | 3% | 75% |  |
+| 72 | 3% | 71% |  |
 | 73 | 3% | 68% |  |
 | 74 | 3% | 65% |  |
 | 75 | 3% | 62% |  |

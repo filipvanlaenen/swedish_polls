@@ -11,7 +11,7 @@ Last result: **31.0%** (General Election of 14 September 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.7% | 21.1–27.9% | 20.2–28.5% | 19.6–28.9% | 18.6–29.5% |
-| [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 24.9% | 23.7–26.1% | 23.4–26.4% | 23.2–26.7% | 22.6–27.3% |
+| [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 24.9% | 23.8–26.1% | 23.5–26.4% | 23.2–26.7% | 22.6–27.3% |
 | [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 21.2% | 19.3–23.2% | 18.8–23.7% | 18.4–24.2% | 17.5–25.2% |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 23.7% | 22.9–24.5% | 22.7–24.7% | 22.5–24.9% | 22.1–25.3% |
 | [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 25.9% | 24.3–27.6% | 23.9–28.1% | 23.5–28.5% | 22.7–29.3% |
@@ -74,7 +74,7 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 7% | 93% |  |
 | 21.5–22.5% | 7% | 87% |  |
 | 22.5–23.5% | 11% | 80% |  |
-| 23.5–24.5% | 17% | 69% |  |
+| 23.5–24.5% | 16% | 70% |  |
 | 24.5–25.5% | 16% | 53% | Median |
 | 25.5–26.5% | 15% | 37% |  |
 | 26.5–27.5% | 10% | 22% |  |
@@ -93,7 +93,7 @@ Last result: **113** seats (General Election of 14 September 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 92 | 78–105 | 74–107 | 72–109 | 68–112 |
-| [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 90 | 85–95 | 84–97 | 83–98 | 81–101 |
+| [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 90 | 87–95 | 85–96 | 85–98 | 82–101 |
 | [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 79 | 72–88 | 70–90 | 68–92 | 65–96 |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 88 | 85–90 | 84–91 | 83–92 | 82–94 |
 | [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 98 | 90–106 | 88–108 | 88–109 | 84–111 |
@@ -107,7 +107,7 @@ Last result: **113** seats (General Election of 14 September 2014)
 | [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 92 | 86–99 | 84–102 | 83–103 | 81–105 |
 | [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 97 | 92–103 | 91–105 | 91–107 | 88–108 |
 | [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 89 | 85–92 | 85–93 | 84–94 | 82–97 |
-| [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 85 | 81–91 | 79–93 | 77–95 | 76–98 |
+| [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 86 | 80–92 | 79–94 | 77–95 | 76–98 |
 | [1–5 June 2018](2018-06-05-Sentio.html) | Sentio <br> Nyheter Idag | 80 | 75–86 | 73–89 | 71–90 | 67–94 |
 | [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 91 | 86–96 | 84–98 | 84–99 | 81–103 |
 | [27 April–29 May 2018](2018-05-29-SCB.html) | SCB | 105 | 102–110 | 101–112 | 100–113 | 98–116 |
@@ -172,17 +172,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 83 | 2% | 83% |  |
 | 84 | 2% | 81% |  |
 | 85 | 2% | 79% |  |
-| 86 | 2% | 76% |  |
-| 87 | 4% | 74% |  |
-| 88 | 6% | 70% |  |
-| 89 | 5% | 64% |  |
-| 90 | 5% | 60% |  |
-| 91 | 4% | 55% |  |
+| 86 | 2% | 77% |  |
+| 87 | 5% | 74% |  |
+| 88 | 5% | 69% |  |
+| 89 | 4% | 64% |  |
+| 90 | 4% | 60% |  |
+| 91 | 5% | 56% |  |
 | 92 | 4% | 52% | Median |
 | 93 | 3% | 48% |  |
-| 94 | 4% | 45% |  |
+| 94 | 3% | 44% |  |
 | 95 | 5% | 41% |  |
-| 96 | 3% | 37% |  |
+| 96 | 2% | 36% |  |
 | 97 | 2% | 34% |  |
 | 98 | 3% | 31% |  |
 | 99 | 3% | 28% |  |

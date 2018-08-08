@@ -88,7 +88,7 @@ Last result: **22** seats (General Election of 14 September 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 34 | 28–41 | 26–43 | 24–44 | 21–46 |
-| [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 34 | 32–38 | 31–38 | 30–39 | 29–42 |
+| [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 34 | 32–38 | 31–38 | 31–39 | 29–41 |
 | [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 26 | 22–32 | 21–33 | 20–34 | 19–36 |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 31 | 29–33 | 29–34 | 28–34 | 27–35 |
 | [20 June–21 July 2018](2018-07-21-SKOP.html) | SKOP | 39 | 34–43 | 33–44 | 31–45 | 30–48 |
@@ -102,7 +102,7 @@ Last result: **22** seats (General Election of 14 September 2014)
 | [7–18 June 2018](2018-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 39 | 34–43 | 33–44 | 33–45 | 31–47 |
 | [4–14 June 2018](2018-06-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 40 | 37–44 | 36–45 | 36–46 | 34–48 |
 | [14 May–6 June 2018](2018-06-06-Novus.html) | Novus <br> SVT | 33 | 31–35 | 31–36 | 30–36 | 29–38 |
-| [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 37 | 33–41 | 32–42 | 31–43 | 30–45 |
+| [29 May–6 June 2018](2018-06-06-Demoskop.html) | Demoskop <br> Expressen | 37 | 33–41 | 32–42 | 31–42 | 30–45 |
 | [1–5 June 2018](2018-06-05-Sentio.html) | Sentio <br> Nyheter Idag | 28 | 23–31 | 22–32 | 21–33 | 20–35 |
 | [21–30 May 2018](2018-05-30-Inizio.html) | Inizio <br> Aftonbladet | 36 | 33–39 | 31–40 | 31–41 | 29–42 |
 | [27 April–29 May 2018](2018-05-29-SCB.html) | SCB | 32 | 31–35 | 30–35 | 29–36 | 29–37 |
@@ -156,14 +156,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 2% | 93% |  |
 | 28 | 2% | 91% |  |
 | 29 | 3% | 90% |  |
-| 30 | 6% | 87% |  |
+| 30 | 5% | 87% |  |
 | 31 | 8% | 82% |  |
-| 32 | 9% | 74% |  |
-| 33 | 9% | 65% |  |
-| 34 | 8% | 56% | Median |
-| 35 | 6% | 49% |  |
-| 36 | 6% | 43% |  |
-| 37 | 7% | 37% |  |
+| 32 | 8% | 74% |  |
+| 33 | 10% | 65% |  |
+| 34 | 7% | 55% | Median |
+| 35 | 7% | 49% |  |
+| 36 | 5% | 42% |  |
+| 37 | 7% | 36% |  |
 | 38 | 5% | 30% |  |
 | 39 | 4% | 25% |  |
 | 40 | 8% | 21% |  |
