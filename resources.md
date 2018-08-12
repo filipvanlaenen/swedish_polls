@@ -31,6 +31,7 @@ The following websites provide similar information to this website:
 + [German EP Polls](https://filipvanlaenen.github.io/german_ep_polls/)
 + [Hungarian Polls](https://filipvanlaenen.github.io/hungarian_polls/) and [Hungarian EP Polls](https://filipvanlaenen.github.io/hungarian_ep_polls/)
 + [Icelandic Polls](https://filipvanlaenen.github.io/icelandic_polls/)
++ [Latvian Polls](https://filipvanlaenen.github.io/latvian_polls/) and [Latvian EP Polls](https://filipvanlaenen.github.io/latvian_ep_polls/)
 + [Norwegian Polls](https://filipvanlaenen.github.io/norwegian_polls/)
 + [Slovenian Polls](https://filipvanlaenen.github.io/slovenian_polls/) and [Slovenian EP Polls](https://filipvanlaenen.github.io/slovenian_ep_polls/)
 + [Swedish EP Polls](https://filipvanlaenen.github.io/swedish_ep_polls/)
