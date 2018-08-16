@@ -92,8 +92,8 @@ Last result: **21** seats (General Election of 14 September 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 35 | 29–44 | 27–49 | 27–52 | 25–58 |
-| [8–15 August 2018](2018-08-15-Demoskop.html) | Demoskop <br> Expressen | 33 | 29–35 | 28–36 | 28–38 | 26–40 |
-| [23 July–12 August 2018](2018-08-12-Novus.html) | Novus <br> SVT | 33 | 33–36 | 33–36 | 32–36 | 32–36 |
+| [8–15 August 2018](2018-08-15-Demoskop.html) | Demoskop <br> Expressen | 33 | 29–36 | 28–37 | 27–38 | 26–40 |
+| [23 July–12 August 2018](2018-08-12-Novus.html) | Novus <br> SVT | 36 | 33–38 | 33–38 | 32–39 | 31–40 |
 | [6–9 August 2018](2018-08-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 34 | 32–36 | 31–37 | 30–38 | 29–40 |
 | [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 32 | 29–35 | 28–35 | 28–37 | 27–38 |
 | [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 48 | 42–55 | 41–57 | 39–58 | 37–62 |
@@ -157,20 +157,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 0% | 100% |  |
 | 24 | 0.1% | 100% |  |
 | 25 | 0.7% | 99.9% |  |
-| 26 | 1.4% | 99.2% |  |
+| 26 | 1.3% | 99.2% |  |
 | 27 | 4% | 98% |  |
-| 28 | 4% | 94% |  |
-| 29 | 3% | 90% |  |
-| 30 | 4% | 87% |  |
-| 31 | 6% | 83% |  |
-| 32 | 6% | 77% |  |
-| 33 | 13% | 71% |  |
-| 34 | 6% | 58% |  |
-| 35 | 13% | 52% | Median |
-| 36 | 9% | 39% |  |
-| 37 | 5% | 30% |  |
-| 38 | 4% | 25% |  |
-| 39 | 2% | 21% |  |
+| 28 | 3% | 94% |  |
+| 29 | 5% | 90% |  |
+| 30 | 5% | 86% |  |
+| 31 | 5% | 81% |  |
+| 32 | 6% | 76% |  |
+| 33 | 10% | 70% |  |
+| 34 | 9% | 61% |  |
+| 35 | 11% | 52% | Median |
+| 36 | 8% | 41% |  |
+| 37 | 7% | 33% |  |
+| 38 | 5% | 26% |  |
+| 39 | 3% | 22% |  |
 | 40 | 2% | 19% |  |
 | 41 | 3% | 16% |  |
 | 42 | 2% | 14% |  |

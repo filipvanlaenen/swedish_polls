@@ -87,9 +87,9 @@ Last result: **19** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 15–23 | 0–25 | 0–26 | 0–28 |
-| [8–15 August 2018](2018-08-15-Demoskop.html) | Demoskop <br> Expressen | 17 | 16–21 | 15–22 | 0–22 | 0–23 |
-| [23 July–12 August 2018](2018-08-12-Novus.html) | Novus <br> SVT | 23 | 21–23 | 21–24 | 21–25 | 19–25 |
+| N/A | [Poll Average](average.html) | 19 | 15–24 | 0–25 | 0–26 | 0–28 |
+| [8–15 August 2018](2018-08-15-Demoskop.html) | Demoskop <br> Expressen | 18 | 15–21 | 15–21 | 0–22 | 0–23 |
+| [23 July–12 August 2018](2018-08-12-Novus.html) | Novus <br> SVT | 22 | 20–24 | 20–24 | 19–25 | 19–26 |
 | [6–9 August 2018](2018-08-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 22 | 21–24 | 20–25 | 19–26 | 18–27 |
 | [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 16 | 0–18 | 0–19 | 0–19 | 0–21 |
 | [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 17 | 0–22 | 0–23 | 0–24 | 0–26 |
@@ -163,17 +163,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 94% |  |
 | 13 | 0% | 94% |  |
 | 14 | 0.1% | 94% |  |
-| 15 | 4% | 94% |  |
-| 16 | 15% | 90% |  |
-| 17 | 10% | 75% |  |
-| 18 | 9% | 64% |  |
-| 19 | 6% | 55% | Last Result, Median |
-| 20 | 6% | 49% |  |
-| 21 | 14% | 44% |  |
-| 22 | 9% | 30% |  |
-| 23 | 11% | 20% |  |
+| 15 | 5% | 94% |  |
+| 16 | 10% | 89% |  |
+| 17 | 12% | 78% |  |
+| 18 | 10% | 67% |  |
+| 19 | 10% | 56% | Last Result, Median |
+| 20 | 7% | 46% |  |
+| 21 | 11% | 39% |  |
+| 22 | 11% | 28% |  |
+| 23 | 7% | 17% |  |
 | 24 | 4% | 10% |  |
-| 25 | 3% | 6% |  |
+| 25 | 2% | 6% |  |
 | 26 | 2% | 3% |  |
 | 27 | 0.9% | 2% |  |
 | 28 | 0.5% | 1.0% |  |

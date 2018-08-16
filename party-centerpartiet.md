@@ -90,9 +90,9 @@ Last result: **22** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35 | 29–42 | 26–42 | 24–43 | 21–46 |
-| [8–15 August 2018](2018-08-15-Demoskop.html) | Demoskop <br> Expressen | 41 | 35–43 | 35–45 | 35–45 | 33–48 |
-| [23 July–12 August 2018](2018-08-12-Novus.html) | Novus <br> SVT | 34 | 34–38 | 34–39 | 34–39 | 34–39 |
+| N/A | [Poll Average](average.html) | 35 | 29–42 | 26–43 | 24–44 | 21–47 |
+| [8–15 August 2018](2018-08-15-Demoskop.html) | Demoskop <br> Expressen | 41 | 37–44 | 36–46 | 35–47 | 34–48 |
+| [23 July–12 August 2018](2018-08-12-Novus.html) | Novus <br> SVT | 35 | 33–38 | 33–38 | 32–39 | 31–40 |
 | [6–9 August 2018](2018-08-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 38 | 35–42 | 34–42 | 33–43 | 32–44 |
 | [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 35 | 32–38 | 31–39 | 31–39 | 29–41 |
 | [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 26 | 22–31 | 21–33 | 20–34 | 18–37 |
@@ -166,22 +166,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 4% | 89% |  |
 | 31 | 5% | 85% |  |
 | 32 | 5% | 80% |  |
-| 33 | 7% | 75% |  |
-| 34 | 13% | 68% |  |
-| 35 | 6% | 55% | Median |
-| 36 | 7% | 49% |  |
-| 37 | 6% | 41% |  |
-| 38 | 8% | 35% |  |
-| 39 | 4% | 27% |  |
-| 40 | 5% | 23% |  |
-| 41 | 6% | 19% |  |
-| 42 | 9% | 13% |  |
-| 43 | 2% | 4% |  |
-| 44 | 1.2% | 2% |  |
-| 45 | 0.4% | 1.1% |  |
-| 46 | 0.3% | 0.7% |  |
-| 47 | 0.2% | 0.4% |  |
-| 48 | 0.1% | 0.2% |  |
+| 33 | 8% | 75% |  |
+| 34 | 8% | 67% |  |
+| 35 | 9% | 58% | Median |
+| 36 | 10% | 49% |  |
+| 37 | 9% | 39% |  |
+| 38 | 5% | 31% |  |
+| 39 | 4% | 25% |  |
+| 40 | 5% | 21% |  |
+| 41 | 6% | 16% |  |
+| 42 | 4% | 10% |  |
+| 43 | 3% | 6% |  |
+| 44 | 1.4% | 3% |  |
+| 45 | 0.6% | 2% |  |
+| 46 | 0.6% | 1.3% |  |
+| 47 | 0.4% | 0.7% |  |
+| 48 | 0.2% | 0.3% |  |
 | 49 | 0.1% | 0.1% |  |
 | 50 | 0% | 0% |  |
 
