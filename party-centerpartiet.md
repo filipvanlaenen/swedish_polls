@@ -92,10 +92,10 @@ Last result: **22** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35 | 30–41 | 28–42 | 26–43 | 23–47 |
+| N/A | [Poll Average](average.html) | 35 | 30–41 | 28–42 | 26–43 | 23–46 |
 | [13–16 August 2018](2018-08-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 34 | 32–37 | 31–37 | 31–38 | 29–39 |
 | [7–16 August 2018](2018-08-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 36 | 33–40 | 32–41 | 31–42 | 31–44 |
-| [8–15 August 2018](2018-08-15-Demoskop.html) | Demoskop <br> Expressen | 41 | 37–44 | 36–46 | 35–47 | 34–48 |
+| [8–15 August 2018](2018-08-15-Demoskop.html) | Demoskop <br> Expressen | 41 | 37–45 | 36–46 | 35–47 | 34–49 |
 | [9–14 August 2018](2018-08-14-Sentio.html) | Sentio <br> Nyheter Idag | 29 | 24–34 | 23–35 | 22–37 | 21–39 |
 | [23 July–12 August 2018](2018-08-12-Novus.html) | Novus <br> SVT | 35 | 35–38 | 33–38 | 32–38 | 32–40 |
 | [6–9 August 2018](2018-08-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 38 | 35–42 | 34–42 | 33–43 | 32–44 |
@@ -171,20 +171,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 33 | 8% | 73% |  |
 | 34 | 10% | 64% |  |
 | 35 | 15% | 54% | Median |
-| 36 | 8% | 39% |  |
-| 37 | 8% | 31% |  |
-| 38 | 5% | 23% |  |
-| 39 | 3% | 18% |  |
+| 36 | 8% | 40% |  |
+| 37 | 7% | 31% |  |
+| 38 | 5% | 24% |  |
+| 39 | 3% | 19% |  |
 | 40 | 4% | 15% |  |
-| 41 | 4% | 11% |  |
+| 41 | 5% | 11% |  |
 | 42 | 2% | 7% |  |
 | 43 | 2% | 4% |  |
-| 44 | 0.9% | 2% |  |
-| 45 | 0.5% | 1.5% |  |
+| 44 | 0.7% | 2% |  |
+| 45 | 0.7% | 2% |  |
 | 46 | 0.5% | 1.0% |  |
-| 47 | 0.3% | 0.6% |  |
-| 48 | 0.2% | 0.3% |  |
-| 49 | 0% | 0.1% |  |
+| 47 | 0.2% | 0.5% |  |
+| 48 | 0.1% | 0.2% |  |
+| 49 | 0.1% | 0.1% |  |
 | 50 | 0% | 0% |  |
 
 
