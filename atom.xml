@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_polls</id>
   <title>All Registered Polls for the Riksdagen</title>
-  <updated>2018-08-18T12:37:08.131893+02:00</updated>
+  <updated>2018-08-18T14:28:55.150802+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 23.8–26.7%, 85–97 seats</li><li>Moderata samlingspartiet: 18.1–20.7%, 65–76 seats</li><li>Sverigedemokraterna: 17.4–20.0%, 62–73 seats</li><li>Miljöpartiet de gröna: 5.7–7.4%, 21–27 seats</li><li>Centerpartiet: 8.6–10.5%, 31–38 seats</li><li>Vänsterpartiet: 8.4–10.3%, 30–37 seats</li><li>Liberalerna: 4.4–5.9%, 16–21 seats</li><li>Kristdemokraterna: 3.6–4.9%, 0–17 seats</li><li>Feministiskt initiativ: 0.7–1.4%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_polls/2018-08-16-Sifo.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_polls/2018-08-16-Sifo.html"/>
+    <title>Opinion Poll by Sifo for Svenska Dagbladet, 13–16 August 2018</title>
+    <updated>2018-08-18T14:28:55.150802+02:00</updated>
+    <dc:date>2018-08-18T14:28:55.150802+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 23.0–26.9%, 83–99 seats</li><li>Moderata samlingspartiet: 16.0–19.5%, 58–72 seats</li><li>Sverigedemokraterna: 17.3–20.9%, 62–77 seats</li><li>Miljöpartiet de gröna: 5.1–7.3%, 19–26 seats</li><li>Centerpartiet: 8.8–11.5%, 31–42 seats</li><li>Vänsterpartiet: 8.3–10.9%, 30–40 seats</li><li>Liberalerna: 4.9–7.1%, 18–26 seats</li><li>Kristdemokraterna: 3.2–5.0%, 0–18 seats</li><li>Feministiskt initiativ: 0.6–1.6%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_polls/2018-08-16-Ipsos.html</id>
@@ -415,5 +423,5 @@
     <updated>2018-07-04T20:04:52.246059+02:00</updated>
     <dc:date>2018-07-04T20:04:52.246059+02:00</dc:date>
   </entry>
-  <dc:date>2018-08-18T12:37:08.131893+02:00</dc:date>
+  <dc:date>2018-08-18T14:28:55.150802+02:00</dc:date>
 </feed>
