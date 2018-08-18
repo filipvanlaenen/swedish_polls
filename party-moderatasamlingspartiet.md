@@ -102,7 +102,7 @@ Last result: **84** seats (General Election of 14 September 2014)
 | [8–15 August 2018](2018-08-15-Demoskop.html) | Demoskop <br> Expressen | 73 | 68–79 | 66–79 | 65–80 | 63–84 |
 | [9–14 August 2018](2018-08-14-Sentio.html) | Sentio <br> Nyheter Idag | 73 | 66–82 | 64–84 | 61–86 | 59–91 |
 | [23 July–12 August 2018](2018-08-12-Novus.html) | Novus <br> SVT | 67 | 65–69 | 63–70 | 63–71 | 62–73 |
-| [6–9 August 2018](2018-08-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 76 | 73–78 | 71–79 | 70–80 | 67–82 |
+| [6–9 August 2018](2018-08-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 76 | 71–80 | 70–80 | 69–82 | 67–83 |
 | [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 74 | 70–79 | 69–80 | 68–81 | 66–84 |
 | [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 72 | 65–81 | 63–83 | 62–85 | 59–89 |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 72 | 70–75 | 69–76 | 69–77 | 67–78 |
