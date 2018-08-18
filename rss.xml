@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sat, 18 Aug 2018 12:57:00 +0200</pubDate>
+    <pubDate>Sat, 18 Aug 2018 14:28:55 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 13–16 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-08-16-Sifo.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 85–97 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 65–76 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 62–73 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 21–27 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 31–38 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 30–37 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 16–21 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0–17 seats&lt;/li&gt;&lt;li&gt;Feministiskt initiativ: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-08-16-Sifo-seats.png"
+        length="196399"
+        type="image/png"/>
+      <pubDate>Sat, 18 Aug 2018 14:28:55 +0200</pubDate>
+      <dc:date>2018-08-18T14:28:55.150802+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 13–16 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-08-16-Sifo.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-08-16-Sifo-coalitions-seats.png"
+        length="253121"
+        type="image/png"/>
+      <pubDate>Sat, 18 Aug 2018 14:28:55 +0200</pubDate>
+      <dc:date>2018-08-18T14:28:55.150802+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 13–16 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-08-16-Sifo.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-08-16-Sifo.png"
         length="217092"
         type="image/png"/>
-      <pubDate>Sat, 18 Aug 2018 12:57:00 +0200</pubDate>
-      <dc:date>2018-08-18T12:57:00.046531+02:00</dc:date>
+      <pubDate>Sat, 18 Aug 2018 14:28:55 +0200</pubDate>
+      <dc:date>2018-08-18T14:28:55.150802+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 7–16 August 2018 – Seat Projections for the Parties</title>
@@ -1569,6 +1589,6 @@
       <pubDate>Wed, 04 Jul 2018 20:04:52 +0200</pubDate>
       <dc:date>2018-07-04T20:04:52.246059+02:00</dc:date>
     </item>
-    <dc:date>2018-08-18T12:57:00.046531+02:00</dc:date>
+    <dc:date>2018-08-18T14:28:55.150802+02:00</dc:date>
   </channel>
 </rss>
