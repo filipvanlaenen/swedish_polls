@@ -5,6 +5,7 @@
 The following resources have been consulted in order to create this site:
 
 + Wikipedia page with opinion polls: "[Opinion polling for the Swedish general election, 2018](https://en.wikipedia.org/wiki/Opinion_polling_for_the_Swedish_general_election,_2018)"
++ Official results for the 2014 elections by Valmyndigheten: "[Röster – Val 2014](https://data.val.se/val/val2014/slutresultat/R/rike/index.html)"
 
 ## Similar Websites
 
