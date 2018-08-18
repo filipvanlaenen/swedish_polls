@@ -16,7 +16,7 @@ Last result: **12.9%** (General Election of 14 September 2014)
 | [8–15 August 2018](2018-08-15-Demoskop.html) | Demoskop <br> Expressen | 19.6% | 18.4–20.9% | 18.0–21.3% | 17.7–21.6% | 17.1–22.3% |
 | [9–14 August 2018](2018-08-14-Sentio.html) | Sentio <br> Nyheter Idag | 21.8% | 20.0–23.8% | 19.5–24.4% | 19.1–24.9% | 18.2–25.8% |
 | [23 July–12 August 2018](2018-08-12-Novus.html) | Novus <br> SVT | 21.4% | 20.6–22.2% | 20.3–22.4% | 20.2–22.6% | 19.8–23.0% |
-| [6–9 August 2018](2018-08-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 16.8% | 15.8–17.8% | 15.5–18.2% | 15.2–18.4% | 14.8–18.9% |
+| [6–9 August 2018](2018-08-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 16.8% | 15.8–17.8% | 15.5–18.1% | 15.3–18.4% | 14.8–18.9% |
 | [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 19.0% | 18.0–20.1% | 17.7–20.4% | 17.4–20.7% | 17.0–21.2% |
 | [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 25.5% | 23.5–27.6% | 22.9–28.2% | 22.5–28.7% | 21.5–29.8% |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 21.6% | 20.9–22.4% | 20.7–22.6% | 20.5–22.8% | 20.1–23.2% |
@@ -106,7 +106,7 @@ Last result: **49** seats (General Election of 14 September 2014)
 | [8–15 August 2018](2018-08-15-Demoskop.html) | Demoskop <br> Expressen | 71 | 67–77 | 66–80 | 64–80 | 63–84 |
 | [9–14 August 2018](2018-08-14-Sentio.html) | Sentio <br> Nyheter Idag | 83 | 75–91 | 72–93 | 71–95 | 67–100 |
 | [23 July–12 August 2018](2018-08-12-Novus.html) | Novus <br> SVT | 80 | 77–83 | 76–83 | 75–84 | 74–86 |
-| [6–9 August 2018](2018-08-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 63 | 59–65 | 58–67 | 57–68 | 54–70 |
+| [6–9 August 2018](2018-08-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 63 | 59–65 | 59–67 | 58–68 | 56–69 |
 | [25 July–2 August 2018](2018-08-02-Inizio.html) | Inizio <br> Aftonbladet | 69 | 65–73 | 64–74 | 63–77 | 61–79 |
 | [27 July–1 August 2018](2018-08-01-Sentio.html) | Sentio <br> Nyheter Idag | 97 | 88–106 | 86–108 | 84–111 | 80–114 |
 | [25 June–22 July 2018](2018-07-22-Novus.html) | Novus <br> SVT | 80 | 77–83 | 76–84 | 76–84 | 74–86 |
