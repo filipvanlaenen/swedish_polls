@@ -10,8 +10,10 @@ Last result: **4.6%** (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 2.9–4.9% | 2.7–5.4% | 2.6–5.7% | 2.4–6.1% |
+| N/A | [Poll Average](average.html) | 4.0% | 3.0–5.1% | 2.8–5.4% | 2.7–5.7% | 2.5–6.1% |
+| [16–22 August 2018](2018-08-22-SKOP.html) | SKOP | 4.6% | 4.1–5.3% | 3.9–5.5% | 3.8–5.6% | 3.6–5.9% |
 | [13–21 August 2018](2018-08-21-Novus.html) | Novus <br> SVT | 3.5% | 3.0–4.1% | 2.8–4.3% | 2.7–4.5% | 2.5–4.8% |
+| [17–20 August 2018](2018-08-20-YouGov.html) | YouGov <br> Metro | 3.8% | 3.2–4.5% | 3.1–4.7% | 2.9–4.9% | 2.7–5.2% |
 | [13–16 August 2018](2018-08-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 4.2% | 3.8–4.7% | 3.7–4.8% | 3.6–4.9% | 3.4–5.2% |
 | [7–16 August 2018](2018-08-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
 | [10–16 August 2018](2018-08-16-Inizio.html) | Inizio <br> Aftonbladet | 5.2% | 4.6–5.9% | 4.5–6.1% | 4.3–6.3% | 4.1–6.6% |
@@ -88,11 +90,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 36% | 98% |  |
-| 3.5–4.5% | 45% | 63% | Median |
-| 4.5–5.5% | 14% | 17% | Last Result |
-| 5.5–6.5% | 3% | 3% |  |
+| 1.5–2.5% | 1.0% | 100% |  |
+| 2.5–3.5% | 29% | 99.0% |  |
+| 3.5–4.5% | 47% | 70% | Median |
+| 4.5–5.5% | 20% | 23% | Last Result |
+| 5.5–6.5% | 4% | 4% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
@@ -105,8 +107,10 @@ Last result: **16** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–18 | 0–19 | 0–20 | 0–22 |
+| N/A | [Poll Average](average.html) | 14 | 0–19 | 0–20 | 0–20 | 0–22 |
+| [16–22 August 2018](2018-08-22-SKOP.html) | SKOP | 17 | 15–19 | 0–20 | 0–22 | 0–22 |
 | [13–21 August 2018](2018-08-21-Novus.html) | Novus <br> SVT | 0 | 0–15 | 0–15 | 0–16 | 0–17 |
+| [17–20 August 2018](2018-08-20-YouGov.html) | YouGov <br> Metro | 17 | 0–17 | 0–17 | 0–17 | 0–18 |
 | [13–16 August 2018](2018-08-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 15 | 0–17 | 0–17 | 0–17 | 0–19 |
 | [7–16 August 2018](2018-08-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0–17 | 0–17 | 0–18 | 0–19 |
 | [10–16 August 2018](2018-08-16-Inizio.html) | Inizio <br> Aftonbladet | 19 | 17–21 | 16–22 | 16–23 | 14–24 |
@@ -165,16 +169,16 @@ Last result: **16** seats (General Election of 14 September 2014)
 | [2–22 January 2018](2018-01-22-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [10–21 January 2018](2018-01-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0–15 |
 | [8–18 January 2018](2018-01-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
-| [12–16 January 2018](2018-01-16-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0 | 0 | 0 |
+| [12–16 January 2018](2018-01-16-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0 | 0–15 | 0–17 |
 | [12–15 January 2018](2018-01-15-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0 | 0 |
-| [2–9 January 2018](2018-01-09-Demoskop.html) | Demoskop <br> Expressen | 0 | 0 | 0 | 0 | 0–18 |
-| [3–8 January 2018](2018-01-08-Inizio.html) | Inizio <br> Aftonbladet | 17 | 0–20 | 0–20 | 0–20 | 0–20 |
+| [2–9 January 2018](2018-01-09-Demoskop.html) | Demoskop <br> Expressen | 0 | 0 | 0 | 0 | 0–16 |
+| [3–8 January 2018](2018-01-08-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–18 | 0–18 | 0–19 | 0–20 |
 | [27 November–21 December 2017](2017-12-21-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0–15 |
 | [15–18 December 2017](2017-12-18-YouGov.html) | YouGov <br> Metro | 0 | 0–15 | 0–16 | 0–16 | 0–18 |
 | [4–14 December 2017](2017-12-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
 | [6–14 December 2017](2017-12-14-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0–15 |
-| [1–6 December 2017](2017-12-06-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0 | 0–16 | 0–18 |
-| [28 November–5 December 2017](2017-12-05-Demoskop.html) | Demoskop <br> Expressen | 0 | 0 | 0–15 | 0–16 | 0–16 |
+| [1–6 December 2017](2017-12-06-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0–15 | 0–16 | 0–18 |
+| [28 November–5 December 2017](2017-12-05-Demoskop.html) | Demoskop <br> Expressen | 0 | 0 | 0 | 0 | 0–16 |
 
 ### Probability Mass Function
 
@@ -184,30 +188,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 61% | 100% | Median |
-| 1 | 0% | 39% |  |
-| 2 | 0% | 39% |  |
-| 3 | 0% | 39% |  |
-| 4 | 0% | 39% |  |
-| 5 | 0% | 39% |  |
-| 6 | 0% | 39% |  |
-| 7 | 0% | 39% |  |
-| 8 | 0% | 39% |  |
-| 9 | 0% | 39% |  |
-| 10 | 0% | 39% |  |
-| 11 | 0% | 39% |  |
-| 12 | 0% | 39% |  |
-| 13 | 0% | 39% |  |
-| 14 | 2% | 39% |  |
-| 15 | 13% | 37% |  |
-| 16 | 7% | 24% | Last Result |
-| 17 | 5% | 17% |  |
-| 18 | 3% | 12% |  |
-| 19 | 4% | 9% |  |
-| 20 | 2% | 4% |  |
+| 0 | 48% | 100% |  |
+| 1 | 0% | 52% |  |
+| 2 | 0% | 52% |  |
+| 3 | 0% | 52% |  |
+| 4 | 0% | 52% |  |
+| 5 | 0% | 52% |  |
+| 6 | 0% | 52% |  |
+| 7 | 0% | 52% |  |
+| 8 | 0% | 52% |  |
+| 9 | 0% | 52% |  |
+| 10 | 0% | 52% |  |
+| 11 | 0% | 52% |  |
+| 12 | 0% | 52% |  |
+| 13 | 0% | 52% |  |
+| 14 | 3% | 52% | Median |
+| 15 | 17% | 49% |  |
+| 16 | 6% | 32% | Last Result |
+| 17 | 11% | 26% |  |
+| 18 | 3% | 15% |  |
+| 19 | 7% | 12% |  |
+| 20 | 3% | 5% |  |
 | 21 | 2% | 2% |  |
-| 22 | 0.5% | 0.8% |  |
-| 23 | 0.2% | 0.4% |  |
+| 22 | 0.5% | 0.9% |  |
+| 23 | 0.3% | 0.4% |  |
 | 24 | 0.1% | 0.2% |  |
 | 25 | 0% | 0% |  |
 
