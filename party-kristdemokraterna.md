@@ -108,11 +108,11 @@ Last result: **16** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 0–19 | 0–22 | 0–22 | 0–22 |
-| [16–24 August 2018](2018-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 17 | 15–18 | 14–19 | 0–20 | 0–21 |
+| N/A | [Poll Average](average.html) | 15 | 0–19 | 0–20 | 0–21 | 0–22 |
+| [16–24 August 2018](2018-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 17 | 0–18 | 0–19 | 0–20 | 0–21 |
 | [16–22 August 2018](2018-08-22-SKOP.html) | SKOP | 17 | 15–19 | 0–20 | 0–20 | 0–22 |
 | [13–21 August 2018](2018-08-21-Novus.html) | Novus <br> SVT | 0 | 0–15 | 0–15 | 0–16 | 0–17 |
-| [17–20 August 2018](2018-08-20-YouGov.html) | YouGov <br> Metro | 0 | 0–16 | 0–17 | 0–18 | 0–19 |
+| [17–20 August 2018](2018-08-20-YouGov.html) | YouGov <br> Metro | 0 | 0–16 | 0–17 | 0–17 | 0–18 |
 | [13–16 August 2018](2018-08-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 15 | 0–17 | 0–17 | 0–17 | 0–19 |
 | [7–16 August 2018](2018-08-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0–17 | 0–17 | 0–18 | 0–19 |
 | [10–16 August 2018](2018-08-16-Inizio.html) | Inizio <br> Aftonbladet | 19 | 17–21 | 16–22 | 16–23 | 14–24 |
@@ -206,14 +206,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 53% |  |
 | 14 | 3% | 53% |  |
 | 15 | 11% | 51% | Median |
-| 16 | 9% | 39% | Last Result |
-| 17 | 8% | 30% |  |
-| 18 | 6% | 22% |  |
-| 19 | 7% | 17% |  |
-| 20 | 2% | 10% |  |
-| 21 | 2% | 7% |  |
-| 22 | 5% | 5% |  |
-| 23 | 0.3% | 0.5% |  |
+| 16 | 11% | 39% | Last Result |
+| 17 | 11% | 28% |  |
+| 18 | 6% | 17% |  |
+| 19 | 6% | 11% |  |
+| 20 | 3% | 5% |  |
+| 21 | 2% | 3% |  |
+| 22 | 0.6% | 1.0% |  |
+| 23 | 0.2% | 0.4% |  |
 | 24 | 0.1% | 0.2% |  |
 | 25 | 0% | 0% |  |
 
