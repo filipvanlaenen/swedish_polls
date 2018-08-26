@@ -120,8 +120,8 @@ Last result: **21** seats (General Election of 14 September 2014)
 | [17–20 August 2018](2018-08-20-YouGov.html) | YouGov <br> Metro | 34 | 30–37 | 29–38 | 29–39 | 27–41 |
 | [13–16 August 2018](2018-08-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 33 | 31–36 | 30–37 | 30–37 | 29–39 |
 | [7–16 August 2018](2018-08-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 35 | 32–38 | 31–39 | 30–40 | 29–42 |
-| [10–16 August 2018](2018-08-16-Inizio.html) | Inizio <br> Aftonbladet | 32 | 29–33 | 28–34 | 28–35 | 27–38 |
-| [8–15 August 2018](2018-08-15-Demoskop.html) | Demoskop <br> Expressen | 33 | 29–36 | 28–37 | 27–38 | 26–40 |
+| [10–16 August 2018](2018-08-16-Inizio.html) | Inizio <br> Aftonbladet | 31 | 28–33 | 28–35 | 27–37 | 26–38 |
+| [8–15 August 2018](2018-08-15-Demoskop.html) | Demoskop <br> Expressen | 32 | 29–36 | 28–37 | 27–38 | 26–40 |
 | [9–14 August 2018](2018-08-14-Sentio.html) | Sentio <br> Nyheter Idag | 40 | 35–46 | 33–48 | 32–49 | 30–55 |
 | [23 July–12 August 2018](2018-08-12-Novus.html) | Novus <br> SVT | 36 | 33–37 | 33–38 | 32–39 | 32–40 |
 | [6–9 August 2018](2018-08-09-Sifo.html) | Sifo <br> Svenska Dagbladet | 34 | 32–37 | 31–37 | 30–39 | 29–40 |
@@ -201,18 +201,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 0.1% | 100% |  |
 | 25 | 0.5% | 99.9% |  |
 | 26 | 0.9% | 99.4% |  |
-| 27 | 6% | 98.5% |  |
+| 27 | 7% | 98% |  |
 | 28 | 3% | 92% |  |
-| 29 | 6% | 89% |  |
-| 30 | 6% | 84% |  |
-| 31 | 8% | 78% |  |
-| 32 | 8% | 69% |  |
-| 33 | 14% | 61% | Median |
-| 34 | 14% | 47% |  |
-| 35 | 7% | 33% |  |
-| 36 | 8% | 26% |  |
+| 29 | 5% | 89% |  |
+| 30 | 8% | 84% |  |
+| 31 | 11% | 77% |  |
+| 32 | 8% | 66% |  |
+| 33 | 13% | 58% | Median |
+| 34 | 12% | 46% |  |
+| 35 | 8% | 34% |  |
+| 36 | 9% | 26% |  |
 | 37 | 4% | 18% |  |
-| 38 | 5% | 14% |  |
+| 38 | 5% | 13% |  |
 | 39 | 2% | 9% |  |
 | 40 | 2% | 7% |  |
 | 41 | 1.2% | 5% |  |

@@ -109,7 +109,7 @@ Last result: **16** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 0–19 | 0–20 | 0–21 | 0–23 |
+| N/A | [Poll Average](average.html) | 15 | 0–19 | 0–20 | 0–21 | 0–22 |
 | [16–24 August 2018](2018-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 17 | 0–18 | 0–19 | 0–20 | 0–21 |
 | [20–23 August 2018](2018-08-23-Sifo.html) | Sifo <br> Svenska Dagbladet | 17 | 15–19 | 15–19 | 15–19 | 0–20 |
 | [16–22 August 2018](2018-08-22-SKOP.html) | SKOP | 17 | 15–19 | 0–20 | 0–20 | 0–22 |
@@ -117,7 +117,7 @@ Last result: **16** seats (General Election of 14 September 2014)
 | [17–20 August 2018](2018-08-20-YouGov.html) | YouGov <br> Metro | 0 | 0–16 | 0–17 | 0–17 | 0–18 |
 | [13–16 August 2018](2018-08-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 15 | 0–17 | 0–17 | 0–17 | 0–19 |
 | [7–16 August 2018](2018-08-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0–17 | 0–17 | 0–18 | 0–19 |
-| [10–16 August 2018](2018-08-16-Inizio.html) | Inizio <br> Aftonbladet | 20 | 17–22 | 16–22 | 16–23 | 15–25 |
+| [10–16 August 2018](2018-08-16-Inizio.html) | Inizio <br> Aftonbladet | 19 | 17–21 | 16–22 | 16–23 | 14–24 |
 | [8–15 August 2018](2018-08-15-Demoskop.html) | Demoskop <br> Expressen | 0 | 0–15 | 0–16 | 0–17 | 0–18 |
 | [9–14 August 2018](2018-08-14-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–18 | 0–19 | 0–20 | 0–22 |
 | [23 July–12 August 2018](2018-08-12-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
@@ -206,16 +206,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 55% |  |
 | 12 | 0% | 55% |  |
 | 13 | 0% | 55% |  |
-| 14 | 1.0% | 55% |  |
+| 14 | 1.3% | 55% |  |
 | 15 | 8% | 54% | Median |
 | 16 | 13% | 46% | Last Result |
-| 17 | 12% | 33% |  |
+| 17 | 13% | 33% |  |
 | 18 | 8% | 21% |  |
-| 19 | 5% | 13% |  |
-| 20 | 4% | 7% |  |
-| 21 | 1.3% | 3% |  |
-| 22 | 0.9% | 1.5% |  |
-| 23 | 0.4% | 0.6% |  |
+| 19 | 6% | 12% |  |
+| 20 | 4% | 6% |  |
+| 21 | 2% | 3% |  |
+| 22 | 0.6% | 1.1% |  |
+| 23 | 0.3% | 0.5% |  |
 | 24 | 0.1% | 0.2% |  |
 | 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
