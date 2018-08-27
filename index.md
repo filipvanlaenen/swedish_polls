@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | S | M | SD | MP | C | V | L | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 14 September 2014 | General Election | 31.0% <br> 113 | 23.3% <br> 84 | 12.9% <br> 49 | 6.9% <br> 25 | 6.1% <br> 22 | 5.7% <br> 21 | 5.4% <br> 19 | 4.6% <br> 16 | 3.1% <br> 0 |
-| N/A | [Poll Average](average.html) | 21–29% <br> 74–108 | 15–23% <br> 54–87 | 18–25% <br> 65–94 | 4–7% <br> 0–27 | 7–12% <br> 25–43 | 7–12% <br> 27–44 | 4–7% <br> 0–25 | 3–6% <br> 0–19 | 1–3% <br> 0 |
-| [21–26 August 2018](2018-08-26-Sifo.html) | Sifo <br> Svenska Dagbladet | 24–28% <br> N/A | 16–20% <br> N/A | 17–20% <br> N/A | 5–7% <br> N/A | 8–11% <br> N/A | 8–10% <br> N/A | 5–7% <br> N/A | 5–7% <br> N/A | N/A <br> N/A |
-| [22–26 August 2018](2018-08-26-Inizio.html) | Inizio <br> Aftonbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 21–29% <br> 75–108 | 15–23% <br> 55–87 | 18–25% <br> 63–93 | 4–7% <br> 0–27 | 7–12% <br> 25–43 | 7–12% <br> 27–43 | 4–7% <br> 0–25 | 3–6% <br> 0–22 | 1–3% <br> 0 |
+| [21–26 August 2018](2018-08-26-Sifo.html) | Sifo <br> Svenska Dagbladet | 25–28% <br> 85–100 | 16–19% <br> 58–69 | 17–20% <br> 62–72 | 5–7% <br> 17–24 | 8–10% <br> 28–39 | 8–10% <br> 29–37 | 5–7% <br> 18–23 | 5–6% <br> 16–23 | N/A <br> N/A |
+| [22–26 August 2018](2018-08-26-Inizio.html) | Inizio <br> Aftonbladet | 23–25% <br> 80–90 | 19–22% <br> 69–77 | 17–20% <br> 64–72 | 5–7% <br> 19–24 | 8–10% <br> 28–35 | 8–10% <br> 28–35 | 4–6% <br> 17–20 | 5–7% <br> 17–23 | 1–2% <br> 0 |
 | [16–24 August 2018](2018-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 24–28% <br> 87–102 | 15–19% <br> 55–68 | 18–21% <br> 63–77 | 5–7% <br> 18–26 | 8–10% <br> 27–37 | 9–11% <br> 31–40 | 4–7% <br> 15–23 | 4–6% <br> 0–20 | N/A <br> N/A |
 | [16–22 August 2018](2018-08-22-SKOP.html) | SKOP | 23–26% <br> 82–96 | 16–19% <br> 56–69 | 18–22% <br> 68–81 | 5–7% <br> 18–25 | 7–9% <br> 26–35 | 8–11% <br> 29–38 | 5–7% <br> 19–27 | 4–6% <br> 0–20 | 1–2% <br> 0 |
 | [13–21 August 2018](2018-08-21-Novus.html) | Novus <br> SVT | 23–27% <br> 83–99 | 17–21% <br> 64–77 | 17–21% <br> 64–78 | 5–7% <br> 19–27 | 9–12% <br> 32–42 | 7–10% <br> 28–37 | 4–6% <br> 16–24 | 3–4% <br> 0–16 | N/A <br> N/A |
