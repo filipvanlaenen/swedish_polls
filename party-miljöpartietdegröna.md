@@ -116,10 +116,10 @@ Last result: **25** seats (General Election of 14 September 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 17–24 | 16–25 | 15–27 | 0–28 |
-| [25–28 August 2018](2018-08-28-Sifo.html) | Sifo <br> Svenska Dagbladet | 21 | 21 | 20–21 | 20–21 | 17–21 |
-| [21–28 August 2018](2018-08-28-SKOP.html) | SKOP | 23 | 18–23 | 18–23 | 18–23 | 17–24 |
+| [25–28 August 2018](2018-08-28-Sifo.html) | Sifo <br> Svenska Dagbladet | 19 | 17–21 | 17–22 | 16–22 | 15–23 |
+| [21–28 August 2018](2018-08-28-SKOP.html) | SKOP | 19 | 18–22 | 17–23 | 17–23 | 17–24 |
 | [22–27 August 2018](2018-08-27-Sifo.html) | Sifo <br> Svenska Dagbladet | 20 | 18–22 | 17–22 | 17–23 | 16–24 |
-| [20–27 August 2018](2018-08-27-SKOP.html) | SKOP | 18 | 16–21 | 16–21 | 16–21 | 15–22 |
+| [20–27 August 2018](2018-08-27-SKOP.html) | SKOP | 18 | 16–19 | 16–20 | 16–20 | 15–22 |
 | [21–26 August 2018](2018-08-26-Sifo.html) | Sifo <br> Svenska Dagbladet | 21 | 19–23 | 18–24 | 18–24 | 17–25 |
 | [22–26 August 2018](2018-08-26-Inizio.html) | Inizio <br> Aftonbladet | 21 | 19–23 | 19–23 | 18–24 | 17–25 |
 | [16–24 August 2018](2018-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 22 | 19–24 | 19–25 | 18–26 | 17–27 |
@@ -221,14 +221,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.1% | 98% |  |
 | 15 | 2% | 98% |  |
 | 16 | 4% | 96% |  |
-| 17 | 4% | 92% |  |
-| 18 | 5% | 89% |  |
-| 19 | 7% | 84% |  |
-| 20 | 9% | 77% |  |
-| 21 | 22% | 68% | Median |
-| 22 | 22% | 46% |  |
-| 23 | 9% | 24% |  |
-| 24 | 6% | 16% |  |
+| 17 | 6% | 92% |  |
+| 18 | 12% | 86% |  |
+| 19 | 12% | 74% |  |
+| 20 | 11% | 62% |  |
+| 21 | 13% | 50% | Median |
+| 22 | 12% | 37% |  |
+| 23 | 10% | 25% |  |
+| 24 | 6% | 15% |  |
 | 25 | 4% | 9% | Last Result |
 | 26 | 2% | 5% |  |
 | 27 | 2% | 3% |  |
