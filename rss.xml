@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Wed, 29 Aug 2018 20:32:23 +0200</pubDate>
+    <pubDate>Wed, 29 Aug 2018 22:23:26 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 25–28 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-08-28-Sifo.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-08-28-Sifo.png"
         length="220351"
         type="image/png"/>
-      <pubDate>Wed, 29 Aug 2018 19:13:08 +0200</pubDate>
-      <dc:date>2018-08-29T19:13:08.840907+02:00</dc:date>
+      <pubDate>Wed, 29 Aug 2018 21:14:44 +0200</pubDate>
+      <dc:date>2018-08-29T21:14:44.849662+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKOP, 21–28 August 2018 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-08-28-SKOP.png"
         length="225046"
         type="image/png"/>
-      <pubDate>Wed, 29 Aug 2018 20:32:23 +0200</pubDate>
-      <dc:date>2018-08-29T20:32:23.363279+02:00</dc:date>
+      <pubDate>Wed, 29 Aug 2018 20:55:16 +0200</pubDate>
+      <dc:date>2018-08-29T20:55:16.301495+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 22–27 August 2018 – Seat Projections for the Parties</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-08-27-SKOP.png"
         length="221004"
         type="image/png"/>
-      <pubDate>Wed, 29 Aug 2018 20:08:35 +0200</pubDate>
-      <dc:date>2018-08-29T20:08:35.014713+02:00</dc:date>
+      <pubDate>Wed, 29 Aug 2018 22:23:26 +0200</pubDate>
+      <dc:date>2018-08-29T22:23:26.41092+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 21–26 August 2018 – Voting Intentions</title>
@@ -2159,6 +2159,6 @@
       <pubDate>Thu, 23 Aug 2018 18:11:04 +0200</pubDate>
       <dc:date>2018-08-23T18:11:04.552912+02:00</dc:date>
     </item>
-    <dc:date>2018-08-29T20:32:23.363279+02:00</dc:date>
+    <dc:date>2018-08-29T22:23:26.41092+02:00</dc:date>
   </channel>
 </rss>
