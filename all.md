@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | MP | C | V | L | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 14 September 2014 | General Election | 31.0% <br> 113 | 23.3% <br> 84 | 12.9% <br> 49 | 6.9% <br> 25 | 6.1% <br> 22 | 5.7% <br> 21 | 5.4% <br> 19 | 4.6% <br> 16 | 3.1% <br> 0 |
+| [22–27 August 2018](2018-08-27-Sifo.html) | Sifo <br> Svenska Dagbladet | 24–28% <br> 87–99 | 17–20% <br> 61–70 | 17–20% <br> 62–73 | 5–6% <br> 17–23 | 7–10% <br> 27–34 | 8–11% <br> 30–37 | 4–6% <br> 16–22 | 5–7% <br> 19–26 | N/A <br> N/A |
 | [21–26 August 2018](2018-08-26-Sifo.html) | Sifo <br> Svenska Dagbladet | 25–28% <br> 86–100 | 16–19% <br> 58–69 | 17–20% <br> 61–71 | 5–7% <br> 18–24 | 8–10% <br> 29–37 | 8–10% <br> 29–37 | 5–7% <br> 18–24 | 5–6% <br> 16–23 | N/A <br> N/A |
 | [22–26 August 2018](2018-08-26-Inizio.html) | Inizio <br> Aftonbladet | 23–25% <br> 80–90 | 19–22% <br> 69–77 | 17–20% <br> 64–72 | 5–7% <br> 19–24 | 8–10% <br> 28–35 | 8–10% <br> 28–35 | 4–6% <br> 17–20 | 5–7% <br> 17–23 | 1–2% <br> 0 |
 | [16–24 August 2018](2018-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 24–28% <br> 87–102 | 15–19% <br> 55–68 | 18–21% <br> 63–77 | 5–7% <br> 18–26 | 8–10% <br> 27–37 | 9–11% <br> 31–40 | 4–7% <br> 15–23 | 4–6% <br> 0–20 | N/A <br> N/A |
@@ -68,7 +69,7 @@ The table below lists all polls registered and analyzed so far.
 | [30 January–5 February 2018](2018-02-05-Inizio.html) | Inizio <br> Aftonbladet | 27–30% <br> 101–120 | 23–26% <br> 87–105 | 14–17% <br> 54–67 | 3–4% <br> 0 | 8–11% <br> 32–42 | 6–8% <br> 23–31 | 3–5% <br> 0–19 | 3–5% <br> 0–19 | 2–3% <br> 0 |
 | [11 January–2 February 2018](2018-02-02-SKOP.html) | SKOP | 25–29% <br> 92–113 | 23–27% <br> 86–105 | 14–17% <br> 51–67 | 2–4% <br> 0–15 | 9–12% <br> 34–47 | 6–9% <br> 24–35 | 4–6% <br> 0–24 | 3–5% <br> 0–17 | 1–3% <br> 0 |
 | [2–22 January 2018](2018-01-22-Novus.html) | Novus <br> SVT | 27–30% <br> 102–115 | 22–25% <br> 83–95 | 15–18% <br> 56–67 | 4–5% <br> 0–18 | 8–10% <br> 30–38 | 7–8% <br> 25–32 | 4–6% <br> 16–21 | 2–3% <br> 0 | N/A <br> N/A |
-| [10–21 January 2018](2018-01-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 26–30% <br> 97–115 | 23–27% <br> 86–103 | 14–18% <br> 54–66 | 3–5% <br> 0–19 | 8–11% <br> 30–39 | 6–8% <br> 22–32 | 4–6% <br> 15–23 | 2–4% <br> 0 | 1–3% <br> 0 |
+| [10–21 January 2018](2018-01-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 26–30% <br> 96–115 | 23–27% <br> 86–103 | 14–18% <br> 54–68 | 3–5% <br> 0–19 | 8–11% <br> 29–41 | 6–8% <br> 22–32 | 4–6% <br> 15–23 | 2–4% <br> 0 | 1–3% <br> 0 |
 | [8–18 January 2018](2018-01-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 26–30% <br> 97–113 | 23–26% <br> 84–100 | 15–18% <br> 55–67 | 3–5% <br> 0–18 | 8–10% <br> 29–39 | 7–9% <br> 25–34 | 4–6% <br> 16–23 | 2–4% <br> 0 | 2–3% <br> 0 |
 | [12–16 January 2018](2018-01-16-Sentio.html) | Sentio <br> Nyheter Idag | 25–30% <br> 95–119 | 18–22% <br> 69–89 | 20–25% <br> 78–98 | 3–5% <br> 0–19 | 7–10% <br> 28–40 | 6–9% <br> 23–34 | 3–5% <br> 0–18 | 2–4% <br> 0–15 | 2–4% <br> 0 |
 | [12–15 January 2018](2018-01-15-YouGov.html) | YouGov <br> Metro | 24–29% <br> 90–113 | 19–23% <br> 70–91 | 18–23% <br> 70–90 | 3–6% <br> 0–22 | 8–11% <br> 29–42 | 6–10% <br> 24–37 | 3–5% <br> 0–19 | 2–4% <br> 0 | 1–3% <br> 0 |
