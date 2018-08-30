@@ -118,10 +118,10 @@ Last result: **25** seats (General Election of 14 September 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 17–24 | 16–25 | 15–26 | 0–28 |
-| [27–29 August 2018](2018-08-29-Sifo.html) | Sifo <br> Svenska Dagbladet | 21 | 19–23 | 19–24 | 18–24 | 17–25 |
+| [27–29 August 2018](2018-08-29-Sifo.html) | Sifo <br> Svenska Dagbladet | 21 | 19–23 | 18–24 | 18–24 | 17–25 |
 | [25–28 August 2018](2018-08-28-Sifo.html) | Sifo <br> Svenska Dagbladet | 18 | 17–20 | 16–21 | 16–21 | 15–23 |
 | [21–28 August 2018](2018-08-28-SKOP.html) | SKOP | 19 | 18–22 | 17–23 | 17–23 | 16–25 |
-| [22–28 August 2018](2018-08-28-Novus.html) | Novus <br> SVT | 20 | 18–23 | 17–24 | 17–25 | 16–26 |
+| [22–28 August 2018](2018-08-28-Novus.html) | Novus <br> SVT | 21 | 18–23 | 17–24 | 17–25 | 16–26 |
 | [22–27 August 2018](2018-08-27-Sifo.html) | Sifo <br> Svenska Dagbladet | 20 | 18–22 | 17–22 | 17–23 | 16–24 |
 | [20–27 August 2018](2018-08-27-SKOP.html) | SKOP | 18 | 16–20 | 16–20 | 15–20 | 0–22 |
 | [21–26 August 2018](2018-08-26-Sifo.html) | Sifo <br> Svenska Dagbladet | 21 | 19–23 | 18–24 | 18–24 | 17–25 |
@@ -227,11 +227,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 4% | 96% |  |
 | 17 | 5% | 92% |  |
 | 18 | 11% | 87% |  |
-| 19 | 11% | 77% |  |
-| 20 | 12% | 65% |  |
-| 21 | 18% | 53% | Median |
+| 19 | 12% | 77% |  |
+| 20 | 13% | 65% |  |
+| 21 | 17% | 52% | Median |
 | 22 | 13% | 35% |  |
-| 23 | 10% | 23% |  |
+| 23 | 11% | 23% |  |
 | 24 | 6% | 12% |  |
 | 25 | 3% | 6% | Last Result |
 | 26 | 2% | 4% |  |

@@ -123,10 +123,10 @@ Last result: **84** seats (General Election of 14 September 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 65 | 57–76 | 55–78 | 54–79 | 51–85 |
-| [27–29 August 2018](2018-08-29-Sifo.html) | Sifo <br> Svenska Dagbladet | 63 | 59–67 | 59–67 | 58–69 | 57–71 |
+| [27–29 August 2018](2018-08-29-Sifo.html) | Sifo <br> Svenska Dagbladet | 63 | 60–67 | 59–67 | 58–69 | 57–70 |
 | [25–28 August 2018](2018-08-28-Sifo.html) | Sifo <br> Svenska Dagbladet | 63 | 60–65 | 59–66 | 58–67 | 56–70 |
 | [21–28 August 2018](2018-08-28-SKOP.html) | SKOP | 59 | 55–62 | 54–63 | 53–63 | 52–66 |
-| [22–28 August 2018](2018-08-28-Novus.html) | Novus <br> SVT | 69 | 64–74 | 64–76 | 63–77 | 61–79 |
+| [22–28 August 2018](2018-08-28-Novus.html) | Novus <br> SVT | 69 | 65–74 | 64–76 | 63–77 | 61–79 |
 | [22–27 August 2018](2018-08-27-Sifo.html) | Sifo <br> Svenska Dagbladet | 65 | 62–69 | 61–70 | 60–70 | 59–72 |
 | [20–27 August 2018](2018-08-27-SKOP.html) | SKOP | 60 | 57–62 | 55–64 | 54–64 | 54–65 |
 | [21–26 August 2018](2018-08-26-Sifo.html) | Sifo <br> Svenska Dagbladet | 64 | 60–67 | 59–69 | 58–69 | 57–71 |
@@ -231,18 +231,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 63 | 4% | 64% |  |
 | 64 | 5% | 59% |  |
 | 65 | 5% | 55% | Median |
-| 66 | 3% | 49% |  |
-| 67 | 3% | 46% |  |
-| 68 | 3% | 43% |  |
+| 66 | 3% | 50% |  |
+| 67 | 3% | 47% |  |
+| 68 | 4% | 44% |  |
 | 69 | 3% | 40% |  |
 | 70 | 5% | 37% |  |
 | 71 | 4% | 32% |  |
-| 72 | 4% | 28% |  |
-| 73 | 6% | 24% |  |
-| 74 | 4% | 18% |  |
+| 72 | 4% | 27% |  |
+| 73 | 6% | 23% |  |
+| 74 | 4% | 17% |  |
 | 75 | 3% | 14% |  |
 | 76 | 3% | 11% |  |
-| 77 | 3% | 8% |  |
+| 77 | 2% | 8% |  |
 | 78 | 1.3% | 5% |  |
 | 79 | 2% | 4% |  |
 | 80 | 0.5% | 2% |  |
