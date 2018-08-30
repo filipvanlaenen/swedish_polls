@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Thu, 30 Aug 2018 20:26:50 +0200</pubDate>
+    <pubDate>Thu, 30 Aug 2018 21:53:39 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 27–29 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-08-29-Sifo.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-08-29-Sifo.png"
         length="208623"
         type="image/png"/>
-      <pubDate>Thu, 30 Aug 2018 19:28:50 +0200</pubDate>
-      <dc:date>2018-08-30T19:28:50.56688+02:00</dc:date>
+      <pubDate>Thu, 30 Aug 2018 21:53:39 +0200</pubDate>
+      <dc:date>2018-08-30T21:53:39.392984+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 25–28 August 2018 – Seat Projections for the Parties</title>
@@ -60,14 +60,34 @@
       <dc:date>2018-08-30T06:57:22.479104+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Novus for SVT, 22–28 August 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-08-28-Novus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 79–94 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 63–77 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 58–72 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 17–25 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 24–34 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 31–42 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 18–27 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 15–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-08-28-Novus-seats.png"
+        length="191404"
+        type="image/png"/>
+      <pubDate>Thu, 30 Aug 2018 21:33:46 +0200</pubDate>
+      <dc:date>2018-08-30T21:33:46.919537+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 22–28 August 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-08-28-Novus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-08-28-Novus-coalitions-seats.png"
+        length="292353"
+        type="image/png"/>
+      <pubDate>Thu, 30 Aug 2018 21:33:46 +0200</pubDate>
+      <dc:date>2018-08-30T21:33:46.919537+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Novus for SVT, 22–28 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-08-28-Novus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.2–26.4%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.6–21.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 16.4–20.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 4.7–7.0%&lt;/li&gt;&lt;li&gt;Centerpartiet: 6.8–9.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.7–11.7%&lt;/li&gt;&lt;li&gt;Liberalerna: 5.1–7.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.3–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-08-28-Novus.png"
         length="220514"
         type="image/png"/>
-      <pubDate>Thu, 30 Aug 2018 20:26:50 +0200</pubDate>
-      <dc:date>2018-08-30T20:26:50.130117+02:00</dc:date>
+      <pubDate>Thu, 30 Aug 2018 21:33:46 +0200</pubDate>
+      <dc:date>2018-08-30T21:33:46.919537+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 22–27 August 2018 – Seat Projections for the Parties</title>
@@ -2199,6 +2219,6 @@
       <pubDate>Thu, 23 Aug 2018 18:11:04 +0200</pubDate>
       <dc:date>2018-08-23T18:11:04.552912+02:00</dc:date>
     </item>
-    <dc:date>2018-08-30T20:26:50.130117+02:00</dc:date>
+    <dc:date>2018-08-30T21:53:39.392984+02:00</dc:date>
   </channel>
 </rss>
