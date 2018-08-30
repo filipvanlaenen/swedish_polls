@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_polls</id>
   <title>All Registered Polls for the Riksdagen</title>
-  <updated>2018-08-29T20:26:59.195124+02:00</updated>
+  <updated>2018-08-30T19:59:15.583135+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 23.7–26.8%, 84–95 seats</li><li>Moderata samlingspartiet: 16.2–19.0%, 58–67 seats</li><li>Sverigedemokraterna: 17.8–20.7%, 64–73 seats</li><li>Miljöpartiet de gröna: 4.4–6.1%, 16–21 seats</li><li>Centerpartiet: 7.9–10.0%, 28–35 seats</li><li>Vänsterpartiet: 9.4–11.7%, 34–41 seats</li><li>Liberalerna: 4.7–6.4%, 17–23 seats</li><li>Kristdemokraterna: 4.9–6.6%, 17–23 seats</li><li>Feministiskt initiativ: 0.7–1.4%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_polls/2018-08-28-Sifo.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_polls/2018-08-28-Sifo.html"/>
+    <title>Opinion Poll by Sifo for Svenska Dagbladet, 25–28 August 2018</title>
+    <updated>2018-08-30T19:59:15.583135+02:00</updated>
+    <dc:date>2018-08-30T19:59:15.583135+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 24.3–27.6%, 87–98 seats</li><li>Moderata samlingspartiet: 16.9–19.8%, 60–70 seats</li><li>Sverigedemokraterna: 17.4–20.3%, 62–72 seats</li><li>Miljöpartiet de gröna: 4.7–6.5%, 17–23 seats</li><li>Centerpartiet: 7.5–9.6%, 27–34 seats</li><li>Vänsterpartiet: 8.4–10.7%, 30–38 seats</li><li>Liberalerna: 4.5–6.2%, 16–22 seats</li><li>Kristdemokraterna: 5.3–7.1%, 19–25 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_polls/2018-08-27-Sifo.html</id>
@@ -551,5 +559,5 @@
     <updated>2018-08-23T18:11:04.552912+02:00</updated>
     <dc:date>2018-08-23T18:11:04.552912+02:00</dc:date>
   </entry>
-  <dc:date>2018-08-29T20:26:59.195124+02:00</dc:date>
+  <dc:date>2018-08-30T19:59:15.583135+02:00</dc:date>
 </feed>
