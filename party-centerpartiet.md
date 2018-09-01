@@ -123,8 +123,8 @@ Last result: **22** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31 | 27–35 | 26–36 | 25–38 | 23–40 |
-| [28–30 August 2018](2018-08-30-Sifo.html) | Sifo <br> Svenska Dagbladet | 35 | 32–36 | 31–38 | 31–38 | 30–39 |
+| N/A | [Poll Average](average.html) | 31 | 27–35 | 26–37 | 25–38 | 23–40 |
+| [28–30 August 2018](2018-08-30-Sifo.html) | Sifo <br> Svenska Dagbladet | 34 | 31–37 | 31–37 | 31–38 | 29–39 |
 | [25–30 August 2018](2018-08-30-Inizio.html) | Inizio <br> Aftonbladet | 31 | 28–33 | 27–34 | 27–35 | 26–36 |
 | [23–30 August 2018](2018-08-30-Demoskop.html) | Demoskop <br> Expressen | 34 | 31–38 | 30–39 | 29–40 | 28–42 |
 | [27–29 August 2018](2018-08-29-Sifo.html) | Sifo <br> Svenska Dagbladet | 32 | 29–35 | 29–35 | 28–36 | 27–37 |
@@ -202,7 +202,7 @@ Last result: **22** seats (General Election of 14 September 2014)
 | [12–16 January 2018](2018-01-16-Sentio.html) | Sentio <br> Nyheter Idag | 34 | 30–38 | 29–40 | 28–40 | 26–43 |
 | [12–15 January 2018](2018-01-15-YouGov.html) | YouGov <br> Metro | 35 | 31–40 | 30–41 | 29–42 | 28–44 |
 | [2–9 January 2018](2018-01-09-Demoskop.html) | Demoskop <br> Expressen | 34 | 30–38 | 29–38 | 29–39 | 27–43 |
-| [3–8 January 2018](2018-01-08-Inizio.html) | Inizio <br> Aftonbladet | 39 | 39–42 | 34–42 | 34–42 | 32–43 |
+| [3–8 January 2018](2018-01-08-Inizio.html) | Inizio <br> Aftonbladet | 39 | 36–42 | 33–43 | 33–45 | 32–45 |
 | [27 November–21 December 2017](2017-12-21-Novus.html) | Novus <br> SVT | 36 | 33–38 | 33–40 | 33–40 | 32–41 |
 | [15–18 December 2017](2017-12-18-YouGov.html) | YouGov <br> Metro | 31 | 27–34 | 26–35 | 26–36 | 24–38 |
 | [4–14 December 2017](2017-12-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 38 | 34–42 | 34–42 | 33–44 | 32–45 |
@@ -227,18 +227,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 26 | 4% | 96% |  |
 | 27 | 9% | 92% |  |
 | 28 | 8% | 82% |  |
-| 29 | 11% | 75% |  |
+| 29 | 12% | 75% |  |
 | 30 | 10% | 63% |  |
 | 31 | 11% | 53% | Median |
 | 32 | 11% | 42% |  |
-| 33 | 9% | 32% |  |
+| 33 | 9% | 31% |  |
 | 34 | 7% | 22% |  |
-| 35 | 6% | 16% |  |
-| 36 | 5% | 9% |  |
-| 37 | 2% | 5% |  |
-| 38 | 2% | 3% |  |
+| 35 | 5% | 15% |  |
+| 36 | 4% | 9% |  |
+| 37 | 3% | 5% |  |
+| 38 | 1.5% | 3% |  |
 | 39 | 0.7% | 1.2% |  |
-| 40 | 0.3% | 0.5% |  |
+| 40 | 0.3% | 0.6% |  |
 | 41 | 0.1% | 0.2% |  |
 | 42 | 0.1% | 0.1% |  |
 | 43 | 0% | 0% |  |

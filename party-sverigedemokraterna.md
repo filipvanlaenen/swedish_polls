@@ -129,8 +129,8 @@ Last result: **49** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 70 | 61–88 | 59–91 | 59–94 | 57–98 |
-| [28–30 August 2018](2018-08-30-Sifo.html) | Sifo <br> Svenska Dagbladet | 60 | 58–63 | 58–63 | 57–64 | 55–67 |
+| N/A | [Poll Average](average.html) | 70 | 61–88 | 59–91 | 58–94 | 56–98 |
+| [28–30 August 2018](2018-08-30-Sifo.html) | Sifo <br> Svenska Dagbladet | 60 | 57–64 | 56–65 | 56–66 | 54–67 |
 | [25–30 August 2018](2018-08-30-Inizio.html) | Inizio <br> Aftonbladet | 65 | 62–68 | 61–69 | 61–71 | 58–73 |
 | [23–30 August 2018](2018-08-30-Demoskop.html) | Demoskop <br> Expressen | 71 | 67–77 | 66–78 | 64–79 | 62–81 |
 | [27–29 August 2018](2018-08-29-Sifo.html) | Sifo <br> Svenska Dagbladet | 63 | 60–66 | 59–67 | 58–68 | 56–70 |
@@ -208,7 +208,7 @@ Last result: **49** seats (General Election of 14 September 2014)
 | [12–16 January 2018](2018-01-16-Sentio.html) | Sentio <br> Nyheter Idag | 89 | 81–95 | 79–97 | 78–98 | 75–101 |
 | [12–15 January 2018](2018-01-15-YouGov.html) | YouGov <br> Metro | 80 | 74–86 | 72–88 | 70–90 | 67–93 |
 | [2–9 January 2018](2018-01-09-Demoskop.html) | Demoskop <br> Expressen | 72 | 68–76 | 65–77 | 62–77 | 59–79 |
-| [3–8 January 2018](2018-01-08-Inizio.html) | Inizio <br> Aftonbladet | 61 | 58–67 | 58–69 | 57–69 | 54–70 |
+| [3–8 January 2018](2018-01-08-Inizio.html) | Inizio <br> Aftonbladet | 61 | 58–68 | 57–69 | 55–69 | 54–71 |
 | [27 November–21 December 2017](2017-12-21-Novus.html) | Novus <br> SVT | 63 | 59–64 | 58–65 | 58–66 | 57–69 |
 | [15–18 December 2017](2017-12-18-YouGov.html) | YouGov <br> Metro | 78 | 73–84 | 71–86 | 69–88 | 67–92 |
 | [4–14 December 2017](2017-12-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 61 | 58–66 | 57–68 | 56–69 | 54–71 |
@@ -229,18 +229,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 51 | 0% | 100% |  |
 | 52 | 0% | 100% |  |
 | 53 | 0% | 100% |  |
-| 54 | 0% | 100% |  |
-| 55 | 0.1% | 100% |  |
-| 56 | 0.2% | 99.9% |  |
-| 57 | 0.5% | 99.8% |  |
-| 58 | 2% | 99.3% |  |
-| 59 | 4% | 98% |  |
-| 60 | 3% | 94% |  |
-| 61 | 4% | 91% |  |
-| 62 | 3% | 87% |  |
-| 63 | 3% | 84% |  |
-| 64 | 5% | 81% |  |
-| 65 | 6% | 76% |  |
+| 54 | 0.1% | 100% |  |
+| 55 | 0.2% | 99.9% |  |
+| 56 | 0.6% | 99.7% |  |
+| 57 | 1.0% | 99.1% |  |
+| 58 | 2% | 98% |  |
+| 59 | 3% | 96% |  |
+| 60 | 2% | 93% |  |
+| 61 | 3% | 91% |  |
+| 62 | 3% | 88% |  |
+| 63 | 4% | 85% |  |
+| 64 | 5% | 82% |  |
+| 65 | 6% | 77% |  |
 | 66 | 5% | 71% |  |
 | 67 | 4% | 66% |  |
 | 68 | 6% | 62% |  |

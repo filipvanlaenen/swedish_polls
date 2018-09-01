@@ -123,7 +123,7 @@ Last result: **19** seats (General Election of 14 September 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 17–25 | 16–26 | 0–27 | 0–29 |
-| [28–30 August 2018](2018-08-30-Sifo.html) | Sifo <br> Svenska Dagbladet | 19 | 18–21 | 17–22 | 17–22 | 17–23 |
+| [28–30 August 2018](2018-08-30-Sifo.html) | Sifo <br> Svenska Dagbladet | 20 | 18–22 | 17–22 | 17–23 | 16–24 |
 | [25–30 August 2018](2018-08-30-Inizio.html) | Inizio <br> Aftonbladet | 21 | 19–24 | 19–24 | 18–25 | 17–26 |
 | [23–30 August 2018](2018-08-30-Demoskop.html) | Demoskop <br> Expressen | 25 | 22–27 | 21–29 | 20–29 | 19–31 |
 | [27–29 August 2018](2018-08-29-Sifo.html) | Sifo <br> Svenska Dagbladet | 18 | 16–20 | 16–21 | 15–21 | 14–22 |
@@ -201,7 +201,7 @@ Last result: **19** seats (General Election of 14 September 2014)
 | [12–16 January 2018](2018-01-16-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–16 | 0–17 | 0–18 | 0–20 |
 | [12–15 January 2018](2018-01-15-YouGov.html) | YouGov <br> Metro | 0 | 0–17 | 0–18 | 0–19 | 0–21 |
 | [2–9 January 2018](2018-01-09-Demoskop.html) | Demoskop <br> Expressen | 17 | 0–20 | 0–21 | 0–21 | 0–22 |
-| [3–8 January 2018](2018-01-08-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0 | 0–15 | 0–16 |
+| [3–8 January 2018](2018-01-08-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0–15 | 0–16 | 0–17 |
 | [27 November–21 December 2017](2017-12-21-Novus.html) | Novus <br> SVT | 20 | 18–21 | 18–22 | 17–23 | 16–25 |
 | [15–18 December 2017](2017-12-18-YouGov.html) | YouGov <br> Metro | 19 | 16–22 | 15–23 | 0–23 | 0–25 |
 | [4–14 December 2017](2017-12-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 19 | 17–21 | 16–22 | 16–23 | 0–24 |
@@ -235,9 +235,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 1.2% | 96% |  |
 | 16 | 3% | 95% |  |
 | 17 | 6% | 92% |  |
-| 18 | 8% | 87% |  |
-| 19 | 11% | 78% | Last Result |
-| 20 | 15% | 67% |  |
+| 18 | 7% | 86% |  |
+| 19 | 11% | 79% | Last Result |
+| 20 | 15% | 68% |  |
 | 21 | 13% | 53% | Median |
 | 22 | 16% | 40% |  |
 | 23 | 8% | 24% |  |
