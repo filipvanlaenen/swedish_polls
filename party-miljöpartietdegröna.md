@@ -124,7 +124,7 @@ Last result: **25** seats (General Election of 14 September 2014)
 | N/A | [Poll Average](average.html) | 20 | 17–24 | 16–25 | 15–27 | 0–28 |
 | [28–30 August 2018](2018-08-30-Sifo.html) | Sifo <br> Svenska Dagbladet | 25 | 22–27 | 22–27 | 22–28 | 21–29 |
 | [25–30 August 2018](2018-08-30-Inizio.html) | Inizio <br> Aftonbladet | 20 | 18–22 | 18–23 | 17–24 | 16–25 |
-| [23–30 August 2018](2018-08-30-Demoskop.html) | Demoskop <br> Expressen | 20 | 16–23 | 15–23 | 15–23 | 0–24 |
+| [23–30 August 2018](2018-08-30-Demoskop.html) | Demoskop <br> Expressen | 19 | 16–21 | 15–22 | 15–23 | 0–24 |
 | [27–29 August 2018](2018-08-29-Sifo.html) | Sifo <br> Svenska Dagbladet | 21 | 19–23 | 18–24 | 18–24 | 17–26 |
 | [22–29 August 2018](2018-08-29-SKOP.html) | SKOP | 19 | 18–22 | 18–22 | 17–23 | 17–23 |
 | [25–28 August 2018](2018-08-28-Sifo.html) | Sifo <br> Svenska Dagbladet | 18 | 17–20 | 16–21 | 16–21 | 15–23 |
@@ -200,7 +200,7 @@ Last result: **25** seats (General Election of 14 September 2014)
 | [12–16 January 2018](2018-01-16-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–18 | 0–19 | 0–19 | 0–21 |
 | [12–15 January 2018](2018-01-15-YouGov.html) | YouGov <br> Metro | 18 | 0–20 | 0–21 | 0–22 | 0–24 |
 | [2–9 January 2018](2018-01-09-Demoskop.html) | Demoskop <br> Expressen | 17 | 0–19 | 0–20 | 0–21 | 0–23 |
-| [3–8 January 2018](2018-01-08-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–17 | 0–17 | 0–18 | 0–18 |
+| [3–8 January 2018](2018-01-08-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–17 | 0–18 | 0–18 | 0–18 |
 | [27 November–21 December 2017](2017-12-21-Novus.html) | Novus <br> SVT | 16 | 15–17 | 0–18 | 0–18 | 0–19 |
 | [15–18 December 2017](2017-12-18-YouGov.html) | YouGov <br> Metro | 0 | 0–17 | 0–18 | 0–19 | 0–20 |
 | [4–14 December 2017](2017-12-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 15 | 0–17 | 0–18 | 0–18 | 0–20 |
@@ -230,16 +230,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 98% |  |
 | 12 | 0% | 98% |  |
 | 13 | 0% | 98% |  |
-| 14 | 0.2% | 98% |  |
-| 15 | 2% | 98% |  |
-| 16 | 5% | 96% |  |
-| 17 | 6% | 91% |  |
-| 18 | 11% | 85% |  |
-| 19 | 15% | 73% |  |
-| 20 | 12% | 58% | Median |
-| 21 | 12% | 46% |  |
-| 22 | 13% | 34% |  |
-| 23 | 7% | 21% |  |
+| 14 | 0.1% | 98% |  |
+| 15 | 3% | 98% |  |
+| 16 | 5% | 95% |  |
+| 17 | 7% | 90% |  |
+| 18 | 12% | 84% |  |
+| 19 | 16% | 72% |  |
+| 20 | 12% | 56% | Median |
+| 21 | 11% | 44% |  |
+| 22 | 13% | 33% |  |
+| 23 | 6% | 20% |  |
 | 24 | 5% | 14% |  |
 | 25 | 5% | 10% | Last Result |
 | 26 | 1.2% | 5% |  |
