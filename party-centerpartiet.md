@@ -123,10 +123,10 @@ Last result: **22** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31 | 27–35 | 26–36 | 25–37 | 23–40 |
+| N/A | [Poll Average](average.html) | 31 | 27–35 | 26–36 | 25–37 | 23–39 |
 | [28–30 August 2018](2018-08-30-Sifo.html) | Sifo <br> Svenska Dagbladet | 35 | 32–36 | 31–38 | 31–38 | 30–39 |
-| [25–30 August 2018](2018-08-30-Inizio.html) | Inizio <br> Aftonbladet | 30 | 28–33 | 28–34 | 28–35 | 26–35 |
-| [23–30 August 2018](2018-08-30-Demoskop.html) | Demoskop <br> Expressen | 33 | 32–37 | 30–38 | 29–40 | 28–42 |
+| [25–30 August 2018](2018-08-30-Inizio.html) | Inizio <br> Aftonbladet | 31 | 28–33 | 27–34 | 27–35 | 26–36 |
+| [23–30 August 2018](2018-08-30-Demoskop.html) | Demoskop <br> Expressen | 33 | 31–37 | 30–38 | 29–40 | 28–42 |
 | [27–29 August 2018](2018-08-29-Sifo.html) | Sifo <br> Svenska Dagbladet | 32 | 29–35 | 29–35 | 28–36 | 27–37 |
 | [22–29 August 2018](2018-08-29-SKOP.html) | SKOP | 29 | 27–31 | 27–32 | 26–33 | 25–33 |
 | [25–28 August 2018](2018-08-28-Sifo.html) | Sifo <br> Svenska Dagbladet | 32 | 29–34 | 29–35 | 28–35 | 27–37 |
@@ -225,23 +225,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 1.4% | 99.0% |  |
 | 25 | 2% | 98% |  |
 | 26 | 4% | 96% |  |
-| 27 | 8% | 92% |  |
-| 28 | 8% | 83% |  |
+| 27 | 9% | 92% |  |
+| 28 | 8% | 82% |  |
 | 29 | 11% | 75% |  |
-| 30 | 12% | 64% |  |
-| 31 | 9% | 52% | Median |
-| 32 | 13% | 42% |  |
-| 33 | 9% | 29% |  |
-| 34 | 6% | 20% |  |
+| 30 | 10% | 63% |  |
+| 31 | 11% | 53% | Median |
+| 32 | 12% | 42% |  |
+| 33 | 9% | 30% |  |
+| 34 | 7% | 22% |  |
 | 35 | 6% | 14% |  |
 | 36 | 4% | 8% |  |
 | 37 | 2% | 4% |  |
-| 38 | 1.0% | 2% |  |
-| 39 | 0.4% | 1.0% |  |
-| 40 | 0.4% | 0.6% |  |
+| 38 | 1.1% | 2% |  |
+| 39 | 0.5% | 1.0% |  |
+| 40 | 0.3% | 0.5% |  |
 | 41 | 0.1% | 0.2% |  |
 | 42 | 0.1% | 0.1% |  |
-| 43 | 0% | 0.1% |  |
-| 44 | 0% | 0% |  |
+| 43 | 0% | 0% |  |
 
 
