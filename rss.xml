@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sat, 01 Sep 2018 18:39:14 +0200</pubDate>
+    <pubDate>Sat, 01 Sep 2018 19:38:43 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 28–30 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-08-30-Sifo.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-08-30-Sifo.png"
         length="208113"
         type="image/png"/>
-      <pubDate>Sat, 01 Sep 2018 13:15:17 +0200</pubDate>
-      <dc:date>2018-09-01T13:15:17.031081+02:00</dc:date>
+      <pubDate>Sat, 01 Sep 2018 19:38:43 +0200</pubDate>
+      <dc:date>2018-09-01T19:38:43.342766+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 25–30 August 2018 – Seat Projections for the Parties</title>
@@ -2194,10 +2194,10 @@
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-01-08-Inizio.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 26.5–30.2%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 22.0–25.5%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 14.5–17.6%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.9–4.5%&lt;/li&gt;&lt;li&gt;Centerpartiet: 8.7–11.2%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 6.4–8.6%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.7–4.2%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 3.3–4.9%&lt;/li&gt;&lt;li&gt;Feministiskt initiativ: 0.9–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-01-08-Inizio.png"
-        length="223531"
+        length="222809"
         type="image/png"/>
-      <pubDate>Sat, 01 Sep 2018 18:39:14 +0200</pubDate>
-      <dc:date>2018-09-01T18:39:14.118598+02:00</dc:date>
+      <pubDate>Sat, 01 Sep 2018 18:43:48 +0200</pubDate>
+      <dc:date>2018-09-01T18:43:48.750531+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 27 November–21 December 2017 – Voting Intentions</title>
@@ -2319,6 +2319,6 @@
       <pubDate>Thu, 23 Aug 2018 18:11:04 +0200</pubDate>
       <dc:date>2018-08-23T18:11:04.552912+02:00</dc:date>
     </item>
-    <dc:date>2018-09-01T18:39:14.118598+02:00</dc:date>
+    <dc:date>2018-09-01T19:38:43.342766+02:00</dc:date>
   </channel>
 </rss>
