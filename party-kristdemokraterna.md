@@ -129,11 +129,11 @@ Last result: **16** seats (General Election of 14 September 2014)
 | [27–29 August 2018](2018-08-29-Sifo.html) | Sifo <br> Svenska Dagbladet | 20 | 18–21 | 17–22 | 17–22 | 16–23 |
 | [22–29 August 2018](2018-08-29-SKOP.html) | SKOP | 22 | 20–24 | 19–25 | 19–25 | 18–26 |
 | [25–28 August 2018](2018-08-28-Sifo.html) | Sifo <br> Svenska Dagbladet | 20 | 19–22 | 18–23 | 17–23 | 17–25 |
-| [21–28 August 2018](2018-08-28-SKOP.html) | SKOP | 21 | 19–24 | 18–24 | 18–24 | 17–26 |
+| [21–28 August 2018](2018-08-28-SKOP.html) | SKOP | 21 | 20–24 | 18–24 | 18–25 | 17–26 |
 | [22–28 August 2018](2018-08-28-Novus.html) | Novus <br> SVT | 19 | 16–22 | 16–22 | 15–23 | 0–25 |
 | [22–27 August 2018](2018-08-27-Sifo.html) | Sifo <br> Svenska Dagbladet | 22 | 20–24 | 19–25 | 19–25 | 18–26 |
 | [20–27 August 2018](2018-08-27-SKOP.html) | SKOP | 21 | 19–23 | 18–23 | 18–24 | 17–25 |
-| [21–26 August 2018](2018-08-26-Sifo.html) | Sifo <br> Svenska Dagbladet | 20 | 18–22 | 17–23 | 16–23 | 16–24 |
+| [21–26 August 2018](2018-08-26-Sifo.html) | Sifo <br> Svenska Dagbladet | 20 | 18–22 | 17–23 | 17–23 | 16–24 |
 | [22–26 August 2018](2018-08-26-Inizio.html) | Inizio <br> Aftonbladet | 20 | 18–22 | 18–23 | 17–24 | 17–24 |
 | [16–24 August 2018](2018-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 16 | 0–19 | 0–20 | 0–20 | 0–21 |
 | [20–23 August 2018](2018-08-23-Sifo.html) | Sifo <br> Svenska Dagbladet | 17 | 15–18 | 15–19 | 15–19 | 0–20 |
@@ -201,7 +201,7 @@ Last result: **16** seats (General Election of 14 September 2014)
 | [12–16 January 2018](2018-01-16-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0 | 0–15 | 0–17 |
 | [12–15 January 2018](2018-01-15-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0 | 0 |
 | [2–9 January 2018](2018-01-09-Demoskop.html) | Demoskop <br> Expressen | 0 | 0 | 0 | 0 | 0–16 |
-| [3–8 January 2018](2018-01-08-Inizio.html) | Inizio <br> Aftonbladet | 16 | 0–18 | 0–18 | 0–19 | 0–20 |
+| [3–8 January 2018](2018-01-08-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–18 | 0–18 | 0–19 | 0–20 |
 | [27 November–21 December 2017](2017-12-21-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0–15 |
 | [15–18 December 2017](2017-12-18-YouGov.html) | YouGov <br> Metro | 0 | 0–15 | 0–15 | 0–16 | 0–17 |
 | [4–14 December 2017](2017-12-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
