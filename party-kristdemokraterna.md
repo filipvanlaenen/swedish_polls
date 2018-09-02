@@ -127,7 +127,7 @@ Last result: **16** seats (General Election of 14 September 2014)
 | [25–30 August 2018](2018-08-30-Inizio.html) | Inizio <br> Aftonbladet | 22 | 20–24 | 19–25 | 18–25 | 18–27 |
 | [23–30 August 2018](2018-08-30-Demoskop.html) | Demoskop <br> Expressen | 17 | 15–20 | 0–21 | 0–22 | 0–22 |
 | [27–29 August 2018](2018-08-29-Sifo.html) | Sifo <br> Svenska Dagbladet | 20 | 18–21 | 17–22 | 17–22 | 16–23 |
-| [22–29 August 2018](2018-08-29-SKOP.html) | SKOP | 23 | 20–24 | 20–25 | 19–25 | 17–26 |
+| [22–29 August 2018](2018-08-29-SKOP.html) | SKOP | 22 | 20–24 | 19–25 | 19–25 | 18–26 |
 | [25–28 August 2018](2018-08-28-Sifo.html) | Sifo <br> Svenska Dagbladet | 20 | 19–22 | 18–23 | 17–23 | 17–25 |
 | [21–28 August 2018](2018-08-28-SKOP.html) | SKOP | 21 | 19–24 | 18–24 | 18–24 | 17–26 |
 | [22–28 August 2018](2018-08-28-Novus.html) | Novus <br> SVT | 19 | 16–22 | 16–22 | 15–23 | 0–25 |
@@ -201,7 +201,7 @@ Last result: **16** seats (General Election of 14 September 2014)
 | [12–16 January 2018](2018-01-16-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0 | 0–15 | 0–17 |
 | [12–15 January 2018](2018-01-15-YouGov.html) | YouGov <br> Metro | 0 | 0 | 0 | 0 | 0 |
 | [2–9 January 2018](2018-01-09-Demoskop.html) | Demoskop <br> Expressen | 0 | 0 | 0 | 0 | 0–16 |
-| [3–8 January 2018](2018-01-08-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–18 | 0–18 | 0–20 | 0–20 |
+| [3–8 January 2018](2018-01-08-Inizio.html) | Inizio <br> Aftonbladet | 16 | 0–18 | 0–18 | 0–19 | 0–20 |
 | [27 November–21 December 2017](2017-12-21-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0–15 |
 | [15–18 December 2017](2017-12-18-YouGov.html) | YouGov <br> Metro | 0 | 0–15 | 0–15 | 0–16 | 0–17 |
 | [4–14 December 2017](2017-12-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
@@ -237,11 +237,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 8% | 66% |  |
 | 18 | 9% | 58% | Median |
 | 19 | 10% | 49% |  |
-| 20 | 10% | 39% |  |
-| 21 | 9% | 29% |  |
-| 22 | 7% | 20% |  |
-| 23 | 7% | 13% |  |
-| 24 | 4% | 6% |  |
+| 20 | 10% | 38% |  |
+| 21 | 10% | 28% |  |
+| 22 | 8% | 18% |  |
+| 23 | 5% | 10% |  |
+| 24 | 4% | 5% |  |
 | 25 | 1.2% | 2% |  |
 | 26 | 0.3% | 0.4% |  |
 | 27 | 0.1% | 0.1% |  |
