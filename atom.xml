@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_polls</id>
   <title>All Registered Polls for the Riksdagen</title>
-  <updated>2018-09-05T19:30:44.53142+02:00</updated>
+  <updated>2018-09-05T22:48:31.537795+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 23.7–26.9%, 85–97 seats</li><li>Moderata samlingspartiet: 15.7–18.4%, 56–66 seats</li><li>Sverigedemokraterna: 15.9–18.6%, 57–67 seats</li><li>Miljöpartiet de gröna: 4.6–6.3%, 17–23 seats</li><li>Centerpartiet: 7.5–9.5%, 27–34 seats</li><li>Vänsterpartiet: 10.0–12.3%, 36–44 seats</li><li>Liberalerna: 5.8–7.7%, 21–28 seats</li><li>Kristdemokraterna: 5.2–6.9%, 19–25 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_polls/2018-09-03-Sifo.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_polls/2018-09-03-Sifo.html"/>
+    <title>Opinion Poll by Sifo for Svenska Dagbladet, 29 August–3 September 2018</title>
+    <updated>2018-09-05T22:48:31.537795+02:00</updated>
+    <dc:date>2018-09-05T22:48:31.537795+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 22.9–26.3%, 82–95 seats</li><li>Moderata samlingspartiet: 17.7–20.8%, 63–75 seats</li><li>Sverigedemokraterna: 15.9–18.9%, 57–68 seats</li><li>Miljöpartiet de gröna: 4.2–5.9%, 15–21 seats</li><li>Centerpartiet: 7.4–9.6%, 27–34 seats</li><li>Vänsterpartiet: 8.3–10.6%, 30–38 seats</li><li>Liberalerna: 5.1–7.0%, 18–25 seats</li><li>Kristdemokraterna: 5.6–7.6%, 20–27 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_polls/2018-09-03-Inizio.html</id>
@@ -727,5 +735,5 @@
     <updated>2018-08-23T18:11:04.552912+02:00</updated>
     <dc:date>2018-08-23T18:11:04.552912+02:00</dc:date>
   </entry>
-  <dc:date>2018-09-05T19:30:44.53142+02:00</dc:date>
+  <dc:date>2018-09-05T22:48:31.537795+02:00</dc:date>
 </feed>
