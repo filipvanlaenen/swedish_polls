@@ -10,8 +10,10 @@ Last result: **23.3%** (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.7% | 16.0–20.1% | 15.5–20.6% | 15.2–21.1% | 14.5–22.2% |
+| N/A | [Poll Average](average.html) | 18.0% | 16.3–20.1% | 15.9–20.6% | 15.5–21.1% | 14.8–22.2% |
+| [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 18.2% | 17.2–19.2% | 17.0–19.5% | 16.8–19.7% | 16.3–20.2% |
 | [30 August–4 September 2018](2018-09-04-Sifo.html) | Sifo <br> Svenska Dagbladet | 17.1% | 16.3–18.1% | 16.0–18.3% | 15.8–18.6% | 15.4–19.0% |
+| [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 17.1% | 16.2–18.1% | 15.9–18.4% | 15.7–18.6% | 15.3–19.1% |
 | [30 August–4 September 2018](2018-09-04-Demoskop.html) | Demoskop <br> Expressen | 17.8% | 16.6–19.1% | 16.3–19.4% | 16.0–19.8% | 15.5–20.4% |
 | [29 August–3 September 2018](2018-09-03-Sifo.html) | Sifo <br> Svenska Dagbladet | 17.0% | 16.1–17.9% | 15.9–18.2% | 15.7–18.4% | 15.3–18.9% |
 | [27 August–3 September 2018](2018-09-03-SKOP.html) | SKOP | 16.3% | 15.2–17.5% | 14.9–17.8% | 14.6–18.1% | 14.1–18.7% |
@@ -114,13 +116,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.5% | 100% |  |
-| 14.5–15.5% | 5% | 99.5% |  |
-| 15.5–16.5% | 16% | 95% |  |
-| 16.5–17.5% | 25% | 78% |  |
-| 17.5–18.5% | 20% | 54% | Median |
-| 18.5–19.5% | 17% | 34% |  |
-| 19.5–20.5% | 11% | 17% |  |
+| 13.5–14.5% | 0.3% | 100% |  |
+| 14.5–15.5% | 3% | 99.7% |  |
+| 15.5–16.5% | 11% | 97% |  |
+| 16.5–17.5% | 23% | 86% |  |
+| 17.5–18.5% | 25% | 63% | Median |
+| 18.5–19.5% | 21% | 38% |  |
+| 19.5–20.5% | 12% | 17% |  |
 | 20.5–21.5% | 4% | 6% |  |
 | 21.5–22.5% | 1.1% | 1.4% |  |
 | 22.5–23.5% | 0.2% | 0.3% | Last Result |
@@ -136,15 +138,17 @@ Last result: **84** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 65 | 59–73 | 58–76 | 57–78 | 52–85 |
-| [30 August–4 September 2018](2018-09-04-Sifo.html) | Sifo <br> Svenska Dagbladet | 62 | 58–65 | 58–65 | 58–65 | 58–65 |
-| [30 August–4 September 2018](2018-09-04-Demoskop.html) | Demoskop <br> Expressen | 64 | 60–69 | 59–70 | 58–72 | 56–73 |
+| N/A | [Poll Average](average.html) | 65 | 59–73 | 57–76 | 56–78 | 53–85 |
+| [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 66 | 63–69 | 62–70 | 61–71 | 59–73 |
+| [30 August–4 September 2018](2018-09-04-Sifo.html) | Sifo <br> Svenska Dagbladet | 61 | 58–64 | 57–66 | 57–66 | 55–68 |
+| [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 61 | 58–65 | 57–65 | 57–67 | 56–69 |
+| [30 August–4 September 2018](2018-09-04-Demoskop.html) | Demoskop <br> Expressen | 64 | 60–69 | 58–70 | 57–71 | 55–73 |
 | [29 August–3 September 2018](2018-09-03-Sifo.html) | Sifo <br> Svenska Dagbladet | 61 | 58–64 | 57–65 | 56–66 | 55–68 |
-| [27 August–3 September 2018](2018-09-03-SKOP.html) | SKOP | 62 | 60–67 | 55–67 | 51–67 | 51–67 |
+| [27 August–3 September 2018](2018-09-03-SKOP.html) | SKOP | 59 | 55–63 | 54–64 | 52–65 | 52–68 |
 | [27 August–3 September 2018](2018-09-03-Inizio.html) | Inizio <br> Aftonbladet | 69 | 65–73 | 64–74 | 63–75 | 61–77 |
 | [26 August–2 September 2018](2018-09-02-SKOP.html) | SKOP | 61 | 57–65 | 56–66 | 55–67 | 53–69 |
 | [28 August–2 September 2018](2018-09-02-Ipsos.html) | Ipsos <br> Dagens Nyheter | 61 | 57–64 | 56–66 | 55–67 | 53–69 |
-| [30 August–1 September 2018](2018-09-01-YouGov.html) | YouGov <br> Metro | 59 | 59 | 59 | 59 | 59 |
+| [30 August–1 September 2018](2018-09-01-YouGov.html) | YouGov <br> Metro | 60 | 55–64 | 54–66 | 52–67 | 50–70 |
 | [25–31 August 2018](2018-08-31-SKOP.html) | SKOP | 61 | 57–64 | 56–66 | 55–67 | 54–69 |
 | [28–30 August 2018](2018-08-30-Sifo.html) | Sifo <br> Svenska Dagbladet | 60 | 57–63 | 56–64 | 55–65 | 54–67 |
 | [24–30 August 2018](2018-08-30-SKOP.html) | SKOP | 60 | 57–64 | 56–65 | 55–66 | 53–68 |
@@ -241,28 +245,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 51 | 0.5% | 100% |  |
-| 52 | 0.1% | 99.5% |  |
-| 53 | 0.1% | 99.4% |  |
-| 54 | 0.2% | 99.3% |  |
-| 55 | 0.5% | 99.2% |  |
-| 56 | 0.8% | 98.7% |  |
-| 57 | 1.1% | 98% |  |
-| 58 | 4% | 97% |  |
-| 59 | 15% | 93% |  |
-| 60 | 3% | 78% |  |
-| 61 | 2% | 75% |  |
-| 62 | 15% | 74% |  |
-| 63 | 2% | 59% |  |
-| 64 | 5% | 57% |  |
-| 65 | 7% | 53% | Median |
-| 66 | 7% | 45% |  |
-| 67 | 6% | 39% |  |
-| 68 | 8% | 33% |  |
-| 69 | 4% | 25% |  |
-| 70 | 4% | 21% |  |
-| 71 | 3% | 17% |  |
-| 72 | 2% | 13% |  |
+| 50 | 0% | 100% |  |
+| 51 | 0.1% | 99.9% |  |
+| 52 | 0.3% | 99.8% |  |
+| 53 | 0.3% | 99.5% |  |
+| 54 | 0.4% | 99.3% |  |
+| 55 | 0.8% | 98.8% |  |
+| 56 | 2% | 98% |  |
+| 57 | 2% | 96% |  |
+| 58 | 3% | 94% |  |
+| 59 | 5% | 91% |  |
+| 60 | 6% | 86% |  |
+| 61 | 7% | 80% |  |
+| 62 | 7% | 73% |  |
+| 63 | 6% | 67% |  |
+| 64 | 8% | 60% |  |
+| 65 | 7% | 52% | Median |
+| 66 | 5% | 46% |  |
+| 67 | 7% | 40% |  |
+| 68 | 6% | 33% |  |
+| 69 | 6% | 28% |  |
+| 70 | 4% | 22% |  |
+| 71 | 4% | 17% |  |
+| 72 | 3% | 14% |  |
 | 73 | 2% | 11% |  |
 | 74 | 2% | 9% |  |
 | 75 | 2% | 7% |  |
