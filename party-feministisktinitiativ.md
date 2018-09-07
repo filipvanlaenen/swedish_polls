@@ -11,6 +11,8 @@ Last result: **3.1%** (General Election of 14 September 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.6–1.9% | 0.5–2.2% | 0.4–2.4% | 0.3–2.9% |
+| [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 0.0% | N/A | N/A | N/A | N/A |
+| [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT | 0.0% | N/A | N/A | N/A | N/A |
 | [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 1.0% | 0.8–1.3% | 0.8–1.4% | 0.7–1.4% | 0.6–1.6% |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 1.1% | 0.9–1.4% | 0.8–1.5% | 0.8–1.6% | 0.7–1.7% |
 | [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0.0% | N/A | N/A | N/A | N/A |
@@ -133,6 +135,8 @@ Last result: **0** seats (General Election of 14 September 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet |  |  |  |  |  |
+| [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT |  |  |  |  |  |
 | [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 0 | 0 | 0 | 0 | 0 |
 | [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
