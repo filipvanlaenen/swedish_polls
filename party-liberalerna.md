@@ -10,8 +10,10 @@ Last result: **5.4%** (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 4.8–6.9% | 4.2–7.2% | 3.8–7.4% | 3.3–7.8% |
+| N/A | [Poll Average](average.html) | 6.0% | 4.8–6.7% | 4.2–7.0% | 3.8–7.2% | 3.3–7.6% |
+| [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 6.0% | 5.5–6.6% | 5.4–6.7% | 5.2–6.9% | 5.0–7.1% |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 5.9% | 5.3–6.5% | 5.2–6.7% | 5.0–6.9% | 4.8–7.2% |
+| [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6.2% | 5.5–7.0% | 5.3–7.2% | 5.2–7.4% | 4.9–7.8% |
 | [30 August–4 September 2018](2018-09-04-Sifo.html) | Sifo <br> Svenska Dagbladet | 6.8% | 6.2–7.4% | 6.1–7.6% | 5.9–7.8% | 5.7–8.1% |
 | [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 5.4% | 4.9–6.0% | 4.7–6.2% | 4.6–6.3% | 4.3–6.6% |
 | [30 August–4 September 2018](2018-09-04-Demoskop.html) | Demoskop <br> Expressen | 6.2% | 5.5–7.0% | 5.3–7.3% | 5.1–7.5% | 4.8–7.9% |
@@ -119,9 +121,9 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 1.3% | 100% |  |
 | 3.5–4.5% | 6% | 98.7% |  |
 | 4.5–5.5% | 19% | 92% | Last Result |
-| 5.5–6.5% | 51% | 73% | Median |
-| 6.5–7.5% | 21% | 22% |  |
-| 7.5–8.5% | 1.4% | 1.4% |  |
+| 5.5–6.5% | 57% | 73% | Median |
+| 6.5–7.5% | 16% | 16% |  |
+| 7.5–8.5% | 0.7% | 0.8% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -133,10 +135,12 @@ Last result: **19** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 18–25 | 16–26 | 0–26 | 0–28 |
+| N/A | [Poll Average](average.html) | 21 | 18–24 | 16–25 | 0–26 | 0–28 |
+| [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 21 | 20–23 | 18–24 | 18–25 | 18–26 |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 21 | 19–24 | 19–24 | 18–24 | 18–25 |
+| [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 23 | 20–25 | 19–26 | 19–27 | 18–28 |
 | [30 August–4 September 2018](2018-09-04-Sifo.html) | Sifo <br> Svenska Dagbladet | 24 | 22–26 | 22–28 | 21–28 | 20–28 |
-| [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 20 | 18–22 | 17–22 | 16–22 | 16–24 |
+| [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 19 | 17–22 | 17–23 | 16–23 | 16–24 |
 | [30 August–4 September 2018](2018-09-04-Demoskop.html) | Demoskop <br> Expressen | 22 | 20–25 | 19–26 | 18–27 | 17–29 |
 | [29 August–3 September 2018](2018-09-03-Sifo.html) | Sifo <br> Svenska Dagbladet | 24 | 22–26 | 21–27 | 21–28 | 20–29 |
 | [27 August–3 September 2018](2018-09-03-SKOP.html) | SKOP | 18 | 16–20 | 15–21 | 15–22 | 0–23 |
@@ -257,20 +261,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 96% |  |
 | 15 | 0.7% | 96% |  |
 | 16 | 2% | 96% |  |
-| 17 | 4% | 94% |  |
-| 18 | 4% | 90% |  |
+| 17 | 3% | 94% |  |
+| 18 | 5% | 90% |  |
 | 19 | 10% | 86% | Last Result |
-| 20 | 11% | 75% |  |
-| 21 | 16% | 65% | Median |
-| 22 | 15% | 49% |  |
-| 23 | 11% | 34% |  |
-| 24 | 12% | 23% |  |
-| 25 | 5% | 11% |  |
-| 26 | 4% | 6% |  |
-| 27 | 1.2% | 2% |  |
-| 28 | 1.0% | 1.2% |  |
+| 20 | 11% | 76% |  |
+| 21 | 18% | 64% | Median |
+| 22 | 18% | 46% |  |
+| 23 | 12% | 28% |  |
+| 24 | 8% | 16% |  |
+| 25 | 5% | 8% |  |
+| 26 | 2% | 3% |  |
+| 27 | 1.0% | 2% |  |
+| 28 | 0.4% | 0.6% |  |
 | 29 | 0.1% | 0.2% |  |
-| 30 | 0.1% | 0.1% |  |
+| 30 | 0% | 0.1% |  |
 | 31 | 0% | 0% |  |
 
 

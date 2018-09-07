@@ -10,8 +10,10 @@ Last result: **6.9%** (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.1% | 3.9–6.0% | 3.5–6.2% | 3.3–6.5% | 2.9–6.9% |
+| N/A | [Poll Average](average.html) | 5.1% | 3.9–6.3% | 3.5–6.5% | 3.3–6.7% | 2.9–7.1% |
+| [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 6.2% | 5.7–6.8% | 5.6–7.0% | 5.4–7.1% | 5.2–7.4% |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 5.6% | 5.0–6.2% | 4.9–6.4% | 4.8–6.5% | 4.5–6.8% |
+| [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.8% | 4.2–5.5% | 4.1–5.7% | 3.9–5.9% | 3.7–6.2% |
 | [30 August–4 September 2018](2018-09-04-Sifo.html) | Sifo <br> Svenska Dagbladet | 5.4% | 4.9–6.0% | 4.7–6.1% | 4.6–6.3% | 4.4–6.6% |
 | [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 5.5% | 5.0–6.1% | 4.8–6.3% | 4.7–6.5% | 4.4–6.8% |
 | [30 August–4 September 2018](2018-09-04-Demoskop.html) | Demoskop <br> Expressen | 4.8% | 4.2–5.5% | 4.0–5.7% | 3.8–5.9% | 3.6–6.3% |
@@ -117,11 +119,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0.1% | 100% |  |
 | 2.5–3.5% | 5% | 99.9% |  |
-| 3.5–4.5% | 19% | 94% |  |
-| 4.5–5.5% | 49% | 75% | Median |
-| 5.5–6.5% | 25% | 26% |  |
-| 6.5–7.5% | 2% | 2% | Last Result |
-| 7.5–8.5% | 0% | 0% |  |
+| 3.5–4.5% | 20% | 94% |  |
+| 4.5–5.5% | 41% | 74% | Median |
+| 5.5–6.5% | 28% | 33% |  |
+| 6.5–7.5% | 4% | 4% | Last Result |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -132,10 +135,12 @@ Last result: **25** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 0–22 | 0–23 | 0–23 | 0–25 |
+| N/A | [Poll Average](average.html) | 18 | 0–22 | 0–23 | 0–24 | 0–26 |
+| [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 22 | 20–24 | 20–25 | 20–25 | 18–27 |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 21 | 18–23 | 18–23 | 18–23 | 17–24 |
+| [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 17 | 15–20 | 14–20 | 0–21 | 0–22 |
 | [30 August–4 September 2018](2018-09-04-Sifo.html) | Sifo <br> Svenska Dagbladet | 19 | 17–21 | 17–22 | 17–22 | 16–24 |
-| [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 20 | 19–22 | 18–22 | 17–22 | 16–24 |
+| [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 20 | 18–22 | 17–23 | 17–24 | 16–24 |
 | [30 August–4 September 2018](2018-09-04-Demoskop.html) | Demoskop <br> Expressen | 17 | 15–20 | 0–21 | 0–21 | 0–23 |
 | [29 August–3 September 2018](2018-09-03-Sifo.html) | Sifo <br> Svenska Dagbladet | 19 | 18–21 | 17–22 | 17–23 | 16–24 |
 | [27 August–3 September 2018](2018-09-03-SKOP.html) | SKOP | 23 | 20–25 | 19–26 | 19–27 | 18–28 |
@@ -254,19 +259,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 87% |  |
 | 13 | 0% | 87% |  |
 | 14 | 0.9% | 87% |  |
-| 15 | 5% | 87% |  |
-| 16 | 8% | 82% |  |
-| 17 | 11% | 74% |  |
-| 18 | 16% | 63% | Median |
-| 19 | 15% | 47% |  |
-| 20 | 11% | 32% |  |
-| 21 | 11% | 21% |  |
-| 22 | 4% | 10% |  |
-| 23 | 4% | 6% |  |
-| 24 | 1.1% | 2% |  |
-| 25 | 0.4% | 0.8% | Last Result |
-| 26 | 0.2% | 0.3% |  |
-| 27 | 0.1% | 0.1% |  |
+| 15 | 5% | 86% |  |
+| 16 | 9% | 81% |  |
+| 17 | 10% | 72% |  |
+| 18 | 13% | 62% | Median |
+| 19 | 12% | 49% |  |
+| 20 | 9% | 37% |  |
+| 21 | 12% | 28% |  |
+| 22 | 8% | 16% |  |
+| 23 | 5% | 9% |  |
+| 24 | 2% | 4% |  |
+| 25 | 1.1% | 2% | Last Result |
+| 26 | 0.4% | 0.6% |  |
+| 27 | 0.2% | 0.2% |  |
 | 28 | 0% | 0.1% |  |
 | 29 | 0% | 0% |  |
 
