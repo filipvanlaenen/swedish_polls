@@ -139,11 +139,11 @@ Last result: **19** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 18–24 | 16–25 | 0–26 | 0–28 |
+| N/A | [Poll Average](average.html) | 22 | 18–25 | 16–25 | 0–26 | 0–28 |
 | [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 22 | 20–24 | 20–24 | 19–24 | 18–26 |
 | [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 23 | 21–25 | 20–26 | 20–26 | 18–27 |
 | [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT | 23 | 21–26 | 20–27 | 19–28 | 18–29 |
-| [1–6 September 2018](2018-09-06-Demoskop.html) | Demoskop <br> Expressen | 22 | 21–25 | 20–25 | 20–25 | 18–27 |
+| [1–6 September 2018](2018-09-06-Demoskop.html) | Demoskop <br> Expressen | 21 | 20–24 | 20–25 | 19–26 | 18–28 |
 | [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 21 | 20–23 | 19–24 | 19–25 | 18–26 |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 21 | 19–24 | 19–24 | 18–25 | 17–26 |
 | [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 23 | 20–25 | 19–26 | 19–26 | 18–28 |
@@ -272,14 +272,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 3% | 94% |  |
 | 18 | 3% | 90% |  |
 | 19 | 7% | 87% | Last Result |
-| 20 | 10% | 80% |  |
-| 21 | 17% | 70% |  |
-| 22 | 12% | 53% | Median |
-| 23 | 16% | 41% |  |
-| 24 | 17% | 25% |  |
-| 25 | 5% | 8% |  |
-| 26 | 2% | 3% |  |
-| 27 | 0.7% | 1.2% |  |
+| 20 | 11% | 80% |  |
+| 21 | 16% | 69% |  |
+| 22 | 15% | 53% | Median |
+| 23 | 17% | 38% |  |
+| 24 | 10% | 21% |  |
+| 25 | 7% | 11% |  |
+| 26 | 3% | 4% |  |
+| 27 | 0.8% | 1.4% |  |
 | 28 | 0.4% | 0.5% |  |
 | 29 | 0.1% | 0.2% |  |
 | 30 | 0.1% | 0.1% |  |
