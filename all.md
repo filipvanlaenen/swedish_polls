@@ -5,9 +5,11 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | MP | C | V | L | KD | Fi |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 14 September 2014 | General Election | 31.0% <br> 113 | 23.3% <br> 84 | 12.9% <br> 49 | 6.9% <br> 25 | 6.1% <br> 22 | 5.7% <br> 21 | 5.4% <br> 19 | 4.6% <br> 16 | 3.1% <br> 0 |
+| [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 24–27% <br> 84–96 | 16–19% <br> 57–66 | 16–18% <br> 56–65 | 5–7% <br> 20–25 | 9–11% <br> 33–40 | 9–11% <br> 32–40 | 5–7% <br> 18–25 | 5–7% <br> 18–24 | 1% <br> 0 |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 21–24% <br> 75–87 | 17–20% <br> 61–71 | 18–21% <br> 65–75 | 5–7% <br> 18–23 | 7–9% <br> 25–31 | 9–12% <br> 35–43 | 5–7% <br> 18–24 | 6–8% <br> 22–27 | 1–2% <br> 0 |
+| [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 24–28% <br> 85–101 | 16–19% <br> 57–70 | 15–19% <br> 54–67 | 4–6% <br> 0–21 | 8–11% <br> 31–40 | 9–12% <br> 32–42 | 5–7% <br> 19–27 | 5–7% <br> 18–25 | N/A <br> N/A |
 | [30 August–4 September 2018](2018-09-04-Sifo.html) | Sifo <br> Svenska Dagbladet | 23–27% <br> 84–95 | 16–19% <br> 57–66 | 16–18% <br> 56–66 | 5–6% <br> 17–22 | 8–10% <br> 30–37 | 9–11% <br> 33–41 | 6–8% <br> 21–28 | 6–8% <br> 20–27 | N/A <br> N/A |
-| [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 21–24% <br> 76–87 | 16–19% <br> 57–67 | 18–22% <br> 67–76 | 5–6% <br> 17–22 | 7–9% <br> 27–33 | 10–12% <br> 36–45 | 5–6% <br> 16–22 | 6–8% <br> 22–28 | 1–2% <br> 0 |
+| [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 21–24% <br> 75–87 | 16–19% <br> 56–67 | 18–22% <br> 67–78 | 5–6% <br> 17–24 | 7–9% <br> 26–33 | 10–12% <br> 35–44 | 5–6% <br> 16–23 | 6–8% <br> 22–29 | 1–2% <br> 0 |
 | [30 August–4 September 2018](2018-09-04-Demoskop.html) | Demoskop <br> Expressen | 23–28% <br> 84–100 | 16–20% <br> 57–71 | 16–20% <br> 59–73 | 4–6% <br> 0–21 | 8–10% <br> 27–37 | 8–11% <br> 29–39 | 5–7% <br> 18–27 | 5–7% <br> 17–26 | N/A <br> N/A |
 | [29 August–3 September 2018](2018-09-03-Sifo.html) | Sifo <br> Svenska Dagbladet | 24–27% <br> 85–97 | 16–18% <br> 56–66 | 16–19% <br> 57–67 | 5–6% <br> 17–23 | 7–9% <br> 27–34 | 10–12% <br> 36–44 | 6–8% <br> 21–28 | 5–7% <br> 19–25 | N/A <br> N/A |
 | [27 August–3 September 2018](2018-09-03-SKOP.html) | SKOP | 21–25% <br> 76–90 | 15–18% <br> 52–65 | 18–22% <br> 67–80 | 5–7% <br> 19–27 | 7–9% <br> 25–33 | 10–13% <br> 35–45 | 4–6% <br> 15–22 | 6–8% <br> 21–29 | 1–2% <br> 0 |
