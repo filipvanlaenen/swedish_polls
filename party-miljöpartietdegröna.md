@@ -138,11 +138,11 @@ Last result: **25** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 0–23 | 0–23 | 0–24 | 0–26 |
-| [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 23 | 21–24 | 20–25 | 20–26 | 19–26 |
-| [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 21 | 19–23 | 18–23 | 18–24 | 17–25 |
+| N/A | [Poll Average](average.html) | 18 | 0–22 | 0–23 | 0–24 | 0–25 |
+| [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 22 | 21–24 | 20–25 | 20–25 | 19–26 |
+| [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 21 | 19–23 | 18–23 | 18–23 | 17–25 |
 | [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT | 18 | 16–20 | 15–21 | 15–22 | 0–23 |
-| [1–6 September 2018](2018-09-06-Demoskop.html) | Demoskop <br> Expressen | 19 | 17–22 | 16–22 | 16–23 | 15–24 |
+| [1–6 September 2018](2018-09-06-Demoskop.html) | Demoskop <br> Expressen | 19 | 17–22 | 16–23 | 16–23 | 15–25 |
 | [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 22 | 21–24 | 20–25 | 20–25 | 19–26 |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 21 | 18–23 | 18–23 | 17–24 | 17–25 |
 | [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 17 | 15–20 | 15–20 | 0–21 | 0–22 |
@@ -269,17 +269,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 5% | 87% |  |
 | 16 | 9% | 82% |  |
 | 17 | 11% | 73% |  |
-| 18 | 12% | 61% | Median |
-| 19 | 13% | 49% |  |
-| 20 | 9% | 36% |  |
-| 21 | 11% | 27% |  |
-| 22 | 6% | 16% |  |
-| 23 | 7% | 10% |  |
-| 24 | 2% | 3% |  |
-| 25 | 0.9% | 1.5% | Last Result |
-| 26 | 0.4% | 0.5% |  |
+| 18 | 13% | 62% | Median |
+| 19 | 12% | 49% |  |
+| 20 | 10% | 36% |  |
+| 21 | 11% | 26% |  |
+| 22 | 7% | 16% |  |
+| 23 | 5% | 9% |  |
+| 24 | 2% | 4% |  |
+| 25 | 1.1% | 2% | Last Result |
+| 26 | 0.3% | 0.4% |  |
 | 27 | 0.1% | 0.1% |  |
-| 28 | 0% | 0.1% |  |
-| 29 | 0% | 0% |  |
+| 28 | 0% | 0% |  |
 
 

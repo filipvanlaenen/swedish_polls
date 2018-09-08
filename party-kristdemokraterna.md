@@ -142,14 +142,14 @@ Last result: **16** seats (General Election of 14 September 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 16–25 | 0–26 | 0–27 | 0–28 |
 | [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 22 | 20–24 | 19–24 | 19–24 | 18–26 |
-| [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 26 | 23–27 | 22–28 | 22–28 | 21–29 |
+| [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 25 | 23–27 | 22–28 | 22–28 | 21–29 |
 | [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT | 21 | 18–23 | 17–24 | 17–24 | 16–26 |
 | [1–6 September 2018](2018-09-06-Demoskop.html) | Demoskop <br> Expressen | 21 | 19–24 | 18–25 | 18–26 | 17–27 |
 | [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 21 | 19–23 | 19–23 | 18–24 | 17–25 |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 24 | 22–26 | 21–27 | 20–27 | 20–29 |
 | [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 21 | 19–24 | 18–25 | 18–25 | 17–27 |
 | [30 August–4 September 2018](2018-09-04-Sifo.html) | Sifo <br> Svenska Dagbladet | 24 | 22–26 | 21–27 | 20–27 | 20–28 |
-| [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 26 | 23–28 | 23–29 | 22–29 | 21–30 |
+| [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 26 | 23–28 | 22–28 | 22–29 | 21–30 |
 | [30 August–4 September 2018](2018-09-04-Demoskop.html) | Demoskop <br> Expressen | 21 | 19–24 | 18–25 | 17–26 | 16–27 |
 | [29 August–3 September 2018](2018-09-03-Sifo.html) | Sifo <br> Svenska Dagbladet | 21 | 20–24 | 19–24 | 19–25 | 18–26 |
 | [27 August–3 September 2018](2018-09-03-SKOP.html) | SKOP | 25 | 22–27 | 21–28 | 21–29 | 19–30 |
@@ -273,17 +273,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 5% | 86% |  |
 | 18 | 5% | 81% |  |
 | 19 | 7% | 75% |  |
-| 20 | 8% | 68% |  |
+| 20 | 9% | 69% |  |
 | 21 | 14% | 60% | Median |
-| 22 | 13% | 46% |  |
-| 23 | 10% | 33% |  |
-| 24 | 8% | 23% |  |
-| 25 | 6% | 15% |  |
-| 26 | 6% | 9% |  |
+| 22 | 12% | 46% |  |
+| 23 | 11% | 33% |  |
+| 24 | 8% | 22% |  |
+| 25 | 6% | 14% |  |
+| 26 | 4% | 7% |  |
 | 27 | 2% | 3% |  |
-| 28 | 0.8% | 1.1% |  |
-| 29 | 0.2% | 0.3% |  |
-| 30 | 0% | 0.1% |  |
+| 28 | 0.7% | 1.1% |  |
+| 29 | 0.3% | 0.4% |  |
+| 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 
 

@@ -139,16 +139,16 @@ Last result: **19** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 18–25 | 16–25 | 0–26 | 0–28 |
+| N/A | [Poll Average](average.html) | 22 | 18–24 | 16–25 | 0–26 | 0–28 |
 | [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 22 | 20–24 | 20–24 | 19–24 | 18–26 |
-| [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 22 | 21–25 | 20–25 | 19–26 | 19–27 |
+| [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 22 | 21–24 | 20–25 | 19–26 | 19–27 |
 | [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT | 23 | 21–26 | 20–27 | 19–28 | 18–29 |
-| [1–6 September 2018](2018-09-06-Demoskop.html) | Demoskop <br> Expressen | 21 | 20–25 | 19–26 | 18–27 | 17–28 |
+| [1–6 September 2018](2018-09-06-Demoskop.html) | Demoskop <br> Expressen | 22 | 20–25 | 19–26 | 19–27 | 18–28 |
 | [3–5 September 2018](2018-09-05-Sifo.html) | Sifo <br> Svenska Dagbladet | 21 | 20–23 | 19–24 | 19–25 | 18–26 |
 | [29 August–5 September 2018](2018-09-05-SKOP.html) | SKOP | 21 | 19–24 | 19–24 | 18–25 | 17–26 |
 | [2–5 September 2018](2018-09-05-Ipsos.html) | Ipsos <br> Dagens Nyheter | 23 | 20–25 | 19–26 | 19–26 | 18–28 |
 | [30 August–4 September 2018](2018-09-04-Sifo.html) | Sifo <br> Svenska Dagbladet | 24 | 22–26 | 22–28 | 21–28 | 20–28 |
-| [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 19 | 17–22 | 17–23 | 16–23 | 16–24 |
+| [28 August–4 September 2018](2018-09-04-SKOP.html) | SKOP | 20 | 18–22 | 17–22 | 17–23 | 16–24 |
 | [30 August–4 September 2018](2018-09-04-Demoskop.html) | Demoskop <br> Expressen | 22 | 20–25 | 19–26 | 18–27 | 17–29 |
 | [29 August–3 September 2018](2018-09-03-Sifo.html) | Sifo <br> Svenska Dagbladet | 24 | 22–26 | 21–27 | 21–28 | 20–29 |
 | [27 August–3 September 2018](2018-09-03-SKOP.html) | SKOP | 18 | 16–20 | 15–21 | 15–22 | 0–23 |
@@ -272,17 +272,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 3% | 94% |  |
 | 18 | 4% | 90% |  |
 | 19 | 7% | 87% | Last Result |
-| 20 | 12% | 79% |  |
-| 21 | 15% | 67% |  |
-| 22 | 17% | 53% | Median |
-| 23 | 16% | 36% |  |
-| 24 | 9% | 20% |  |
+| 20 | 11% | 79% |  |
+| 21 | 15% | 68% |  |
+| 22 | 18% | 53% | Median |
+| 23 | 15% | 35% |  |
+| 24 | 10% | 20% |  |
 | 25 | 6% | 10% |  |
 | 26 | 2% | 4% |  |
-| 27 | 1.1% | 2% |  |
+| 27 | 1.0% | 2% |  |
 | 28 | 0.4% | 0.6% |  |
 | 29 | 0.1% | 0.2% |  |
-| 30 | 0.1% | 0.1% |  |
+| 30 | 0% | 0.1% |  |
 | 31 | 0% | 0% |  |
 
 
