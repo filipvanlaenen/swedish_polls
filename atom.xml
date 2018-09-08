@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_polls</id>
   <title>All Registered Polls for the Riksdagen</title>
-  <updated>2018-09-08T14:52:08.110135+02:00</updated>
+  <updated>2018-09-08T19:04:45.338139+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 22.6–26.8%, 81–96 seats</li><li>Moderata samlingspartiet: 17.8–21.6%, 64–78 seats</li><li>Sverigedemokraterna: 15.1–18.7%, 54–67 seats</li><li>Miljöpartiet de gröna: 4.2–6.4%, 15–23 seats</li><li>Centerpartiet: 8.1–10.9%, 29–39 seats</li><li>Vänsterpartiet: 8.2–11.1%, 30–40 seats</li><li>Liberalerna: 4.8–7.0%, 17–25 seats</li><li>Kristdemokraterna: 4.9–7.1%, 17–25 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_polls/2018-09-07-Inizio.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_polls/2018-09-07-Inizio.html"/>
+    <title>Opinion Poll by Inizio for Aftonbladet, 3–7 September 2018</title>
+    <updated>2018-09-08T19:04:45.338139+02:00</updated>
+    <dc:date>2018-09-08T19:04:45.338139+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 23.1–25.9%, 83–93 seats</li><li>Moderata samlingspartiet: 15.7–18.2%, 57–66 seats</li><li>Sverigedemokraterna: 15.8–18.3%, 57–66 seats</li><li>Miljöpartiet de gröna: 5.4–7.1%, 20–25 seats</li><li>Centerpartiet: 9.1–11.1%, 33–40 seats</li><li>Vänsterpartiet: 9.1–11.1%, 33–40 seats</li><li>Liberalerna: 5.3–6.9%, 19–24 seats</li><li>Kristdemokraterna: 5.3–6.9%, 19–24 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_polls/2018-09-06-Sifo.html</id>
@@ -831,5 +839,5 @@
     <updated>2018-08-23T18:11:04.552912+02:00</updated>
     <dc:date>2018-08-23T18:11:04.552912+02:00</dc:date>
   </entry>
-  <dc:date>2018-09-08T14:52:08.110135+02:00</dc:date>
+  <dc:date>2018-09-08T19:04:45.338139+02:00</dc:date>
 </feed>
