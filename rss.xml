@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Fri, 07 Sep 2018 21:01:43 +0200</pubDate>
+    <pubDate>Sat, 08 Sep 2018 09:27:15 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 5–6 September 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-09-06-Sifo.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-09-06-SKOP.png"
         length="219535"
         type="image/png"/>
-      <pubDate>Fri, 07 Sep 2018 20:34:47 +0200</pubDate>
-      <dc:date>2018-09-07T20:34:47.547827+02:00</dc:date>
+      <pubDate>Sat, 08 Sep 2018 09:27:15 +0200</pubDate>
+      <dc:date>2018-09-08T09:27:15.448266+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 4–6 September 2018 – Seat Projections for the Parties</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-09-06-Demoskop.png"
         length="218702"
         type="image/png"/>
-      <pubDate>Fri, 07 Sep 2018 21:01:43 +0200</pubDate>
-      <dc:date>2018-09-07T21:01:43.153617+02:00</dc:date>
+      <pubDate>Fri, 07 Sep 2018 23:06:09 +0200</pubDate>
+      <dc:date>2018-09-07T23:06:09.133938+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 3–5 September 2018 – Seat Projections for the Parties</title>
@@ -3019,6 +3019,6 @@
       <pubDate>Thu, 23 Aug 2018 18:11:04 +0200</pubDate>
       <dc:date>2018-08-23T18:11:04.552912+02:00</dc:date>
     </item>
-    <dc:date>2018-09-07T21:01:43.153617+02:00</dc:date>
+    <dc:date>2018-09-08T09:27:15.448266+02:00</dc:date>
   </channel>
 </rss>
