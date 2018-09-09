@@ -143,9 +143,9 @@ Last result: **22** seats (General Election of 14 September 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31 | 24–36 | 21–37 | 21–39 | 18–40 |
+| N/A | [Poll Average](average.html) | 31 | 24–37 | 21–38 | 21–39 | 18–41 |
 | [2–7 September 2018](2018-09-07-SKOP.html) | SKOP | 29 | 26–32 | 25–32 | 25–33 | 24–34 |
-| [3–7 September 2018](2018-09-07-Inizio.html) | Inizio <br> Aftonbladet | 33 | 31–37 | 29–38 | 29–39 | 28–40 |
+| [3–7 September 2018](2018-09-07-Inizio.html) | Inizio <br> Aftonbladet | 34 | 31–38 | 30–38 | 29–39 | 28–41 |
 | [5–6 September 2018](2018-09-06-Sifo.html) | Sifo <br> Svenska Dagbladet | 36 | 34–39 | 33–39 | 33–40 | 31–41 |
 | [30 August–6 September 2018](2018-09-06-SKOP.html) | SKOP | 29 | 26–31 | 26–31 | 25–32 | 24–33 |
 | [4–6 September 2018](2018-09-06-Novus.html) | Novus <br> SVT | 30 | 28–34 | 27–35 | 26–36 | 25–37 |
@@ -271,19 +271,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 26 | 3% | 85% |  |
 | 27 | 5% | 81% |  |
 | 28 | 6% | 76% |  |
-| 29 | 6% | 70% |  |
+| 29 | 7% | 70% |  |
 | 30 | 11% | 64% |  |
 | 31 | 7% | 53% | Median |
-| 32 | 11% | 46% |  |
-| 33 | 8% | 35% |  |
-| 34 | 4% | 27% |  |
-| 35 | 6% | 23% |  |
-| 36 | 8% | 18% |  |
-| 37 | 5% | 10% |  |
-| 38 | 2% | 5% |  |
-| 39 | 1.4% | 3% |  |
-| 40 | 0.7% | 1.1% |  |
-| 41 | 0.3% | 0.4% |  |
+| 32 | 9% | 46% |  |
+| 33 | 7% | 36% |  |
+| 34 | 4% | 29% |  |
+| 35 | 5% | 25% |  |
+| 36 | 8% | 20% |  |
+| 37 | 5% | 12% |  |
+| 38 | 3% | 6% |  |
+| 39 | 2% | 3% |  |
+| 40 | 0.8% | 1.4% |  |
+| 41 | 0.4% | 0.5% |  |
 | 42 | 0.1% | 0.1% |  |
 | 43 | 0% | 0% |  |
 
