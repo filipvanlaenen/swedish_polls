@@ -5,12 +5,12 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
-| N/A | [Poll Average](average.html) | 26–31% <br> 95–113 | 18–22% <br> 65–74 | 17–22% <br> 62–81 | 6–10% <br> 25–39 | 6–10% <br> 22–31 | 5–7% <br> 18–28 | 4–6% <br> 0–22 | 4–6% <br> 0–22 |
-| [8–18 October 2018](2018-10-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 28–30% <br> 100–113 | 18–20% <br> 65–74 | 18–19% <br> 62–70 | 8–10% <br> 32–37 | 7–8% <br> 26–29 | 6–7% <br> 19–23 | 4–5% <br> 16–20 | 4–5% <br> 0–16 |
-| [5–9 October 2018](2018-10-09-Sentio.html) | Sentio <br> Nyheter Idag | 25–30% <br> 100 | 18–23% <br> 70–72 | 18–23% <br> 73–81 | 6–9% <br> 25–26 | 7–10% <br> 27 | 4–7% <br> 21–23 | 3–6% <br> 0–16 | 4–7% <br> 17–22 |
-| [1–8 October 2018](2018-10-08-Inizio.html) | Inizio <br> Aftonbladet | 28–32% <br> 95–113 | 18–21% <br> 65–72 | 16–20% <br> 61–78 | 7–10% <br> 29–41 | 6–9% <br> 22–27 | 5–8% <br> 18–23 | 4–6% <br> 0–24 | 3–5% <br> 0–17 |
-| [1–4 October 2018](2018-10-04-Novus.html) | Novus <br> SVT | 26–30% <br> 97–111 | 18–21% <br> 65–74 | 17–21% <br> 63–68 | 7–10% <br> 25–31 | 7–10% <br> 25–32 | 5–7% <br> 23–28 | 4–6% <br> 0–21 | 4–5% <br> 0–17 |
-| [25 September–2 October 2018](2018-10-02-Demoskop.html) | Demoskop <br> Expressen | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 26–32% <br> 92–118 | 18–22% <br> 62–78 | 16–22% <br> 59–78 | 7–10% <br> 24–36 | 6–10% <br> 23–35 | 5–7% <br> 17–26 | 4–6% <br> 0–21 | 3–6% <br> 0–21 |
+| [8–18 October 2018](2018-10-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 28–30% <br> 100–109 | 18–20% <br> 64–71 | 18–19% <br> 63–71 | 8–10% <br> 30–34 | 7–8% <br> 26–30 | 6–7% <br> 20–24 | 4–5% <br> 16–19 | 4–5% <br> 0–16 |
+| [5–9 October 2018](2018-10-09-Sentio.html) | Sentio <br> Nyheter Idag | 25–30% <br> 88–110 | 18–23% <br> 63–81 | 18–23% <br> 63–83 | 6–9% <br> 21–33 | 7–10% <br> 24–37 | 4–7% <br> 16–26 | 3–6% <br> 0–20 | 4–7% <br> 0–24 |
+| [1–8 October 2018](2018-10-08-Inizio.html) | Inizio <br> Aftonbladet | 28–32% <br> 98–116 | 18–21% <br> 63–77 | 16–20% <br> 58–71 | 7–10% <br> 27–36 | 6–9% <br> 22–31 | 5–8% <br> 19–27 | 4–6% <br> 0–21 | 3–5% <br> 0–19 |
+| [1–4 October 2018](2018-10-04-Novus.html) | Novus <br> SVT | 26–30% <br> 94–109 | 18–21% <br> 65–76 | 17–21% <br> 62–73 | 7–10% <br> 26–34 | 7–10% <br> 26–34 | 5–7% <br> 18–26 | 4–6% <br> 0–19 | 4–5% <br> 0–19 |
+| [25 September–2 October 2018](2018-10-02-Demoskop.html) | Demoskop <br> Expressen | 28–33% <br> 102–122 | 17–21% <br> 61–77 | 16–20% <br> 59–74 | 7–10% <br> 27–37 | 6–9% <br> 24–34 | 5–7% <br> 18–27 | 4–6% <br> 0–23 | 3–5% <br> 0–16 |
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
 
 Only polls for which at least the sample size has been published are included in the table above.
