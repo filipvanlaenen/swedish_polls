@@ -47,11 +47,11 @@ Last result: **62** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 67 | 62–73 | 60–76 | 59–78 | 57–83 |
-| [8–18 October 2018](2018-10-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 66 | 65–71 | 64–71 | 63–71 | 62–71 |
+| [8–18 October 2018](2018-10-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 66 | 64–69 | 63–70 | 63–71 | 62–72 |
 | [5–9 October 2018](2018-10-09-Sentio.html) | Sentio <br> Nyheter Idag | 72 | 67–79 | 65–81 | 63–83 | 61–86 |
 | [1–8 October 2018](2018-10-08-Inizio.html) | Inizio <br> Aftonbladet | 63 | 60–68 | 58–70 | 58–71 | 55–74 |
-| [1–4 October 2018](2018-10-04-Novus.html) | Novus <br> SVT | 67 | 63–71 | 62–72 | 61–74 | 59–77 |
-| [24 September–2 October 2018](2018-10-02-Sifo.html) | Sifo <br> Svenska Dagbladet | 66 | 63–67 | 62–68 | 62–69 | 61–71 |
+| [1–4 October 2018](2018-10-04-Novus.html) | Novus <br> SVT | 67 | 63–71 | 62–72 | 61–74 | 59–76 |
+| [24 September–2 October 2018](2018-10-02-Sifo.html) | Sifo <br> Svenska Dagbladet | 65 | 63–67 | 62–68 | 62–69 | 61–71 |
 | [25 September–2 October 2018](2018-10-02-Demoskop.html) | Demoskop <br> Expressen | 66 | 61–71 | 59–72 | 59–74 | 57–76 |
 
 ### Probability Mass Function
@@ -71,20 +71,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 60 | 2% | 97% |  |
 | 61 | 3% | 95% |  |
 | 62 | 5% | 92% | Last Result |
-| 63 | 7% | 88% |  |
-| 64 | 7% | 81% |  |
-| 65 | 9% | 74% |  |
-| 66 | 13% | 65% |  |
+| 63 | 7% | 87% |  |
+| 64 | 8% | 80% |  |
+| 65 | 10% | 72% |  |
+| 66 | 11% | 63% |  |
 | 67 | 10% | 52% | Median |
-| 68 | 7% | 42% |  |
-| 69 | 9% | 35% |  |
-| 70 | 5% | 26% |  |
-| 71 | 7% | 22% |  |
+| 68 | 10% | 42% |  |
+| 69 | 7% | 32% |  |
+| 70 | 5% | 25% |  |
+| 71 | 5% | 21% |  |
 | 72 | 3% | 15% |  |
 | 73 | 2% | 12% |  |
 | 74 | 2% | 10% |  |
 | 75 | 2% | 8% |  |
-| 76 | 1.5% | 6% |  |
+| 76 | 2% | 6% |  |
 | 77 | 1.4% | 5% |  |
 | 78 | 0.8% | 3% |  |
 | 79 | 0.7% | 2% |  |
