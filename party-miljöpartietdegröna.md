@@ -46,9 +46,9 @@ Last result: **16** seats (General Election of 9 September 2018)
 | [8–18 October 2018](2018-10-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 14 | 0–15 | 0–16 | 0–16 | 0–16 |
 | [5–9 October 2018](2018-10-09-Sentio.html) | Sentio <br> Nyheter Idag | 18 | 15–22 | 14–23 | 0–24 | 0–25 |
 | [1–8 October 2018](2018-10-08-Inizio.html) | Inizio <br> Aftonbladet | 15 | 0–18 | 0–18 | 0–19 | 0–20 |
-| [1–4 October 2018](2018-10-04-Novus.html) | Novus <br> SVT | 16 | 14–18 | 0–18 | 0–19 | 0–20 |
+| [1–4 October 2018](2018-10-04-Novus.html) | Novus <br> SVT | 16 | 0–18 | 0–19 | 0–19 | 0–20 |
 | [24 September–2 October 2018](2018-10-02-Sifo.html) | Sifo <br> Svenska Dagbladet | 15 | 14–16 | 0–17 | 0–17 | 0–17 |
-| [25 September–2 October 2018](2018-10-02-Demoskop.html) | Demoskop <br> Expressen | 0 | 0–14 | 0–15 | 0–16 | 0–17 |
+| [25 September–2 October 2018](2018-10-02-Demoskop.html) | Demoskop <br> Expressen | 0 | 0–15 | 0–15 | 0–16 | 0–17 |
 
 ### Probability Mass Function
 
@@ -58,24 +58,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 30% | 100% |  |
-| 1 | 0% | 70% |  |
-| 2 | 0% | 70% |  |
-| 3 | 0% | 70% |  |
-| 4 | 0% | 70% |  |
-| 5 | 0% | 70% |  |
-| 6 | 0% | 70% |  |
-| 7 | 0% | 70% |  |
-| 8 | 0% | 70% |  |
-| 9 | 0% | 70% |  |
-| 10 | 0% | 70% |  |
-| 11 | 0% | 70% |  |
-| 12 | 0% | 70% |  |
-| 13 | 0% | 70% |  |
-| 14 | 10% | 70% |  |
-| 15 | 21% | 60% | Median |
+| 0 | 32% | 100% |  |
+| 1 | 0% | 68% |  |
+| 2 | 0% | 68% |  |
+| 3 | 0% | 68% |  |
+| 4 | 0% | 68% |  |
+| 5 | 0% | 68% |  |
+| 6 | 0% | 68% |  |
+| 7 | 0% | 68% |  |
+| 8 | 0% | 68% |  |
+| 9 | 0% | 68% |  |
+| 10 | 0% | 68% |  |
+| 11 | 0% | 68% |  |
+| 12 | 0% | 68% |  |
+| 13 | 0% | 68% |  |
+| 14 | 10% | 68% |  |
+| 15 | 19% | 59% | Median |
 | 16 | 13% | 40% | Last Result |
-| 17 | 9% | 26% |  |
+| 17 | 10% | 27% |  |
 | 18 | 6% | 17% |  |
 | 19 | 5% | 11% |  |
 | 20 | 3% | 7% |  |
