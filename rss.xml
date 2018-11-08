@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Thu, 08 Nov 2018 10:20:52 +0100</pubDate>
+    <pubDate>Thu, 08 Nov 2018 15:32:50 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 16–24 October 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-10-24-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 93–111 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 60–76 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 59–74 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 28–38 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 24–34 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0–23 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–22 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–22 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-10-24-Ipsos-seats.png"
+        length="237574"
+        type="image/png"/>
+      <pubDate>Thu, 08 Nov 2018 15:32:50 +0100</pubDate>
+      <dc:date>2018-11-08T15:32:50.271057+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 16–24 October 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-10-24-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-10-24-Ipsos-coalitions-seats.png"
+        length="291742"
+        type="image/png"/>
+      <pubDate>Thu, 08 Nov 2018 15:32:50 +0100</pubDate>
+      <dc:date>2018-11-08T15:32:50.271057+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 16–24 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-10-24-Ipsos.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-10-24-Ipsos.png"
         length="219428"
         type="image/png"/>
-      <pubDate>Thu, 08 Nov 2018 10:20:52 +0100</pubDate>
-      <dc:date>2018-11-08T10:20:52.983847+01:00</dc:date>
+      <pubDate>Thu, 08 Nov 2018 15:32:50 +0100</pubDate>
+      <dc:date>2018-11-08T15:32:50.271057+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 8–18 October 2018 – Seat Projections for the Parties</title>
@@ -199,6 +219,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2018-11-08T10:20:52.983847+01:00</dc:date>
+    <dc:date>2018-11-08T15:32:50.271057+01:00</dc:date>
   </channel>
 </rss>
