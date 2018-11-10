@@ -10,7 +10,9 @@ Last result: **8.6%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.7% | 7.5–9.6% | 7.1–9.9% | 6.7–10.2% | 6.1–10.8% |
+| N/A | [Poll Average](average.html) | 8.9% | 7.6–10.0% | 7.1–10.4% | 6.7–10.6% | 6.1–11.2% |
+| [26 October–6 November 2018](2018-11-06-Inizio.html) | Inizio <br> Aftonbladet | 9.8% | 9.1–10.7% | 8.8–10.9% | 8.6–11.2% | 8.3–11.6% |
+| [30 October–6 November 2018](2018-11-06-Demoskop.html) | Demoskop <br> Expressen | 8.8% | 7.9–9.8% | 7.7–10.0% | 7.5–10.3% | 7.1–10.8% |
 | [16–24 October 2018](2018-10-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 9.2% | 8.3–10.2% | 8.1–10.5% | 7.8–10.7% | 7.4–11.2% |
 | [8–18 October 2018](2018-10-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 9.1% | 8.7–9.5% | 8.6–9.6% | 8.5–9.7% | 8.3–9.9% |
 | [5–9 October 2018](2018-10-09-Sentio.html) | Sentio <br> Nyheter Idag | 7.5% | 6.6–8.7% | 6.3–9.0% | 6.1–9.3% | 5.6–9.9% |
@@ -27,12 +29,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0.1% | 100% |  |
 | 5.5–6.5% | 2% | 99.9% |  |
-| 6.5–7.5% | 9% | 98% |  |
-| 7.5–8.5% | 30% | 90% |  |
-| 8.5–9.5% | 48% | 59% | Last Result, Median |
-| 9.5–10.5% | 11% | 12% |  |
-| 10.5–11.5% | 0.9% | 0.9% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 6.5–7.5% | 8% | 98% |  |
+| 7.5–8.5% | 24% | 90% |  |
+| 8.5–9.5% | 45% | 66% | Last Result, Median |
+| 9.5–10.5% | 18% | 21% |  |
+| 10.5–11.5% | 3% | 3% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -43,7 +46,9 @@ Last result: **31** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31 | 27–35 | 25–36 | 24–37 | 22–39 |
+| N/A | [Poll Average](average.html) | 32 | 27–37 | 26–37 | 24–38 | 22–40 |
+| [26 October–6 November 2018](2018-11-06-Inizio.html) | Inizio <br> Aftonbladet | 36 | 32–38 | 31–39 | 31–40 | 30–43 |
+| [30 October–6 November 2018](2018-11-06-Demoskop.html) | Demoskop <br> Expressen | 33 | 29–36 | 28–37 | 27–37 | 25–39 |
 | [16–24 October 2018](2018-10-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 33 | 29–36 | 29–37 | 28–38 | 26–40 |
 | [8–18 October 2018](2018-10-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 32 | 31–34 | 30–35 | 30–35 | 30–36 |
 | [5–9 October 2018](2018-10-09-Sentio.html) | Sentio <br> Nyheter Idag | 27 | 23–31 | 22–32 | 21–33 | 20–36 |
@@ -66,22 +71,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 0.8% | 98.9% |  |
 | 24 | 1.3% | 98% |  |
 | 25 | 2% | 97% |  |
-| 26 | 4% | 95% |  |
-| 27 | 5% | 91% |  |
-| 28 | 6% | 87% |  |
-| 29 | 7% | 80% |  |
-| 30 | 12% | 73% |  |
-| 31 | 15% | 61% | Last Result, Median |
-| 32 | 14% | 46% |  |
-| 33 | 12% | 32% |  |
-| 34 | 7% | 20% |  |
-| 35 | 5% | 12% |  |
-| 36 | 4% | 7% |  |
-| 37 | 2% | 3% |  |
-| 38 | 0.9% | 2% |  |
-| 39 | 0.4% | 0.6% |  |
-| 40 | 0.2% | 0.2% |  |
-| 41 | 0% | 0.1% |  |
-| 42 | 0% | 0% |  |
+| 26 | 3% | 95% |  |
+| 27 | 4% | 92% |  |
+| 28 | 5% | 88% |  |
+| 29 | 5% | 82% |  |
+| 30 | 9% | 77% |  |
+| 31 | 10% | 68% | Last Result |
+| 32 | 13% | 57% | Median |
+| 33 | 14% | 44% |  |
+| 34 | 8% | 30% |  |
+| 35 | 6% | 22% |  |
+| 36 | 5% | 16% |  |
+| 37 | 7% | 11% |  |
+| 38 | 1.3% | 3% |  |
+| 39 | 1.2% | 2% |  |
+| 40 | 0.4% | 0.9% |  |
+| 41 | 0.2% | 0.5% |  |
+| 42 | 0.2% | 0.3% |  |
+| 43 | 0.1% | 0.1% |  |
+| 44 | 0% | 0.1% |  |
+| 45 | 0% | 0% |  |
 
 
