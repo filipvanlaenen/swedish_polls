@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Mon, 12 Nov 2018 16:24:07 +0100</pubDate>
+    <pubDate>Sat, 17 Nov 2018 15:45:01 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 15 October–11 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-11-11-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 28.5–31.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 18.1–20.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.1–20.3%&lt;/li&gt;&lt;li&gt;Centerpartiet: 8.1–9.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.2–8.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.3–6.6%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.2–4.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.8–4.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-11-11-Novus.png"
+        length="196589"
+        type="image/png"/>
+      <pubDate>Sat, 17 Nov 2018 15:45:01 +0100</pubDate>
+      <dc:date>2018-11-17T15:45:01.319042+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 26 October–6 November 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-11-06-Inizio.html#seats</link>
@@ -279,6 +289,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2018-11-12T16:24:07.658944+01:00</dc:date>
+    <dc:date>2018-11-17T15:45:01.319042+01:00</dc:date>
   </channel>
 </rss>
