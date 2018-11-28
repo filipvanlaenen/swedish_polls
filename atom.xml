@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_polls</id>
   <title>All Registered Polls for the Riksdagen</title>
-  <updated>2018-11-12T16:24:07.658944+01:00</updated>
+  <updated>2018-11-27T20:59:42.612651+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 25.5–31.1%, 94–117 seats</li><li>Moderata samlingspartiet: 16.4–21.2%, 61–80 seats</li><li>Sverigedemokraterna: 17.9–22.9%, 66–85 seats</li><li>Centerpartiet: 7.7–11.3%, 28–42 seats</li><li>Vänsterpartiet: 7.7–11.3%, 28–42 seats</li><li>Kristdemokraterna: 4.1–7.0%, 15–26 seats</li><li>Liberalerna: 2.3–4.6%, 0–17 seats</li><li>Miljöpartiet de gröna: 2.8–5.2%, 0–19 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_polls/2018-11-07-Sentio.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_polls/2018-11-07-Sentio.html"/>
+    <title>Opinion Poll by Sentio for Nyheter Idag, 1–7 November 2018</title>
+    <updated>2018-11-27T20:59:42.612651+01:00</updated>
+    <dc:date>2018-11-27T20:59:42.612651+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 27.6–31.4%, 99–118 seats</li><li>Moderata samlingspartiet: 16.6–19.9%, 61–76 seats</li><li>Sverigedemokraterna: 17.3–20.6%, 63–78 seats</li><li>Centerpartiet: 8.6–11.2%, 31–42 seats</li><li>Vänsterpartiet: 6.8–9.0%, 25–33 seats</li><li>Kristdemokraterna: 5.0–7.0%, 18–26 seats</li><li>Liberalerna: 3.3–4.9%, 0–18 seats</li><li>Miljöpartiet de gröna: 3.1–4.7%, 0–17 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_polls/2018-11-06-Inizio.html</id>
@@ -79,5 +87,5 @@
     <updated>2018-10-27T21:13:38.351324+02:00</updated>
     <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
   </entry>
-  <dc:date>2018-11-12T16:24:07.658944+01:00</dc:date>
+  <dc:date>2018-11-27T20:59:42.612651+01:00</dc:date>
 </feed>
