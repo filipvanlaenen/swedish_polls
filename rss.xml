@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Tue, 27 Nov 2018 19:59:48 +0100</pubDate>
+    <pubDate>Tue, 27 Nov 2018 20:59:42 +0100</pubDate>
     <item>
       <title>Opinion Poll by Novus for SVT, 15 October–11 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-11-11-Novus.html</link>
@@ -20,14 +20,34 @@
       <dc:date>2018-11-18T10:27:29.037249+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 1–7 November 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-11-07-Sentio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 94–117 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 61–80 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 66–85 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 28–42 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 28–42 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 15–26 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–17 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-11-07-Sentio-seats.png"
+        length="197801"
+        type="image/png"/>
+      <pubDate>Tue, 27 Nov 2018 20:59:42 +0100</pubDate>
+      <dc:date>2018-11-27T20:59:42.612651+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 1–7 November 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-11-07-Sentio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-11-07-Sentio-coalitions-seats.png"
+        length="321452"
+        type="image/png"/>
+      <pubDate>Tue, 27 Nov 2018 20:59:42 +0100</pubDate>
+      <dc:date>2018-11-27T20:59:42.612651+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 1–7 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-11-07-Sentio.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 25.5–31.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.4–21.2%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 17.9–22.9%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.7–11.3%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.7–11.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.1–7.0%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.3–4.6%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.8–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-11-07-Sentio.png"
         length="233951"
         type="image/png"/>
-      <pubDate>Tue, 27 Nov 2018 19:59:48 +0100</pubDate>
-      <dc:date>2018-11-27T19:59:48.340451+01:00</dc:date>
+      <pubDate>Tue, 27 Nov 2018 20:59:42 +0100</pubDate>
+      <dc:date>2018-11-27T20:59:42.612651+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 26 October–6 November 2018 – Seat Projections for the Parties</title>
@@ -299,6 +319,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2018-11-27T19:59:48.340451+01:00</dc:date>
+    <dc:date>2018-11-27T20:59:42.612651+01:00</dc:date>
   </channel>
 </rss>
