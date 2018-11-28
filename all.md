@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
 | [15 October–11 November 2018](2018-11-11-Novus.html) | Novus <br> SVT | 29–31% <br> 103–115 | 18–20% <br> 65–75 | 18–20% <br> 66–76 | 8–10% <br> 30–36 | 7–9% <br> 27–32 | 5–7% <br> 19–24 | 3–4% <br> 0–15 | 4–5% <br> 0–18 |
-| [1–7 November 2018](2018-11-07-Sentio.html) | Sentio <br> Nyheter Idag | 26–31% <br> 94–117 | 16–21% <br> 60–80 | 18–23% <br> 66–85 | 8–11% <br> 28–42 | 8–11% <br> 28–42 | 4–7% <br> 15–26 | 2–5% <br> 0–16 | 3–5% <br> 0–19 |
+| [1–7 November 2018](2018-11-07-Sentio.html) | Sentio <br> Nyheter Idag | 26–31% <br> 94–117 | 16–21% <br> 61–80 | 18–23% <br> 66–85 | 8–11% <br> 28–42 | 8–11% <br> 28–42 | 4–7% <br> 15–26 | 2–5% <br> 0–17 | 3–5% <br> 0–19 |
 | [26 October–6 November 2018](2018-11-06-Inizio.html) | Inizio <br> Aftonbladet | 28–31% <br> 99–118 | 17–20% <br> 61–76 | 17–21% <br> 63–78 | 9–11% <br> 31–42 | 7–9% <br> 25–33 | 5–7% <br> 18–26 | 3–5% <br> 0–18 | 3–5% <br> 0–17 |
 | [30 October–6 November 2018](2018-11-06-Demoskop.html) | Demoskop <br> Expressen | 27–31% <br> 97–118 | 16–20% <br> 59–75 | 19–23% <br> 69–86 | 7–10% <br> 27–38 | 7–9% <br> 24–34 | 4–6% <br> 0–22 | 3–5% <br> 0–19 | 3–5% <br> 0–20 |
 | [16–24 October 2018](2018-10-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 26–31% <br> 93–111 | 17–21% <br> 60–76 | 17–21% <br> 59–74 | 8–11% <br> 28–38 | 7–10% <br> 24–34 | 4–6% <br> 0–23 | 4–6% <br> 0–22 | 4–6% <br> 0–22 |
