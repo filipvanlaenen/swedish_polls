@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Thu, 06 Dec 2018 12:20:08 +0100</pubDate>
+    <pubDate>Thu, 06 Dec 2018 12:31:11 +0100</pubDate>
     <item>
       <title>Opinion Poll by SCB, 29 October–27 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-11-27-SCB.html</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-11-15-Sifo.png"
         length="187565"
         type="image/png"/>
-      <pubDate>Thu, 06 Dec 2018 12:20:08 +0100</pubDate>
-      <dc:date>2018-12-06T12:20:08.381319+01:00</dc:date>
+      <pubDate>Thu, 06 Dec 2018 12:31:11 +0100</pubDate>
+      <dc:date>2018-12-06T12:31:11.821024+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 15 October–11 November 2018 – Voting Intentions</title>
@@ -359,6 +359,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2018-12-06T12:20:08.381319+01:00</dc:date>
+    <dc:date>2018-12-06T12:31:11.821024+01:00</dc:date>
   </channel>
 </rss>
