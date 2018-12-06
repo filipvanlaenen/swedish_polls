@@ -54,11 +54,11 @@ Last result: **100** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 107 | 100–112 | 97–115 | 96–117 | 92–120 |
+| N/A | [Poll Average](average.html) | 108 | 100–112 | 97–115 | 96–117 | 92–120 |
 | [29 October–27 November 2018](2018-11-27-SCB.html) | SCB | 110 | 106–115 | 105–116 | 105–116 | 103–119 |
 | [8–19 November 2018](2018-11-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 102 | 96–109 | 94–111 | 93–111 | 91–115 |
 | [14–19 November 2018](2018-11-19-Inizio.html) | Inizio <br> Aftonbladet | 109 | 104–116 | 102–118 | 102–118 | 99–122 |
-| [5–15 November 2018](2018-11-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 102 | 101–107 | 99–108 | 99–109 | 99–110 |
+| [5–15 November 2018](2018-11-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 103 | 101–108 | 100–108 | 99–109 | 98–111 |
 | [15 October–11 November 2018](2018-11-11-Novus.html) | Novus <br> SVT | 109 | 105–114 | 104–115 | 103–115 | 102–119 |
 | [1–7 November 2018](2018-11-07-Sentio.html) | Sentio <br> Nyheter Idag | 106 | 98–112 | 95–114 | 94–117 | 90–122 |
 | [26 October–6 November 2018](2018-11-06-Inizio.html) | Inizio <br> Aftonbladet | 108 | 103–115 | 101–117 | 99–118 | 97–120 |
@@ -88,17 +88,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 95 | 0.6% | 98.6% |  |
 | 96 | 3% | 98% |  |
 | 97 | 1.2% | 95% |  |
-| 98 | 0.8% | 94% |  |
+| 98 | 0.9% | 94% |  |
 | 99 | 2% | 93% |  |
 | 100 | 2% | 91% | Last Result |
-| 101 | 5% | 89% |  |
-| 102 | 9% | 83% |  |
-| 103 | 3% | 75% |  |
-| 104 | 5% | 71% |  |
-| 105 | 5% | 66% |  |
-| 106 | 7% | 61% |  |
-| 107 | 5% | 54% | Median |
-| 108 | 10% | 48% |  |
+| 101 | 6% | 89% |  |
+| 102 | 7% | 83% |  |
+| 103 | 5% | 77% |  |
+| 104 | 4% | 72% |  |
+| 105 | 6% | 67% |  |
+| 106 | 7% | 62% |  |
+| 107 | 5% | 55% |  |
+| 108 | 11% | 50% | Median |
 | 109 | 9% | 39% |  |
 | 110 | 5% | 30% |  |
 | 111 | 9% | 26% |  |
