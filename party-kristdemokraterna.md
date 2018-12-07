@@ -54,7 +54,7 @@ Last result: **22** seats (General Election of 9 September 2018)
 | N/A | [Poll Average](average.html) | 21 | 17–26 | 16–27 | 16–28 | 0–30 |
 | [29 October–27 November 2018](2018-11-27-SCB.html) | SCB | 19 | 18–21 | 17–21 | 17–22 | 16–22 |
 | [8–19 November 2018](2018-11-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 20 | 17–22 | 16–23 | 15–24 | 0–26 |
-| [14–19 November 2018](2018-11-19-Inizio.html) | Inizio <br> Aftonbladet | 26 | 24–29 | 23–29 | 22–30 | 21–32 |
+| [14–19 November 2018](2018-11-19-Inizio.html) | Inizio <br> Aftonbladet | 26 | 24–29 | 23–30 | 22–30 | 21–32 |
 | [5–15 November 2018](2018-11-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 24 | 22–25 | 22–26 | 22–26 | 21–26 |
 | [15 October–11 November 2018](2018-11-11-Novus.html) | Novus <br> SVT | 21 | 20–23 | 20–24 | 19–24 | 19–25 |
 | [1–7 November 2018](2018-11-07-Sentio.html) | Sentio <br> Nyheter Idag | 20 | 17–24 | 16–25 | 15–26 | 0–28 |
@@ -99,16 +99,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 14% | 67% |  |
 | 21 | 11% | 53% | Median |
 | 22 | 9% | 42% | Last Result |
-| 23 | 7% | 33% |  |
-| 24 | 9% | 26% |  |
-| 25 | 6% | 17% |  |
-| 26 | 5% | 11% |  |
-| 27 | 1.1% | 6% |  |
-| 28 | 3% | 4% |  |
-| 29 | 1.1% | 2% |  |
-| 30 | 0.4% | 0.6% |  |
-| 31 | 0.1% | 0.3% |  |
-| 32 | 0.2% | 0.2% |  |
+| 23 | 8% | 33% |  |
+| 24 | 9% | 25% |  |
+| 25 | 5% | 16% |  |
+| 26 | 4% | 11% |  |
+| 27 | 3% | 6% |  |
+| 28 | 2% | 4% |  |
+| 29 | 1.0% | 2% |  |
+| 30 | 0.5% | 0.8% |  |
+| 31 | 0.2% | 0.3% |  |
+| 32 | 0.1% | 0.1% |  |
 | 33 | 0% | 0% |  |
 
 
