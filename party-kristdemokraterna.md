@@ -54,7 +54,7 @@ Last result: **22** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 18–26 | 18–27 | 17–28 | 15–30 |
-| [27 November–4 December 2018](2018-12-04-Demoskop.html) | Demoskop <br> Expressen | 21 | 19–23 | 18–25 | 17–25 | 15–27 |
+| [27 November–4 December 2018](2018-12-04-Demoskop.html) | Demoskop <br> Expressen | 21 | 19–23 | 18–24 | 17–25 | 16–27 |
 | [29 November–3 December 2018](2018-12-03-Sentio.html) | Sentio <br> Nyheter Idag | 23 | 19–26 | 18–28 | 17–29 | 16–31 |
 | [29 October–27 November 2018](2018-11-27-SCB.html) | SCB | 19 | 18–21 | 17–21 | 17–22 | 16–23 |
 | [8–19 November 2018](2018-11-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 20 | 17–22 | 16–23 | 15–24 | 0–26 |
@@ -95,15 +95,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 99.9% |  |
 | 13 | 0% | 99.9% |  |
 | 14 | 0.1% | 99.9% |  |
-| 15 | 0.4% | 99.8% |  |
-| 16 | 1.2% | 99.4% |  |
-| 17 | 3% | 98% |  |
-| 18 | 6% | 96% |  |
+| 15 | 0.3% | 99.8% |  |
+| 16 | 1.1% | 99.5% |  |
+| 17 | 2% | 98% |  |
+| 18 | 7% | 96% |  |
 | 19 | 9% | 89% |  |
-| 20 | 14% | 80% |  |
+| 20 | 13% | 80% |  |
 | 21 | 14% | 66% |  |
-| 22 | 10% | 52% | Last Result, Median |
-| 23 | 11% | 41% |  |
+| 22 | 11% | 53% | Last Result, Median |
+| 23 | 11% | 42% |  |
 | 24 | 11% | 30% |  |
 | 25 | 7% | 20% |  |
 | 26 | 5% | 13% |  |
