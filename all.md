@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
-| [27 November–4 December 2018](2018-12-04-Demoskop.html) | Demoskop <br> Expressen | 26–31% <br> 92–115 | 17–21% <br> 61–78 | 19–23% <br> 66–84 | 7–10% <br> 26–37 | 7–9% <br> 25–34 | 5–7% <br> 17–25 | 3–6% <br> 0–20 | 3–5% <br> 0–19 |
+| [27 November–4 December 2018](2018-12-04-Demoskop.html) | Demoskop <br> Expressen | 26–31% <br> 93–115 | 17–21% <br> 61–77 | 19–23% <br> 66–83 | 7–10% <br> 26–36 | 7–9% <br> 25–34 | 5–7% <br> 17–25 | 3–6% <br> 0–20 | 3–5% <br> 0–18 |
 | [29 November–3 December 2018](2018-12-03-Sentio.html) | Sentio <br> Nyheter Idag | 26–31% <br> 93–117 | 16–20% <br> 57–76 | 20–25% <br> 72–94 | 5–9% <br> 20–32 | 7–10% <br> 24–37 | 5–8% <br> 17–29 | 3–6% <br> 0–20 | 3–5% <br> 0–19 |
 | [29 October–27 November 2018](2018-11-27-SCB.html) | SCB | 29–32% <br> 104–118 | 18–20% <br> 64–75 | 17–19% <br> 62–72 | 8–9% <br> 28–35 | 8–9% <br> 27–34 | 5–6% <br> 17–22 | 4–5% <br> 0–18 | 3–5% <br> 0–16 |
 | [8–19 November 2018](2018-11-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 26–31% <br> 93–114 | 16–20% <br> 58–74 | 18–22% <br> 64–82 | 9–12% <br> 31–42 | 7–10% <br> 25–35 | 4–7% <br> 15–24 | 4–6% <br> 0–21 | 3–5% <br> 0–19 |
