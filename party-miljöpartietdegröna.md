@@ -51,14 +51,14 @@ Last result: **16** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 0–16 | 0–17 | 0–18 | 0–19 |
-| [27 November–4 December 2018](2018-12-04-Demoskop.html) | Demoskop <br> Expressen | 14 | 0–17 | 0–18 | 0–18 | 0–20 |
+| N/A | [Poll Average](average.html) | 14 | 0–17 | 0–17 | 0–18 | 0–19 |
+| [27 November–4 December 2018](2018-12-04-Demoskop.html) | Demoskop <br> Expressen | 15 | 0–17 | 0–18 | 0–19 | 0–20 |
 | [29 November–3 December 2018](2018-12-03-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–17 | 0–18 | 0–19 | 0–21 |
 | [29 October–27 November 2018](2018-11-27-SCB.html) | SCB | 0 | 0–16 | 0–16 | 0–16 | 0–17 |
 | [8–19 November 2018](2018-11-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 15 | 0–17 | 0–18 | 0–19 | 0–20 |
 | [14–19 November 2018](2018-11-19-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–15 | 0–15 | 0–16 | 0–17 |
-| [5–15 November 2018](2018-11-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 15 | 0–16 | 0–16 | 0–16 | 0–16 |
-| [15 October–11 November 2018](2018-11-11-Novus.html) | Novus <br> SVT | 15 | 15–17 | 0–18 | 0–18 | 0–18 |
+| [5–15 November 2018](2018-11-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 15 | 0–15 | 0–16 | 0–16 | 0–16 |
+| [15 October–11 November 2018](2018-11-11-Novus.html) | Novus <br> SVT | 16 | 0–17 | 0–18 | 0–18 | 0–18 |
 | [1–7 November 2018](2018-11-07-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–17 | 0–18 | 0–19 | 0–21 |
 | [26 October–6 November 2018](2018-11-06-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–16 | 0–17 | 0–17 | 0–18 |
 | [30 October–6 November 2018](2018-11-06-Demoskop.html) | Demoskop <br> Expressen | 15 | 0–18 | 0–19 | 0–20 | 0–21 |
@@ -92,12 +92,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 56% |  |
 | 12 | 0% | 56% |  |
 | 13 | 0% | 56% |  |
-| 14 | 7% | 56% | Median |
-| 15 | 25% | 49% |  |
-| 16 | 14% | 24% | Last Result |
-| 17 | 6% | 10% |  |
+| 14 | 8% | 56% | Median |
+| 15 | 22% | 48% |  |
+| 16 | 14% | 25% | Last Result |
+| 17 | 7% | 11% |  |
 | 18 | 3% | 4% |  |
-| 19 | 1.0% | 1.4% |  |
+| 19 | 1.0% | 1.5% |  |
 | 20 | 0.3% | 0.5% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
