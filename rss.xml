@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Wed, 19 Dec 2018 12:07:30 +0100</pubDate>
+    <pubDate>Wed, 19 Dec 2018 13:20:16 +0100</pubDate>
     <item>
       <title>Opinion Poll by Demoskop for Expressen, 27 November–4 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-12-04-Demoskop.html#seats</link>
@@ -160,14 +160,34 @@
       <dc:date>2018-12-07T14:56:11.764528+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 5–15 November 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-11-15-Sifo.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 99–109 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 61–69 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 66–73 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 30–35 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 25–30 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 22–26 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 16–19 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–16 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-11-15-Sifo-seats.png"
+        length="177812"
+        type="image/png"/>
+      <pubDate>Wed, 19 Dec 2018 13:20:16 +0100</pubDate>
+      <dc:date>2018-12-19T13:20:16.518572+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 5–15 November 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-11-15-Sifo.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-11-15-Sifo-coalitions-seats.png"
+        length="232227"
+        type="image/png"/>
+      <pubDate>Wed, 19 Dec 2018 13:20:16 +0100</pubDate>
+      <dc:date>2018-12-19T13:20:16.518572+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 5–15 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-11-15-Sifo.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 28.0–29.9%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.3–18.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.5–20.1%&lt;/li&gt;&lt;li&gt;Centerpartiet: 8.4–9.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.1–8.2%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 6.2–7.2%&lt;/li&gt;&lt;li&gt;Liberalerna: 4.5–5.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.7–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-11-15-Sifo.png"
         length="187565"
         type="image/png"/>
-      <pubDate>Wed, 19 Dec 2018 12:07:30 +0100</pubDate>
-      <dc:date>2018-12-19T12:07:30.816113+01:00</dc:date>
+      <pubDate>Wed, 19 Dec 2018 13:20:16 +0100</pubDate>
+      <dc:date>2018-12-19T13:20:16.518572+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 15 October–11 November 2018 – Seat Projections for the Parties</title>
@@ -499,6 +519,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2018-12-19T12:07:30.816113+01:00</dc:date>
+    <dc:date>2018-12-19T13:20:16.518572+01:00</dc:date>
   </channel>
 </rss>
