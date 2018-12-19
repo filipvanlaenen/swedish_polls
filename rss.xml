@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Tue, 11 Dec 2018 22:50:34 +0100</pubDate>
+    <pubDate>Wed, 19 Dec 2018 07:48:41 +0100</pubDate>
     <item>
       <title>Opinion Poll by Demoskop for Expressen, 27 November–4 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-12-04-Demoskop.html</link>
@@ -156,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-11-11-Novus.png"
         length="196589"
         type="image/png"/>
-      <pubDate>Sun, 18 Nov 2018 10:27:29 +0100</pubDate>
-      <dc:date>2018-11-18T10:27:29.037249+01:00</dc:date>
+      <pubDate>Wed, 19 Dec 2018 07:48:41 +0100</pubDate>
+      <dc:date>2018-12-19T07:48:41.862746+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 1–7 November 2018 – Seat Projections for the Parties</title>
@@ -459,6 +459,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2018-12-11T22:50:34.939002+01:00</dc:date>
+    <dc:date>2018-12-19T07:48:41.862746+01:00</dc:date>
   </channel>
 </rss>
