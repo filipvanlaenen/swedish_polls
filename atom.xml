@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_polls</id>
   <title>All Registered Polls for the Riksdagen</title>
-  <updated>2018-12-19T11:17:37.346794+01:00</updated>
+  <updated>2018-12-19T13:20:16.518572+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 26.2–30.7%, 93–115 seats</li><li>Moderata samlingspartiet: 17.0–20.9%, 61–77 seats</li><li>Sverigedemokraterna: 18.8–22.8%, 66–83 seats</li><li>Centerpartiet: 7.1–9.9%, 26–36 seats</li><li>Vänsterpartiet: 6.8–9.4%, 24–34 seats</li><li>Kristdemokraterna: 4.8–7.1%, 17–26 seats</li><li>Liberalerna: 3.5–5.5%, 0–20 seats</li><li>Miljöpartiet de gröna: 3.2–5.2%, 0–19 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_polls/2018-12-04-Demoskop.html</id>
@@ -46,6 +46,14 @@
     <title>Opinion Poll by Inizio for Aftonbladet, 14–19 November 2018</title>
     <updated>2018-12-07T14:56:11.764528+01:00</updated>
     <dc:date>2018-12-07T14:56:11.764528+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 28.0–29.9%, 99–109 seats</li><li>Moderata samlingspartiet: 17.3–18.9%, 61–69 seats</li><li>Sverigedemokraterna: 18.5–20.1%, 66–73 seats</li><li>Centerpartiet: 8.4–9.6%, 30–35 seats</li><li>Vänsterpartiet: 7.1–8.2%, 25–30 seats</li><li>Kristdemokraterna: 6.2–7.2%, 22–26 seats</li><li>Liberalerna: 4.5–5.3%, 16–19 seats</li><li>Miljöpartiet de gröna: 3.7–4.5%, 0–16 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_polls/2018-11-15-Sifo.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_polls/2018-11-15-Sifo.html"/>
+    <title>Opinion Poll by Sifo for Svenska Dagbladet, 5–15 November 2018</title>
+    <updated>2018-12-19T13:20:16.518572+01:00</updated>
+    <dc:date>2018-12-19T13:20:16.518572+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 28.5–31.1%, 103–116 seats</li><li>Moderata samlingspartiet: 18.1–20.3%, 65–76 seats</li><li>Sverigedemokraterna: 18.1–20.3%, 65–76 seats</li><li>Centerpartiet: 8.1–9.7%, 30–36 seats</li><li>Vänsterpartiet: 7.2–8.7%, 26–32 seats</li><li>Kristdemokraterna: 5.3–6.6%, 19–24 seats</li><li>Liberalerna: 3.2–4.3%, 0–15 seats</li><li>Miljöpartiet de gröna: 3.8–4.9%, 0–18 seats</li></ul></div></content>
@@ -135,5 +143,5 @@
     <updated>2018-10-27T21:13:38.351324+02:00</updated>
     <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
   </entry>
-  <dc:date>2018-12-19T11:17:37.346794+01:00</dc:date>
+  <dc:date>2018-12-19T13:20:16.518572+01:00</dc:date>
 </feed>
