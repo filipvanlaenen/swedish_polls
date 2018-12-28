@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Fri, 28 Dec 2018 10:43:25 +0100</pubDate>
+    <pubDate>Fri, 28 Dec 2018 14:19:19 +0100</pubDate>
     <item>
       <title>Opinion Poll by Novus for SVT, 12 November–16 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-12-16-Novus.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-12-16-Novus.png"
         length="191923"
         type="image/png"/>
-      <pubDate>Fri, 28 Dec 2018 09:00:25 +0100</pubDate>
-      <dc:date>2018-12-28T09:00:25.861482+01:00</dc:date>
+      <pubDate>Fri, 28 Dec 2018 13:41:08 +0100</pubDate>
+      <dc:date>2018-12-28T13:41:08.000536+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 5–16 December 2018 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-12-16-Ipsos.png"
         length="213169"
         type="image/png"/>
-      <pubDate>Fri, 28 Dec 2018 09:09:01 +0100</pubDate>
-      <dc:date>2018-12-28T09:09:01.078585+01:00</dc:date>
+      <pubDate>Fri, 28 Dec 2018 13:24:51 +0100</pubDate>
+      <dc:date>2018-12-28T13:24:51.068152+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 3–13 December 2018 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-12-13-Sifo.png"
         length="186526"
         type="image/png"/>
-      <pubDate>Fri, 28 Dec 2018 09:57:13 +0100</pubDate>
-      <dc:date>2018-12-28T09:57:13.98471+01:00</dc:date>
+      <pubDate>Fri, 28 Dec 2018 14:19:19 +0100</pubDate>
+      <dc:date>2018-12-28T14:19:19.503625+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 4–12 December 2018 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-12-12-Inizio.png"
         length="210786"
         type="image/png"/>
-      <pubDate>Fri, 28 Dec 2018 10:43:25 +0100</pubDate>
-      <dc:date>2018-12-28T10:43:25.94812+01:00</dc:date>
+      <pubDate>Fri, 28 Dec 2018 13:56:53 +0100</pubDate>
+      <dc:date>2018-12-28T13:56:53.161157+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop for Expressen, 27 November–4 December 2018 – Seat Projections for the Parties</title>
@@ -559,6 +559,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2018-12-28T10:43:25.94812+01:00</dc:date>
+    <dc:date>2018-12-28T14:19:19.503625+01:00</dc:date>
   </channel>
 </rss>
