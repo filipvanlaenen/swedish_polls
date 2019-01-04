@@ -10,7 +10,8 @@ Last result: **4.4%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 3.5–4.5% | 3.3–4.7% | 3.1–4.9% | 2.8–5.3% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.6–4.6% | 3.4–4.8% | 3.2–5.0% | 2.9–5.4% |
+| [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 4.2% | 3.7–4.8% | 3.6–5.0% | 3.5–5.1% | 3.2–5.4% |
 | [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 4.0% | 3.7–4.4% | 3.6–4.5% | 3.5–4.6% | 3.4–4.8% |
 | [5–16 December 2018](2018-12-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.1% | 2.9–5.4% |
 | [3–13 December 2018](2018-12-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 4.2% | 3.9–4.5% | 3.9–4.6% | 3.8–4.6% | 3.7–4.8% |
@@ -40,9 +41,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 13% | 99.9% |  |
-| 3.5–4.5% | 77% | 87% | Last Result, Median |
-| 4.5–5.5% | 9% | 9% |  |
+| 2.5–3.5% | 9% | 99.9% |  |
+| 3.5–4.5% | 78% | 90% | Last Result, Median |
+| 4.5–5.5% | 12% | 12% |  |
 | 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -55,7 +56,8 @@ Last result: **16** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 0–16 | 0–17 | 0–18 | 0–19 |
+| N/A | [Poll Average](average.html) | 15 | 0–17 | 0–17 | 0–18 | 0–19 |
+| [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 15 | 0–17 | 0–18 | 0–19 | 0–19 |
 | [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 15 | 0–17 | 0–17 | 0–17 | 0–17 |
 | [5–16 December 2018](2018-12-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 15 | 0–16 | 0–17 | 0–18 | 0–19 |
 | [3–13 December 2018](2018-12-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 15 | 0–16 | 0–16 | 0–17 | 0–18 |
@@ -86,26 +88,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 42% | 100% |  |
-| 1 | 0% | 58% |  |
-| 2 | 0% | 58% |  |
-| 3 | 0% | 58% |  |
-| 4 | 0% | 58% |  |
-| 5 | 0% | 58% |  |
-| 6 | 0% | 58% |  |
-| 7 | 0% | 58% |  |
-| 8 | 0% | 58% |  |
-| 9 | 0% | 58% |  |
-| 10 | 0% | 58% |  |
-| 11 | 0% | 58% |  |
-| 12 | 0% | 58% |  |
-| 13 | 0% | 58% |  |
-| 14 | 6% | 58% |  |
-| 15 | 25% | 52% | Median |
-| 16 | 18% | 27% | Last Result |
-| 17 | 6% | 9% |  |
-| 18 | 2% | 3% |  |
-| 19 | 0.8% | 1.2% |  |
+| 0 | 37% | 100% |  |
+| 1 | 0% | 63% |  |
+| 2 | 0% | 63% |  |
+| 3 | 0% | 63% |  |
+| 4 | 0% | 63% |  |
+| 5 | 0% | 63% |  |
+| 6 | 0% | 63% |  |
+| 7 | 0% | 63% |  |
+| 8 | 0% | 63% |  |
+| 9 | 0% | 63% |  |
+| 10 | 0% | 63% |  |
+| 11 | 0% | 63% |  |
+| 12 | 0% | 63% |  |
+| 13 | 0% | 63% |  |
+| 14 | 6% | 63% |  |
+| 15 | 28% | 57% | Median |
+| 16 | 17% | 30% | Last Result |
+| 17 | 9% | 13% |  |
+| 18 | 3% | 4% |  |
+| 19 | 1.2% | 2% |  |
 | 20 | 0.3% | 0.4% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
