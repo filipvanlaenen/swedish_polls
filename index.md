@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
-| N/A | [Poll Average](average.html) | 27–33% <br> 96–120 | 16–20% <br> 60–75 | 17–24% <br> 60–87 | 6–9% <br> 22–35 | 7–9% <br> 25–34 | 5–9% <br> 18–32 | 3–5% <br> 0–19 | 3–5% <br> 0–18 |
-| [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 28–32% <br> 102–117 | 17–20% <br> 61–74 | 17–20% <br> 64–76 | 7–10% <br> 28–36 | 7–9% <br> 25–32 | 7–9% <br> 26–34 | 3–4% <br> 0 | 3–5% <br> 0–19 |
-| [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 29–31% <br> 101–118 | 17–19% <br> 62–73 | 19–21% <br> 67–81 | 8–9% <br> 28–35 | 7–8% <br> 25–32 | 6–7% <br> 21–26 | 3–4% <br> 0–16 | 4–5% <br> 0–17 |
+| N/A | [Poll Average](average.html) | 27–33% <br> 96–120 | 16–20% <br> 60–75 | 17–24% <br> 60–87 | 6–9% <br> 22–35 | 7–9% <br> 25–34 | 5–9% <br> 18–33 | 3–5% <br> 0–19 | 3–5% <br> 0–18 |
+| [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 28–32% <br> 102–119 | 17–20% <br> 61–74 | 17–20% <br> 63–76 | 7–10% <br> 27–36 | 7–9% <br> 25–33 | 7–9% <br> 26–35 | 3–4% <br> 0–14 | 3–5% <br> 0–18 |
+| [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 29–31% <br> 102–119 | 17–19% <br> 62–73 | 19–21% <br> 67–79 | 8–9% <br> 28–35 | 7–8% <br> 25–32 | 6–7% <br> 21–27 | 3–4% <br> 0–16 | 4–5% <br> 0–17 |
 | [5–16 December 2018](2018-12-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 30–34% <br> 108–127 | 16–20% <br> 57–74 | 16–20% <br> 57–73 | 6–8% <br> 21–30 | 7–9% <br> 25–34 | 7–9% <br> 24–36 | 3–5% <br> 0–16 | 3–5% <br> 0–18 |
 | [3–13 December 2018](2018-12-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 29–31% <br> 102–116 | 18–20% <br> 64–74 | 19–21% <br> 68–77 | 7–8% <br> 26–31 | 7–8% <br> 25–31 | 6–7% <br> 22–26 | 4% <br> 0–16 | 4–5% <br> 0–17 |
 | [27 November–4 December 2018](2018-12-04-Demoskop.html) | Demoskop <br> Expressen | 26–31% <br> 93–115 | 17–21% <br> 61–77 | 19–23% <br> 66–83 | 7–10% <br> 26–36 | 7–9% <br> 24–34 | 5–7% <br> 17–26 | 3–6% <br> 0–20 | 3–5% <br> 0–19 |
