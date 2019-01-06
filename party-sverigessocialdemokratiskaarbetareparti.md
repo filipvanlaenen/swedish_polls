@@ -63,9 +63,9 @@ Last result: **100** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 109 | 101–117 | 98–119 | 96–122 | 92–126 |
+| N/A | [Poll Average](average.html) | 109 | 101–117 | 98–120 | 96–122 | 92–126 |
 | [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 109 | 105–116 | 103–117 | 102–119 | 100–121 |
-| [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 111 | 106–118 | 103–119 | 102–119 | 101–120 |
+| [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 111 | 105–119 | 102–119 | 102–120 | 101–120 |
 | [5–16 December 2018](2018-12-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 116 | 110–123 | 108–125 | 106–128 | 103–132 |
 | [3–13 December 2018](2018-12-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 108 | 103–114 | 102–115 | 102–115 | 101–118 |
 | [4–12 December 2018](2018-12-12-Inizio.html) | Inizio <br> Aftonbladet | 111 | 106–116 | 104–118 | 102–119 | 99–120 |
@@ -111,22 +111,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 102 | 3% | 89% |  |
 | 103 | 3% | 86% |  |
 | 104 | 4% | 83% |  |
-| 105 | 5% | 79% |  |
+| 105 | 6% | 79% |  |
 | 106 | 6% | 73% |  |
 | 107 | 6% | 67% |  |
-| 108 | 8% | 61% |  |
-| 109 | 7% | 53% | Median |
-| 110 | 6% | 46% |  |
-| 111 | 7% | 40% |  |
+| 108 | 7% | 61% |  |
+| 109 | 7% | 54% | Median |
+| 110 | 6% | 47% |  |
+| 111 | 7% | 41% |  |
 | 112 | 7% | 34% |  |
 | 113 | 5% | 27% |  |
 | 114 | 4% | 22% |  |
-| 115 | 4% | 18% |  |
+| 115 | 3% | 18% |  |
 | 116 | 3% | 14% |  |
 | 117 | 2% | 12% |  |
 | 118 | 2% | 9% |  |
-| 119 | 2% | 7% |  |
-| 120 | 1.2% | 5% |  |
+| 119 | 2% | 8% |  |
+| 120 | 2% | 5% |  |
 | 121 | 1.0% | 4% |  |
 | 122 | 0.9% | 3% |  |
 | 123 | 0.4% | 2% |  |
