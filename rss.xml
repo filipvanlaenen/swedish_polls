@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sat, 05 Jan 2019 21:00:05 +0100</pubDate>
+    <pubDate>Sun, 06 Jan 2019 12:38:07 +0100</pubDate>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 19–26 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-12-26-Inizio.html#seats</link>
@@ -54,10 +54,10 @@
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-12-16-Ipsos.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 29.7–34.4%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.2–20.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 16.2–20.0%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.9–8.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 6.7–9.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 6.7–9.5%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.1–5.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.1–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-12-16-Ipsos.png"
-        length="213169"
+        length="213156"
         type="image/png"/>
-      <pubDate>Fri, 28 Dec 2018 13:24:51 +0100</pubDate>
-      <dc:date>2018-12-28T13:24:51.068152+01:00</dc:date>
+      <pubDate>Sun, 06 Jan 2019 12:38:07 +0100</pubDate>
+      <dc:date>2019-01-06T12:38:07.811804+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 3–13 December 2018 – Voting Intentions</title>
@@ -589,6 +589,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-01-05T21:00:05.72738+01:00</dc:date>
+    <dc:date>2019-01-06T12:38:07.811804+01:00</dc:date>
   </channel>
 </rss>
