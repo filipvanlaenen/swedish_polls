@@ -57,11 +57,11 @@ Last result: **20** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 0–17 | 0–18 | 0–19 | 0–20 |
+| N/A | [Poll Average](average.html) | 14 | 0–17 | 0–18 | 0–19 | 0–20 |
 | [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0 | 0–14 | 0–15 |
 | [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 0 | 0–15 | 0–16 | 0–16 | 0–17 |
-| [5–16 December 2018](2018-12-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 16 | 0–16 | 0–16 | 0–16 | 0–19 |
-| [3–13 December 2018](2018-12-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 15 | 0–15 | 0–16 | 0–16 | 0–16 |
+| [5–16 December 2018](2018-12-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 16 | 0–16 | 0–16 | 0–19 | 0–20 |
+| [3–13 December 2018](2018-12-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 14 | 0–15 | 0–16 | 0–16 | 0–16 |
 | [4–12 December 2018](2018-12-12-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0 | 0–15 | 0–16 |
 | [27 November–4 December 2018](2018-12-04-Demoskop.html) | Demoskop <br> Expressen | 16 | 0–19 | 0–19 | 0–20 | 0–21 |
 | [29 November–3 December 2018](2018-12-03-Sentio.html) | Sentio <br> Nyheter Idag | 15 | 0–18 | 0–19 | 0–20 | 0–22 |
@@ -103,13 +103,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 55% |  |
 | 12 | 0% | 55% |  |
 | 13 | 0% | 55% |  |
-| 14 | 5% | 55% |  |
-| 15 | 18% | 50% | Median |
+| 14 | 6% | 55% | Median |
+| 15 | 17% | 50% |  |
 | 16 | 19% | 32% |  |
-| 17 | 6% | 13% |  |
+| 17 | 6% | 14% |  |
 | 18 | 4% | 7% |  |
 | 19 | 2% | 3% |  |
-| 20 | 0.9% | 1.3% | Last Result |
+| 20 | 1.0% | 1.3% | Last Result |
 | 21 | 0.2% | 0.4% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0.1% |  |
