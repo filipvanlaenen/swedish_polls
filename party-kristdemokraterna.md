@@ -10,7 +10,8 @@ Last result: **6.3%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.3–8.4% | 5.1–8.7% | 4.9–9.0% | 4.6–9.5% |
+| N/A | [Poll Average](average.html) | 6.8% | 5.4–8.5% | 5.1–8.8% | 5.0–9.1% | 4.7–9.6% |
+| [2–8 January 2019](2019-01-08-Demoskop.html) | Demoskop <br> Expressen | 7.7% | 6.9–8.6% | 6.7–8.9% | 6.5–9.1% | 6.1–9.6% |
 | [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 8.2% | 7.5–9.0% | 7.3–9.2% | 7.1–9.4% | 6.8–9.8% |
 | [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 6.5% | 6.1–7.0% | 6.0–7.1% | 5.9–7.2% | 5.7–7.4% |
 | [5–16 December 2018](2018-12-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8.0% | 7.2–9.0% | 6.9–9.2% | 6.7–9.5% | 6.4–10.0% |
@@ -41,13 +42,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.4% | 100% |  |
-| 4.5–5.5% | 17% | 99.6% |  |
-| 5.5–6.5% | 33% | 82% | Last Result |
-| 6.5–7.5% | 25% | 49% | Median |
-| 7.5–8.5% | 17% | 24% |  |
-| 8.5–9.5% | 7% | 7% |  |
-| 9.5–10.5% | 0.4% | 0.4% |  |
+| 3.5–4.5% | 0.2% | 100% |  |
+| 4.5–5.5% | 13% | 99.8% |  |
+| 5.5–6.5% | 25% | 86% | Last Result |
+| 6.5–7.5% | 28% | 61% | Median |
+| 7.5–8.5% | 24% | 33% |  |
+| 8.5–9.5% | 8% | 9% |  |
+| 9.5–10.5% | 0.5% | 0.5% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -59,7 +60,8 @@ Last result: **22** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 19–31 | 18–32 | 18–33 | 17–35 |
+| N/A | [Poll Average](average.html) | 25 | 19–31 | 18–32 | 18–33 | 17–35 |
+| [2–8 January 2019](2019-01-08-Demoskop.html) | Demoskop <br> Expressen | 27 | 25–31 | 24–32 | 23–33 | 23–35 |
 | [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 30 | 28–33 | 27–34 | 26–35 | 25–36 |
 | [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 24 | 22–26 | 22–26 | 21–27 | 21–28 |
 | [5–16 December 2018](2018-12-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 29 | 26–33 | 25–34 | 24–35 | 23–37 |
@@ -91,29 +93,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0.1% | 100% |  |
-| 16 | 0.4% | 99.9% |  |
-| 17 | 2% | 99.6% |  |
-| 18 | 5% | 98% |  |
-| 19 | 7% | 93% |  |
-| 20 | 7% | 87% |  |
-| 21 | 7% | 80% |  |
-| 22 | 8% | 73% | Last Result |
-| 23 | 11% | 65% |  |
-| 24 | 11% | 55% | Median |
-| 25 | 10% | 44% |  |
-| 26 | 5% | 34% |  |
-| 27 | 4% | 29% |  |
-| 28 | 4% | 25% |  |
-| 29 | 5% | 21% |  |
-| 30 | 5% | 16% |  |
-| 31 | 4% | 12% |  |
-| 32 | 3% | 7% |  |
-| 33 | 2% | 4% |  |
-| 34 | 1.2% | 2% |  |
-| 35 | 0.4% | 0.8% |  |
-| 36 | 0.2% | 0.3% |  |
+| 16 | 0.3% | 100% |  |
+| 17 | 1.1% | 99.7% |  |
+| 18 | 4% | 98.6% |  |
+| 19 | 5% | 95% |  |
+| 20 | 4% | 89% |  |
+| 21 | 5% | 85% |  |
+| 22 | 6% | 81% | Last Result |
+| 23 | 9% | 75% |  |
+| 24 | 10% | 66% |  |
+| 25 | 10% | 56% | Median |
+| 26 | 8% | 46% |  |
+| 27 | 8% | 38% |  |
+| 28 | 5% | 31% |  |
+| 29 | 6% | 26% |  |
+| 30 | 6% | 20% |  |
+| 31 | 5% | 14% |  |
+| 32 | 4% | 9% |  |
+| 33 | 3% | 5% |  |
+| 34 | 1.3% | 2% |  |
+| 35 | 0.5% | 0.8% |  |
+| 36 | 0.2% | 0.4% |  |
 | 37 | 0.1% | 0.1% |  |
-| 38 | 0% | 0% |  |
+| 38 | 0% | 0.1% |  |
+| 39 | 0% | 0% |  |
 
 
