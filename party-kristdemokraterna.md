@@ -61,7 +61,7 @@ Last result: **22** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 19–31 | 18–32 | 18–33 | 17–35 |
-| [2–8 January 2019](2019-01-08-Demoskop.html) | Demoskop <br> Expressen | 27 | 25–31 | 24–32 | 23–33 | 23–35 |
+| [2–8 January 2019](2019-01-08-Demoskop.html) | Demoskop <br> Expressen | 28 | 25–32 | 24–32 | 23–33 | 22–35 |
 | [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 30 | 28–33 | 27–34 | 26–35 | 25–36 |
 | [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 24 | 22–26 | 22–26 | 21–27 | 21–28 |
 | [5–16 December 2018](2018-12-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 29 | 26–33 | 25–34 | 24–35 | 23–37 |
@@ -103,17 +103,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 9% | 75% |  |
 | 24 | 10% | 66% |  |
 | 25 | 10% | 56% | Median |
-| 26 | 8% | 46% |  |
-| 27 | 8% | 38% |  |
-| 28 | 5% | 31% |  |
-| 29 | 6% | 26% |  |
+| 26 | 7% | 46% |  |
+| 27 | 7% | 39% |  |
+| 28 | 5% | 33% |  |
+| 29 | 7% | 27% |  |
 | 30 | 6% | 20% |  |
 | 31 | 5% | 14% |  |
 | 32 | 4% | 9% |  |
 | 33 | 3% | 5% |  |
 | 34 | 1.3% | 2% |  |
-| 35 | 0.5% | 0.8% |  |
-| 36 | 0.2% | 0.4% |  |
+| 35 | 0.6% | 0.9% |  |
+| 36 | 0.3% | 0.4% |  |
 | 37 | 0.1% | 0.1% |  |
 | 38 | 0% | 0.1% |  |
 | 39 | 0% | 0% |  |
