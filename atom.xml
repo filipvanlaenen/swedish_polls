@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_polls</id>
   <title>All Registered Polls for the Riksdagen</title>
-  <updated>2019-01-06T19:24:42.955113+01:00</updated>
+  <updated>2019-01-13T21:12:36.283791+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 28.0–32.5%, 101–121 seats</li><li>Moderata samlingspartiet: 15.3–19.0%, 55–70 seats</li><li>Sverigedemokraterna: 17.6–21.5%, 64–80 seats</li><li>Centerpartiet: 5.7–8.2%, 21–30 seats</li><li>Vänsterpartiet: 6.8–9.4%, 25–34 seats</li><li>Kristdemokraterna: 6.5–9.1%, 24–34 seats</li><li>Liberalerna: 3.6–5.7%, 0–21 seats</li><li>Miljöpartiet de gröna: 2.9–4.8%, 0–17 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_polls/2019-01-08-Demoskop.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_polls/2019-01-08-Demoskop.html"/>
+    <title>Opinion Poll by Demoskop for Expressen, 2–8 January 2019</title>
+    <updated>2019-01-13T21:12:36.283791+01:00</updated>
+    <dc:date>2019-01-13T21:12:36.283791+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 27.9–31.7%, 102–119 seats</li><li>Moderata samlingspartiet: 16.7–19.9%, 61–74 seats</li><li>Sverigedemokraterna: 17.2–20.4%, 63–76 seats</li><li>Centerpartiet: 7.3–9.6%, 27–36 seats</li><li>Vänsterpartiet: 6.7–8.9%, 25–33 seats</li><li>Kristdemokraterna: 7.1–9.4%, 26–35 seats</li><li>Liberalerna: 2.6–4.0%, 0–14 seats</li><li>Miljöpartiet de gröna: 3.5–5.1%, 0–18 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_polls/2018-12-26-Inizio.html</id>
@@ -183,5 +191,5 @@
     <updated>2018-10-27T21:13:38.351324+02:00</updated>
     <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
   </entry>
-  <dc:date>2019-01-06T19:24:42.955113+01:00</dc:date>
+  <dc:date>2019-01-13T21:12:36.283791+01:00</dc:date>
 </feed>
