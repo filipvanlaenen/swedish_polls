@@ -60,8 +60,8 @@ Last result: **70** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 67 | 62–72 | 60–73 | 58–74 | 56–77 |
-| [2–8 January 2019](2019-01-08-Demoskop.html) | Demoskop <br> Expressen | 63 | 58–68 | 57–70 | 56–70 | 53–73 |
+| N/A | [Poll Average](average.html) | 67 | 61–72 | 60–73 | 58–74 | 55–77 |
+| [2–8 January 2019](2019-01-08-Demoskop.html) | Demoskop <br> Expressen | 62 | 58–68 | 57–69 | 55–70 | 54–73 |
 | [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 68 | 64–72 | 62–73 | 61–74 | 60–76 |
 | [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 67 | 64–71 | 63–72 | 62–73 | 61–74 |
 | [5–16 December 2018](2018-12-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 66 | 60–70 | 59–73 | 58–74 | 56–77 |
@@ -94,21 +94,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 52 | 0% | 100% |  |
-| 53 | 0.1% | 99.9% |  |
-| 54 | 0.1% | 99.9% |  |
-| 55 | 0.2% | 99.7% |  |
-| 56 | 0.5% | 99.5% |  |
+| 53 | 0% | 99.9% |  |
+| 54 | 0.2% | 99.9% |  |
+| 55 | 0.3% | 99.7% |  |
+| 56 | 0.5% | 99.4% |  |
 | 57 | 0.8% | 99.0% |  |
-| 58 | 1.4% | 98% |  |
+| 58 | 1.5% | 98% |  |
 | 59 | 2% | 97% |  |
-| 60 | 2% | 95% |  |
-| 61 | 3% | 93% |  |
-| 62 | 4% | 90% |  |
-| 63 | 5% | 86% |  |
+| 60 | 3% | 95% |  |
+| 61 | 3% | 92% |  |
+| 62 | 4% | 89% |  |
+| 63 | 5% | 85% |  |
 | 64 | 5% | 81% |  |
-| 65 | 8% | 76% |  |
+| 65 | 7% | 75% |  |
 | 66 | 10% | 68% |  |
-| 67 | 10% | 58% | Median |
+| 67 | 11% | 58% | Median |
 | 68 | 10% | 48% |  |
 | 69 | 11% | 37% |  |
 | 70 | 8% | 27% | Last Result |
