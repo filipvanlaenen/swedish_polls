@@ -5,14 +5,14 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
-| N/A | [Poll Average](average.html) | 27–33% <br> 102–118 | 16–20% <br> 58–76 | 17–24% <br> 60–93 | 6–9% <br> 23–36 | 7–9% <br> 24–34 | 5–9% <br> 20–33 | 3–5% <br> 0–19 | 3–5% <br> 0–20 |
-| [2–8 January 2019](2019-01-08-Demoskop.html) | Demoskop <br> Expressen | 28–33% <br> 117 | 15–19% <br> 65 | 18–22% <br> 69 | 6–8% <br> 24 | 7–9% <br> 30 | 6–9% <br> 27 | 4–6% <br> 17 | 3–5% <br> 0 |
-| [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 28–32% <br> 103–118 | 17–20% <br> 58–76 | 17–20% <br> 63–77 | 7–10% <br> 24–39 | 7–9% <br> 25–33 | 7–9% <br> 25–37 | 3–4% <br> 0–15 | 3–5% <br> 0–20 |
-| [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 29–31% <br> 104–116 | 17–19% <br> 62–73 | 19–21% <br> 64–76 | 8–9% <br> 26–36 | 7–8% <br> 26–31 | 6–7% <br> 22–27 | 3–4% <br> 0–16 | 4–5% <br> 0–15 |
-| [5–16 December 2018](2018-12-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 30–34% <br> 105–128 | 16–20% <br> 56–71 | 16–20% <br> 60–74 | 6–8% <br> 24–27 | 7–9% <br> 23–31 | 7–9% <br> 27–36 | 3–5% <br> 0–19 | 3–5% <br> 0–16 |
-| [3–13 December 2018](2018-12-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 29–31% <br> 105–114 | 18–20% <br> 65–72 | 19–21% <br> 69–73 | 7–8% <br> 27–30 | 7–8% <br> 27–28 | 6–7% <br> 22–25 | 4% <br> 0–16 | 4–5% <br> 0–16 |
-| [29 November–3 December 2018](2018-12-03-Sentio.html) | Sentio <br> Nyheter Idag | 26–31% <br> 93–115 | 16–20% <br> 57–74 | 20–25% <br> 68–100 | 5–9% <br> 20–32 | 7–10% <br> 22–38 | 5–8% <br> 17–28 | 3–6% <br> 0–20 | 3–5% <br> 0–21 |
-| [29 October–27 November 2018](2018-11-27-SCB.html) | SCB | 29–32% <br> 112 | 18–20% <br> 69 | 17–19% <br> 70 | 8–9% <br> 32 | 8–9% <br> 30 | 5–6% <br> 20 | 4–5% <br> 16 | 3–5% <br> 0 |
+| N/A | [Poll Average](average.html) | 27–33% <br> 98–120 | 16–20% <br> 58–74 | 17–24% <br> 60–87 | 6–9% <br> 22–34 | 7–9% <br> 25–34 | 5–9% <br> 18–33 | 3–5% <br> 0–19 | 3–5% <br> 0–18 |
+| [2–8 January 2019](2019-01-08-Demoskop.html) | Demoskop <br> Expressen | 28–33% <br> 101–122 | 15–19% <br> 55–70 | 18–22% <br> 64–80 | 6–8% <br> 22–29 | 7–9% <br> 25–33 | 6–9% <br> 23–33 | 4–6% <br> 0–20 | 3–5% <br> 0–17 |
+| [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 28–32% <br> 102–117 | 17–20% <br> 61–74 | 17–20% <br> 64–76 | 7–10% <br> 28–36 | 7–9% <br> 25–32 | 7–9% <br> 26–34 | 3–4% <br> 0 | 3–5% <br> 0–19 |
+| [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 29–31% <br> 101–118 | 17–19% <br> 62–73 | 19–21% <br> 67–81 | 8–9% <br> 28–35 | 7–8% <br> 25–32 | 6–7% <br> 21–26 | 3–4% <br> 0–16 | 4–5% <br> 0–17 |
+| [5–16 December 2018](2018-12-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 30–34% <br> 108–127 | 16–20% <br> 57–74 | 16–20% <br> 57–73 | 6–8% <br> 21–30 | 7–9% <br> 25–34 | 7–9% <br> 24–36 | 3–5% <br> 0–16 | 3–5% <br> 0–18 |
+| [3–13 December 2018](2018-12-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 29–31% <br> 102–116 | 18–20% <br> 64–74 | 19–21% <br> 68–77 | 7–8% <br> 26–31 | 7–8% <br> 25–31 | 6–7% <br> 22–26 | 4% <br> 0–16 | 4–5% <br> 0–17 |
+| [29 November–3 December 2018](2018-12-03-Sentio.html) | Sentio <br> Nyheter Idag | 26–31% <br> 93–117 | 16–20% <br> 57–76 | 20–25% <br> 72–94 | 5–9% <br> 20–32 | 7–10% <br> 24–37 | 5–8% <br> 17–29 | 3–6% <br> 0–20 | 3–5% <br> 0–19 |
+| [29 October–27 November 2018](2018-11-27-SCB.html) | SCB | 29–32% <br> 105–116 | 18–20% <br> 65–74 | 17–19% <br> 62–73 | 8–9% <br> 28–34 | 8–9% <br> 28–34 | 5–6% <br> 17–22 | 4–5% <br> 0–17 | 3–5% <br> 0–16 |
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
 
 Only polls for which at least the sample size has been published are included in the table above.
