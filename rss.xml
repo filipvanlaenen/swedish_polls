@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sun, 20 Jan 2019 20:33:04 +0100</pubDate>
+    <pubDate>Mon, 21 Jan 2019 18:54:59 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Demoskop for Expressen, 2–8 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-01-08-Demoskop.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 101–121 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 55–70 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 64–80 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 21–30 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 25–34 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 24–34 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–21 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–17 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-01-08-Demoskop-seats.png"
+        length="197130"
+        type="image/png"/>
+      <pubDate>Sun, 20 Jan 2019 22:30:31 +0100</pubDate>
+      <dc:date>2019-01-20T22:30:31.226377+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Expressen, 2–8 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-01-08-Demoskop.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-01-08-Demoskop-coalitions-seats.png"
+        length="397940"
+        type="image/png"/>
+      <pubDate>Sun, 20 Jan 2019 22:30:31 +0100</pubDate>
+      <dc:date>2019-01-20T22:30:31.226377+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Demoskop for Expressen, 2–8 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-01-08-Demoskop.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-01-08-Demoskop.png"
         length="215421"
         type="image/png"/>
-      <pubDate>Sun, 20 Jan 2019 18:31:22 +0100</pubDate>
-      <dc:date>2019-01-20T18:31:22.756858+01:00</dc:date>
+      <pubDate>Sun, 20 Jan 2019 22:30:31 +0100</pubDate>
+      <dc:date>2019-01-20T22:30:31.226377+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 19–26 December 2018 – Voting Intentions</title>
@@ -26,8 +46,28 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-12-26-Inizio.png"
         length="210001"
         type="image/png"/>
-      <pubDate>Sun, 20 Jan 2019 17:04:33 +0100</pubDate>
-      <dc:date>2019-01-20T17:04:33.37617+01:00</dc:date>
+      <pubDate>Mon, 21 Jan 2019 18:54:59 +0100</pubDate>
+      <dc:date>2019-01-21T18:54:59.496413+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 12 November–16 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-12-16-Novus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 102–120 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 62–73 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 67–80 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 28–35 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 25–32 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 21–27 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–16 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–17 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-12-16-Novus-seats.png"
+        length="188748"
+        type="image/png"/>
+      <pubDate>Mon, 21 Jan 2019 18:10:28 +0100</pubDate>
+      <dc:date>2019-01-21T18:10:28.480616+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 12 November–16 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2018-12-16-Novus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-12-16-Novus-coalitions-seats.png"
+        length="369195"
+        type="image/png"/>
+      <pubDate>Mon, 21 Jan 2019 18:10:28 +0100</pubDate>
+      <dc:date>2019-01-21T18:10:28.480616+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 12 November–16 December 2018 – Voting Intentions</title>
@@ -36,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-12-16-Novus.png"
         length="191910"
         type="image/png"/>
-      <pubDate>Sun, 20 Jan 2019 17:38:24 +0100</pubDate>
-      <dc:date>2019-01-20T17:38:24.128835+01:00</dc:date>
+      <pubDate>Mon, 21 Jan 2019 18:10:28 +0100</pubDate>
+      <dc:date>2019-01-21T18:10:28.480616+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 5–16 December 2018 – Voting Intentions</title>
@@ -46,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-12-16-Ipsos.png"
         length="213156"
         type="image/png"/>
-      <pubDate>Sun, 20 Jan 2019 17:21:50 +0100</pubDate>
-      <dc:date>2019-01-20T17:21:50.537118+01:00</dc:date>
+      <pubDate>Sun, 20 Jan 2019 22:50:37 +0100</pubDate>
+      <dc:date>2019-01-20T22:50:37.096189+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 3–13 December 2018 – Voting Intentions</title>
@@ -156,8 +196,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-11-27-SCB.png"
         length="195848"
         type="image/png"/>
-      <pubDate>Sun, 20 Jan 2019 17:55:51 +0100</pubDate>
-      <dc:date>2019-01-20T17:55:51.478075+01:00</dc:date>
+      <pubDate>Mon, 21 Jan 2019 06:55:44 +0100</pubDate>
+      <dc:date>2019-01-21T06:55:44.289356+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 8–19 November 2018 – Seat Projections for the Parties</title>
@@ -579,6 +619,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-01-20T20:33:04.202535+01:00</dc:date>
+    <dc:date>2019-01-21T18:54:59.496413+01:00</dc:date>
   </channel>
 </rss>
