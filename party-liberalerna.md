@@ -58,16 +58,16 @@ Last result: **20** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 0–17 | 0–18 | 0–19 | 0–20 |
-| [2–8 January 2019](2019-01-08-Demoskop.html) | Demoskop <br> Expressen | 17 | 15–19 | 0–20 | 0–20 | 0–22 |
-| [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0 | 0 | 0–15 |
+| N/A | [Poll Average](average.html) | 15 | 0–17 | 0–18 | 0–19 | 0–21 |
+| [2–8 January 2019](2019-01-08-Demoskop.html) | Demoskop <br> Expressen | 17 | 0–19 | 0–20 | 0–21 | 0–22 |
+| [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0 | 0–14 | 0–15 |
 | [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 0 | 0–15 | 0–16 | 0–16 | 0–17 |
 | [5–16 December 2018](2018-12-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 16 | 0–16 | 0–16 | 0–16 | 0–19 |
 | [3–13 December 2018](2018-12-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 15 | 0–15 | 0–16 | 0–16 | 0–16 |
 | [4–12 December 2018](2018-12-12-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0 | 0–15 | 0–16 |
 | [27 November–4 December 2018](2018-12-04-Demoskop.html) | Demoskop <br> Expressen | 16 | 0–19 | 0–19 | 0–20 | 0–21 |
 | [29 November–3 December 2018](2018-12-03-Sentio.html) | Sentio <br> Nyheter Idag | 15 | 0–18 | 0–19 | 0–20 | 0–22 |
-| [29 October–27 November 2018](2018-11-27-SCB.html) | SCB | 15 | 14–16 | 0–17 | 0–17 | 0–18 |
+| [29 October–27 November 2018](2018-11-27-SCB.html) | SCB | 15 | 0–17 | 0–17 | 0–17 | 0–18 |
 | [8–19 November 2018](2018-11-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 16 | 0–19 | 0–20 | 0–21 | 0–21 |
 | [14–19 November 2018](2018-11-19-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–16 | 0–17 | 0–17 | 0–18 |
 | [5–15 November 2018](2018-11-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 18 | 16–19 | 16–19 | 16–19 | 16–20 |
@@ -91,28 +91,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% |  |
-| 1 | 0% | 60% |  |
-| 2 | 0% | 60% |  |
-| 3 | 0% | 60% |  |
-| 4 | 0% | 60% |  |
-| 5 | 0% | 60% |  |
-| 6 | 0% | 60% |  |
-| 7 | 0% | 60% |  |
-| 8 | 0% | 60% |  |
-| 9 | 0% | 60% |  |
-| 10 | 0% | 60% |  |
-| 11 | 0% | 60% |  |
-| 12 | 0% | 60% |  |
-| 13 | 0% | 60% |  |
-| 14 | 5% | 60% |  |
-| 15 | 20% | 55% | Median |
-| 16 | 20% | 35% |  |
-| 17 | 6% | 15% |  |
-| 18 | 4% | 9% |  |
-| 19 | 3% | 5% |  |
-| 20 | 1.1% | 2% | Last Result |
-| 21 | 0.2% | 0.5% |  |
+| 0 | 42% | 100% |  |
+| 1 | 0% | 58% |  |
+| 2 | 0% | 58% |  |
+| 3 | 0% | 58% |  |
+| 4 | 0% | 58% |  |
+| 5 | 0% | 58% |  |
+| 6 | 0% | 58% |  |
+| 7 | 0% | 58% |  |
+| 8 | 0% | 58% |  |
+| 9 | 0% | 58% |  |
+| 10 | 0% | 58% |  |
+| 11 | 0% | 58% |  |
+| 12 | 0% | 58% |  |
+| 13 | 0% | 58% |  |
+| 14 | 5% | 58% |  |
+| 15 | 18% | 53% | Median |
+| 16 | 19% | 35% |  |
+| 17 | 8% | 15% |  |
+| 18 | 3% | 8% |  |
+| 19 | 3% | 4% |  |
+| 20 | 0.9% | 2% | Last Result |
+| 21 | 0.3% | 0.6% |  |
 | 22 | 0.2% | 0.3% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |

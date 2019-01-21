@@ -60,16 +60,16 @@ Last result: **70** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 67 | 62–71 | 60–73 | 58–74 | 55–77 |
-| [2–8 January 2019](2019-01-08-Demoskop.html) | Demoskop <br> Expressen | 63 | 58–67 | 56–68 | 55–70 | 54–72 |
-| [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 68 | 64–71 | 63–74 | 61–74 | 59–77 |
-| [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 66 | 63–71 | 62–73 | 62–73 | 61–74 |
-| [5–16 December 2018](2018-12-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 66 | 60–69 | 57–72 | 57–74 | 57–75 |
+| N/A | [Poll Average](average.html) | 67 | 61–71 | 60–73 | 58–74 | 55–77 |
+| [2–8 January 2019](2019-01-08-Demoskop.html) | Demoskop <br> Expressen | 62 | 58–68 | 57–69 | 55–70 | 54–73 |
+| [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 68 | 64–72 | 63–73 | 61–74 | 60–76 |
+| [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 67 | 64–71 | 63–72 | 62–73 | 61–74 |
+| [5–16 December 2018](2018-12-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 65 | 60–69 | 59–72 | 57–74 | 57–77 |
 | [3–13 December 2018](2018-12-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 67 | 66–71 | 65–73 | 64–74 | 64–76 |
 | [4–12 December 2018](2018-12-12-Inizio.html) | Inizio <br> Aftonbladet | 70 | 65–74 | 64–75 | 63–76 | 61–79 |
 | [27 November–4 December 2018](2018-12-04-Demoskop.html) | Demoskop <br> Expressen | 68 | 63–74 | 62–76 | 61–77 | 59–81 |
 | [29 November–3 December 2018](2018-12-03-Sentio.html) | Sentio <br> Nyheter Idag | 66 | 60–72 | 59–74 | 57–76 | 54–79 |
-| [29 October–27 November 2018](2018-11-27-SCB.html) | SCB | 69 | 67–72 | 67–73 | 65–74 | 63–77 |
+| [29 October–27 November 2018](2018-11-27-SCB.html) | SCB | 69 | 67–73 | 65–74 | 64–75 | 64–77 |
 | [8–19 November 2018](2018-11-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 66 | 61–71 | 59–72 | 58–74 | 56–76 |
 | [14–19 November 2018](2018-11-19-Inizio.html) | Inizio <br> Aftonbladet | 72 | 67–77 | 66–78 | 65–79 | 63–82 |
 | [5–15 November 2018](2018-11-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 65 | 62–67 | 62–68 | 61–69 | 61–70 |
@@ -93,31 +93,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 53 | 0% | 100% |  |
-| 54 | 0.1% | 99.9% |  |
-| 55 | 0.4% | 99.8% |  |
-| 56 | 0.5% | 99.4% |  |
-| 57 | 1.4% | 98.9% |  |
-| 58 | 1.0% | 98% |  |
-| 59 | 0.8% | 97% |  |
-| 60 | 2% | 96% |  |
-| 61 | 4% | 94% |  |
-| 62 | 3% | 90% |  |
-| 63 | 5% | 87% |  |
-| 64 | 4% | 82% |  |
-| 65 | 10% | 78% |  |
-| 66 | 9% | 68% |  |
-| 67 | 19% | 59% | Median |
+| 52 | 0% | 100% |  |
+| 53 | 0% | 99.9% |  |
+| 54 | 0.2% | 99.9% |  |
+| 55 | 0.3% | 99.7% |  |
+| 56 | 0.4% | 99.4% |  |
+| 57 | 1.0% | 99.0% |  |
+| 58 | 1.3% | 98% |  |
+| 59 | 2% | 97% |  |
+| 60 | 3% | 95% |  |
+| 61 | 3% | 92% |  |
+| 62 | 4% | 89% |  |
+| 63 | 5% | 85% |  |
+| 64 | 5% | 81% |  |
+| 65 | 8% | 76% |  |
+| 66 | 10% | 67% |  |
+| 67 | 17% | 57% | Median |
 | 68 | 8% | 40% |  |
-| 69 | 11% | 32% |  |
-| 70 | 7% | 21% | Last Result |
+| 69 | 10% | 32% |  |
+| 70 | 8% | 23% | Last Result |
 | 71 | 5% | 14% |  |
-| 72 | 2% | 8% |  |
+| 72 | 3% | 9% |  |
 | 73 | 2% | 6% |  |
 | 74 | 2% | 4% |  |
-| 75 | 0.6% | 2% |  |
+| 75 | 0.9% | 2% |  |
 | 76 | 0.3% | 1.0% |  |
-| 77 | 0.3% | 0.6% |  |
+| 77 | 0.3% | 0.7% |  |
 | 78 | 0.2% | 0.4% |  |
 | 79 | 0.1% | 0.2% |  |
 | 80 | 0% | 0.1% |  |
