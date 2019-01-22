@@ -62,11 +62,11 @@ Last result: **16** seats (General Election of 9 September 2018)
 | [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 15 | 0–18 | 0–18 | 0–18 | 0–20 |
 | [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 14 | 0–16 | 0–16 | 0–17 | 0–17 |
 | [5–16 December 2018](2018-12-16-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0–16 | 0–17 | 0–18 | 0–20 |
-| [3–13 December 2018](2018-12-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 15 | 0–16 | 0–16 | 0–17 | 0–18 |
+| [3–13 December 2018](2018-12-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 15 | 0–16 | 0–16 | 0–17 | 0–17 |
 | [4–12 December 2018](2018-12-12-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–16 | 0–16 | 0–17 | 0–18 |
 | [27 November–4 December 2018](2018-12-04-Demoskop.html) | Demoskop <br> Expressen | 15 | 0–17 | 0–18 | 0–19 | 0–20 |
 | [29 November–3 December 2018](2018-12-03-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–17 | 0–18 | 0–19 | 0–21 |
-| [29 October–27 November 2018](2018-11-27-SCB.html) | SCB | 14 | 0–16 | 0–16 | 0–17 | 0–17 |
+| [29 October–27 November 2018](2018-11-27-SCB.html) | SCB | 0 | 0–16 | 0–16 | 0–16 | 0–17 |
 | [8–19 November 2018](2018-11-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 15 | 0–17 | 0–18 | 0–19 | 0–20 |
 | [14–19 November 2018](2018-11-19-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–15 | 0–15 | 0–16 | 0–17 |
 | [5–15 November 2018](2018-11-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 15 | 0–15 | 0–16 | 0–16 | 0–16 |
@@ -90,24 +90,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 45% | 100% |  |
-| 1 | 0% | 55% |  |
-| 2 | 0% | 55% |  |
-| 3 | 0% | 55% |  |
-| 4 | 0% | 55% |  |
-| 5 | 0% | 55% |  |
-| 6 | 0% | 55% |  |
-| 7 | 0% | 55% |  |
-| 8 | 0% | 55% |  |
-| 9 | 0% | 55% |  |
-| 10 | 0% | 55% |  |
-| 11 | 0% | 55% |  |
-| 12 | 0% | 55% |  |
-| 13 | 0% | 55% |  |
-| 14 | 6% | 55% | Median |
-| 15 | 23% | 48% |  |
-| 16 | 16% | 26% | Last Result |
-| 17 | 6% | 10% |  |
+| 0 | 47% | 100% |  |
+| 1 | 0% | 53% |  |
+| 2 | 0% | 53% |  |
+| 3 | 0% | 53% |  |
+| 4 | 0% | 53% |  |
+| 5 | 0% | 53% |  |
+| 6 | 0% | 53% |  |
+| 7 | 0% | 53% |  |
+| 8 | 0% | 53% |  |
+| 9 | 0% | 53% |  |
+| 10 | 0% | 53% |  |
+| 11 | 0% | 53% |  |
+| 12 | 0% | 53% |  |
+| 13 | 0% | 53% |  |
+| 14 | 5% | 53% | Median |
+| 15 | 24% | 48% |  |
+| 16 | 15% | 24% | Last Result |
+| 17 | 6% | 9% |  |
 | 18 | 2% | 4% |  |
 | 19 | 0.9% | 1.3% |  |
 | 20 | 0.3% | 0.4% |  |
