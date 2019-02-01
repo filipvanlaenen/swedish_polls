@@ -65,12 +65,12 @@ Last result: **28** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30 | 26–38 | 25–39 | 25–41 | 24–43 |
-| [16–23 January 2019](2019-01-23-Inizio.html) | Inizio <br> Aftonbladet | 37 | 37–41 | 34–41 | 34–43 | 34–43 |
-| [10–20 January 2019](2019-01-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 30 | 30 | 26–30 | 26–30 | 26–33 |
-| [14–17 January 2019](2019-01-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 33 | 32–33 | 30–33 | 30–33 | 30–33 |
-| [3–17 January 2019](2019-01-17-SKOP.html) | SKOP | 38 | 30–38 | 30–39 | 30–39 | 30–39 |
-| [2–13 January 2019](2019-01-13-Novus.html) | Novus <br> SVT | 25 | 25–29 | 25–29 | 25–31 | 25–33 |
+| N/A | [Poll Average](average.html) | 31 | 27–36 | 26–38 | 25–38 | 24–42 |
+| [16–23 January 2019](2019-01-23-Inizio.html) | Inizio <br> Aftonbladet | 36 | 33–39 | 32–41 | 32–42 | 31–43 |
+| [10–20 January 2019](2019-01-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 28 | 26–33 | 26–34 | 25–34 | 23–35 |
+| [14–17 January 2019](2019-01-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 32 | 29–34 | 29–34 | 29–35 | 27–36 |
+| [3–17 January 2019](2019-01-17-SKOP.html) | SKOP | 33 | 30–38 | 29–38 | 27–39 | 25–43 |
+| [2–13 January 2019](2019-01-13-Novus.html) | Novus <br> SVT | 31 | 26–31 | 25–31 | 25–32 | 23–34 |
 | [2–8 January 2019](2019-01-08-Demoskop.html) | Demoskop <br> Expressen | 30 | 26–33 | 25–34 | 25–34 | 23–37 |
 | [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 29 | 26–32 | 25–32 | 25–33 | 23–34 |
 | [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 28 | 26–31 | 26–32 | 25–32 | 24–33 |
@@ -104,27 +104,28 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 22 | 0.1% | 100% |  |
-| 23 | 0.2% | 99.9% |  |
-| 24 | 0.5% | 99.7% |  |
-| 25 | 9% | 99.2% |  |
-| 26 | 3% | 91% |  |
-| 27 | 3% | 87% |  |
-| 28 | 5% | 84% | Last Result |
-| 29 | 8% | 79% |  |
-| 30 | 23% | 71% | Median |
-| 31 | 5% | 48% |  |
-| 32 | 5% | 43% |  |
-| 33 | 14% | 39% |  |
-| 34 | 3% | 25% |  |
-| 35 | 0.7% | 22% |  |
-| 36 | 0.9% | 22% |  |
-| 37 | 7% | 21% |  |
-| 38 | 8% | 13% |  |
-| 39 | 1.3% | 5% |  |
-| 40 | 0% | 4% |  |
-| 41 | 3% | 4% |  |
-| 42 | 0% | 0.7% |  |
-| 43 | 0.6% | 0.6% |  |
-| 44 | 0% | 0% |  |
+| 23 | 0.3% | 99.8% |  |
+| 24 | 0.8% | 99.5% |  |
+| 25 | 2% | 98.7% |  |
+| 26 | 5% | 96% |  |
+| 27 | 6% | 91% |  |
+| 28 | 6% | 85% | Last Result |
+| 29 | 11% | 79% |  |
+| 30 | 11% | 68% |  |
+| 31 | 14% | 56% | Median |
+| 32 | 11% | 42% |  |
+| 33 | 9% | 31% |  |
+| 34 | 7% | 22% |  |
+| 35 | 2% | 15% |  |
+| 36 | 3% | 13% |  |
+| 37 | 5% | 10% |  |
+| 38 | 3% | 5% |  |
+| 39 | 0.9% | 2% |  |
+| 40 | 0.4% | 1.4% |  |
+| 41 | 0.4% | 1.0% |  |
+| 42 | 0.3% | 0.6% |  |
+| 43 | 0.2% | 0.3% |  |
+| 44 | 0.1% | 0.1% |  |
+| 45 | 0% | 0% |  |
 
 
