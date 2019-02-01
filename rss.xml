@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Fri, 01 Feb 2019 21:28:58 +0100</pubDate>
+    <pubDate>Fri, 01 Feb 2019 21:30:59 +0100</pubDate>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 16–23 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-01-23-Inizio.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-01-23-Inizio.png"
         length="213286"
         type="image/png"/>
-      <pubDate>Fri, 01 Feb 2019 21:28:58 +0100</pubDate>
-      <dc:date>2019-02-01T21:28:58.898174+01:00</dc:date>
+      <pubDate>Fri, 01 Feb 2019 21:30:59 +0100</pubDate>
+      <dc:date>2019-02-01T21:30:59.421051+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–20 January 2019 – Voting Intentions</title>
@@ -749,6 +749,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-02-01T21:28:58.898174+01:00</dc:date>
+    <dc:date>2019-02-01T21:30:59.421051+01:00</dc:date>
   </channel>
 </rss>
