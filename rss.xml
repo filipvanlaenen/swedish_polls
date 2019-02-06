@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Wed, 06 Feb 2019 13:17:50 +0100</pubDate>
+    <pubDate>Wed, 06 Feb 2019 16:00:36 +0100</pubDate>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 16–23 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-01-23-Inizio.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-01-20-Ipsos.png"
         length="214052"
         type="image/png"/>
-      <pubDate>Fri, 01 Feb 2019 18:53:09 +0100</pubDate>
-      <dc:date>2019-02-01T18:53:09.212253+01:00</dc:date>
+      <pubDate>Wed, 06 Feb 2019 16:00:36 +0100</pubDate>
+      <dc:date>2019-02-06T16:00:36.657305+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 14–17 January 2019 – Voting Intentions</title>
@@ -40,14 +40,34 @@
       <dc:date>2019-02-01T20:13:02.158457+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by SKOP, 3–17 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-01-17-SKOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 103–124 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 57–74 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 54–71 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 24–36 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 28–39 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 31–43 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–18 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–16 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-01-17-SKOP-seats.png"
+        length="189871"
+        type="image/png"/>
+      <pubDate>Wed, 06 Feb 2019 14:20:59 +0100</pubDate>
+      <dc:date>2019-02-06T14:20:59.143844+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 3–17 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-01-17-SKOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-01-17-SKOP-coalitions-seats.png"
+        length="391825"
+        type="image/png"/>
+      <pubDate>Wed, 06 Feb 2019 14:20:59 +0100</pubDate>
+      <dc:date>2019-02-06T14:20:59.143844+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SKOP, 3–17 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-01-17-SKOP.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 27.6–33.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 15.9–20.5%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 14.8–19.3%&lt;/li&gt;&lt;li&gt;Centerpartiet: 6.8–10.1%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.3–10.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 7.9–11.4%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.0–5.4%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.3–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-01-17-SKOP.png"
         length="222362"
         type="image/png"/>
-      <pubDate>Wed, 06 Feb 2019 13:17:50 +0100</pubDate>
-      <dc:date>2019-02-06T13:17:50.745038+01:00</dc:date>
+      <pubDate>Wed, 06 Feb 2019 14:20:59 +0100</pubDate>
+      <dc:date>2019-02-06T14:20:59.143844+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 2–13 January 2019 – Voting Intentions</title>
@@ -749,6 +769,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-02-06T13:17:50.745038+01:00</dc:date>
+    <dc:date>2019-02-06T16:00:36.657305+01:00</dc:date>
   </channel>
 </rss>
