@@ -71,11 +71,11 @@ Last result: **62** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 70 | 62–79 | 60–84 | 58–87 | 55–92 |
+| N/A | [Poll Average](average.html) | 70 | 62–79 | 60–84 | 59–87 | 55–92 |
 | [16–23 January 2019](2019-01-23-Inizio.html) | Inizio <br> Aftonbladet | 68 | 64–72 | 64–75 | 62–77 | 60–77 |
 | [10–20 January 2019](2019-01-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 65 | 60–70 | 59–72 | 58–73 | 56–75 |
 | [14–17 January 2019](2019-01-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 75 | 71–77 | 69–78 | 68–81 | 67–81 |
-| [3–17 January 2019](2019-01-17-SKOP.html) | SKOP | 62 | 58–68 | 55–69 | 54–71 | 51–75 |
+| [3–17 January 2019](2019-01-17-SKOP.html) | SKOP | 62 | 57–69 | 56–71 | 54–72 | 52–74 |
 | [2–13 January 2019](2019-01-13-Novus.html) | Novus <br> SVT | 73 | 68–74 | 67–76 | 66–77 | 64–80 |
 | [2–8 January 2019](2019-01-08-Demoskop.html) | Demoskop <br> Expressen | 71 | 66–77 | 65–79 | 64–80 | 62–83 |
 | [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 69 | 65–74 | 64–74 | 63–76 | 62–78 |
@@ -109,27 +109,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 51 | 0.1% | 100% |  |
-| 52 | 0% | 99.9% |  |
+| 52 | 0% | 100% |  |
 | 53 | 0.1% | 99.9% |  |
-| 54 | 0.3% | 99.8% |  |
-| 55 | 0.3% | 99.5% |  |
-| 56 | 0.5% | 99.3% |  |
-| 57 | 0.2% | 98.8% |  |
-| 58 | 2% | 98.6% |  |
-| 59 | 0.9% | 97% |  |
-| 60 | 3% | 96% |  |
-| 61 | 1.0% | 93% |  |
-| 62 | 3% | 92% | Last Result |
-| 63 | 2% | 88% |  |
-| 64 | 6% | 86% |  |
+| 54 | 0.2% | 99.8% |  |
+| 55 | 0.2% | 99.6% |  |
+| 56 | 0.3% | 99.4% |  |
+| 57 | 0.7% | 99.1% |  |
+| 58 | 0.8% | 98% |  |
+| 59 | 1.3% | 98% |  |
+| 60 | 2% | 96% |  |
+| 61 | 2% | 94% |  |
+| 62 | 4% | 92% | Last Result |
+| 63 | 2% | 89% |  |
+| 64 | 7% | 87% |  |
 | 65 | 4% | 80% |  |
-| 66 | 5% | 76% |  |
-| 67 | 6% | 71% |  |
+| 66 | 6% | 76% |  |
+| 67 | 5% | 70% |  |
 | 68 | 8% | 65% |  |
 | 69 | 6% | 57% |  |
-| 70 | 4% | 51% | Median |
-| 71 | 6% | 47% |  |
+| 70 | 4% | 52% | Median |
+| 71 | 7% | 47% |  |
 | 72 | 5% | 41% |  |
 | 73 | 10% | 35% |  |
 | 74 | 2% | 26% |  |

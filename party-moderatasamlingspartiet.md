@@ -66,11 +66,11 @@ Last result: **70** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 69 | 61–74 | 60–76 | 58–77 | 55–79 |
+| N/A | [Poll Average](average.html) | 68 | 61–74 | 60–76 | 58–77 | 55–79 |
 | [16–23 January 2019](2019-01-23-Inizio.html) | Inizio <br> Aftonbladet | 71 | 66–76 | 65–76 | 64–78 | 62–80 |
 | [10–20 January 2019](2019-01-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 67 | 61–72 | 60–72 | 59–72 | 56–75 |
 | [14–17 January 2019](2019-01-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 73 | 70–77 | 69–77 | 67–77 | 65–79 |
-| [3–17 January 2019](2019-01-17-SKOP.html) | SKOP | 65 | 60–70 | 58–72 | 57–74 | 54–80 |
+| [3–17 January 2019](2019-01-17-SKOP.html) | SKOP | 65 | 60–70 | 58–72 | 57–73 | 54–78 |
 | [2–13 January 2019](2019-01-13-Novus.html) | Novus <br> SVT | 72 | 67–74 | 66–75 | 65–76 | 62–79 |
 | [2–8 January 2019](2019-01-08-Demoskop.html) | Demoskop <br> Expressen | 62 | 58–68 | 57–69 | 55–70 | 54–73 |
 | [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 68 | 64–72 | 62–73 | 61–74 | 60–76 |
@@ -107,21 +107,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 52 | 0% | 100% |  |
 | 53 | 0.1% | 99.9% |  |
 | 54 | 0.2% | 99.9% |  |
-| 55 | 0.3% | 99.7% |  |
+| 55 | 0.4% | 99.7% |  |
 | 56 | 0.5% | 99.3% |  |
 | 57 | 0.8% | 98.8% |  |
-| 58 | 1.3% | 98% |  |
+| 58 | 1.4% | 98% |  |
 | 59 | 2% | 97% |  |
 | 60 | 3% | 95% |  |
 | 61 | 3% | 92% |  |
 | 62 | 4% | 89% |  |
-| 63 | 5% | 85% |  |
+| 63 | 4% | 85% |  |
 | 64 | 5% | 81% |  |
 | 65 | 6% | 76% |  |
-| 66 | 5% | 70% |  |
+| 66 | 6% | 70% |  |
 | 67 | 7% | 64% |  |
-| 68 | 6% | 57% |  |
-| 69 | 8% | 51% | Median |
+| 68 | 6% | 56% | Median |
+| 69 | 7% | 50% |  |
 | 70 | 6% | 43% | Last Result |
 | 71 | 7% | 37% |  |
 | 72 | 13% | 30% |  |
@@ -130,7 +130,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 75 | 3% | 9% |  |
 | 76 | 3% | 6% |  |
 | 77 | 2% | 3% |  |
-| 78 | 0.4% | 1.2% |  |
+| 78 | 0.4% | 1.1% |  |
 | 79 | 0.4% | 0.7% |  |
 | 80 | 0.2% | 0.3% |  |
 | 81 | 0% | 0.1% |  |
