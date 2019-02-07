@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Wed, 06 Feb 2019 16:00:36 +0100</pubDate>
+    <pubDate>Thu, 07 Feb 2019 12:34:42 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 24–30 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-01-30-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 25.1–30.6%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 15.4–20.2%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.0–23.0%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.7–8.9%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.8–11.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.8–9.1%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.9–5.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.9–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-01-30-Sentio.png"
+        length="235223"
+        type="image/png"/>
+      <pubDate>Thu, 07 Feb 2019 12:34:42 +0100</pubDate>
+      <dc:date>2019-02-07T12:34:42.327175+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 16–23 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-01-23-Inizio.html</link>
@@ -16,8 +26,28 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-01-23-Inizio.png"
         length="213286"
         type="image/png"/>
-      <pubDate>Fri, 01 Feb 2019 21:30:59 +0100</pubDate>
-      <dc:date>2019-02-01T21:30:59.421051+01:00</dc:date>
+      <pubDate>Wed, 06 Feb 2019 20:57:59 +0100</pubDate>
+      <dc:date>2019-02-06T20:57:59.797295+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–20 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-01-20-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 100–118 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 58–73 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 58–73 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 24–34 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 24–34 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 21–30 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–22 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-01-20-Ipsos-seats.png"
+        length="214127"
+        type="image/png"/>
+      <pubDate>Wed, 06 Feb 2019 17:16:50 +0100</pubDate>
+      <dc:date>2019-02-06T17:16:50.363067+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–20 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-01-20-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-01-20-Ipsos-coalitions-seats.png"
+        length="383417"
+        type="image/png"/>
+      <pubDate>Wed, 06 Feb 2019 17:16:50 +0100</pubDate>
+      <dc:date>2019-02-06T17:16:50.363067+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–20 January 2019 – Voting Intentions</title>
@@ -26,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-01-20-Ipsos.png"
         length="214052"
         type="image/png"/>
-      <pubDate>Wed, 06 Feb 2019 16:00:36 +0100</pubDate>
-      <dc:date>2019-02-06T16:00:36.657305+01:00</dc:date>
+      <pubDate>Wed, 06 Feb 2019 17:16:50 +0100</pubDate>
+      <dc:date>2019-02-06T17:16:50.363067+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 14–17 January 2019 – Voting Intentions</title>
@@ -769,6 +799,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-02-06T16:00:36.657305+01:00</dc:date>
+    <dc:date>2019-02-07T12:34:42.327175+01:00</dc:date>
   </channel>
 </rss>
