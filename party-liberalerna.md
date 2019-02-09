@@ -66,10 +66,10 @@ Last result: **20** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–18 | 0–19 | 0–20 | 0–22 |
-| [24–30 January 2019](2019-01-30-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–18 | 0–18 | 0–19 | 0–21 |
+| [24–30 January 2019](2019-01-30-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–17 | 0–18 | 0–19 | 0–21 |
 | [16–23 January 2019](2019-01-23-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0 | 0–15 | 0–16 |
 | [10–20 January 2019](2019-01-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 18 | 16–21 | 15–22 | 0–22 | 0–24 |
-| [14–17 January 2019](2019-01-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0–14 | 0–15 | 0–15 | 0–16 |
+| [14–17 January 2019](2019-01-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0–15 | 0–15 | 0–16 |
 | [3–17 January 2019](2019-01-17-SKOP.html) | SKOP | 0 | 0–16 | 0–17 | 0–18 | 0–20 |
 | [2–13 January 2019](2019-01-13-Novus.html) | Novus <br> SVT | 0 | 0 | 0–15 | 0–15 | 0–16 |
 | [2–8 January 2019](2019-01-08-Demoskop.html) | Demoskop <br> Expressen | 17 | 0–19 | 0–20 | 0–21 | 0–22 |
@@ -118,14 +118,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 48% |  |
 | 12 | 0% | 48% |  |
 | 13 | 0% | 48% |  |
-| 14 | 1.0% | 48% |  |
+| 14 | 2% | 48% |  |
 | 15 | 12% | 47% |  |
-| 16 | 12% | 35% |  |
-| 17 | 9% | 23% |  |
-| 18 | 6% | 14% |  |
+| 16 | 11% | 35% |  |
+| 17 | 10% | 23% |  |
+| 18 | 5% | 14% |  |
 | 19 | 4% | 8% |  |
 | 20 | 3% | 4% | Last Result |
-| 21 | 0.9% | 2% |  |
+| 21 | 0.8% | 2% |  |
 | 22 | 0.6% | 0.9% |  |
 | 23 | 0.2% | 0.3% |  |
 | 24 | 0.1% | 0.1% |  |
