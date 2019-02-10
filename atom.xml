@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_polls</id>
   <title>All Registered Polls for the Riksdagen</title>
-  <updated>2019-02-09T20:37:18.1023+01:00</updated>
+  <updated>2019-02-10T10:06:55.910757+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 25.1–30.6%, 91–114 seats</li><li>Moderata samlingspartiet: 15.4–20.2%, 56–75 seats</li><li>Sverigedemokraterna: 18.0–23.0%, 65–86 seats</li><li>Centerpartiet: 5.7–8.9%, 21–33 seats</li><li>Vänsterpartiet: 7.8–11.5%, 29–42 seats</li><li>Kristdemokraterna: 5.8–9.1%, 21–33 seats</li><li>Liberalerna: 2.9–5.3%, 0–19 seats</li><li>Miljöpartiet de gröna: 2.9–5.4%, 0–20 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_polls/2019-01-30-Sentio.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Sentio for Nyheter Idag, 24–30 January 2019</title>
     <updated>2019-02-09T18:06:51.087792+01:00</updated>
     <dc:date>2019-02-09T18:06:51.087792+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 26.3–30.2%, 97–113 seats</li><li>Moderata samlingspartiet: 17.4–20.7%, 64–78 seats</li><li>Sverigedemokraterna: 16.8–20.1%, 62–76 seats</li><li>Centerpartiet: 7.2–9.6%, 27–36 seats</li><li>Vänsterpartiet: 8.5–11.0%, 32–42 seats</li><li>Kristdemokraterna: 7.2–9.6%, 27–36 seats</li><li>Liberalerna: 2.5–4.1%, 0–15 seats</li><li>Miljöpartiet de gröna: 3.0–4.7%, 0–17 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_polls/2019-01-23-Inizio.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_polls/2019-01-23-Inizio.html"/>
+    <title>Opinion Poll by Inizio for Aftonbladet, 16–23 January 2019</title>
+    <updated>2019-02-10T10:06:55.910757+01:00</updated>
+    <dc:date>2019-02-10T10:06:55.910757+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 27.8–32.3%, 100–118 seats</li><li>Moderata samlingspartiet: 16.2–20.0%, 58–73 seats</li><li>Sverigedemokraterna: 16.2–20.0%, 58–73 seats</li><li>Centerpartiet: 6.8–9.4%, 24–34 seats</li><li>Vänsterpartiet: 6.8–9.4%, 24–34 seats</li><li>Kristdemokraterna: 5.8–8.4%, 21–30 seats</li><li>Liberalerna: 4.0–6.2%, 0–22 seats</li><li>Miljöpartiet de gröna: 3.2–5.1%, 0–18 seats</li></ul></div></content>
@@ -38,6 +46,14 @@
     <title>Opinion Poll by SKOP, 3–17 January 2019</title>
     <updated>2019-02-06T14:20:59.143844+01:00</updated>
     <dc:date>2019-02-06T14:20:59.143844+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 29.9–33.7%, 110–128 seats</li><li>Moderata samlingspartiet: 17.4–20.6%, 64–77 seats</li><li>Sverigedemokraterna: 17.7–20.9%, 65–79 seats</li><li>Centerpartiet: 6.6–8.7%, 24–33 seats</li><li>Vänsterpartiet: 6.6–8.7%, 24–33 seats</li><li>Kristdemokraterna: 5.3–7.3%, 20–27 seats</li><li>Liberalerna: 2.7–4.2%, 0–15 seats</li><li>Miljöpartiet de gröna: 3.2–4.8%, 0–17 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_polls/2019-01-13-Novus.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_polls/2019-01-13-Novus.html"/>
+    <title>Opinion Poll by Novus for SVT, 2–13 January 2019</title>
+    <updated>2019-02-09T23:28:24.298696+01:00</updated>
+    <dc:date>2019-02-09T23:28:24.298696+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 28.0–32.5%, 101–121 seats</li><li>Moderata samlingspartiet: 15.3–19.0%, 55–70 seats</li><li>Sverigedemokraterna: 17.6–21.5%, 64–80 seats</li><li>Centerpartiet: 5.7–8.2%, 21–30 seats</li><li>Vänsterpartiet: 6.8–9.4%, 25–34 seats</li><li>Kristdemokraterna: 6.5–9.1%, 24–34 seats</li><li>Liberalerna: 3.6–5.7%, 0–21 seats</li><li>Miljöpartiet de gröna: 2.9–4.8%, 0–17 seats</li></ul></div></content>
@@ -223,5 +239,5 @@
     <updated>2018-10-27T21:13:38.351324+02:00</updated>
     <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
   </entry>
-  <dc:date>2019-02-09T20:37:18.1023+01:00</dc:date>
+  <dc:date>2019-02-10T10:06:55.910757+01:00</dc:date>
 </feed>
