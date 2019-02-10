@@ -66,13 +66,13 @@ Last result: **31** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 24–32 | 23–34 | 22–35 | 21–36 |
+| N/A | [Poll Average](average.html) | 28 | 24–33 | 23–34 | 22–35 | 21–36 |
 | [24–30 January 2019](2019-01-30-Sentio.html) | Sentio <br> Nyheter Idag | 26 | 23–30 | 22–31 | 21–33 | 19–35 |
 | [16–23 January 2019](2019-01-23-Inizio.html) | Inizio <br> Aftonbladet | 31 | 28–35 | 27–35 | 27–36 | 25–37 |
 | [10–20 January 2019](2019-01-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 29 | 26–32 | 25–33 | 24–34 | 23–36 |
 | [14–17 January 2019](2019-01-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 26 | 24–28 | 23–28 | 23–29 | 22–30 |
 | [3–17 January 2019](2019-01-17-SKOP.html) | SKOP | 30 | 26–34 | 25–35 | 24–36 | 23–38 |
-| [2–13 January 2019](2019-01-13-Novus.html) | Novus <br> SVT | 29 | 26–31 | 25–32 | 25–33 | 23–35 |
+| [2–13 January 2019](2019-01-13-Novus.html) | Novus <br> SVT | 29 | 26–31 | 25–32 | 24–33 | 23–34 |
 | [2–8 January 2019](2019-01-08-Demoskop.html) | Demoskop <br> Expressen | 25 | 22–28 | 22–29 | 21–30 | 20–32 |
 | [19–26 December 2018](2018-12-26-Inizio.html) | Inizio <br> Aftonbladet | 31 | 29–34 | 28–35 | 27–36 | 26–37 |
 | [12 November–16 December 2018](2018-12-16-Novus.html) | Novus <br> SVT | 32 | 30–34 | 29–35 | 28–35 | 28–36 |
@@ -111,18 +111,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 2% | 98.9% |  |
 | 23 | 3% | 97% |  |
 | 24 | 5% | 95% |  |
-| 25 | 9% | 90% |  |
-| 26 | 9% | 81% |  |
+| 25 | 9% | 89% |  |
+| 26 | 9% | 80% |  |
 | 27 | 11% | 72% |  |
-| 28 | 12% | 60% | Median |
+| 28 | 11% | 60% | Median |
 | 29 | 11% | 49% |  |
 | 30 | 9% | 38% |  |
 | 31 | 10% | 29% | Last Result |
 | 32 | 9% | 19% |  |
-| 33 | 4% | 10% |  |
+| 33 | 5% | 10% |  |
 | 34 | 2% | 5% |  |
 | 35 | 2% | 3% |  |
-| 36 | 0.6% | 1.0% |  |
+| 36 | 0.7% | 1.1% |  |
 | 37 | 0.2% | 0.4% |  |
 | 38 | 0.1% | 0.2% |  |
 | 39 | 0% | 0.1% |  |
