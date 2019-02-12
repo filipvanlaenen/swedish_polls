@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sun, 10 Feb 2019 10:06:55 +0100</pubDate>
+    <pubDate>Tue, 12 Feb 2019 19:53:43 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Demoskop for Expressen, 29 January–5 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-02-05-Demoskop.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 25.8–30.2%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.6–21.5%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 17.5–21.4%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.2–10.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.2–11.2%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.8–8.3%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.5–4.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.4–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-02-05-Demoskop.png"
+        length="220362"
+        type="image/png"/>
+      <pubDate>Tue, 12 Feb 2019 19:53:43 +0100</pubDate>
+      <dc:date>2019-02-12T19:53:43.625655+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 14 January–3 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-02-03-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 27.4–30.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.9–19.7%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 19.8–22.7%&lt;/li&gt;&lt;li&gt;Centerpartiet: 6.6–8.5%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.1–10.2%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 6.5–8.4%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.2–3.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.8–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-02-03-Novus.png"
+        length="204941"
+        type="image/png"/>
+      <pubDate>Tue, 12 Feb 2019 14:12:53 +0100</pubDate>
+      <dc:date>2019-02-12T14:12:53.684514+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 24–30 January 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-01-30-Sentio.html#seats</link>
@@ -879,6 +899,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-02-10T10:06:55.910757+01:00</dc:date>
+    <dc:date>2019-02-12T19:53:43.625655+01:00</dc:date>
   </channel>
 </rss>
