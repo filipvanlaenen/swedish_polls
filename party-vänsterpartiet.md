@@ -10,7 +10,9 @@ Last result: **8.0%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.5% | 7.4–10.0% | 7.2–10.4% | 6.9–10.7% | 6.5–11.4% |
+| N/A | [Poll Average](average.html) | 8.9% | 7.9–10.2% | 7.6–10.5% | 7.4–10.9% | 6.9–11.5% |
+| [29 January–5 February 2019](2019-02-05-Demoskop.html) | Demoskop <br> Expressen | 9.6% | 8.7–10.6% | 8.5–10.9% | 8.2–11.2% | 7.8–11.6% |
+| [14 January–3 February 2019](2019-02-03-Novus.html) | Novus <br> SVT | 9.1% | 8.5–9.8% | 8.3–10.0% | 8.1–10.2% | 7.8–10.5% |
 | [24–30 January 2019](2019-01-30-Sentio.html) | Sentio <br> Nyheter Idag | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.8–11.5% | 7.3–12.1% |
 | [16–23 January 2019](2019-01-23-Inizio.html) | Inizio <br> Aftonbladet | 9.7% | 8.9–10.5% | 8.7–10.8% | 8.5–11.0% | 8.1–11.5% |
 | [10–20 January 2019](2019-01-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8.0% | 7.2–8.9% | 7.0–9.2% | 6.8–9.4% | 6.4–9.9% |
@@ -48,13 +50,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.5% | 100% |  |
-| 6.5–7.5% | 12% | 99.5% |  |
-| 7.5–8.5% | 40% | 88% | Last Result |
-| 8.5–9.5% | 31% | 48% | Median |
-| 9.5–10.5% | 13% | 17% |  |
-| 10.5–11.5% | 3% | 4% |  |
-| 11.5–12.5% | 0.3% | 0.3% |  |
+| 5.5–6.5% | 0.2% | 100% |  |
+| 6.5–7.5% | 4% | 99.8% |  |
+| 7.5–8.5% | 29% | 96% | Last Result |
+| 8.5–9.5% | 41% | 67% | Median |
+| 9.5–10.5% | 21% | 26% |  |
+| 10.5–11.5% | 5% | 5% |  |
+| 11.5–12.5% | 0.4% | 0.4% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -66,7 +68,9 @@ Last result: **28** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31 | 27–37 | 26–39 | 25–40 | 24–42 |
+| N/A | [Poll Average](average.html) | 33 | 29–38 | 28–39 | 27–40 | 25–43 |
+| [29 January–5 February 2019](2019-02-05-Demoskop.html) | Demoskop <br> Expressen | 35 | 33–39 | 32–40 | 32–43 | 30–45 |
+| [14 January–3 February 2019](2019-02-03-Novus.html) | Novus <br> SVT | 35 | 33–36 | 32–37 | 32–38 | 30–39 |
 | [24–30 January 2019](2019-01-30-Sentio.html) | Sentio <br> Nyheter Idag | 35 | 30–40 | 30–41 | 29–42 | 27–46 |
 | [16–23 January 2019](2019-01-23-Inizio.html) | Inizio <br> Aftonbladet | 36 | 33–39 | 32–41 | 32–42 | 30–43 |
 | [10–20 January 2019](2019-01-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 28 | 26–32 | 25–33 | 24–34 | 23–36 |
@@ -105,31 +109,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0.1% | 100% |  |
-| 23 | 0.2% | 99.9% |  |
-| 24 | 0.7% | 99.7% |  |
-| 25 | 2% | 99.0% |  |
-| 26 | 3% | 97% |  |
-| 27 | 5% | 94% |  |
-| 28 | 9% | 89% | Last Result |
-| 29 | 9% | 80% |  |
-| 30 | 13% | 71% |  |
-| 31 | 11% | 58% | Median |
-| 32 | 10% | 47% |  |
-| 33 | 7% | 37% |  |
-| 34 | 8% | 30% |  |
-| 35 | 5% | 22% |  |
-| 36 | 5% | 17% |  |
-| 37 | 4% | 12% |  |
-| 38 | 2% | 8% |  |
-| 39 | 2% | 5% |  |
-| 40 | 2% | 3% |  |
-| 41 | 0.9% | 2% |  |
-| 42 | 0.5% | 0.9% |  |
-| 43 | 0.2% | 0.5% |  |
-| 44 | 0.1% | 0.3% |  |
-| 45 | 0.1% | 0.2% |  |
-| 46 | 0% | 0.1% |  |
+| 23 | 0.1% | 100% |  |
+| 24 | 0.3% | 99.9% |  |
+| 25 | 0.6% | 99.6% |  |
+| 26 | 1.1% | 99.0% |  |
+| 27 | 2% | 98% |  |
+| 28 | 5% | 96% | Last Result |
+| 29 | 6% | 91% |  |
+| 30 | 9% | 85% |  |
+| 31 | 8% | 76% |  |
+| 32 | 9% | 67% |  |
+| 33 | 11% | 58% | Median |
+| 34 | 12% | 47% |  |
+| 35 | 10% | 36% |  |
+| 36 | 8% | 25% |  |
+| 37 | 6% | 17% |  |
+| 38 | 4% | 12% |  |
+| 39 | 3% | 8% |  |
+| 40 | 2% | 4% |  |
+| 41 | 1.0% | 2% |  |
+| 42 | 0.5% | 1.4% |  |
+| 43 | 0.3% | 0.8% |  |
+| 44 | 0.2% | 0.5% |  |
+| 45 | 0.2% | 0.2% |  |
+| 46 | 0.1% | 0.1% |  |
 | 47 | 0% | 0% |  |
 
 
