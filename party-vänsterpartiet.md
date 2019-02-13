@@ -69,8 +69,8 @@ Last result: **28** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 33 | 29–38 | 28–39 | 27–40 | 25–43 |
-| [29 January–5 February 2019](2019-02-05-Demoskop.html) | Demoskop <br> Expressen | 35 | 33–39 | 32–40 | 32–43 | 30–45 |
-| [14 January–3 February 2019](2019-02-03-Novus.html) | Novus <br> SVT | 35 | 33–36 | 32–37 | 32–38 | 30–39 |
+| [29 January–5 February 2019](2019-02-05-Demoskop.html) | Demoskop <br> Expressen | 36 | 33–39 | 33–40 | 32–41 | 30–44 |
+| [14 January–3 February 2019](2019-02-03-Novus.html) | Novus <br> SVT | 34 | 32–37 | 31–38 | 30–38 | 29–40 |
 | [24–30 January 2019](2019-01-30-Sentio.html) | Sentio <br> Nyheter Idag | 35 | 30–40 | 30–41 | 29–42 | 27–46 |
 | [16–23 January 2019](2019-01-23-Inizio.html) | Inizio <br> Aftonbladet | 36 | 33–39 | 32–41 | 32–42 | 30–43 |
 | [10–20 January 2019](2019-01-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 28 | 26–32 | 25–33 | 24–34 | 23–36 |
@@ -117,21 +117,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 5% | 96% | Last Result |
 | 29 | 6% | 91% |  |
 | 30 | 9% | 85% |  |
-| 31 | 8% | 76% |  |
-| 32 | 9% | 67% |  |
-| 33 | 11% | 58% | Median |
-| 34 | 12% | 47% |  |
-| 35 | 10% | 36% |  |
-| 36 | 8% | 25% |  |
-| 37 | 6% | 17% |  |
+| 31 | 9% | 75% |  |
+| 32 | 10% | 67% |  |
+| 33 | 9% | 57% | Median |
+| 34 | 10% | 48% |  |
+| 35 | 10% | 38% |  |
+| 36 | 9% | 28% |  |
+| 37 | 7% | 19% |  |
 | 38 | 4% | 12% |  |
 | 39 | 3% | 8% |  |
 | 40 | 2% | 4% |  |
-| 41 | 1.0% | 2% |  |
-| 42 | 0.5% | 1.4% |  |
-| 43 | 0.3% | 0.8% |  |
-| 44 | 0.2% | 0.5% |  |
-| 45 | 0.2% | 0.2% |  |
+| 41 | 1.1% | 2% |  |
+| 42 | 0.6% | 1.2% |  |
+| 43 | 0.3% | 0.6% |  |
+| 44 | 0.1% | 0.3% |  |
+| 45 | 0.1% | 0.2% |  |
 | 46 | 0.1% | 0.1% |  |
 | 47 | 0% | 0% |  |
 
