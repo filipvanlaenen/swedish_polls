@@ -72,9 +72,9 @@ Last result: **31** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30 | 26–34 | 25–35 | 24–36 | 22–39 |
+| N/A | [Poll Average](average.html) | 30 | 26–36 | 25–38 | 24–38 | 22–40 |
 | [7–20 February 2019](2019-02-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 28 | 25–33 | 24–34 | 24–34 | 23–37 |
-| [11–18 February 2019](2019-02-18-Inizio.html) | Inizio <br> Aftonbladet | 33 | 30–36 | 30–36 | 30–40 | 30–41 |
+| [11–18 February 2019](2019-02-18-Inizio.html) | Inizio <br> Aftonbladet | 37 | 34–39 | 33–39 | 32–40 | 30–42 |
 | [4–14 February 2019](2019-02-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 27 | 26–28 | 26–28 | 25–28 | 24–28 |
 | [29 January–5 February 2019](2019-02-05-Demoskop.html) | Demoskop <br> Expressen | 32 | 29–36 | 28–37 | 27–38 | 26–39 |
 | [14 January–3 February 2019](2019-02-03-Novus.html) | Novus <br> SVT | 28 | 26–31 | 25–31 | 25–32 | 24–33 |
@@ -127,22 +127,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 11% | 83% |  |
 | 28 | 14% | 72% |  |
 | 29 | 8% | 58% |  |
-| 30 | 14% | 51% | Median |
-| 31 | 10% | 37% | Last Result |
-| 32 | 7% | 27% |  |
-| 33 | 8% | 20% |  |
-| 34 | 3% | 12% |  |
-| 35 | 4% | 9% |  |
-| 36 | 3% | 5% |  |
-| 37 | 0.5% | 1.5% |  |
-| 38 | 0.4% | 1.0% |  |
-| 39 | 0.1% | 0.6% |  |
-| 40 | 0.2% | 0.5% |  |
-| 41 | 0.2% | 0.3% |  |
-| 42 | 0% | 0.1% |  |
+| 30 | 9% | 51% | Median |
+| 31 | 10% | 42% | Last Result |
+| 32 | 7% | 32% |  |
+| 33 | 7% | 25% |  |
+| 34 | 4% | 18% |  |
+| 35 | 3% | 15% |  |
+| 36 | 4% | 12% |  |
+| 37 | 2% | 7% |  |
+| 38 | 4% | 6% |  |
+| 39 | 0.8% | 1.5% |  |
+| 40 | 0.4% | 0.7% |  |
+| 41 | 0.1% | 0.3% |  |
+| 42 | 0.1% | 0.2% |  |
 | 43 | 0% | 0.1% |  |
-| 44 | 0% | 0.1% |  |
-| 45 | 0.1% | 0.1% |  |
-| 46 | 0% | 0% |  |
+| 44 | 0% | 0% |  |
 
 
