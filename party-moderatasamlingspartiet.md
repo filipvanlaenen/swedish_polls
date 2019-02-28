@@ -73,8 +73,8 @@ Last result: **70** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 67 | 62–73 | 61–75 | 60–77 | 56–80 |
-| [7–20 February 2019](2019-02-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 63 | 63 | 60–63 | 60–65 | 58–70 |
+| N/A | [Poll Average](average.html) | 67 | 61–73 | 59–75 | 58–77 | 56–80 |
+| [7–20 February 2019](2019-02-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 60 | 57–66 | 57–67 | 57–68 | 54–74 |
 | [11–18 February 2019](2019-02-18-Inizio.html) | Inizio <br> Aftonbladet | 73 | 67–73 | 67–73 | 67–73 | 67–73 |
 | [4–14 February 2019](2019-02-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 63 | 62–63 | 62–63 | 61–68 | 60–68 |
 | [29 January–5 February 2019](2019-02-05-Demoskop.html) | Demoskop <br> Expressen | 74 | 69–78 | 68–80 | 66–81 | 64–83 |
@@ -117,21 +117,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 53 | 0% | 100% |  |
+| 52 | 0% | 100% |  |
+| 53 | 0.1% | 99.9% |  |
 | 54 | 0.1% | 99.9% |  |
-| 55 | 0.1% | 99.8% |  |
-| 56 | 0.2% | 99.7% |  |
-| 57 | 0.4% | 99.4% |  |
-| 58 | 0.7% | 99.1% |  |
-| 59 | 0.6% | 98% |  |
-| 60 | 1.5% | 98% |  |
-| 61 | 2% | 96% |  |
-| 62 | 6% | 94% |  |
-| 63 | 23% | 88% |  |
-| 64 | 3% | 66% |  |
-| 65 | 4% | 63% |  |
-| 66 | 4% | 59% |  |
-| 67 | 7% | 55% | Median |
+| 55 | 0.2% | 99.8% |  |
+| 56 | 0.3% | 99.5% |  |
+| 57 | 2% | 99.3% |  |
+| 58 | 1.5% | 98% |  |
+| 59 | 2% | 96% |  |
+| 60 | 4% | 94% |  |
+| 61 | 4% | 90% |  |
+| 62 | 7% | 87% |  |
+| 63 | 12% | 80% |  |
+| 64 | 3% | 68% |  |
+| 65 | 5% | 65% |  |
+| 66 | 4% | 60% |  |
+| 67 | 8% | 55% | Median |
 | 68 | 6% | 48% |  |
 | 69 | 6% | 42% |  |
 | 70 | 5% | 36% | Last Result |
