@@ -73,10 +73,10 @@ Last result: **70** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 67 | 61–73 | 59–75 | 58–77 | 56–80 |
+| N/A | [Poll Average](average.html) | 67 | 60–73 | 59–75 | 58–77 | 56–80 |
 | [7–20 February 2019](2019-02-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 60 | 57–66 | 57–67 | 57–68 | 54–74 |
 | [11–18 February 2019](2019-02-18-Inizio.html) | Inizio <br> Aftonbladet | 68 | 63–70 | 62–71 | 61–72 | 59–73 |
-| [4–14 February 2019](2019-02-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 63 | 62–63 | 62–63 | 61–68 | 60–68 |
+| [4–14 February 2019](2019-02-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 63 | 60–66 | 60–66 | 59–67 | 57–69 |
 | [29 January–5 February 2019](2019-02-05-Demoskop.html) | Demoskop <br> Expressen | 74 | 69–78 | 68–80 | 66–81 | 64–83 |
 | [14 January–3 February 2019](2019-02-03-Novus.html) | Novus <br> SVT | 69 | 65–72 | 64–74 | 63–74 | 62–76 |
 | [24–30 January 2019](2019-01-30-Sentio.html) | Sentio <br> Nyheter Idag | 65 | 60–72 | 58–73 | 56–75 | 54–79 |
@@ -123,17 +123,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 0.2% | 99.8% |  |
 | 56 | 0.3% | 99.5% |  |
 | 57 | 2% | 99.3% |  |
-| 58 | 1.5% | 98% |  |
-| 59 | 2% | 96% |  |
-| 60 | 4% | 94% |  |
-| 61 | 4% | 90% |  |
-| 62 | 8% | 86% |  |
-| 63 | 12% | 79% |  |
-| 64 | 4% | 66% |  |
-| 65 | 7% | 63% |  |
-| 66 | 5% | 55% |  |
-| 67 | 6% | 50% | Median |
-| 68 | 10% | 44% |  |
+| 58 | 2% | 98% |  |
+| 59 | 3% | 96% |  |
+| 60 | 5% | 94% |  |
+| 61 | 4% | 89% |  |
+| 62 | 9% | 85% |  |
+| 63 | 5% | 76% |  |
+| 64 | 7% | 72% |  |
+| 65 | 8% | 65% |  |
+| 66 | 6% | 57% |  |
+| 67 | 7% | 50% | Median |
+| 68 | 9% | 44% |  |
 | 69 | 7% | 34% |  |
 | 70 | 6% | 27% | Last Result |
 | 71 | 5% | 22% |  |
