@@ -70,8 +70,8 @@ Last result: **20** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–16 | 0–16 | 0–18 | 0–18 |
-| [22–25 February 2019](2019-02-25-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0–16 | 0–16 | 0–16 |
+| N/A | [Poll Average](average.html) | 0 | 0–15 | 0–16 | 0–18 | 0–18 |
+| [22–25 February 2019](2019-02-25-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0 | 0 | 0–16 |
 | [7–20 February 2019](2019-02-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 15 | 0–18 | 0–18 | 0–18 | 0–20 |
 | [11–18 February 2019](2019-02-18-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0 | 0 | 0 |
 | [4–14 February 2019](2019-02-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0–14 | 0–15 | 0–15 | 0–15 |
@@ -115,23 +115,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 78% | 100% | Median |
-| 1 | 0% | 22% |  |
-| 2 | 0% | 22% |  |
-| 3 | 0% | 22% |  |
-| 4 | 0% | 22% |  |
-| 5 | 0% | 22% |  |
-| 6 | 0% | 22% |  |
-| 7 | 0% | 22% |  |
-| 8 | 0% | 22% |  |
-| 9 | 0% | 22% |  |
-| 10 | 0% | 22% |  |
-| 11 | 0% | 22% |  |
-| 12 | 0% | 22% |  |
-| 13 | 0% | 22% |  |
-| 14 | 6% | 22% |  |
-| 15 | 6% | 16% |  |
-| 16 | 7% | 11% |  |
+| 0 | 79% | 100% | Median |
+| 1 | 0% | 21% |  |
+| 2 | 0% | 21% |  |
+| 3 | 0% | 21% |  |
+| 4 | 0% | 21% |  |
+| 5 | 0% | 21% |  |
+| 6 | 0% | 21% |  |
+| 7 | 0% | 21% |  |
+| 8 | 0% | 21% |  |
+| 9 | 0% | 21% |  |
+| 10 | 0% | 21% |  |
+| 11 | 0% | 21% |  |
+| 12 | 0% | 21% |  |
+| 13 | 0% | 21% |  |
+| 14 | 6% | 21% |  |
+| 15 | 6% | 15% |  |
+| 16 | 6% | 9% |  |
 | 17 | 1.0% | 4% |  |
 | 18 | 2% | 3% |  |
 | 19 | 0.3% | 0.5% |  |
