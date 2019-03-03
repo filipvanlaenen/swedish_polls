@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sat, 02 Mar 2019 18:26:50 +0100</pubDate>
+    <pubDate>Sun, 03 Mar 2019 15:48:12 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 22–25 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-02-25-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 23.9–29.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.0–20.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 19.0–24.1%&lt;/li&gt;&lt;li&gt;Centerpartiet: 4.3–7.1%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.7–12.6%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 7.7–11.4%&lt;/li&gt;&lt;li&gt;Liberalerna: 1.8–3.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.4–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-02-25-Sentio.png"
+        length="236377"
+        type="image/png"/>
+      <pubDate>Sun, 03 Mar 2019 15:48:12 +0100</pubDate>
+      <dc:date>2019-03-03T15:48:12.34043+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 7–20 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-02-20-Ipsos.html</link>
@@ -969,6 +979,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-03-02T18:26:50.314293+01:00</dc:date>
+    <dc:date>2019-03-03T15:48:12.34043+01:00</dc:date>
   </channel>
 </rss>
