@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
+| [22–25 February 2019](2019-02-25-Sentio.html) | Sentio <br> Nyheter Idag | 24–29% <br> 83–106 | 16–21% <br> 56–82 | 19–24% <br> 71–89 | 4–7% <br> 16–27 | 9–13% <br> 37–45 | 8–11% <br> 28–45 | 2–4% <br> 0–16 | 2–5% <br> 0–15 |
 | [7–20 February 2019](2019-02-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 26–30% <br> 90–114 | 15–19% <br> 57–68 | 17–21% <br> 60–77 | 7–9% <br> 24–34 | 9–12% <br> 32–44 | 8–11% <br> 28–39 | 3–5% <br> 0–18 | 3–5% <br> 0–18 |
 | [11–18 February 2019](2019-02-18-Inizio.html) | Inizio <br> Aftonbladet | 25–29% <br> 96–109 | 16–19% <br> 61–72 | 18–21% <br> 67–79 | 9–11% <br> 32–40 | 8–10% <br> 31–39 | 8–10% <br> 30–39 | 2–4% <br> 0 | 3–4% <br> 0–15 |
 | [4–14 February 2019](2019-02-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 27–29% <br> 100–110 | 16–18% <br> 59–67 | 18–20% <br> 65–75 | 7–8% <br> 26–30 | 9–10% <br> 33–38 | 8–9% <br> 29–35 | 3–4% <br> 0–15 | 4–5% <br> 0–17 |
