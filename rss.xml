@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sun, 03 Mar 2019 18:21:16 +0100</pubDate>
+    <pubDate>Sun, 24 Mar 2019 10:45:47 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 3–14 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-03-14-Sifo.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 26.5–28.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.7–18.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.3–19.9%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.7–8.9%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 9.2–10.4%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 8.8–10.0%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.9–3.7%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.4–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-03-14-Sifo.png"
+        length="192283"
+        type="image/png"/>
+      <pubDate>Sun, 24 Mar 2019 10:32:42 +0100</pubDate>
+      <dc:date>2019-03-24T10:32:42.744442+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Expressen, 26 February–5 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-03-05-Demoskop.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 23.7–28.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.6–20.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 17.6–21.4%&lt;/li&gt;&lt;li&gt;Centerpartiet: 6.3–8.9%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.0–10.8%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 9.2–12.2%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.3–3.9%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.2–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-03-05-Demoskop.png"
+        length="224979"
+        type="image/png"/>
+      <pubDate>Sun, 24 Mar 2019 09:41:49 +0100</pubDate>
+      <dc:date>2019-03-24T09:41:49.427987+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 4 February–3 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-03-03-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 26.8–29.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.1–19.6%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.0–20.6%&lt;/li&gt;&lt;li&gt;Centerpartiet: 6.5–8.2%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.2–10.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 7.7–9.6%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.0–4.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.4–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-03-03-Novus.png"
+        length="202900"
+        type="image/png"/>
+      <pubDate>Sun, 24 Mar 2019 10:45:47 +0100</pubDate>
+      <dc:date>2019-03-24T10:45:47.745208+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 22–25 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-02-25-Sentio.html</link>
@@ -979,6 +1009,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-03-03T18:21:16.394632+01:00</dc:date>
+    <dc:date>2019-03-24T10:45:47.745208+01:00</dc:date>
   </channel>
 </rss>
