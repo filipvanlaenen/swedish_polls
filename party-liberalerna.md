@@ -11,6 +11,7 @@ Last result: **5.5%** (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.3% | 2.5–4.3% | 2.3–4.6% | 2.1–4.9% | 1.8–5.3% |
+| [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.1% | 2.9–5.5% |
 | [3–14 March 2019](2019-03-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 3.3% | 3.1–3.6% | 3.0–3.6% | 2.9–3.7% | 2.8–3.8% |
 | [26 February–5 March 2019](2019-03-05-Demoskop.html) | Demoskop <br> Expressen | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.0–4.3% |
 | [4 February–3 March 2019](2019-03-03-Novus.html) | Novus <br> SVT | 3.5% | 3.1–3.9% | 3.0–4.1% | 3.0–4.2% | 2.8–4.4% |
@@ -73,7 +74,8 @@ Last result: **20** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–15 | 0–16 | 0–18 | 0–18 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–15 | 0–16 | 0–18 |
+| [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0–16 | 0–16 | 0–16 |
 | [3–14 March 2019](2019-03-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
 | [26 February–5 March 2019](2019-03-05-Demoskop.html) | Demoskop <br> Expressen | 0 | 0 | 0 | 0 | 0 |
 | [4 February–3 March 2019](2019-03-03-Novus.html) | Novus <br> SVT | 0 | 0–15 | 0–15 | 0–15 | 0–17 |
@@ -121,28 +123,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 81% | 100% | Median |
-| 1 | 0% | 19% |  |
-| 2 | 0% | 19% |  |
-| 3 | 0% | 19% |  |
-| 4 | 0% | 19% |  |
-| 5 | 0% | 19% |  |
-| 6 | 0% | 19% |  |
-| 7 | 0% | 19% |  |
-| 8 | 0% | 19% |  |
-| 9 | 0% | 19% |  |
-| 10 | 0% | 19% |  |
-| 11 | 0% | 19% |  |
-| 12 | 0% | 19% |  |
-| 13 | 0% | 19% |  |
-| 14 | 3% | 19% |  |
-| 15 | 7% | 16% |  |
-| 16 | 5% | 9% |  |
-| 17 | 1.1% | 4% |  |
-| 18 | 2% | 3% |  |
-| 19 | 0.3% | 0.5% |  |
-| 20 | 0.1% | 0.2% | Last Result |
-| 21 | 0% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 0 | 90% | 100% | Median |
+| 1 | 0% | 10% |  |
+| 2 | 0% | 10% |  |
+| 3 | 0% | 10% |  |
+| 4 | 0% | 10% |  |
+| 5 | 0% | 10% |  |
+| 6 | 0% | 10% |  |
+| 7 | 0% | 10% |  |
+| 8 | 0% | 10% |  |
+| 9 | 0% | 10% |  |
+| 10 | 0% | 10% |  |
+| 11 | 0% | 10% |  |
+| 12 | 0% | 10% |  |
+| 13 | 0% | 10% |  |
+| 14 | 0.1% | 10% |  |
+| 15 | 5% | 10% |  |
+| 16 | 3% | 5% |  |
+| 17 | 1.0% | 2% |  |
+| 18 | 0.3% | 0.6% |  |
+| 19 | 0.2% | 0.3% |  |
+| 20 | 0.1% | 0.1% | Last Result |
+| 21 | 0% | 0% |  |
 
 
