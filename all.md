@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
+| [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 25–29% <br> 96–108 | 16–20% <br> 64–79 | 17–21% <br> 64–78 | 7–9% <br> 29–37 | 9–12% <br> 33–45 | 8–11% <br> 25–37 | 3–5% <br> 0–16 | 3–5% <br> 0–17 |
 | [3–14 March 2019](2019-03-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 26–28% <br> 101–105 | 17–18% <br> 64–66 | 18–20% <br> 68–70 | 8–9% <br> 31–33 | 9–10% <br> 34–39 | 9–10% <br> 34–35 | 3–4% <br> 0 | 3–4% <br> 0–16 |
 | [26 February–5 March 2019](2019-03-05-Demoskop.html) | Demoskop <br> Expressen | 24–28% <br> 89–96 | 17–20% <br> 64–82 | 18–21% <br> 71–77 | 6–9% <br> 26–36 | 8–11% <br> 27–38 | 9–12% <br> 36–45 | 2–4% <br> 0 | 3–5% <br> 0–17 |
 | [4 February–3 March 2019](2019-03-03-Novus.html) | Novus <br> SVT | 27–30% <br> 95–117 | 17–20% <br> 60–69 | 18–21% <br> 68–78 | 7–8% <br> 24–34 | 8–10% <br> 30–36 | 8–10% <br> 27–38 | 3–4% <br> 0–15 | 3–5% <br> 0–19 |
