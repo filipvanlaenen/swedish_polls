@@ -76,8 +76,8 @@ Last result: **22** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35 | 31–40 | 29–41 | 27–45 | 25–45 |
-| [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 33 | 26–33 | 26–34 | 25–37 | 25–38 |
+| N/A | [Poll Average](average.html) | 35 | 31–40 | 30–41 | 27–45 | 26–45 |
+| [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 39 | 33–39 | 29–39 | 26–39 | 25–39 |
 | [3–14 March 2019](2019-03-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 35 | 35 | 35 | 34–35 | 32–36 |
 | [26 February–5 March 2019](2019-03-05-Demoskop.html) | Demoskop <br> Expressen | 40 | 36–45 | 36–45 | 36–45 | 36–45 |
 | [4 February–3 March 2019](2019-03-03-Novus.html) | Novus <br> SVT | 32 | 27–38 | 27–38 | 27–38 | 27–38 |
@@ -128,21 +128,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 0% | 100% | Last Result |
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
-| 25 | 0.5% | 100% |  |
-| 26 | 1.2% | 99.5% |  |
-| 27 | 2% | 98% |  |
-| 28 | 0.4% | 96% |  |
-| 29 | 2% | 96% |  |
-| 30 | 3% | 94% |  |
-| 31 | 3% | 91% |  |
-| 32 | 9% | 88% |  |
-| 33 | 17% | 79% |  |
-| 34 | 3% | 62% |  |
-| 35 | 19% | 59% | Median |
-| 36 | 13% | 41% |  |
-| 37 | 5% | 27% |  |
-| 38 | 4% | 22% |  |
-| 39 | 3% | 18% |  |
+| 25 | 0.2% | 100% |  |
+| 26 | 0.5% | 99.8% |  |
+| 27 | 2% | 99.3% |  |
+| 28 | 0.4% | 97% |  |
+| 29 | 2% | 97% |  |
+| 30 | 3% | 95% |  |
+| 31 | 3% | 93% |  |
+| 32 | 9% | 89% |  |
+| 33 | 10% | 81% |  |
+| 34 | 3% | 70% |  |
+| 35 | 19% | 68% | Median |
+| 36 | 14% | 49% |  |
+| 37 | 4% | 35% |  |
+| 38 | 4% | 31% |  |
+| 39 | 11% | 27% |  |
 | 40 | 9% | 15% |  |
 | 41 | 0.9% | 6% |  |
 | 42 | 0.9% | 5% |  |
