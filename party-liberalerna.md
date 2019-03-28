@@ -74,8 +74,8 @@ Last result: **20** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–15 | 0–16 | 0–18 |
-| [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0–16 | 0–16 |
+| N/A | [Poll Average](average.html) | 0 | 0–15 | 0–16 | 0–16 | 0–18 |
+| [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0–16 | 0–16 | 0–16 | 0–19 |
 | [3–14 March 2019](2019-03-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
 | [26 February–5 March 2019](2019-03-05-Demoskop.html) | Demoskop <br> Expressen | 0 | 0 | 0 | 0 | 0 |
 | [4 February–3 March 2019](2019-03-03-Novus.html) | Novus <br> SVT | 0 | 0–15 | 0–15 | 0–15 | 0–17 |
@@ -123,26 +123,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 91% | 100% | Median |
-| 1 | 0% | 9% |  |
-| 2 | 0% | 9% |  |
-| 3 | 0% | 9% |  |
-| 4 | 0% | 9% |  |
-| 5 | 0% | 9% |  |
-| 6 | 0% | 9% |  |
-| 7 | 0% | 9% |  |
-| 8 | 0% | 9% |  |
-| 9 | 0% | 9% |  |
-| 10 | 0% | 9% |  |
-| 11 | 0% | 9% |  |
-| 12 | 0% | 9% |  |
-| 13 | 0% | 9% |  |
-| 14 | 0.1% | 9% |  |
-| 15 | 5% | 9% |  |
-| 16 | 2% | 4% |  |
+| 0 | 88% | 100% | Median |
+| 1 | 0% | 12% |  |
+| 2 | 0% | 12% |  |
+| 3 | 0% | 12% |  |
+| 4 | 0% | 12% |  |
+| 5 | 0% | 12% |  |
+| 6 | 0% | 12% |  |
+| 7 | 0% | 12% |  |
+| 8 | 0% | 12% |  |
+| 9 | 0% | 12% |  |
+| 10 | 0% | 12% |  |
+| 11 | 0% | 12% |  |
+| 12 | 0% | 12% |  |
+| 13 | 0% | 12% |  |
+| 14 | 0.1% | 12% |  |
+| 15 | 5% | 12% |  |
+| 16 | 5% | 7% |  |
 | 17 | 1.0% | 2% |  |
-| 18 | 0.3% | 0.6% |  |
-| 19 | 0.2% | 0.3% |  |
+| 18 | 0.3% | 0.8% |  |
+| 19 | 0.3% | 0.4% |  |
 | 20 | 0.1% | 0.1% | Last Result |
 | 21 | 0% | 0% |  |
 
