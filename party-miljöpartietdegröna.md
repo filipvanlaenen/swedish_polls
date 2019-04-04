@@ -86,7 +86,7 @@ Last result: **16** seats (General Election of 9 September 2018)
 | [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 15 | 0–16 | 0–17 | 0–18 | 0–20 |
 | [3–14 March 2019](2019-03-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0–15 | 0–15 | 0–15 | 0–16 |
 | [26 February–5 March 2019](2019-03-05-Demoskop.html) | Demoskop <br> Expressen | 16 | 0–18 | 0–19 | 0–19 | 0–20 |
-| [4 February–3 March 2019](2019-03-03-Novus.html) | Novus <br> SVT | 16 | 0–19 | 0–19 | 0–19 | 0–19 |
+| [4 February–3 March 2019](2019-03-03-Novus.html) | Novus <br> SVT | 0 | 0–16 | 0–16 | 0–17 | 0–18 |
 | [22–25 February 2019](2019-02-25-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–15 | 0–17 | 0–17 | 0–19 |
 | [7–20 February 2019](2019-02-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 15 | 0–17 | 0–17 | 0–18 | 0–19 |
 | [11–18 February 2019](2019-02-18-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0–15 | 0–15 | 0–16 |
