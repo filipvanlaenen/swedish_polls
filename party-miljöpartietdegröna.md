@@ -10,7 +10,8 @@ Last result: **4.4%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 3.1–4.6% | 2.9–4.8% | 2.7–5.0% | 2.4–5.4% |
+| N/A | [Poll Average](average.html) | 3.9% | 3.1–4.7% | 2.9–5.0% | 2.7–5.2% | 2.4–5.6% |
+| [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 4.5% | 3.9–5.3% | 3.7–5.5% | 3.6–5.7% | 3.3–6.0% |
 | [4–31 March 2019](2019-03-31-Novus.html) | Novus <br> SVT | 3.5% | 3.1–3.9% | 3.0–4.0% | 2.9–4.1% | 2.8–4.4% |
 | [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 4.2% | 3.7–4.7% | 3.6–4.9% | 3.5–5.0% | 3.3–5.2% |
 | [22–27 March 2019](2019-03-27-Sentio.html) | Sentio <br> Nyheter Idag | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.7% |
@@ -63,10 +64,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 1.1% | 100% |  |
-| 2.5–3.5% | 28% | 98.9% |  |
-| 3.5–4.5% | 61% | 71% | Last Result, Median |
-| 4.5–5.5% | 10% | 10% |  |
-| 5.5–6.5% | 0.3% | 0.3% |  |
+| 2.5–3.5% | 26% | 98.9% |  |
+| 3.5–4.5% | 58% | 73% | Last Result, Median |
+| 4.5–5.5% | 14% | 14% |  |
+| 5.5–6.5% | 0.7% | 0.7% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -78,8 +79,9 @@ Last result: **16** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–17 | 0–18 | 0–18 | 0–20 |
-| [4–31 March 2019](2019-03-31-Novus.html) | Novus <br> SVT | 0 | 0 | 0–14 | 0–15 | 0–16 |
+| N/A | [Poll Average](average.html) | 0 | 0–17 | 0–18 | 0–19 | 0–21 |
+| [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 17 | 0–19 | 0–19 | 0–20 | 0–22 |
+| [4–31 March 2019](2019-03-31-Novus.html) | Novus <br> SVT | 0 | 0 | 0–15 | 0–15 | 0–16 |
 | [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 15 | 0–17 | 0–18 | 0–18 | 0–18 |
 | [22–27 March 2019](2019-03-27-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–18 | 0–18 | 0–19 | 0–22 |
 | [7–27 March 2019](2019-03-27-SKOP.html) | SKOP | 0 | 0 | 0 | 0–15 | 0–15 |
@@ -131,29 +133,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 60% | 100% | Median |
-| 1 | 0% | 40% |  |
-| 2 | 0% | 40% |  |
-| 3 | 0% | 40% |  |
-| 4 | 0% | 40% |  |
-| 5 | 0% | 40% |  |
-| 6 | 0% | 40% |  |
-| 7 | 0% | 40% |  |
-| 8 | 0% | 40% |  |
-| 9 | 0% | 40% |  |
-| 10 | 0% | 40% |  |
-| 11 | 0% | 40% |  |
-| 12 | 0% | 40% |  |
-| 13 | 0% | 40% |  |
-| 14 | 0.7% | 40% |  |
-| 15 | 17% | 39% |  |
-| 16 | 9% | 22% | Last Result |
-| 17 | 7% | 13% |  |
-| 18 | 5% | 6% |  |
-| 19 | 1.2% | 2% |  |
-| 20 | 0.4% | 0.6% |  |
-| 21 | 0.1% | 0.2% |  |
-| 22 | 0.1% | 0.1% |  |
+| 0 | 57% | 100% | Median |
+| 1 | 0% | 43% |  |
+| 2 | 0% | 43% |  |
+| 3 | 0% | 43% |  |
+| 4 | 0% | 43% |  |
+| 5 | 0% | 43% |  |
+| 6 | 0% | 43% |  |
+| 7 | 0% | 43% |  |
+| 8 | 0% | 43% |  |
+| 9 | 0% | 43% |  |
+| 10 | 0% | 43% |  |
+| 11 | 0% | 43% |  |
+| 12 | 0% | 43% |  |
+| 13 | 0% | 43% |  |
+| 14 | 1.1% | 43% |  |
+| 15 | 17% | 42% |  |
+| 16 | 9% | 25% | Last Result |
+| 17 | 8% | 16% |  |
+| 18 | 5% | 8% |  |
+| 19 | 2% | 3% |  |
+| 20 | 0.4% | 0.9% |  |
+| 21 | 0.4% | 0.5% |  |
+| 22 | 0.1% | 0.2% |  |
 | 23 | 0% | 0% |  |
 
 
