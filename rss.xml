@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Thu, 04 Apr 2019 13:36:13 +0200</pubDate>
+    <pubDate>Sat, 06 Apr 2019 20:49:21 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Demoskop for Expressen, 26 March–3 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-04-03-Demoskop.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 23.3–27.6%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 14.8–18.5%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 16.2–20.0%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.0–9.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.2–11.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 10.2–13.4%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.0–5.0%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.6–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-04-03-Demoskop.png"
+        length="227288"
+        type="image/png"/>
+      <pubDate>Sat, 06 Apr 2019 20:49:21 +0200</pubDate>
+      <dc:date>2019-04-06T20:49:21.487714+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 4–31 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-03-31-Novus.html</link>
@@ -16,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-03-31-Novus.png"
         length="203309"
         type="image/png"/>
-      <pubDate>Thu, 04 Apr 2019 09:19:19 +0200</pubDate>
-      <dc:date>2019-04-04T09:19:19.699577+02:00</dc:date>
+      <pubDate>Sat, 06 Apr 2019 20:23:08 +0200</pubDate>
+      <dc:date>2019-04-06T20:23:08.377763+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 23–28 March 2019 – Voting Intentions</title>
@@ -1059,6 +1069,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-04-04T13:36:13.091144+02:00</dc:date>
+    <dc:date>2019-04-06T20:49:21.487714+02:00</dc:date>
   </channel>
 </rss>
