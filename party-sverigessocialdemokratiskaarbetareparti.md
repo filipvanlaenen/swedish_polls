@@ -11,6 +11,8 @@ Last result: **28.3%** (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26.9% | 24.6–28.6% | 23.9–29.2% | 23.4–29.8% | 22.3–30.8% |
+| [1–11 April 2019](2019-04-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 27.3% | N/A | N/A | N/A | N/A |
+| [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 25.6% | N/A | N/A | N/A | N/A |
 | [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 25.4% | 24.0–26.8% | 23.6–27.2% | 23.3–27.6% | 22.7–28.3% |
 | [4–31 March 2019](2019-03-31-Novus.html) | Novus <br> SVT | 27.2% | 26.3–28.2% | 26.0–28.4% | 25.8–28.7% | 25.3–29.1% |
 | [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 26.5% | 25.5–27.6% | 25.2–27.9% | 25.0–28.1% | 24.5–28.6% |
@@ -87,6 +89,8 @@ Last result: **100** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 99 | 90–106 | 88–108 | 85–111 | 82–115 |
+| [1–11 April 2019](2019-04-11-Sifo.html) | Sifo <br> Svenska Dagbladet |  |  |  |  |  |
+| [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag |  |  |  |  |  |
 | [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 92 | 87–98 | 85–101 | 84–103 | 81–106 |
 | [4–31 March 2019](2019-03-31-Novus.html) | Novus <br> SVT | 102 | 98–107 | 97–108 | 95–109 | 93–110 |
 | [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 97 | 94–102 | 93–103 | 92–105 | 89–107 |

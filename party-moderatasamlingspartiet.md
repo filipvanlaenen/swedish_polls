@@ -11,6 +11,8 @@ Last result: **19.8%** (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17.4% | 16.1–18.7% | 15.7–19.2% | 15.4–19.6% | 14.8–20.3% |
+| [1–11 April 2019](2019-04-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 16.0% | N/A | N/A | N/A | N/A |
+| [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 17.5% | N/A | N/A | N/A | N/A |
 | [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 16.6% | 15.4–17.8% | 15.1–18.2% | 14.8–18.5% | 14.3–19.1% |
 | [4–31 March 2019](2019-03-31-Novus.html) | Novus <br> SVT | 17.5% | 16.7–18.3% | 16.5–18.6% | 16.3–18.8% | 15.9–19.2% |
 | [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 16.5% | 15.7–17.4% | 15.4–17.7% | 15.2–17.9% | 14.8–18.3% |
@@ -83,6 +85,8 @@ Last result: **70** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 65 | 59–70 | 57–72 | 56–73 | 54–75 |
+| [1–11 April 2019](2019-04-11-Sifo.html) | Sifo <br> Svenska Dagbladet |  |  |  |  |  |
+| [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag |  |  |  |  |  |
 | [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 60 | 56–66 | 55–67 | 54–68 | 52–71 |
 | [4–31 March 2019](2019-03-31-Novus.html) | Novus <br> SVT | 66 | 62–70 | 62–70 | 61–71 | 59–73 |
 | [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 61 | 57–65 | 56–65 | 55–66 | 55–68 |

@@ -11,6 +11,8 @@ Last result: **8.6%** (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.3% | 6.5–9.6% | 5.9–10.0% | 5.5–10.3% | 4.9–10.9% |
+| [1–11 April 2019](2019-04-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 7.5% | N/A | N/A | N/A | N/A |
+| [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 6.3% | N/A | N/A | N/A | N/A |
 | [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 8.2% | 7.4–9.2% | 7.2–9.4% | 7.0–9.7% | 6.6–10.2% |
 | [4–31 March 2019](2019-03-31-Novus.html) | Novus <br> SVT | 8.2% | 7.7–8.8% | 7.5–9.0% | 7.4–9.1% | 7.1–9.4% |
 | [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 9.1% | 8.4–9.8% | 8.3–10.0% | 8.1–10.2% | 7.8–10.5% |
@@ -84,6 +86,8 @@ Last result: **31** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32 | 23–35 | 21–36 | 20–37 | 18–39 |
+| [1–11 April 2019](2019-04-11-Sifo.html) | Sifo <br> Svenska Dagbladet |  |  |  |  |  |
+| [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag |  |  |  |  |  |
 | [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 30 | 27–34 | 26–35 | 25–36 | 24–37 |
 | [4–31 March 2019](2019-03-31-Novus.html) | Novus <br> SVT | 31 | 28–33 | 28–34 | 27–35 | 26–36 |
 | [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 34 | 33–35 | 31–35 | 30–36 | 28–39 |
