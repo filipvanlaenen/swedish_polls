@@ -11,6 +11,7 @@ Last result: **5.5%** (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.8% | 3.2–4.6% | 3.0–4.8% | 2.9–5.0% | 2.7–5.4% |
+| [9–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.0% | 3.4–4.8% | 3.3–5.0% | 3.1–5.2% | 2.9–5.5% |
 | [1–11 April 2019](2019-04-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 3.4% | N/A | N/A | N/A | N/A |
 | [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 3.8% | N/A | N/A | N/A | N/A |
 | [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 3.9% | 3.3–4.6% | 3.2–4.8% | 3.0–5.0% | 2.8–5.3% |
@@ -67,7 +68,7 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0.1% | 100% |  |
 | 2.5–3.5% | 30% | 99.9% |  |
 | 3.5–4.5% | 59% | 70% | Median |
-| 4.5–5.5% | 10% | 11% | Last Result |
+| 4.5–5.5% | 11% | 11% | Last Result |
 | 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -81,6 +82,7 @@ Last result: **20** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–16 | 0–17 | 0–18 | 0–19 |
+| [9–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 14 | 0–17 | 0–18 | 0–18 | 0–20 |
 | [1–11 April 2019](2019-04-11-Sifo.html) | Sifo <br> Svenska Dagbladet |  |  |  |  |  |
 | [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag |  |  |  |  |  |
 | [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 0 | 0–16 | 0–17 | 0–18 | 0–19 |
@@ -136,28 +138,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 67% | 100% | Median |
-| 1 | 0% | 33% |  |
-| 2 | 0% | 33% |  |
-| 3 | 0% | 33% |  |
-| 4 | 0% | 33% |  |
-| 5 | 0% | 33% |  |
-| 6 | 0% | 33% |  |
-| 7 | 0% | 33% |  |
-| 8 | 0% | 33% |  |
-| 9 | 0% | 33% |  |
-| 10 | 0% | 33% |  |
-| 11 | 0% | 33% |  |
-| 12 | 0% | 33% |  |
-| 13 | 0% | 33% |  |
-| 14 | 1.4% | 33% |  |
-| 15 | 16% | 31% |  |
-| 16 | 9% | 15% |  |
-| 17 | 3% | 7% |  |
-| 18 | 3% | 4% |  |
-| 19 | 0.7% | 1.0% |  |
-| 20 | 0.2% | 0.3% | Last Result |
-| 21 | 0% | 0.1% |  |
+| 0 | 62% | 100% | Median |
+| 1 | 0% | 38% |  |
+| 2 | 0% | 38% |  |
+| 3 | 0% | 38% |  |
+| 4 | 0% | 38% |  |
+| 5 | 0% | 38% |  |
+| 6 | 0% | 38% |  |
+| 7 | 0% | 38% |  |
+| 8 | 0% | 38% |  |
+| 9 | 0% | 38% |  |
+| 10 | 0% | 38% |  |
+| 11 | 0% | 38% |  |
+| 12 | 0% | 38% |  |
+| 13 | 0% | 38% |  |
+| 14 | 2% | 38% |  |
+| 15 | 20% | 35% |  |
+| 16 | 6% | 15% |  |
+| 17 | 5% | 9% |  |
+| 18 | 3% | 5% |  |
+| 19 | 0.8% | 1.2% |  |
+| 20 | 0.3% | 0.4% | Last Result |
+| 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
 
