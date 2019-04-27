@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
+| [9–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 25–30% <br> 88–114 | 14–18% <br> 51–67 | 15–19% <br> 57–71 | 7–10% <br> 25–37 | 9–12% <br> 31–46 | 11–14% <br> 39–50 | 3–5% <br> 0–18 | 3–5% <br> 0–18 |
 | [1–11 April 2019](2019-04-11-Sifo.html) | Sifo <br> Svenska Dagbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 23–28% <br> 84–103 | 15–18% <br> 54–68 | 16–20% <br> 59–74 | 7–10% <br> 25–36 | 8–11% <br> 30–41 | 10–13% <br> 37–49 | 3–5% <br> 0–18 | 4–6% <br> 0–20 |
