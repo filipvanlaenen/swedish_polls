@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Mon, 29 Apr 2019 17:08:25 +0200</pubDate>
+    <pubDate>Mon, 29 Apr 2019 19:20:04 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 9–22 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-04-22-Ipsos.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-04-11-Sifo.png"
         length="190087"
         type="image/png"/>
-      <pubDate>Mon, 29 Apr 2019 14:50:35 +0200</pubDate>
-      <dc:date>2019-04-29T14:50:35.642513+02:00</dc:date>
+      <pubDate>Mon, 29 Apr 2019 19:20:04 +0200</pubDate>
+      <dc:date>2019-04-29T19:20:04.993899+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 4–10 April 2019 – Voting Intentions</title>
@@ -1139,6 +1139,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-04-29T17:08:25.679899+02:00</dc:date>
+    <dc:date>2019-04-29T19:20:04.993899+02:00</dc:date>
   </channel>
 </rss>
