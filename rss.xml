@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sat, 27 Apr 2019 18:37:42 +0200</pubDate>
+    <pubDate>Mon, 29 Apr 2019 17:08:25 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 9–22 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-04-22-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 90–108 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 51–67 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 56–71 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 24–36 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 31–43 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 38–52 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–18 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-04-22-Ipsos-seats.png"
+        length="224447"
+        type="image/png"/>
+      <pubDate>Mon, 29 Apr 2019 10:58:21 +0200</pubDate>
+      <dc:date>2019-04-29T10:58:21.847492+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 9–22 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-04-22-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-04-22-Ipsos-coalitions-seats.png"
+        length="417416"
+        type="image/png"/>
+      <pubDate>Mon, 29 Apr 2019 10:58:21 +0200</pubDate>
+      <dc:date>2019-04-29T10:58:21.847492+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 9–22 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-04-22-Ipsos.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-04-22-Ipsos.png"
         length="222619"
         type="image/png"/>
-      <pubDate>Sat, 27 Apr 2019 18:37:42 +0200</pubDate>
-      <dc:date>2019-04-27T18:37:42.267104+02:00</dc:date>
+      <pubDate>Mon, 29 Apr 2019 10:58:21 +0200</pubDate>
+      <dc:date>2019-04-29T10:58:21.847492+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 1–11 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-04-11-Sifo.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 26.4–28.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 15.2–16.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.1–19.8%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.0–8.1%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.1–9.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 11.5–12.9%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.0–3.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 4.2–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-04-11-Sifo.png"
+        length="190087"
+        type="image/png"/>
+      <pubDate>Mon, 29 Apr 2019 14:50:35 +0200</pubDate>
+      <dc:date>2019-04-29T14:50:35.642513+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 4–10 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-04-10-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.7–28.8%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 15.0–20.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 17.5–23.1%&lt;/li&gt;&lt;li&gt;Centerpartiet: 4.8–8.3%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.4–11.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 8.7–13.0%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.7–5.4%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.1–6.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-04-10-Sentio.png"
+        length="247993"
+        type="image/png"/>
+      <pubDate>Mon, 29 Apr 2019 17:08:25 +0200</pubDate>
+      <dc:date>2019-04-29T17:08:25.679899+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop for Expressen, 26 March–3 April 2019 – Seat Projections for the Parties</title>
@@ -1099,6 +1139,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-04-27T18:37:42.267104+02:00</dc:date>
+    <dc:date>2019-04-29T17:08:25.679899+02:00</dc:date>
   </channel>
 </rss>
