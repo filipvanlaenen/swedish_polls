@@ -82,10 +82,10 @@ Last result: **20** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–16 | 0–18 | 0–18 | 0–20 |
+| N/A | [Poll Average](average.html) | 0 | 0–16 | 0–17 | 0–18 | 0–20 |
 | [9–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 14 | 0–17 | 0–17 | 0–18 | 0–20 |
 | [1–11 April 2019](2019-04-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
-| [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–18 | 0–19 | 0–20 | 0–22 |
+| [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–17 | 0–18 | 0–19 | 0–21 |
 | [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 0 | 0–16 | 0–17 | 0–18 | 0–19 |
 | [4–31 March 2019](2019-03-31-Novus.html) | Novus <br> SVT | 0 | 0–15 | 0–16 | 0–16 | 0–17 |
 | [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0 | 0 | 0–15 |
@@ -153,15 +153,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 33% |  |
 | 12 | 0% | 33% |  |
 | 13 | 0% | 33% |  |
-| 14 | 1.3% | 33% |  |
-| 15 | 16% | 32% |  |
-| 16 | 6% | 16% |  |
-| 17 | 4% | 10% |  |
-| 18 | 3% | 5% |  |
-| 19 | 1.0% | 2% |  |
-| 20 | 0.4% | 0.7% | Last Result |
-| 21 | 0.1% | 0.3% |  |
-| 22 | 0.2% | 0.2% |  |
+| 14 | 2% | 33% |  |
+| 15 | 16% | 31% |  |
+| 16 | 5% | 15% |  |
+| 17 | 5% | 10% |  |
+| 18 | 3% | 4% |  |
+| 19 | 0.9% | 1.4% |  |
+| 20 | 0.4% | 0.6% | Last Result |
+| 21 | 0.1% | 0.2% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
 
