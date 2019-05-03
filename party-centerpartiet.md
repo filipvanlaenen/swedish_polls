@@ -10,7 +10,8 @@ Last result: **8.6%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.2% | 6.8–9.6% | 6.1–10.0% | 5.6–10.3% | 4.9–10.9% |
+| N/A | [Poll Average](average.html) | 8.2% | 6.8–9.7% | 6.1–10.1% | 5.6–10.4% | 4.9–11.0% |
+| [22–29 April 2019](2019-04-29-Inizio.html) | Inizio <br> Aftonbladet | 9.3% | 8.5–10.2% | 8.3–10.4% | 8.1–10.6% | 7.8–11.0% |
 | [9–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8.1% | 7.2–9.1% | 7.0–9.3% | 6.8–9.6% | 6.4–10.1% |
 | [1–11 April 2019](2019-04-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 7.5% | 7.1–7.9% | 7.0–8.0% | 7.0–8.1% | 6.8–8.3% |
 | [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 6.3% | 5.3–7.6% | 5.1–8.0% | 4.8–8.3% | 4.4–8.9% |
@@ -71,9 +72,9 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 6% | 98% |  |
 | 6.5–7.5% | 18% | 92% |  |
 | 7.5–8.5% | 36% | 74% | Median |
-| 8.5–9.5% | 27% | 38% | Last Result |
-| 9.5–10.5% | 9% | 11% |  |
-| 10.5–11.5% | 1.3% | 1.4% |  |
+| 8.5–9.5% | 25% | 38% | Last Result |
+| 9.5–10.5% | 11% | 13% |  |
+| 10.5–11.5% | 2% | 2% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
@@ -86,7 +87,8 @@ Last result: **31** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30 | 25–35 | 22–36 | 21–37 | 18–39 |
+| N/A | [Poll Average](average.html) | 30 | 25–35 | 22–35 | 21–37 | 18–38 |
+| [22–29 April 2019](2019-04-29-Inizio.html) | Inizio <br> Aftonbladet | 31 | 31 | 31 | 31 | 31–34 |
 | [9–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 30 | 26–33 | 25–35 | 24–36 | 23–37 |
 | [1–11 April 2019](2019-04-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 28 | 26–29 | 25–29 | 25–29 | 25–30 |
 | [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 24 | 20–28 | 19–30 | 18–31 | 16–33 |
@@ -158,16 +160,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 11% | 75% |  |
 | 29 | 8% | 64% |  |
 | 30 | 7% | 56% | Median |
-| 31 | 8% | 49% | Last Result |
-| 32 | 6% | 41% |  |
-| 33 | 9% | 34% |  |
-| 34 | 11% | 25% |  |
-| 35 | 9% | 14% |  |
+| 31 | 22% | 50% | Last Result |
+| 32 | 6% | 28% |  |
+| 33 | 6% | 22% |  |
+| 34 | 4% | 15% |  |
+| 35 | 6% | 11% |  |
 | 36 | 2% | 5% |  |
 | 37 | 2% | 3% |  |
-| 38 | 0.7% | 1.2% |  |
-| 39 | 0.3% | 0.5% |  |
-| 40 | 0.2% | 0.3% |  |
+| 38 | 0.6% | 1.1% |  |
+| 39 | 0.2% | 0.5% |  |
+| 40 | 0.1% | 0.2% |  |
 | 41 | 0% | 0.1% |  |
 | 42 | 0% | 0.1% |  |
 | 43 | 0% | 0% |  |
