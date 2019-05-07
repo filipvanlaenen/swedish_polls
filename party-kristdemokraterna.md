@@ -87,10 +87,10 @@ Last result: **22** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 42 | 36–46 | 35–47 | 34–49 | 31–52 |
+| N/A | [Poll Average](average.html) | 42 | 36–46 | 35–48 | 34–49 | 31–52 |
 | [22–29 April 2019](2019-04-29-Inizio.html) | Inizio <br> Aftonbladet | 42 | 39–46 | 38–47 | 37–48 | 35–49 |
 | [9–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 44 | 40–49 | 39–50 | 38–52 | 36–54 |
-| [1–11 April 2019](2019-04-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 44 | 43–47 | 43–47 | 42–47 | 42–48 |
+| [1–11 April 2019](2019-04-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 45 | 43–46 | 43–47 | 42–47 | 41–48 |
 | [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 39 | 34–45 | 33–46 | 31–48 | 29–51 |
 | [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 43 | 39–47 | 38–48 | 37–49 | 35–51 |
 | [4–31 March 2019](2019-03-31-Novus.html) | Novus <br> SVT | 40 | 37–43 | 36–44 | 36–44 | 35–46 |
@@ -154,21 +154,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 0% | 100% |  |
 | 29 | 0.1% | 100% |  |
 | 30 | 0.2% | 99.9% |  |
-| 31 | 0.3% | 99.7% |  |
-| 32 | 0.2% | 99.4% |  |
-| 33 | 2% | 99.1% |  |
+| 31 | 0.4% | 99.7% |  |
+| 32 | 0.4% | 99.3% |  |
+| 33 | 1.4% | 99.0% |  |
 | 34 | 2% | 98% |  |
 | 35 | 2% | 96% |  |
-| 36 | 4% | 94% |  |
+| 36 | 4% | 93% |  |
 | 37 | 5% | 90% |  |
 | 38 | 6% | 84% |  |
 | 39 | 8% | 78% |  |
-| 40 | 8% | 70% |  |
-| 41 | 11% | 61% |  |
-| 42 | 8% | 50% | Median |
-| 43 | 10% | 42% |  |
-| 44 | 10% | 33% |  |
-| 45 | 7% | 23% |  |
+| 40 | 9% | 70% |  |
+| 41 | 11% | 62% |  |
+| 42 | 8% | 51% | Median |
+| 43 | 9% | 42% |  |
+| 44 | 8% | 33% |  |
+| 45 | 10% | 25% |  |
 | 46 | 6% | 15% |  |
 | 47 | 4% | 9% |  |
 | 48 | 2% | 5% |  |
