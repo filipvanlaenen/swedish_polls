@@ -10,10 +10,10 @@ Last result: **8.6%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.5% | 6.6–9.9% | 6.0–10.3% | 5.5–10.5% | 4.9–11.1% |
+| N/A | [Poll Average](average.html) | 8.6% | 6.7–9.9% | 6.1–10.2% | 5.6–10.5% | 4.9–11.1% |
 | [10–15 May 2019](2019-05-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 7.6% | 7.0–8.3% | 6.8–8.5% | 6.7–8.6% | 6.4–9.0% |
 | [29 April–7 May 2019](2019-05-07-Demoskop.html) | Demoskop <br> Expressen | 9.1% | 8.2–10.1% | 8.0–10.3% | 7.8–10.6% | 7.4–11.1% |
-| [8 April–5 May 2019](2019-05-05-Novus.html) | Novus <br> SVT | 8.8% | N/A | N/A | N/A | N/A |
+| [8 April–5 May 2019](2019-05-05-Novus.html) | Novus <br> SVT | 8.8% | 8.2–9.5% | 8.0–9.7% | 7.9–9.8% | 7.6–10.1% |
 | [22–29 April 2019](2019-04-29-Inizio.html) | Inizio <br> Aftonbladet | 9.3% | 8.5–10.2% | 8.3–10.4% | 8.1–10.6% | 7.8–11.0% |
 | [9–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8.1% | 7.2–9.1% | 7.0–9.3% | 6.8–9.6% | 6.4–10.1% |
 | [1–11 April 2019](2019-04-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 7.5% | 7.1–7.9% | 7.0–8.0% | 7.0–8.1% | 6.8–8.3% |
@@ -70,13 +70,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.2% | 100% |  |
-| 4.5–5.5% | 2% | 99.8% |  |
-| 5.5–6.5% | 7% | 97% |  |
-| 6.5–7.5% | 16% | 90% |  |
-| 7.5–8.5% | 26% | 74% | Median |
-| 8.5–9.5% | 30% | 48% | Last Result |
-| 9.5–10.5% | 16% | 19% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 2% | 99.9% |  |
+| 5.5–6.5% | 6% | 98% |  |
+| 6.5–7.5% | 14% | 92% |  |
+| 7.5–8.5% | 26% | 78% |  |
+| 8.5–9.5% | 35% | 52% | Last Result, Median |
+| 9.5–10.5% | 15% | 17% |  |
 | 10.5–11.5% | 2% | 2% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
