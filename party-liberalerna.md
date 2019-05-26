@@ -86,10 +86,10 @@ Last result: **20** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 0–17 | 0–18 | 0–18 | 0–20 |
+| N/A | [Poll Average](average.html) | 0 | 0–17 | 0–18 | 0–18 | 0–20 |
 | [10–15 May 2019](2019-05-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 15 | 0–16 | 0–17 | 0–18 | 0–19 |
 | [29 April–7 May 2019](2019-05-07-Demoskop.html) | Demoskop <br> Expressen | 0 | 0 | 0–15 | 0–15 | 0–17 |
-| [8 April–5 May 2019](2019-05-05-Novus.html) | Novus <br> SVT |  |  |  |  |  |
+| [8 April–5 May 2019](2019-05-05-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0–15 |
 | [22–29 April 2019](2019-04-29-Inizio.html) | Inizio <br> Aftonbladet | 15 | 0–17 | 0–18 | 0–19 | 0–20 |
 | [9–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 14 | 0–17 | 0–17 | 0–18 | 0–20 |
 | [1–11 April 2019](2019-04-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
@@ -147,28 +147,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% |  |
-| 1 | 0% | 50% |  |
-| 2 | 0% | 50% |  |
-| 3 | 0% | 50% |  |
-| 4 | 0% | 50% |  |
-| 5 | 0% | 50% |  |
-| 6 | 0% | 50% |  |
-| 7 | 0% | 50% |  |
-| 8 | 0% | 50% |  |
-| 9 | 0% | 50% |  |
-| 10 | 0% | 50% |  |
-| 11 | 0% | 50% |  |
-| 12 | 0% | 50% |  |
-| 13 | 0% | 50% |  |
-| 14 | 3% | 50% | Median |
-| 15 | 21% | 47% |  |
-| 16 | 11% | 26% |  |
-| 17 | 8% | 15% |  |
-| 18 | 5% | 7% |  |
-| 19 | 1.4% | 2% |  |
-| 20 | 0.5% | 0.8% | Last Result |
-| 21 | 0.2% | 0.3% |  |
+| 0 | 57% | 100% | Median |
+| 1 | 0% | 43% |  |
+| 2 | 0% | 43% |  |
+| 3 | 0% | 43% |  |
+| 4 | 0% | 43% |  |
+| 5 | 0% | 43% |  |
+| 6 | 0% | 43% |  |
+| 7 | 0% | 43% |  |
+| 8 | 0% | 43% |  |
+| 9 | 0% | 43% |  |
+| 10 | 0% | 43% |  |
+| 11 | 0% | 43% |  |
+| 12 | 0% | 43% |  |
+| 13 | 0% | 43% |  |
+| 14 | 2% | 43% |  |
+| 15 | 18% | 41% |  |
+| 16 | 9% | 23% |  |
+| 17 | 7% | 13% |  |
+| 18 | 4% | 6% |  |
+| 19 | 1.2% | 2% |  |
+| 20 | 0.4% | 0.7% | Last Result |
+| 21 | 0.2% | 0.2% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
