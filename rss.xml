@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sun, 26 May 2019 09:11:40 +0200</pubDate>
+    <pubDate>Mon, 27 May 2019 22:31:07 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 10–15 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-05-15-Sifo.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-05-07-Demoskop.png"
         length="222937"
         type="image/png"/>
-      <pubDate>Tue, 21 May 2019 07:01:42 +0200</pubDate>
-      <dc:date>2019-05-21T07:01:42.42711+02:00</dc:date>
+      <pubDate>Mon, 27 May 2019 22:31:07 +0200</pubDate>
+      <dc:date>2019-05-27T22:31:07.627517+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 8 April–5 May 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-05-05-Novus.png"
         length="207002"
         type="image/png"/>
-      <pubDate>Sun, 26 May 2019 09:11:40 +0200</pubDate>
-      <dc:date>2019-05-26T09:11:40.576252+02:00</dc:date>
+      <pubDate>Mon, 27 May 2019 22:20:23 +0200</pubDate>
+      <dc:date>2019-05-27T22:20:23.338567+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 22–29 April 2019 – Seat Projections for the Parties</title>
@@ -1239,6 +1239,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-05-26T09:11:40.576252+02:00</dc:date>
+    <dc:date>2019-05-27T22:31:07.627517+02:00</dc:date>
   </channel>
 </rss>
