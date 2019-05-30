@@ -91,8 +91,8 @@ Last result: **16** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 0–33 | 0–36 | 0–37 | 0–40 |
-| [10–15 May 2019](2019-05-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 35 | 32–39 | 31–40 | 31–40 | 29–40 |
+| N/A | [Poll Average](average.html) | 15 | 0–33 | 0–35 | 0–36 | 0–39 |
+| [10–15 May 2019](2019-05-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 35 | 32–37 | 32–38 | 31–40 | 30–40 |
 | [29 April–7 May 2019](2019-05-07-Demoskop.html) | Demoskop <br> Expressen | 16 | 0–18 | 0–19 | 0–20 | 0–21 |
 | [8 April–5 May 2019](2019-05-05-Novus.html) | Novus <br> SVT | 16 | 15–19 | 0–19 | 0–19 | 0–20 |
 | [22–29 April 2019](2019-04-29-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–16 | 0–17 | 0–17 | 0–19 |
@@ -170,9 +170,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 13% | 61% | Median |
 | 16 | 12% | 48% | Last Result |
 | 17 | 11% | 36% |  |
-| 18 | 4% | 24% |  |
+| 18 | 5% | 25% |  |
 | 19 | 3% | 20% |  |
-| 20 | 1.3% | 17% |  |
+| 20 | 1.2% | 17% |  |
 | 21 | 0.7% | 15% |  |
 | 22 | 0.3% | 15% |  |
 | 23 | 0.1% | 15% |  |
@@ -181,18 +181,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 26 | 0% | 14% |  |
 | 27 | 0% | 14% |  |
 | 28 | 0% | 14% |  |
-| 29 | 0.1% | 14% |  |
-| 30 | 0.1% | 14% |  |
-| 31 | 0.7% | 14% |  |
-| 32 | 2% | 13% |  |
-| 33 | 3% | 11% |  |
-| 34 | 0.9% | 8% |  |
-| 35 | 1.4% | 7% |  |
-| 36 | 2% | 6% |  |
-| 37 | 2% | 4% |  |
-| 38 | 0.4% | 2% |  |
-| 39 | 0.5% | 1.5% |  |
-| 40 | 0.9% | 0.9% |  |
-| 41 | 0% | 0% |  |
+| 29 | 0% | 14% |  |
+| 30 | 0% | 14% |  |
+| 31 | 0.3% | 14% |  |
+| 32 | 2% | 14% |  |
+| 33 | 3% | 12% |  |
+| 34 | 1.1% | 9% |  |
+| 35 | 3% | 8% |  |
+| 36 | 2% | 5% |  |
+| 37 | 2% | 2% |  |
+| 38 | 0.2% | 0.9% |  |
+| 39 | 0.3% | 0.7% |  |
+| 40 | 0.4% | 0.4% |  |
+| 41 | 0% | 0.1% |  |
+| 42 | 0% | 0% |  |
 
 
