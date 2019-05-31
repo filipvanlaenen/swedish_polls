@@ -93,7 +93,7 @@ Last result: **31** seats (General Election of 9 September 2018)
 | N/A | [Poll Average](average.html) | 32 | 25–36 | 22–37 | 21–38 | 18–40 |
 | [10–15 May 2019](2019-05-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 28 | 25–30 | 25–31 | 24–32 | 23–33 |
 | [29 April–7 May 2019](2019-05-07-Demoskop.html) | Demoskop <br> Expressen | 33 | 30–37 | 29–38 | 29–39 | 27–41 |
-| [8 April–5 May 2019](2019-05-05-Novus.html) | Novus <br> SVT | 33 | 30–34 | 29–35 | 29–36 | 28–37 |
+| [8 April–5 May 2019](2019-05-05-Novus.html) | Novus <br> SVT | 32 | 30–35 | 29–35 | 29–36 | 28–37 |
 | [22–29 April 2019](2019-04-29-Inizio.html) | Inizio <br> Aftonbladet | 34 | 31–37 | 31–38 | 30–39 | 29–41 |
 | [9–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 30 | 26–33 | 25–35 | 24–36 | 23–37 |
 | [1–11 April 2019](2019-04-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 28 | 26–29 | 26–29 | 25–30 | 25–30 |
@@ -165,12 +165,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 5% | 83% |  |
 | 28 | 6% | 78% |  |
 | 29 | 6% | 72% |  |
-| 30 | 6% | 66% |  |
-| 31 | 8% | 60% | Last Result |
-| 32 | 8% | 52% | Median |
-| 33 | 12% | 44% |  |
-| 34 | 8% | 31% |  |
-| 35 | 11% | 23% |  |
+| 30 | 7% | 66% |  |
+| 31 | 9% | 59% | Last Result |
+| 32 | 8% | 50% | Median |
+| 33 | 10% | 42% |  |
+| 34 | 8% | 32% |  |
+| 35 | 12% | 24% |  |
 | 36 | 5% | 12% |  |
 | 37 | 4% | 7% |  |
 | 38 | 2% | 3% |  |

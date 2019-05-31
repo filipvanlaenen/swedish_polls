@@ -94,10 +94,10 @@ Last result: **100** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 97 | 81–105 | 78–108 | 77–111 | 74–115 |
+| N/A | [Poll Average](average.html) | 96 | 81–105 | 78–108 | 77–111 | 74–115 |
 | [10–15 May 2019](2019-05-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 80 | 76–84 | 75–85 | 74–87 | 72–88 |
 | [29 April–7 May 2019](2019-05-07-Demoskop.html) | Demoskop <br> Expressen | 98 | 92–104 | 91–106 | 90–107 | 87–111 |
-| [8 April–5 May 2019](2019-05-05-Novus.html) | Novus <br> SVT | 98 | 93–100 | 92–101 | 91–102 | 89–104 |
+| [8 April–5 May 2019](2019-05-05-Novus.html) | Novus <br> SVT | 97 | 93–101 | 92–102 | 91–102 | 89–105 |
 | [22–29 April 2019](2019-04-29-Inizio.html) | Inizio <br> Aftonbladet | 94 | 88–100 | 87–102 | 86–103 | 83–105 |
 | [9–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 98 | 92–105 | 91–106 | 90–108 | 88–113 |
 | [1–11 April 2019](2019-04-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 100 | 98–102 | 97–103 | 97–104 | 95–105 |
@@ -179,17 +179,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 92 | 4% | 73% |  |
 | 93 | 3% | 69% |  |
 | 94 | 5% | 66% |  |
-| 95 | 6% | 61% |  |
-| 96 | 4% | 55% |  |
-| 97 | 6% | 51% | Median |
-| 98 | 11% | 44% |  |
+| 95 | 7% | 60% |  |
+| 96 | 5% | 54% | Median |
+| 97 | 6% | 49% |  |
+| 98 | 8% | 42% |  |
 | 99 | 5% | 34% |  |
-| 100 | 5% | 29% | Last Result |
-| 101 | 3% | 24% |  |
-| 102 | 5% | 21% |  |
+| 100 | 4% | 29% | Last Result |
+| 101 | 3% | 25% |  |
+| 102 | 5% | 22% |  |
 | 103 | 2% | 16% |  |
-| 104 | 2% | 14% |  |
-| 105 | 3% | 11% |  |
+| 104 | 3% | 14% |  |
+| 105 | 3% | 12% |  |
 | 106 | 2% | 9% |  |
 | 107 | 2% | 7% |  |
 | 108 | 1.0% | 5% |  |
