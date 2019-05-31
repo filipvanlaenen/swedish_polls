@@ -87,9 +87,9 @@ Last result: **20** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–17 | 0–18 | 0–18 | 0–20 |
-| [10–15 May 2019](2019-05-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 15 | 0–17 | 0–17 | 0–17 | 0–18 |
+| [10–15 May 2019](2019-05-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 15 | 0–16 | 0–17 | 0–17 | 0–18 |
 | [29 April–7 May 2019](2019-05-07-Demoskop.html) | Demoskop <br> Expressen | 0 | 0 | 0 | 0–14 | 0–16 |
-| [8 April–5 May 2019](2019-05-05-Novus.html) | Novus <br> SVT | 0 | 0 | 0–14 | 0–14 | 0–16 |
+| [8 April–5 May 2019](2019-05-05-Novus.html) | Novus <br> SVT | 0 | 0 | 0–14 | 0–15 | 0–16 |
 | [22–29 April 2019](2019-04-29-Inizio.html) | Inizio <br> Aftonbladet | 15 | 0–17 | 0–18 | 0–19 | 0–20 |
 | [9–22 April 2019](2019-04-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 14 | 0–17 | 0–17 | 0–18 | 0–20 |
 | [1–11 April 2019](2019-04-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
@@ -147,23 +147,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 55% | 100% | Median |
-| 1 | 0% | 45% |  |
-| 2 | 0% | 45% |  |
-| 3 | 0% | 45% |  |
-| 4 | 0% | 45% |  |
-| 5 | 0% | 45% |  |
-| 6 | 0% | 45% |  |
-| 7 | 0% | 45% |  |
-| 8 | 0% | 45% |  |
-| 9 | 0% | 45% |  |
-| 10 | 0% | 45% |  |
-| 11 | 0% | 45% |  |
-| 12 | 0% | 45% |  |
-| 13 | 0% | 45% |  |
-| 14 | 3% | 45% |  |
-| 15 | 21% | 42% |  |
-| 16 | 8% | 21% |  |
+| 0 | 56% | 100% | Median |
+| 1 | 0% | 44% |  |
+| 2 | 0% | 44% |  |
+| 3 | 0% | 44% |  |
+| 4 | 0% | 44% |  |
+| 5 | 0% | 44% |  |
+| 6 | 0% | 44% |  |
+| 7 | 0% | 44% |  |
+| 8 | 0% | 44% |  |
+| 9 | 0% | 44% |  |
+| 10 | 0% | 44% |  |
+| 11 | 0% | 44% |  |
+| 12 | 0% | 44% |  |
+| 13 | 0% | 44% |  |
+| 14 | 2% | 44% |  |
+| 15 | 20% | 42% |  |
+| 16 | 8% | 22% |  |
 | 17 | 7% | 13% |  |
 | 18 | 4% | 6% |  |
 | 19 | 1.1% | 2% |  |
