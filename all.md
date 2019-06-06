@@ -5,6 +5,11 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
+| [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [17–21 May 2019](2019-05-21-Sentio.html) | Sentio <br> Nyheter Idag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [6–21 May 2019](2019-05-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [6–16 May 2019](2019-05-16-Sifo.html) | Sifo | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [10–15 May 2019](2019-05-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 20–23% <br> 74–87 | 12–15% <br> 44–54 | 18–21% <br> 67–78 | 7–9% <br> 24–32 | 8–11% <br> 31–39 | 10–12% <br> 37–46 | 3–5% <br> 0–17 | 9–11% <br> 31–40 |
 | [29 April–7 May 2019](2019-05-07-Demoskop.html) | Demoskop <br> Expressen | 24–29% <br> 90–107 | 14–18% <br> 51–65 | 17–21% <br> 64–78 | 8–11% <br> 29–39 | 7–10% <br> 28–38 | 10–13% <br> 37–49 | 2–4% <br> 0–14 | 3–5% <br> 0–20 |
 | [8 April–5 May 2019](2019-05-05-Novus.html) | Novus <br> SVT | 25–28% <br> 91–102 | 17–19% <br> 61–71 | 17–19% <br> 60–70 | 8–10% <br> 29–36 | 8–10% <br> 29–36 | 10–12% <br> 35–43 | 3–4% <br> 0–15 | 4–5% <br> 0–20 |
