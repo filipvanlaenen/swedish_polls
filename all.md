@@ -5,9 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
-| [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [17–21 May 2019](2019-05-21-Sentio.html) | Sentio <br> Nyheter Idag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 27–29% <br> 95–105 | 15–17% <br> 55–62 | 16–18% <br> 59–67 | 6–7% <br> 23–27 | 8–9% <br> 29–34 | 12–14% <br> 44–50 | 3–4% <br> 0–15 | 5–6% <br> 19–23 |
+| [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 24–28% <br> 89–105 | 17–20% <br> 61–74 | 17–20% <br> 61–77 | 9–11% <br> 33–43 | 7–10% <br> 26–36 | 8–10% <br> 29–38 | 2–4% <br> 0 | 4–5% <br> 0–19 |
+| [17–21 May 2019](2019-05-21-Sentio.html) | Sentio <br> Nyheter Idag | 22–28% <br> 79–107 | 13–18% <br> 49–66 | 19–24% <br> 67–89 | 5–8% <br> 19–33 | 8–12% <br> 31–45 | 9–12% <br> 32–47 | 2–5% <br> 0–16 | 4–6% <br> 0–24 |
 | [6–21 May 2019](2019-05-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–16 May 2019](2019-05-16-Sifo.html) | Sifo | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [10–15 May 2019](2019-05-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 20–23% <br> 74–87 | 12–15% <br> 44–54 | 18–21% <br> 67–78 | 7–9% <br> 24–32 | 8–11% <br> 31–39 | 10–12% <br> 37–46 | 3–5% <br> 0–17 | 9–11% <br> 31–40 |
