@@ -92,10 +92,10 @@ Last result: **20** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–15 | 0–16 | 0–17 | 0–18 |
-| [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 0 | 0–14 | 0–14 | 0–15 | 0–15 |
+| [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 0 | 0 | 0–14 | 0–15 | 0–15 |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0 | 0 | 0–14 |
-| [17–21 May 2019](2019-05-21-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–15 | 0–16 | 0–17 | 0–19 |
-| [6–21 May 2019](2019-05-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 15 | 15–16 | 15–16 | 15–16 | 0–16 |
+| [17–21 May 2019](2019-05-21-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–15 | 0–16 | 0–17 | 0–18 |
+| [6–21 May 2019](2019-05-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 15 | 15–16 | 15–16 | 0–16 | 0–17 |
 | [6–16 May 2019](2019-05-16-Sifo.html) | Sifo | 0 | 0 | 0–14 | 0–15 | 0–15 |
 | [10–15 May 2019](2019-05-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 15 | 0–16 | 0–17 | 0–17 | 0–18 |
 | [29 April–7 May 2019](2019-05-07-Demoskop.html) | Demoskop <br> Expressen | 0 | 0 | 0 | 0–14 | 0–16 |
@@ -172,9 +172,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 26% |  |
 | 13 | 0% | 26% |  |
 | 14 | 2% | 26% |  |
-| 15 | 15% | 25% |  |
+| 15 | 15% | 24% |  |
 | 16 | 6% | 9% |  |
-| 17 | 1.1% | 3% |  |
+| 17 | 1.2% | 3% |  |
 | 18 | 2% | 2% |  |
 | 19 | 0.3% | 0.5% |  |
 | 20 | 0.1% | 0.2% | Last Result |
