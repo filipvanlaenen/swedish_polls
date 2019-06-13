@@ -95,7 +95,7 @@ Last result: **70** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 60 | 55–68 | 54–70 | 52–71 | 49–74 |
+| N/A | [Poll Average](average.html) | 60 | 55–69 | 54–70 | 52–72 | 49–74 |
 | [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 59 | 57–61 | 56–61 | 56–62 | 54–62 |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 68 | 63–72 | 62–73 | 61–74 | 59–77 |
 | [17–21 May 2019](2019-05-21-Sentio.html) | Sentio <br> Nyheter Idag | 57 | 51–63 | 50–64 | 49–67 | 46–70 |
@@ -110,10 +110,10 @@ Last result: **70** seats (General Election of 9 September 2018)
 | [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 64 | 58–71 | 55–73 | 54–75 | 52–79 |
 | [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 60 | 56–66 | 55–67 | 54–68 | 52–71 |
 | [4–31 March 2019](2019-03-31-Novus.html) | Novus <br> SVT | 66 | 62–70 | 62–70 | 61–71 | 59–73 |
-| [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 61 | 57–65 | 56–65 | 55–66 | 55–68 |
+| [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 61 | 58–65 | 56–66 | 56–67 | 54–68 |
 | [22–27 March 2019](2019-03-27-Sentio.html) | Sentio <br> Nyheter Idag | 65 | 59–72 | 58–74 | 57–75 | 54–78 |
-| [7–27 March 2019](2019-03-27-SKOP.html) | SKOP | 67 | 62–70 | 61–72 | 59–73 | 57–75 |
-| [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 68 | 62–72 | 60–72 | 60–74 | 58–75 |
+| [7–27 March 2019](2019-03-27-SKOP.html) | SKOP | 66 | 61–71 | 60–72 | 59–73 | 57–76 |
+| [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 66 | 60–72 | 59–72 | 58–74 | 56–77 |
 | [3–14 March 2019](2019-03-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 67 | 64–68 | 63–68 | 62–69 | 61–70 |
 | [26 February–5 March 2019](2019-03-05-Demoskop.html) | Demoskop <br> Expressen | 69 | 64–73 | 62–73 | 61–76 | 58–78 |
 | [4 February–3 March 2019](2019-03-03-Novus.html) | Novus <br> SVT | 69 | 65–72 | 63–74 | 62–74 | 60–76 |
@@ -173,12 +173,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 5% | 93% |  |
 | 56 | 5% | 88% |  |
 | 57 | 8% | 83% |  |
-| 58 | 10% | 75% |  |
-| 59 | 9% | 65% |  |
+| 58 | 11% | 75% |  |
+| 59 | 9% | 64% |  |
 | 60 | 8% | 55% | Median |
 | 61 | 6% | 48% |  |
 | 62 | 4% | 42% |  |
-| 63 | 4% | 38% |  |
+| 63 | 4% | 37% |  |
 | 64 | 5% | 34% |  |
 | 65 | 5% | 29% |  |
 | 66 | 4% | 24% |  |
@@ -187,8 +187,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 69 | 3% | 10% |  |
 | 70 | 3% | 7% | Last Result |
 | 71 | 2% | 4% |  |
-| 72 | 1.1% | 2% |  |
-| 73 | 0.5% | 1.3% |  |
+| 72 | 1.2% | 3% |  |
+| 73 | 0.5% | 1.4% |  |
 | 74 | 0.4% | 0.8% |  |
 | 75 | 0.2% | 0.4% |  |
 | 76 | 0.1% | 0.2% |  |

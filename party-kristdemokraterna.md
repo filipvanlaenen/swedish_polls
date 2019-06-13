@@ -109,10 +109,10 @@ Last result: **22** seats (General Election of 9 September 2018)
 | [4–10 April 2019](2019-04-10-Sentio.html) | Sentio <br> Nyheter Idag | 39 | 34–45 | 33–46 | 31–48 | 29–51 |
 | [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 43 | 39–47 | 38–48 | 37–49 | 35–51 |
 | [4–31 March 2019](2019-03-31-Novus.html) | Novus <br> SVT | 40 | 37–43 | 36–44 | 36–44 | 35–46 |
-| [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 45 | 42–47 | 41–49 | 40–49 | 39–51 |
+| [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 44 | 42–47 | 41–49 | 40–49 | 39–51 |
 | [22–27 March 2019](2019-03-27-Sentio.html) | Sentio <br> Nyheter Idag | 47 | 43–53 | 42–55 | 40–56 | 38–60 |
-| [7–27 March 2019](2019-03-27-SKOP.html) | SKOP | 37 | 33–41 | 33–43 | 31–43 | 30–45 |
-| [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 33 | 30–38 | 29–39 | 28–39 | 26–40 |
+| [7–27 March 2019](2019-03-27-SKOP.html) | SKOP | 37 | 33–41 | 32–42 | 31–43 | 30–45 |
+| [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 33 | 30–37 | 29–39 | 28–39 | 26–41 |
 | [3–14 March 2019](2019-03-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 36 | 34–37 | 33–37 | 33–38 | 32–39 |
 | [26 February–5 March 2019](2019-03-05-Demoskop.html) | Demoskop <br> Expressen | 39 | 37–41 | 36–43 | 35–44 | 33–48 |
 | [4 February–3 March 2019](2019-03-03-Novus.html) | Novus <br> SVT | 33 | 30–33 | 29–34 | 29–35 | 28–37 |
@@ -169,14 +169,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 0.1% | 99.9% |  |
 | 29 | 0.5% | 99.8% |  |
 | 30 | 0.8% | 99.3% |  |
-| 31 | 2% | 98.6% |  |
+| 31 | 2% | 98.5% |  |
 | 32 | 3% | 97% |  |
 | 33 | 4% | 94% |  |
-| 34 | 4% | 90% |  |
+| 34 | 4% | 91% |  |
 | 35 | 4% | 87% |  |
 | 36 | 5% | 83% |  |
 | 37 | 5% | 78% |  |
-| 38 | 5% | 73% |  |
+| 38 | 6% | 73% |  |
 | 39 | 6% | 67% |  |
 | 40 | 7% | 61% |  |
 | 41 | 6% | 54% | Median |
