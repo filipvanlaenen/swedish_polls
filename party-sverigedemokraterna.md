@@ -98,7 +98,7 @@ Last result: **62** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 66 | 60–76 | 58–79 | 56–82 | 54–87 |
+| N/A | [Poll Average](average.html) | 66 | 60–76 | 58–79 | 57–82 | 54–87 |
 | [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 63 | 60–65 | 60–65 | 59–66 | 58–67 |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 68 | 64–73 | 63–74 | 62–75 | 60–77 |
 | [17–21 May 2019](2019-05-21-Sentio.html) | Sentio <br> Nyheter Idag | 77 | 71–84 | 69–86 | 68–88 | 65–92 |
@@ -114,8 +114,8 @@ Last result: **62** seats (General Election of 9 September 2018)
 | [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 65 | 61–71 | 60–72 | 59–74 | 56–76 |
 | [4–31 March 2019](2019-03-31-Novus.html) | Novus <br> SVT | 69 | 65–72 | 64–73 | 63–74 | 61–75 |
 | [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 67 | 65–71 | 65–71 | 63–72 | 62–74 |
-| [22–27 March 2019](2019-03-27-Sentio.html) | Sentio <br> Nyheter Idag | 74 | 64–80 | 63–81 | 63–82 | 61–84 |
-| [7–27 March 2019](2019-03-27-SKOP.html) | SKOP | 61 | 55–66 | 54–68 | 53–70 | 52–71 |
+| [22–27 March 2019](2019-03-27-Sentio.html) | Sentio <br> Nyheter Idag | 72 | 66–79 | 64–81 | 62–83 | 60–86 |
+| [7–27 March 2019](2019-03-27-SKOP.html) | SKOP | 61 | 56–67 | 55–68 | 54–68 | 52–71 |
 | [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 70 | 66–76 | 64–76 | 63–78 | 61–83 |
 | [3–14 March 2019](2019-03-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 73 | 69–75 | 68–75 | 68–75 | 66–76 |
 | [26 February–5 March 2019](2019-03-05-Demoskop.html) | Demoskop <br> Expressen | 71 | 69–77 | 67–78 | 66–80 | 63–82 |
@@ -164,26 +164,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 52 | 0.2% | 100% |  |
+| 51 | 0% | 100% |  |
+| 52 | 0.1% | 99.9% |  |
 | 53 | 0.2% | 99.8% |  |
-| 54 | 0.9% | 99.6% |  |
-| 55 | 0.7% | 98.8% |  |
-| 56 | 1.1% | 98% |  |
-| 57 | 1.0% | 97% |  |
+| 54 | 0.4% | 99.6% |  |
+| 55 | 0.5% | 99.3% |  |
+| 56 | 1.0% | 98.8% |  |
+| 57 | 2% | 98% |  |
 | 58 | 3% | 96% |  |
-| 59 | 2% | 93% |  |
-| 60 | 3% | 91% |  |
-| 61 | 5% | 88% |  |
-| 62 | 6% | 82% | Last Result |
-| 63 | 8% | 76% |  |
+| 59 | 2% | 94% |  |
+| 60 | 4% | 91% |  |
+| 61 | 5% | 87% |  |
+| 62 | 5% | 82% | Last Result |
+| 63 | 9% | 77% |  |
 | 64 | 8% | 68% |  |
-| 65 | 7% | 60% |  |
-| 66 | 7% | 53% | Median |
-| 67 | 7% | 45% |  |
+| 65 | 8% | 60% |  |
+| 66 | 7% | 52% | Median |
+| 67 | 7% | 46% |  |
 | 68 | 7% | 38% |  |
-| 69 | 5% | 32% |  |
+| 69 | 5% | 31% |  |
 | 70 | 5% | 26% |  |
-| 71 | 4% | 22% |  |
+| 71 | 3% | 22% |  |
 | 72 | 3% | 18% |  |
 | 73 | 2% | 16% |  |
 | 74 | 2% | 14% |  |

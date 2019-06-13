@@ -94,7 +94,7 @@ Last result: **31** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32 | 25–37 | 24–38 | 23–40 | 20–42 |
+| N/A | [Poll Average](average.html) | 32 | 25–37 | 24–39 | 23–40 | 20–42 |
 | [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 25 | 24–27 | 23–27 | 23–27 | 23–28 |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 37 | 34–41 | 33–42 | 33–43 | 31–44 |
 | [17–21 May 2019](2019-05-21-Sentio.html) | Sentio <br> Nyheter Idag | 26 | 22–30 | 21–31 | 19–32 | 18–33 |
@@ -110,8 +110,8 @@ Last result: **31** seats (General Election of 9 September 2018)
 | [26 March–3 April 2019](2019-04-03-Demoskop.html) | Demoskop <br> Expressen | 30 | 27–34 | 26–35 | 25–36 | 24–37 |
 | [4–31 March 2019](2019-03-31-Novus.html) | Novus <br> SVT | 31 | 28–33 | 28–34 | 27–35 | 26–36 |
 | [23–28 March 2019](2019-03-28-Inizio.html) | Inizio <br> Aftonbladet | 34 | 33–35 | 31–35 | 30–36 | 28–39 |
-| [22–27 March 2019](2019-03-27-Sentio.html) | Sentio <br> Nyheter Idag | 22 | 19–26 | 18–28 | 18–29 | 16–32 |
-| [7–27 March 2019](2019-03-27-SKOP.html) | SKOP | 35 | 33–37 | 32–38 | 32–39 | 30–41 |
+| [22–27 March 2019](2019-03-27-Sentio.html) | Sentio <br> Nyheter Idag | 23 | 19–27 | 19–28 | 18–29 | 16–31 |
+| [7–27 March 2019](2019-03-27-SKOP.html) | SKOP | 36 | 33–38 | 32–39 | 31–40 | 29–41 |
 | [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 30 | 27–33 | 26–34 | 25–35 | 23–37 |
 | [3–14 March 2019](2019-03-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 32 | 30–33 | 29–34 | 29–34 | 28–34 |
 | [26 February–5 March 2019](2019-03-05-Demoskop.html) | Demoskop <br> Expressen | 28 | 25–30 | 24–32 | 23–32 | 22–35 |
@@ -175,15 +175,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 8% | 70% |  |
 | 31 | 10% | 62% | Last Result |
 | 32 | 7% | 52% | Median |
-| 33 | 9% | 45% |  |
-| 34 | 8% | 36% |  |
-| 35 | 10% | 28% |  |
-| 36 | 5% | 18% |  |
-| 37 | 5% | 13% |  |
-| 38 | 4% | 8% |  |
-| 39 | 2% | 5% |  |
-| 40 | 1.4% | 3% |  |
-| 41 | 0.8% | 2% |  |
+| 33 | 8% | 45% |  |
+| 34 | 8% | 37% |  |
+| 35 | 8% | 29% |  |
+| 36 | 5% | 21% |  |
+| 37 | 6% | 16% |  |
+| 38 | 4% | 10% |  |
+| 39 | 2% | 6% |  |
+| 40 | 2% | 4% |  |
+| 41 | 0.9% | 2% |  |
 | 42 | 0.6% | 1.1% |  |
 | 43 | 0.3% | 0.5% |  |
 | 44 | 0.1% | 0.2% |  |
