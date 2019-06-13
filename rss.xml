@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Thu, 13 Jun 2019 15:45:18 +0200</pubDate>
+    <pubDate>Thu, 13 Jun 2019 19:59:56 +0200</pubDate>
     <item>
       <title>Opinion Poll by SCB, 29 April–28 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-05-28-SCB.html#seats</link>
@@ -414,10 +414,10 @@
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-03-28-Inizio.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 25.0–28.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 15.2–17.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 16.9–19.7%&lt;/li&gt;&lt;li&gt;Centerpartiet: 8.1–10.2%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.7–9.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 11.0–13.3%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.7–4.0%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.5–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-03-28-Inizio.png"
-        length="209322"
+        length="209323"
         type="image/png"/>
-      <pubDate>Thu, 04 Apr 2019 09:05:31 +0200</pubDate>
-      <dc:date>2019-04-04T09:05:31.351862+02:00</dc:date>
+      <pubDate>Thu, 13 Jun 2019 19:59:56 +0200</pubDate>
+      <dc:date>2019-06-13T19:59:56.955525+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 22–27 March 2019 – Seat Projections for the Parties</title>
@@ -450,24 +450,64 @@
       <dc:date>2019-06-13T15:02:51.920304+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by SKOP, 7–27 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-03-27-SKOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 97–116 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 59–73 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 54–69 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 30–41 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 28–38 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 31–43 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–19 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-03-27-SKOP-seats.png"
+        length="202037"
+        type="image/png"/>
+      <pubDate>Thu, 13 Jun 2019 16:50:21 +0200</pubDate>
+      <dc:date>2019-06-13T16:50:21.063281+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 7–27 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-03-27-SKOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-03-27-SKOP-coalitions-seats.png"
+        length="376203"
+        type="image/png"/>
+      <pubDate>Thu, 13 Jun 2019 16:50:21 +0200</pubDate>
+      <dc:date>2019-06-13T16:50:21.063281+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SKOP, 7–27 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-03-27-SKOP.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 26.4–31.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.2–20.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 14.7–18.5%&lt;/li&gt;&lt;li&gt;Centerpartiet: 8.1–11.1%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.5–10.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 8.6–11.7%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.3–5.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.3–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-03-27-SKOP.png"
         length="220794"
         type="image/png"/>
-      <pubDate>Thu, 13 Jun 2019 15:45:18 +0200</pubDate>
-      <dc:date>2019-06-13T15:45:18.952814+02:00</dc:date>
+      <pubDate>Thu, 13 Jun 2019 16:50:21 +0200</pubDate>
+      <dc:date>2019-06-13T16:50:21.063281+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–25 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-03-25-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 89–109 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 58–74 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 62–78 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 24–35 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 31–42 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 28–39 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–19 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-03-25-Ipsos-seats.png"
+        length="210816"
+        type="image/png"/>
+      <pubDate>Thu, 13 Jun 2019 19:16:57 +0200</pubDate>
+      <dc:date>2019-06-13T19:16:57.217497+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–25 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-03-25-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-03-25-Ipsos-coalitions-seats.png"
+        length="418729"
+        type="image/png"/>
+      <pubDate>Thu, 13 Jun 2019 19:16:57 +0200</pubDate>
+      <dc:date>2019-06-13T19:16:57.217497+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–25 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-03-25-Ipsos.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 24.8–29.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.1–20.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 17.1–21.1%&lt;/li&gt;&lt;li&gt;Centerpartiet: 6.7–9.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.6–11.6%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 7.7–10.6%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.1–5.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.1–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-03-25-Ipsos.png"
-        length="222308"
+        length="222399"
         type="image/png"/>
-      <pubDate>Thu, 28 Mar 2019 21:46:31 +0100</pubDate>
-      <dc:date>2019-03-28T21:46:31.307035+01:00</dc:date>
+      <pubDate>Thu, 13 Jun 2019 19:16:57 +0200</pubDate>
+      <dc:date>2019-06-13T19:16:57.217497+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 3–14 March 2019 – Voting Intentions</title>
@@ -1469,6 +1509,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-06-13T15:45:18.952814+02:00</dc:date>
+    <dc:date>2019-06-13T19:59:56.955525+02:00</dc:date>
   </channel>
 </rss>
