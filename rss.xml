@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Thu, 13 Jun 2019 19:59:56 +0200</pubDate>
+    <pubDate>Fri, 14 Jun 2019 18:05:56 +0200</pubDate>
     <item>
       <title>Opinion Poll by SCB, 29 April–28 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-05-28-SCB.html#seats</link>
@@ -400,14 +400,54 @@
       <dc:date>2019-04-08T12:49:15.311612+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Novus for SVT, 4–31 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-03-31-Novus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 96–109 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 61–72 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 63–74 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 27–35 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 33–41 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 36–44 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–16 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-03-31-Novus-seats.png"
+        length="175375"
+        type="image/png"/>
+      <pubDate>Fri, 14 Jun 2019 18:05:56 +0200</pubDate>
+      <dc:date>2019-06-14T18:05:56.350896+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 4–31 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-03-31-Novus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-03-31-Novus-coalitions-seats.png"
+        length="349837"
+        type="image/png"/>
+      <pubDate>Fri, 14 Jun 2019 18:05:56 +0200</pubDate>
+      <dc:date>2019-06-14T18:05:56.350896+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Novus for SVT, 4–31 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-03-31-Novus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 25.8–28.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.3–18.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 16.9–19.4%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.4–9.1%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.8–10.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 9.6–11.6%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.1–4.4%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.9–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-03-31-Novus.png"
-        length="203309"
+        length="203321"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 20:23:08 +0200</pubDate>
-      <dc:date>2019-04-06T20:23:08.377763+02:00</dc:date>
+      <pubDate>Fri, 14 Jun 2019 18:05:56 +0200</pubDate>
+      <dc:date>2019-06-14T18:05:56.350896+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 23–28 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-03-28-Inizio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 91–105 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 56–67 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 62–73 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 30–38 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 28–36 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 40–49 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-03-28-Inizio-seats.png"
+        length="192962"
+        type="image/png"/>
+      <pubDate>Thu, 13 Jun 2019 21:04:45 +0200</pubDate>
+      <dc:date>2019-06-13T21:04:45.645103+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 23–28 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-03-28-Inizio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-03-28-Inizio-coalitions-seats.png"
+        length="356093"
+        type="image/png"/>
+      <pubDate>Thu, 13 Jun 2019 21:04:45 +0200</pubDate>
+      <dc:date>2019-06-13T21:04:45.645103+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 23–28 March 2019 – Voting Intentions</title>
@@ -416,8 +456,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-03-28-Inizio.png"
         length="209323"
         type="image/png"/>
-      <pubDate>Thu, 13 Jun 2019 19:59:56 +0200</pubDate>
-      <dc:date>2019-06-13T19:59:56.955525+02:00</dc:date>
+      <pubDate>Thu, 13 Jun 2019 21:04:45 +0200</pubDate>
+      <dc:date>2019-06-13T21:04:45.645103+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 22–27 March 2019 – Seat Projections for the Parties</title>
@@ -1509,6 +1549,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-06-13T19:59:56.955525+02:00</dc:date>
+    <dc:date>2019-06-14T18:05:56.350896+02:00</dc:date>
   </channel>
 </rss>
