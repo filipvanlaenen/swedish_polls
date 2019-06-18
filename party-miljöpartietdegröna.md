@@ -10,7 +10,8 @@ Last result: **4.4%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 3.4–5.6% | 3.0–5.8% | 2.8–6.0% | 2.4–6.2% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.4–5.6% | 3.0–5.8% | 2.8–6.0% | 2.4–6.2% |
+| [3–13 June 2019](2019-06-13-Sifo.html) | Sifo | 4.9% | 4.6–5.2% | 4.5–5.3% | 4.5–5.4% | 4.3–5.5% |
 | [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 5.7% | 5.4–6.0% | 5.3–6.1% | 5.2–6.2% | 5.1–6.4% |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 4.4% | 3.9–5.1% | 3.7–5.2% | 3.6–5.4% | 3.4–5.7% |
 | [17–21 May 2019](2019-05-21-Sentio.html) | Sentio <br> Nyheter Idag | 4.7% | 3.9–5.6% | 3.7–5.9% | 3.5–6.2% | 3.2–6.7% |
@@ -77,8 +78,8 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.9% | 100% |  |
 | 2.5–3.5% | 12% | 99.1% |  |
-| 3.5–4.5% | 44% | 87% | Last Result, Median |
-| 4.5–5.5% | 32% | 43% |  |
+| 3.5–4.5% | 37% | 87% | Last Result |
+| 4.5–5.5% | 39% | 50% | Median |
 | 5.5–6.5% | 11% | 11% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -92,7 +93,8 @@ Last result: **16** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 0–21 | 0–21 | 0–22 | 0–23 |
+| N/A | [Poll Average](average.html) | 17 | 0–21 | 0–21 | 0–22 | 0–23 |
+| [3–13 June 2019](2019-06-13-Sifo.html) | Sifo | 18 | 17–19 | 17–19 | 16–19 | 16–19 |
 | [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 21 | 20–22 | 19–22 | 19–23 | 19–23 |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 16 | 0–19 | 0–19 | 0–20 | 0–21 |
 | [17–21 May 2019](2019-05-21-Sentio.html) | Sentio <br> Nyheter Idag | 18 | 0–21 | 0–22 | 0–23 | 0–25 |
@@ -158,26 +160,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 25% | 100% |  |
-| 1 | 0% | 75% |  |
-| 2 | 0% | 75% |  |
-| 3 | 0% | 75% |  |
-| 4 | 0% | 75% |  |
-| 5 | 0% | 75% |  |
-| 6 | 0% | 75% |  |
-| 7 | 0% | 75% |  |
-| 8 | 0% | 75% |  |
-| 9 | 0% | 75% |  |
-| 10 | 0% | 75% |  |
-| 11 | 0% | 75% |  |
-| 12 | 0% | 75% |  |
-| 13 | 0% | 75% |  |
-| 14 | 2% | 75% |  |
-| 15 | 11% | 74% |  |
-| 16 | 16% | 62% | Last Result, Median |
-| 17 | 17% | 47% |  |
-| 18 | 9% | 30% |  |
-| 19 | 5% | 21% |  |
+| 0 | 24% | 100% |  |
+| 1 | 0% | 76% |  |
+| 2 | 0% | 76% |  |
+| 3 | 0% | 76% |  |
+| 4 | 0% | 76% |  |
+| 5 | 0% | 76% |  |
+| 6 | 0% | 76% |  |
+| 7 | 0% | 76% |  |
+| 8 | 0% | 76% |  |
+| 9 | 0% | 76% |  |
+| 10 | 0% | 76% |  |
+| 11 | 0% | 76% |  |
+| 12 | 0% | 76% |  |
+| 13 | 0% | 76% |  |
+| 14 | 2% | 76% |  |
+| 15 | 10% | 74% |  |
+| 16 | 11% | 64% | Last Result |
+| 17 | 16% | 52% | Median |
+| 18 | 10% | 36% |  |
+| 19 | 11% | 27% |  |
 | 20 | 5% | 16% |  |
 | 21 | 6% | 11% |  |
 | 22 | 4% | 5% |  |
