@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Wed, 19 Jun 2019 20:09:45 +0200</pubDate>
+    <pubDate>Wed, 19 Jun 2019 21:46:12 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Sifo, 3–13 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-06-13-Sifo.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 93–101 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 64–71 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 62–69 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 30–35 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 30–34 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 32–37 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–15 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 16–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-06-13-Sifo-seats.png"
+        length="163761"
+        type="image/png"/>
+      <pubDate>Wed, 19 Jun 2019 21:46:12 +0200</pubDate>
+      <dc:date>2019-06-19T21:46:12.588003+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo, 3–13 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-06-13-Sifo.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-06-13-Sifo-coalitions-seats.png"
+        length="296994"
+        type="image/png"/>
+      <pubDate>Wed, 19 Jun 2019 21:46:12 +0200</pubDate>
+      <dc:date>2019-06-19T21:46:12.588003+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sifo, 3–13 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-06-13-Sifo.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-06-13-Sifo.png"
         length="187269"
         type="image/png"/>
-      <pubDate>Wed, 19 Jun 2019 20:09:45 +0200</pubDate>
-      <dc:date>2019-06-19T20:09:45.616105+02:00</dc:date>
+      <pubDate>Wed, 19 Jun 2019 21:46:12 +0200</pubDate>
+      <dc:date>2019-06-19T21:46:12.588003+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SCB, 29 April–28 May 2019 – Seat Projections for the Parties</title>
@@ -1559,6 +1579,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-06-19T20:09:45.616105+02:00</dc:date>
+    <dc:date>2019-06-19T21:46:12.588003+02:00</dc:date>
   </channel>
 </rss>
