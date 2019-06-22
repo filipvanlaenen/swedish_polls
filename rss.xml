@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Fri, 21 Jun 2019 07:38:57 +0200</pubDate>
+    <pubDate>Sat, 22 Jun 2019 11:52:18 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 4–18 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-06-18-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 82–97 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 54–67 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 61–75 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 27–37 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 31–41 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 24–33 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 14–21 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 15–22 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-06-18-Ipsos-seats.png"
+        length="192018"
+        type="image/png"/>
+      <pubDate>Sat, 22 Jun 2019 11:52:18 +0200</pubDate>
+      <dc:date>2019-06-22T11:52:18.583126+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 4–18 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-06-18-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-06-18-Ipsos-coalitions-seats.png"
+        length="352460"
+        type="image/png"/>
+      <pubDate>Sat, 22 Jun 2019 11:52:18 +0200</pubDate>
+      <dc:date>2019-06-22T11:52:18.583126+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 4–18 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-06-18-Ipsos.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-06-18-Ipsos.png"
         length="221977"
         type="image/png"/>
-      <pubDate>Fri, 21 Jun 2019 07:38:57 +0200</pubDate>
-      <dc:date>2019-06-21T07:38:57.076022+02:00</dc:date>
+      <pubDate>Sat, 22 Jun 2019 11:52:18 +0200</pubDate>
+      <dc:date>2019-06-22T11:52:18.583126+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo, 3–13 June 2019 – Seat Projections for the Parties</title>
@@ -1589,6 +1609,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-06-21T07:38:57.076022+02:00</dc:date>
+    <dc:date>2019-06-22T11:52:18.583126+02:00</dc:date>
   </channel>
 </rss>
