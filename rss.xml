@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Mon, 24 Jun 2019 06:57:54 +0200</pubDate>
+    <pubDate>Fri, 28 Jun 2019 17:14:10 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 4–18 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-06-18-Ipsos.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-06-13-Sentio.png"
         length="245320"
         type="image/png"/>
-      <pubDate>Mon, 24 Jun 2019 06:57:54 +0200</pubDate>
-      <dc:date>2019-06-24T06:57:54.219724+02:00</dc:date>
+      <pubDate>Fri, 28 Jun 2019 17:14:10 +0200</pubDate>
+      <dc:date>2019-06-28T17:14:10.691611+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SCB, 29 April–28 May 2019 – Seat Projections for the Parties</title>
@@ -1619,6 +1619,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-06-24T06:57:54.219724+02:00</dc:date>
+    <dc:date>2019-06-28T17:14:10.691611+02:00</dc:date>
   </channel>
 </rss>
