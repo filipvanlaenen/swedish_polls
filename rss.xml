@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sat, 29 Jun 2019 10:41:02 +0200</pubDate>
+    <pubDate>Sat, 29 Jun 2019 20:07:12 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 17–24 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-06-24-Inizio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 86–101 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 65–80 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 65–78 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 30–39 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 26–35 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 22–30 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–16 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 15–22 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-06-24-Inizio-seats.png"
+        length="190129"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jun 2019 20:07:12 +0200</pubDate>
+      <dc:date>2019-06-29T20:07:12.541444+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 17–24 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-06-24-Inizio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-06-24-Inizio-coalitions-seats.png"
+        length="357125"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jun 2019 20:07:12 +0200</pubDate>
+      <dc:date>2019-06-29T20:07:12.541444+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 17–24 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-06-24-Inizio.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-06-24-Inizio.png"
         length="215981"
         type="image/png"/>
-      <pubDate>Sat, 29 Jun 2019 10:41:02 +0200</pubDate>
-      <dc:date>2019-06-29T10:41:02.148624+02:00</dc:date>
+      <pubDate>Sat, 29 Jun 2019 20:07:12 +0200</pubDate>
+      <dc:date>2019-06-29T20:07:12.541444+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 3–23 June 2019 – Voting Intentions</title>
@@ -1639,6 +1659,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-06-29T10:41:02.148624+02:00</dc:date>
+    <dc:date>2019-06-29T20:07:12.541444+02:00</dc:date>
   </channel>
 </rss>
