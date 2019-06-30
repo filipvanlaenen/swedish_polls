@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sat, 29 Jun 2019 20:07:12 +0200</pubDate>
+    <pubDate>Sun, 30 Jun 2019 11:45:04 +0200</pubDate>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 17–24 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-06-24-Inizio.html#seats</link>
@@ -48,6 +48,16 @@
         type="image/png"/>
       <pubDate>Sat, 29 Jun 2019 10:04:06 +0200</pubDate>
       <dc:date>2019-06-29T10:04:06.22877+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 3–23 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-06-23-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 25.3–28.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.6–20.5%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 15.6–18.5%&lt;/li&gt;&lt;li&gt;Centerpartiet: 8.9–11.2%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.0–10.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 7.0–9.1%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.3–4.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 5.2–7.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-06-23-Ipsos.png"
+        length="207763"
+        type="image/png"/>
+      <pubDate>Sun, 30 Jun 2019 08:58:46 +0200</pubDate>
+      <dc:date>2019-06-30T08:58:46.420375+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 4–18 June 2019 – Seat Projections for the Parties</title>
@@ -118,6 +128,26 @@
         type="image/png"/>
       <pubDate>Fri, 28 Jun 2019 17:14:10 +0200</pubDate>
       <dc:date>2019-06-28T17:14:10.691611+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Expressen, 27 May–3 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-06-03-Demoskop.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 25.0–29.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.3–20.1%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.0–21.9%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.6–10.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 6.8–9.4%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 6.3–8.9%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.9–4.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 4.1–6.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-06-03-Demoskop.png"
+        length="222937"
+        type="image/png"/>
+      <pubDate>Sun, 30 Jun 2019 10:55:56 +0200</pubDate>
+      <dc:date>2019-06-30T10:55:56.894755+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 6 May–2 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-06-02-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 24.5–27.4%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.5–19.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 16.4–18.9%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.8–9.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.1–10.0%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 9.1–11.0%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.5–4.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 4.8–6.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-06-02-Novus.png"
+        length="203608"
+        type="image/png"/>
+      <pubDate>Sun, 30 Jun 2019 11:45:04 +0200</pubDate>
+      <dc:date>2019-06-30T11:45:04.717971+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SCB, 29 April–28 May 2019 – Seat Projections for the Parties</title>
@@ -1659,6 +1689,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-06-29T20:07:12.541444+02:00</dc:date>
+    <dc:date>2019-06-30T11:45:04.717971+02:00</dc:date>
   </channel>
 </rss>
