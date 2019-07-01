@@ -102,11 +102,11 @@ Last result: **20** seats (General Election of 9 September 2018)
 | N/A | [Poll Average](average.html) | 0 | 0–16 | 0–17 | 0–18 | 0–19 |
 | [17–24 June 2019](2019-06-24-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–15 | 0–16 | 0–16 | 0–17 |
 | [3–23 June 2019](2019-06-23-Novus.html) | Novus <br> SVT | 0 | 0–15 | 0–15 | 0–15 | 0–17 |
-| [3–23 June 2019](2019-06-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 14 | 0–16 | 0–17 | 0–17 | 0–19 |
+| [3–23 June 2019](2019-06-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0–16 | 0–16 | 0–16 | 0–18 |
 | [4–18 June 2019](2019-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 18 | 16–21 | 15–21 | 14–21 | 0–23 |
 | [3–13 June 2019](2019-06-13-Sifo.html) | Sifo | 0 | 0–14 | 0–14 | 0–15 | 0–15 |
 | [3–13 June 2019](2019-06-13-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–17 | 0–18 | 0–19 | 0–21 |
-| [27 May–3 June 2019](2019-06-03-Demoskop.html) | Demoskop <br> Expressen | 0 | 0–16 | 0–17 | 0–17 | 0–18 |
+| [27 May–3 June 2019](2019-06-03-Demoskop.html) | Demoskop <br> Expressen | 0 | 0–16 | 0–16 | 0–17 | 0–18 |
 | [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT | 14 | 0–16 | 0–16 | 0–17 | 0–18 |
 | [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 0 | 0 | 0–14 | 0–14 | 0–15 |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0 | 0 | 0–14 |
@@ -188,11 +188,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 29% |  |
 | 13 | 0% | 29% |  |
 | 14 | 5% | 29% |  |
-| 15 | 12% | 24% |  |
-| 16 | 6% | 12% |  |
-| 17 | 3% | 6% |  |
+| 15 | 14% | 24% |  |
+| 16 | 5% | 11% |  |
+| 17 | 3% | 5% |  |
 | 18 | 2% | 3% |  |
-| 19 | 0.7% | 1.1% |  |
+| 19 | 0.6% | 0.9% |  |
 | 20 | 0.2% | 0.4% | Last Result |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
