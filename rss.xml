@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Mon, 01 Jul 2019 20:37:25 +0200</pubDate>
+    <pubDate>Tue, 09 Jul 2019 22:51:24 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Demoskop, 24 June–1 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-07-01-Demoskop.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 23.8–28.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 15.8–19.5%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 17.7–21.6%&lt;/li&gt;&lt;li&gt;Centerpartiet: 8.0–10.9%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 6.7–9.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 6.8–9.5%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.2–5.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 4.3–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-07-01-Demoskop.png"
+        length="222859"
+        type="image/png"/>
+      <pubDate>Tue, 09 Jul 2019 22:51:24 +0200</pubDate>
+      <dc:date>2019-07-09T22:51:24.185962+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 17–24 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-06-24-Inizio.html#seats</link>
@@ -1729,6 +1739,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-07-01T20:37:25.259576+02:00</dc:date>
+    <dc:date>2019-07-09T22:51:24.185962+02:00</dc:date>
   </channel>
 </rss>
