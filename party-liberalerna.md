@@ -101,9 +101,9 @@ Last result: **20** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–16 | 0–16 | 0–17 | 0–19 |
-| [24 June–1 July 2019](2019-07-01-Demoskop.html) | Demoskop | 0 | 0–17 | 0–17 | 0–18 | 0–19 |
+| [24 June–1 July 2019](2019-07-01-Demoskop.html) | Demoskop | 14 | 0–17 | 0–18 | 0–18 | 0–20 |
 | [17–24 June 2019](2019-06-24-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–15 | 0–16 | 0–16 | 0–17 |
-| [3–23 June 2019](2019-06-23-Novus.html) | Novus <br> SVT | 0 | 0–15 | 0–15 | 0–15 | 0–17 |
+| [3–23 June 2019](2019-06-23-Novus.html) | Novus <br> SVT | 0 | 0–14 | 0–15 | 0–16 | 0–16 |
 | [3–23 June 2019](2019-06-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0–16 | 0–16 | 0–16 | 0–18 |
 | [4–18 June 2019](2019-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 18 | 16–21 | 15–21 | 14–21 | 0–23 |
 | [3–13 June 2019](2019-06-13-Sifo.html) | Sifo | 0 | 0–14 | 0–14 | 0–15 | 0–15 |
@@ -189,12 +189,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 27% |  |
 | 12 | 0% | 27% |  |
 | 13 | 0% | 27% |  |
-| 14 | 6% | 27% |  |
+| 14 | 5% | 27% |  |
 | 15 | 11% | 21% |  |
-| 16 | 7% | 11% |  |
+| 16 | 6% | 10% |  |
 | 17 | 2% | 4% |  |
-| 18 | 0.9% | 2% |  |
-| 19 | 0.4% | 0.7% |  |
+| 18 | 1.0% | 2% |  |
+| 19 | 0.5% | 0.8% |  |
 | 20 | 0.2% | 0.3% | Last Result |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
