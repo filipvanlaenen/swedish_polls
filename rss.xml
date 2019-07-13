@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Fri, 12 Jul 2019 20:25:13 +0200</pubDate>
+    <pubDate>Fri, 12 Jul 2019 21:32:59 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Demoskop, 24 June–1 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-07-01-Demoskop.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 86–103 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 57–71 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 63–79 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 29–39 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 24–34 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 25–34 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–18 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 16–24 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-07-01-Demoskop-seats.png"
+        length="192146"
+        type="image/png"/>
+      <pubDate>Fri, 12 Jul 2019 21:32:59 +0200</pubDate>
+      <dc:date>2019-07-12T21:32:59.417916+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop, 24 June–1 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-07-01-Demoskop.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-07-01-Demoskop-coalitions-seats.png"
+        length="379434"
+        type="image/png"/>
+      <pubDate>Fri, 12 Jul 2019 21:32:59 +0200</pubDate>
+      <dc:date>2019-07-12T21:32:59.417916+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Demoskop, 24 June–1 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-07-01-Demoskop.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-07-01-Demoskop.png"
         length="222859"
         type="image/png"/>
-      <pubDate>Thu, 11 Jul 2019 21:29:33 +0200</pubDate>
-      <dc:date>2019-07-11T21:29:33.05111+02:00</dc:date>
+      <pubDate>Fri, 12 Jul 2019 21:32:59 +0200</pubDate>
+      <dc:date>2019-07-12T21:32:59.417916+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 17–24 June 2019 – Seat Projections for the Parties</title>
@@ -1759,6 +1779,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-07-12T20:25:13.552971+02:00</dc:date>
+    <dc:date>2019-07-12T21:32:59.417916+02:00</dc:date>
   </channel>
 </rss>
