@@ -118,7 +118,7 @@ Last result: **62** seats (General Election of 9 September 2018)
 | [3–13 June 2019](2019-06-13-Sifo.html) | Sifo | 67 | 64–68 | 63–69 | 62–69 | 62–70 |
 | [3–13 June 2019](2019-06-13-Sentio.html) | Sentio <br> Nyheter Idag | 80 | 73–87 | 70–90 | 68–92 | 66–96 |
 | [27 May–3 June 2019](2019-06-03-Demoskop.html) | Demoskop <br> Expressen | 73 | 67–76 | 67–80 | 66–81 | 62–83 |
-| [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT | 63 | 61–66 | 61–68 | 59–68 | 57–70 |
+| [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT | 63 | 60–67 | 59–68 | 59–69 | 57–70 |
 | [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 63 | 60–65 | 60–65 | 59–66 | 58–67 |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 68 | 64–73 | 63–74 | 62–75 | 60–77 |
 | [17–21 May 2019](2019-05-21-Sentio.html) | Sentio <br> Nyheter Idag | 77 | 71–84 | 69–86 | 68–88 | 65–92 |
