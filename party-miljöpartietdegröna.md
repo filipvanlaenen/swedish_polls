@@ -110,8 +110,8 @@ Last result: **16** seats (General Election of 9 September 2018)
 | [4–18 June 2019](2019-06-18-Ipsos.html) | Ipsos <br> Dagens Nyheter | 18 | 16–20 | 15–21 | 15–22 | 0–23 |
 | [3–13 June 2019](2019-06-13-Sifo.html) | Sifo | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
 | [3–13 June 2019](2019-06-13-Sentio.html) | Sentio <br> Nyheter Idag | 18 | 0–22 | 0–23 | 0–24 | 0–26 |
-| [27 May–3 June 2019](2019-06-03-Demoskop.html) | Demoskop <br> Expressen | 18 | 16–21 | 15–22 | 15–23 | 0–25 |
-| [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT | 20 | 18–22 | 17–22 | 17–23 | 16–24 |
+| [27 May–3 June 2019](2019-06-03-Demoskop.html) | Demoskop <br> Expressen | 19 | 16–21 | 15–22 | 14–23 | 0–25 |
+| [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT | 20 | 18–22 | 18–22 | 17–23 | 16–24 |
 | [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 21 | 20–22 | 19–22 | 19–23 | 19–23 |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 16 | 0–19 | 0–19 | 0–20 | 0–21 |
 | [17–21 May 2019](2019-05-21-Sentio.html) | Sentio <br> Nyheter Idag | 18 | 0–21 | 0–22 | 0–23 | 0–25 |
