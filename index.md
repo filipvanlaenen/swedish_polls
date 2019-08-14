@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
-| N/A | [Poll Average](average.html) | 24–28% <br> 85–104 | 15–21% <br> 55–75 | 16–23% <br> 57–85 | 6–11% <br> 24–40 | 7–10% <br> 26–37 | 6–13% <br> 24–49 | 3–6% <br> 0–23 | 4–7% <br> 0–24 |
+| N/A | [Poll Average](average.html) | 24–28% <br> 85–104 | 15–20% <br> 54–73 | 16–23% <br> 57–86 | 6–11% <br> 23–40 | 7–10% <br> 26–37 | 7–13% <br> 25–49 | 3–6% <br> 0–23 | 4–7% <br> 0–24 |
+| [1–8 August 2019](2019-08-08-Inizio.html) | Inizio <br> Aftonbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 23–28% <br> 81–101 | 15–19% <br> 52–70 | 16–20% <br> 56–72 | 8–11% <br> 28–41 | 7–11% <br> 26–38 | 8–11% <br> 27–39 | 4–7% <br> 16–26 | 4–6% <br> 0–22 |
 | [24 June–1 July 2019](2019-07-01-Demoskop.html) | Demoskop | 24–28% <br> 86–103 | 16–20% <br> 57–71 | 18–22% <br> 63–79 | 8–11% <br> 29–39 | 7–9% <br> 24–34 | 7–9% <br> 25–34 | 3–5% <br> 0–18 | 4–6% <br> 16–24 |
-| [17–24 June 2019](2019-06-24-Inizio.html) | Inizio <br> Aftonbladet | 24–27% <br> 86–101 | 18–21% <br> 65–80 | 18–21% <br> 65–78 | 8–11% <br> 30–39 | 7–10% <br> 26–35 | 6–8% <br> 22–30 | 3–5% <br> 0–16 | 4–6% <br> 15–22 |
 | [3–23 June 2019](2019-06-23-Novus.html) | Novus <br> SVT | 25–28% <br> 90–104 | 17–20% <br> 63–74 | 15–18% <br> 56–67 | 9–11% <br> 33–41 | 8–10% <br> 29–37 | 7–9% <br> 24–32 | 3–4% <br> 0–16 | 5–7% <br> 18–25 |
 | [3–23 June 2019](2019-06-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 25–29% <br> 89–101 | 18–21% <br> 62–73 | 16–18% <br> 56–66 | 9–11% <br> 32–40 | 8–10% <br> 28–36 | 7–9% <br> 25–32 | 3–5% <br> 0–16 | 5–7% <br> 19–25 |
 | [3–13 June 2019](2019-06-13-Sifo.html) | Sifo | 26–27% <br> 93–101 | 18–19% <br> 64–71 | 17–19% <br> 62–69 | 8–9% <br> 30–35 | 8–9% <br> 30–34 | 9–10% <br> 32–37 | 3–4% <br> 0–15 | 4–5% <br> 16–20 |
