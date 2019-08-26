@@ -105,7 +105,7 @@ Last result: **20** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–19 | 0–21 | 0–23 | 0–25 |
-| [1–8 August 2019](2019-08-08-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0 | 0 | 0 |
+| [1–8 August 2019](2019-08-08-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0–16 | 0–16 | 0–17 |
 | [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 21 | 17–24 | 16–25 | 16–26 | 14–28 |
 | [24 June–1 July 2019](2019-07-01-Demoskop.html) | Demoskop | 0 | 0–17 | 0–18 | 0–18 | 0–20 |
 | [17–24 June 2019](2019-06-24-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–15 | 0–16 | 0–16 | 0–17 |
@@ -181,24 +181,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 67% | 100% | Median |
-| 1 | 0% | 33% |  |
-| 2 | 0% | 33% |  |
-| 3 | 0% | 33% |  |
-| 4 | 0% | 33% |  |
-| 5 | 0% | 33% |  |
-| 6 | 0% | 33% |  |
-| 7 | 0% | 33% |  |
-| 8 | 0% | 33% |  |
-| 9 | 0% | 33% |  |
-| 10 | 0% | 33% |  |
-| 11 | 0% | 33% |  |
-| 12 | 0% | 33% |  |
-| 13 | 0% | 33% |  |
-| 14 | 4% | 33% |  |
-| 15 | 9% | 29% |  |
-| 16 | 5% | 20% |  |
-| 17 | 2% | 15% |  |
+| 0 | 66% | 100% | Median |
+| 1 | 0% | 34% |  |
+| 2 | 0% | 34% |  |
+| 3 | 0% | 34% |  |
+| 4 | 0% | 34% |  |
+| 5 | 0% | 34% |  |
+| 6 | 0% | 34% |  |
+| 7 | 0% | 34% |  |
+| 8 | 0% | 34% |  |
+| 9 | 0% | 34% |  |
+| 10 | 0% | 34% |  |
+| 11 | 0% | 34% |  |
+| 12 | 0% | 34% |  |
+| 13 | 0% | 34% |  |
+| 14 | 5% | 34% |  |
+| 15 | 9% | 30% |  |
+| 16 | 6% | 21% |  |
+| 17 | 3% | 15% |  |
 | 18 | 2% | 13% |  |
 | 19 | 2% | 10% |  |
 | 20 | 2% | 9% | Last Result |
