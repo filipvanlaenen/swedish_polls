@@ -10,7 +10,11 @@ Last result: **4.4%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.3% | 3.8–6.2% | 3.5–6.4% | 3.3–6.6% | 3.0–7.0% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.4–5.8% | 3.2–6.0% | 3.1–6.3% | 2.8–6.7% |
+| [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 4.7% | N/A | N/A | N/A | N/A |
+| [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 5.6% | N/A | N/A | N/A | N/A |
+| [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6.0% | N/A | N/A | N/A | N/A |
+| [6–15 August 2019](2019-08-15-Sifo.html) | Sifo | 4.9% | N/A | N/A | N/A | N/A |
 | [1–8 August 2019](2019-08-08-Inizio.html) | Inizio <br> Aftonbladet | 3.6% | 3.1–4.2% | 3.0–4.4% | 2.9–4.5% | 2.7–4.8% |
 | [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 4.7% | 3.9–5.6% | 3.7–5.9% | 3.6–6.1% | 3.2–6.6% |
 | [24 June–1 July 2019](2019-07-01-Demoskop.html) | Demoskop | 5.3% | 4.6–6.1% | 4.5–6.3% | 4.3–6.5% | 4.0–6.9% |
@@ -86,11 +90,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 6% | 100% |  |
-| 3.5–4.5% | 17% | 94% | Last Result |
-| 4.5–5.5% | 39% | 77% | Median |
-| 5.5–6.5% | 35% | 38% |  |
-| 6.5–7.5% | 3% | 3% |  |
+| 2.5–3.5% | 14% | 100% |  |
+| 3.5–4.5% | 34% | 85% | Last Result |
+| 4.5–5.5% | 36% | 52% | Median |
+| 5.5–6.5% | 15% | 15% |  |
+| 6.5–7.5% | 0.9% | 0.9% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -102,7 +106,11 @@ Last result: **16** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 0–22 | 0–23 | 0–24 | 0–25 |
+| N/A | [Poll Average](average.html) | 16 | 0–21 | 0–22 | 0–23 | 0–24 |
+| [22–27 August 2019](2019-08-27-Sentio.html) | Sentio |  |  |  |  |  |
+| [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT |  |  |  |  |  |
+| [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
+| [6–15 August 2019](2019-08-15-Sifo.html) | Sifo |  |  |  |  |  |
 | [1–8 August 2019](2019-08-08-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–15 | 0–16 | 0–16 | 0–17 |
 | [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 17 | 0–20 | 0–21 | 0–22 | 0–23 |
 | [24 June–1 July 2019](2019-07-01-Demoskop.html) | Demoskop | 19 | 17–22 | 16–23 | 16–24 | 14–25 |
@@ -179,34 +187,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% |  |
-| 1 | 0% | 87% |  |
-| 2 | 0% | 87% |  |
-| 3 | 0% | 87% |  |
-| 4 | 0% | 87% |  |
-| 5 | 0% | 87% |  |
-| 6 | 0% | 87% |  |
-| 7 | 0% | 87% |  |
-| 8 | 0% | 87% |  |
-| 9 | 0% | 87% |  |
-| 10 | 0% | 87% |  |
-| 11 | 0% | 87% |  |
-| 12 | 0% | 87% |  |
-| 13 | 0% | 87% |  |
-| 14 | 0.6% | 87% |  |
-| 15 | 5% | 86% |  |
-| 16 | 4% | 81% | Last Result |
-| 17 | 9% | 77% |  |
-| 18 | 11% | 68% |  |
-| 19 | 11% | 57% | Median |
-| 20 | 12% | 46% |  |
-| 21 | 13% | 34% |  |
-| 22 | 12% | 21% |  |
-| 23 | 6% | 9% |  |
-| 24 | 2% | 3% |  |
-| 25 | 1.0% | 1.5% |  |
-| 26 | 0.4% | 0.5% |  |
-| 27 | 0.1% | 0.1% |  |
-| 28 | 0% | 0% |  |
+| 0 | 31% | 100% |  |
+| 1 | 0% | 69% |  |
+| 2 | 0% | 69% |  |
+| 3 | 0% | 69% |  |
+| 4 | 0% | 69% |  |
+| 5 | 0% | 69% |  |
+| 6 | 0% | 69% |  |
+| 7 | 0% | 69% |  |
+| 8 | 0% | 69% |  |
+| 9 | 0% | 69% |  |
+| 10 | 0% | 69% |  |
+| 11 | 0% | 69% |  |
+| 12 | 0% | 69% |  |
+| 13 | 0% | 69% |  |
+| 14 | 1.3% | 69% |  |
+| 15 | 11% | 68% |  |
+| 16 | 7% | 57% | Last Result, Median |
+| 17 | 11% | 49% |  |
+| 18 | 9% | 39% |  |
+| 19 | 10% | 29% |  |
+| 20 | 7% | 19% |  |
+| 21 | 5% | 12% |  |
+| 22 | 4% | 6% |  |
+| 23 | 2% | 3% |  |
+| 24 | 0.8% | 1.1% |  |
+| 25 | 0.3% | 0.3% |  |
+| 26 | 0.1% | 0.1% |  |
+| 27 | 0% | 0% |  |
 
 
