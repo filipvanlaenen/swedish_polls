@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Wed, 28 Aug 2019 22:43:23 +0200</pubDate>
+    <pubDate>Tue, 03 Sep 2019 21:03:10 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Sentio, 22–27 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-08-27-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 20.4–26.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 15.7–21.1%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 20.6–26.5%&lt;/li&gt;&lt;li&gt;Centerpartiet: 4.6–7.9%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.5–12.8%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.4–7.7%&lt;/li&gt;&lt;li&gt;Liberalerna: 4.1–7.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.4–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-08-27-Sentio.png"
+        length="248594"
+        type="image/png"/>
+      <pubDate>Tue, 03 Sep 2019 20:15:59 +0200</pubDate>
+      <dc:date>2019-09-03T20:15:59.144451+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 5–25 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-08-25-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 24.7–28.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.1–20.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 16.9–19.9%&lt;/li&gt;&lt;li&gt;Centerpartiet: 8.3–10.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.0–10.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 6.3–8.3%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.0–4.5%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 4.8–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-08-25-Novus.png"
+        length="212182"
+        type="image/png"/>
+      <pubDate>Tue, 03 Sep 2019 21:03:10 +0200</pubDate>
+      <dc:date>2019-09-03T21:03:10.375593+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 1–8 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-08-08-Inizio.html</link>
@@ -1859,6 +1879,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-08-28T22:43:23.03652+02:00</dc:date>
+    <dc:date>2019-09-03T21:03:10.375593+02:00</dc:date>
   </channel>
 </rss>
