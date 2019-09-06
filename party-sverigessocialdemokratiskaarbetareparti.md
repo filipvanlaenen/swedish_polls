@@ -115,7 +115,7 @@ Last result: **100** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 93 | 84–99 | 81–100 | 78–102 | 74–104 |
-| [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 92 | 86–99 | 84–100 | 84–101 | 82–106 |
+| [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 92 | 87–99 | 86–101 | 85–104 | 83–107 |
 | [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 83 | 77–91 | 74–93 | 73–95 | 70–98 |
 | [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 97 | 91–100 | 90–101 | 89–103 | 87–105 |
 | [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 93 | 89–97 | 87–98 | 86–99 | 83–102 |
@@ -212,15 +212,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 82 | 1.1% | 94% |  |
 | 83 | 2% | 93% |  |
 | 84 | 2% | 91% |  |
-| 85 | 2% | 89% |  |
+| 85 | 2% | 90% |  |
 | 86 | 3% | 87% |  |
-| 87 | 3% | 84% |  |
-| 88 | 3% | 81% |  |
-| 89 | 4% | 78% |  |
+| 87 | 3% | 85% |  |
+| 88 | 2% | 81% |  |
+| 89 | 5% | 79% |  |
 | 90 | 4% | 74% |  |
-| 91 | 5% | 70% |  |
-| 92 | 10% | 65% |  |
-| 93 | 6% | 55% | Median |
+| 91 | 6% | 70% |  |
+| 92 | 9% | 64% |  |
+| 93 | 7% | 55% | Median |
 | 94 | 10% | 49% |  |
 | 95 | 6% | 39% |  |
 | 96 | 5% | 32% |  |
@@ -228,13 +228,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 98 | 6% | 19% |  |
 | 99 | 5% | 13% |  |
 | 100 | 3% | 8% | Last Result |
-| 101 | 2% | 4% |  |
-| 102 | 0.9% | 3% |  |
+| 101 | 2% | 5% |  |
+| 102 | 0.8% | 3% |  |
 | 103 | 1.0% | 2% |  |
-| 104 | 0.4% | 0.8% |  |
+| 104 | 0.8% | 1.2% |  |
 | 105 | 0.1% | 0.4% |  |
-| 106 | 0.1% | 0.3% |  |
-| 107 | 0.1% | 0.1% |  |
+| 106 | 0.2% | 0.3% |  |
+| 107 | 0.1% | 0.2% |  |
 | 108 | 0% | 0.1% |  |
 | 109 | 0% | 0% |  |
 

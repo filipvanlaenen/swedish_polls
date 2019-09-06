@@ -108,8 +108,8 @@ Last result: **16** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–22 | 0–23 | 0–24 | 0–25 |
-| [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 15 | 0–17 | 0–18 | 0–19 | 0–20 |
+| N/A | [Poll Average](average.html) | 18 | 14–22 | 0–23 | 0–24 | 0–25 |
+| [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 15 | 0–17 | 0–18 | 0–18 | 0–20 |
 | [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 17 | 0–20 | 0–22 | 0–23 | 0–25 |
 | [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 21 | 19–23 | 18–23 | 17–24 | 16–25 |
 | [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 22 | 19–24 | 18–25 | 18–25 | 17–27 |
@@ -190,22 +190,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% |  |
-| 1 | 0% | 91% |  |
-| 2 | 0% | 91% |  |
-| 3 | 0% | 91% |  |
-| 4 | 0% | 91% |  |
-| 5 | 0% | 91% |  |
-| 6 | 0% | 91% |  |
-| 7 | 0% | 91% |  |
-| 8 | 0% | 91% |  |
-| 9 | 0% | 91% |  |
-| 10 | 0% | 91% |  |
-| 11 | 0% | 91% |  |
-| 12 | 0% | 91% |  |
-| 13 | 0% | 91% |  |
-| 14 | 0.6% | 91% |  |
-| 15 | 9% | 90% |  |
+| 0 | 10% | 100% |  |
+| 1 | 0% | 90% |  |
+| 2 | 0% | 90% |  |
+| 3 | 0% | 90% |  |
+| 4 | 0% | 90% |  |
+| 5 | 0% | 90% |  |
+| 6 | 0% | 90% |  |
+| 7 | 0% | 90% |  |
+| 8 | 0% | 90% |  |
+| 9 | 0% | 90% |  |
+| 10 | 0% | 90% |  |
+| 11 | 0% | 90% |  |
+| 12 | 0% | 90% |  |
+| 13 | 0% | 90% |  |
+| 14 | 0.6% | 90% |  |
+| 15 | 8% | 90% |  |
 | 16 | 7% | 81% | Last Result |
 | 17 | 13% | 74% |  |
 | 18 | 14% | 61% | Median |
