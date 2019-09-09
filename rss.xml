@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sun, 08 Sep 2019 18:58:55 +0200</pubDate>
+    <pubDate>Sun, 08 Sep 2019 23:19:06 +0200</pubDate>
     <item>
       <title>Opinion Poll by Demoskop, 27 August–3 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-09-03-Demoskop.html</link>
@@ -36,8 +36,18 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-08-27-Sentio.png"
         length="247514"
         type="image/png"/>
-      <pubDate>Sun, 08 Sep 2019 18:58:55 +0200</pubDate>
-      <dc:date>2019-09-08T18:58:55.779964+02:00</dc:date>
+      <pubDate>Sun, 08 Sep 2019 23:06:33 +0200</pubDate>
+      <dc:date>2019-09-08T23:06:33.461418+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 5–25 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-08-25-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 24.7–28.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.1–20.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 16.9–19.9%&lt;/li&gt;&lt;li&gt;Centerpartiet: 8.3–10.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.0–10.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 6.3–8.3%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.0–4.5%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 4.8–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-08-25-Novus.png"
+        length="212182"
+        type="image/png"/>
+      <pubDate>Sun, 08 Sep 2019 23:19:06 +0200</pubDate>
+      <dc:date>2019-09-08T23:19:06.330074+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo, 6–15 August 2019 – Voting Intentions</title>
@@ -1839,6 +1849,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-09-08T18:58:55.779964+02:00</dc:date>
+    <dc:date>2019-09-08T23:19:06.330074+02:00</dc:date>
   </channel>
 </rss>
