@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Tue, 10 Sep 2019 21:42:05 +0200</pubDate>
+    <pubDate>Thu, 12 Sep 2019 22:51:20 +0200</pubDate>
     <item>
       <title>Opinion Poll by Demoskop, 27 August–3 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-09-03-Demoskop.html</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-08-25-Novus.png"
         length="212182"
         type="image/png"/>
-      <pubDate>Tue, 10 Sep 2019 21:42:05 +0200</pubDate>
-      <dc:date>2019-09-10T21:42:05.010326+02:00</dc:date>
+      <pubDate>Thu, 12 Sep 2019 22:51:20 +0200</pubDate>
+      <dc:date>2019-09-12T22:51:20.227899+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 13–25 August 2019 – Voting Intentions</title>
@@ -1869,6 +1869,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-09-10T21:42:05.010326+02:00</dc:date>
+    <dc:date>2019-09-12T22:51:20.227899+02:00</dc:date>
   </channel>
 </rss>
