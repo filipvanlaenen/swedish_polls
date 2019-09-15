@@ -5,7 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
-| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 22–26% <br> 79–94 | 18–21% <br> 63–78 | 19–23% <br> 70–85 | 7–10% <br> 25–35 | 7–10% <br> 25–35 | 5–8% <br> 19–28 | 4–6% <br> 0–20 | 4–6% <br> 0–22 |
+| [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 24–27% <br> 85–104 | 17–20% <br> 59–74 | 19–23% <br> 70–85 | 8–11% <br> 30–40 | 7–9% <br> 25–34 | 7–9% <br> 24–33 | 3–5% <br> 0–19 | 3–5% <br> 0–18 |
 | [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 21–26% <br> 73–95 | 16–21% <br> 56–76 | 21–27% <br> 73–96 | 5–8% <br> 17–29 | 9–13% <br> 31–46 | 4–8% <br> 16–27 | 4–7% <br> 14–26 | 3–6% <br> 0–23 |
 | [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 25–28% <br> 89–103 | 17–20% <br> 62–74 | 17–20% <br> 62–73 | 8–11% <br> 30–39 | 8–10% <br> 29–37 | 6–8% <br> 23–30 | 3–4% <br> 0–16 | 5–7% <br> 17–24 |
