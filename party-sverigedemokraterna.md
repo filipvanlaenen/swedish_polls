@@ -118,7 +118,7 @@ Last result: **62** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 71 | 64–83 | 61–86 | 60–89 | 57–95 |
-| [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 72 | 69–75 | 69–76 | 68–76 | 67–77 |
+| [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 72 | 69–75 | 69–76 | 68–76 | 68–77 |
 | [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 75 | 71–81 | 70–83 | 69–83 | 67–88 |
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 77 | 71–83 | 71–83 | 70–85 | 67–88 |
 | [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 84 | 77–91 | 75–94 | 73–96 | 71–100 |
@@ -216,12 +216,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 66 | 6% | 84% |  |
 | 67 | 2% | 77% |  |
 | 68 | 4% | 75% |  |
-| 69 | 8% | 71% |  |
-| 70 | 6% | 63% |  |
-| 71 | 9% | 57% | Median |
-| 72 | 6% | 48% |  |
-| 73 | 6% | 43% |  |
-| 74 | 3% | 37% |  |
+| 69 | 7% | 71% |  |
+| 70 | 8% | 64% |  |
+| 71 | 8% | 56% | Median |
+| 72 | 5% | 49% |  |
+| 73 | 6% | 44% |  |
+| 74 | 4% | 38% |  |
 | 75 | 4% | 34% |  |
 | 76 | 3% | 31% |  |
 | 77 | 3% | 27% |  |
