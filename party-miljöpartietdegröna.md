@@ -109,13 +109,13 @@ Last result: **16** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–21 | 0–22 | 0–23 | 0–25 |
+| N/A | [Poll Average](average.html) | 18 | 15–22 | 0–23 | 0–24 | 0–26 |
 | [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 18 | 15–20 | 15–21 | 14–21 | 0–22 |
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 15 | 0–17 | 0–18 | 0–18 | 0–20 |
 | [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 17 | 0–21 | 0–22 | 0–23 | 0–25 |
 | [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 21 | 19–23 | 18–23 | 17–24 | 16–25 |
-| [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 21 | 18–23 | 18–25 | 18–25 | 16–26 |
+| [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 21 | 18–24 | 18–25 | 18–26 | 16–27 |
 | [6–15 August 2019](2019-08-15-Sifo.html) | Sifo | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
 | [1–8 August 2019](2019-08-08-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–15 | 0–16 | 0–16 | 0–17 |
 | [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 17 | 14–19 | 0–21 | 0–22 | 0–23 |
@@ -212,14 +212,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 16% | 74% |  |
 | 18 | 16% | 58% | Median |
 | 19 | 13% | 42% |  |
-| 20 | 11% | 30% |  |
-| 21 | 9% | 18% |  |
-| 22 | 5% | 10% |  |
-| 23 | 3% | 5% |  |
-| 24 | 0.6% | 2% |  |
-| 25 | 1.3% | 2% |  |
-| 26 | 0.2% | 0.2% |  |
-| 27 | 0.1% | 0.1% |  |
-| 28 | 0% | 0% |  |
+| 20 | 10% | 30% |  |
+| 21 | 7% | 20% |  |
+| 22 | 5% | 13% |  |
+| 23 | 4% | 7% |  |
+| 24 | 2% | 3% |  |
+| 25 | 0.8% | 2% |  |
+| 26 | 0.6% | 0.7% |  |
+| 27 | 0.1% | 0.2% |  |
+| 28 | 0% | 0.1% |  |
+| 29 | 0% | 0% |  |
 
 

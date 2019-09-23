@@ -118,7 +118,7 @@ Last result: **31** seats (General Election of 9 September 2018)
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 34 | 31–38 | 30–39 | 30–40 | 28–42 |
 | [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 22 | 18–26 | 17–28 | 17–29 | 15–31 |
 | [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 35 | 32–37 | 31–38 | 30–39 | 29–40 |
-| [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 29 | 26–32 | 25–32 | 24–33 | 23–35 |
+| [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 29 | 25–32 | 25–33 | 24–33 | 23–35 |
 | [6–15 August 2019](2019-08-15-Sifo.html) | Sifo | 32 | 30–34 | 30–35 | 29–35 | 29–36 |
 | [1–8 August 2019](2019-08-08-Inizio.html) | Inizio <br> Aftonbladet | 39 | 35–42 | 35–44 | 34–45 | 33–46 |
 | [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 33 | 30–37 | 29–39 | 28–41 | 26–42 |
@@ -205,14 +205,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 2% | 94% |  |
 | 23 | 2% | 92% |  |
 | 24 | 2% | 91% |  |
-| 25 | 2% | 89% |  |
-| 26 | 6% | 87% |  |
-| 27 | 2% | 81% |  |
+| 25 | 3% | 89% |  |
+| 26 | 5% | 86% |  |
+| 27 | 3% | 82% |  |
 | 28 | 5% | 79% |  |
 | 29 | 6% | 74% |  |
 | 30 | 12% | 68% |  |
-| 31 | 10% | 56% | Last Result, Median |
-| 32 | 11% | 46% |  |
+| 31 | 11% | 56% | Last Result, Median |
+| 32 | 10% | 45% |  |
 | 33 | 10% | 35% |  |
 | 34 | 6% | 25% |  |
 | 35 | 6% | 19% |  |
