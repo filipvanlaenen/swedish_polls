@@ -112,9 +112,9 @@ Last result: **22** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 21–32 | 19–34 | 18–36 | 16–38 |
-| [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 26 | 24–27 | 24–27 | 24–28 | 23–29 |
-| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 25 | 20–27 | 19–27 | 18–28 | 17–29 |
+| N/A | [Poll Average](average.html) | 26 | 22–32 | 19–34 | 18–36 | 16–38 |
+| [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 26 | 25–27 | 24–28 | 24–28 | 24–29 |
+| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 24 | 22–26 | 21–27 | 20–27 | 18–28 |
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 28 | 25–31 | 25–32 | 24–33 | 23–34 |
 | [22–27 August 2019](2019-08-27-Sentio.html) | Sentio | 21 | 17–25 | 17–26 | 16–27 | 0–29 |
 | [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 26 | 24–30 | 24–30 | 23–30 | 22–31 |
@@ -212,18 +212,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 99.9% |  |
 | 15 | 0.1% | 99.8% |  |
 | 16 | 0.4% | 99.7% |  |
-| 17 | 1.4% | 99.3% |  |
-| 18 | 1.5% | 98% |  |
-| 19 | 3% | 96% |  |
-| 20 | 2% | 94% |  |
-| 21 | 2% | 92% |  |
-| 22 | 3% | 89% | Last Result |
-| 23 | 5% | 86% |  |
-| 24 | 8% | 82% |  |
-| 25 | 16% | 73% |  |
-| 26 | 18% | 58% | Median |
-| 27 | 9% | 40% |  |
-| 28 | 7% | 31% |  |
+| 17 | 1.3% | 99.3% |  |
+| 18 | 1.3% | 98% |  |
+| 19 | 2% | 97% |  |
+| 20 | 1.5% | 95% |  |
+| 21 | 3% | 93% |  |
+| 22 | 5% | 90% | Last Result |
+| 23 | 7% | 86% |  |
+| 24 | 9% | 78% |  |
+| 25 | 16% | 69% |  |
+| 26 | 14% | 53% | Median |
+| 27 | 8% | 39% |  |
+| 28 | 7% | 30% |  |
 | 29 | 5% | 24% |  |
 | 30 | 4% | 19% |  |
 | 31 | 3% | 15% |  |
