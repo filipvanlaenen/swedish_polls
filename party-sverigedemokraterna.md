@@ -11,6 +11,7 @@ Last result: **17.5%** (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.1% | 17.8–23.1% | 17.3–24.2% | 16.8–25.0% | 16.0–26.4% |
+| [10–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 19.0% | 17.8–20.3% | 17.4–20.7% | 17.1–21.0% | 16.5–21.7% |
 | [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 20.2% | 19.6–20.7% | 19.5–20.9% | 19.4–21.0% | 19.1–21.3% |
 | [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 21.5% | 20.3–22.9% | 19.9–23.3% | 19.6–23.6% | 19.0–24.3% |
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 21.0% | 19.9–22.2% | 19.5–22.5% | 19.3–22.8% | 18.7–23.4% |
@@ -117,7 +118,8 @@ Last result: **62** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 71 | 63–83 | 61–86 | 60–89 | 57–95 |
+| N/A | [Poll Average](average.html) | 71 | 64–83 | 61–86 | 60–89 | 57–95 |
+| [10–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 69 | 64–70 | 60–71 | 60–72 | 57–75 |
 | [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 71 | 70–74 | 69–76 | 69–76 | 68–77 |
 | [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 76 | 72–82 | 71–83 | 70–85 | 68–87 |
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 77 | 71–83 | 71–83 | 70–85 | 67–88 |
@@ -204,24 +206,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 54 | 0% | 99.9% |  |
 | 55 | 0.3% | 99.9% |  |
 | 56 | 0.1% | 99.7% |  |
-| 57 | 0.4% | 99.6% |  |
-| 58 | 0.1% | 99.2% |  |
-| 59 | 0.4% | 99.1% |  |
-| 60 | 2% | 98.7% |  |
-| 61 | 3% | 97% |  |
-| 62 | 3% | 94% | Last Result |
+| 57 | 0.5% | 99.6% |  |
+| 58 | 0.1% | 99.1% |  |
+| 59 | 0.5% | 99.0% |  |
+| 60 | 2% | 98.5% |  |
+| 61 | 3% | 96% |  |
+| 62 | 2% | 94% | Last Result |
 | 63 | 1.4% | 91% |  |
-| 64 | 5% | 90% |  |
-| 65 | 3% | 85% |  |
-| 66 | 5% | 82% |  |
-| 67 | 3% | 77% |  |
-| 68 | 4% | 74% |  |
-| 69 | 7% | 70% |  |
-| 70 | 6% | 64% |  |
-| 71 | 8% | 58% | Median |
-| 72 | 5% | 50% |  |
-| 73 | 4% | 44% |  |
-| 74 | 5% | 40% |  |
+| 64 | 4% | 90% |  |
+| 65 | 2% | 86% |  |
+| 66 | 5% | 84% |  |
+| 67 | 4% | 78% |  |
+| 68 | 3% | 75% |  |
+| 69 | 8% | 71% |  |
+| 70 | 7% | 63% |  |
+| 71 | 8% | 56% | Median |
+| 72 | 5% | 48% |  |
+| 73 | 3% | 43% |  |
+| 74 | 4% | 40% |  |
 | 75 | 4% | 36% |  |
 | 76 | 3% | 31% |  |
 | 77 | 3% | 28% |  |
