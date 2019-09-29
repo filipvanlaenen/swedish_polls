@@ -115,7 +115,7 @@ Last result: **16** seats (General Election of 9 September 2018)
 | N/A | [Poll Average](average.html) | 18 | 15–20 | 15–21 | 0–21 | 0–23 |
 | [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet |  |  |  |  |  |
 | [20–24 September 2019](2019-09-24-Sentio.html) | Sentio <br> Nyheter Idag |  |  |  |  |  |
-| [10–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 18 | 16–20 | 15–21 | 14–22 | 0–23 |
+| [10–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 18 | 15–20 | 14–21 | 0–22 | 0–23 |
 | [26 August–22 September 2019](2019-09-22-Novus.html) | Novus <br> SVT |  |  |  |  |  |
 | [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 18 | 15–20 | 15–21 | 14–21 | 0–22 |
@@ -125,7 +125,7 @@ Last result: **16** seats (General Election of 9 September 2018)
 | [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 21 | 18–24 | 18–25 | 18–26 | 16–27 |
 | [6–15 August 2019](2019-08-15-Sifo.html) | Sifo | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
 | [1–8 August 2019](2019-08-08-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–15 | 0–16 | 0–16 | 0–17 |
-| [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 17 | 14–19 | 0–21 | 0–22 | 0–23 |
+| [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 17 | 0–20 | 0–21 | 0–21 | 0–23 |
 | [24 June–1 July 2019](2019-07-01-Demoskop.html) | Demoskop | 19 | 17–22 | 16–23 | 16–24 | 14–25 |
 | [17–24 June 2019](2019-06-24-Inizio.html) | Inizio <br> Aftonbladet | 18 | 16–21 | 16–22 | 15–22 | 0–23 |
 | [3–23 June 2019](2019-06-23-Novus.html) | Novus <br> SVT | 22 | 20–23 | 19–24 | 18–25 | 17–26 |
@@ -199,30 +199,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% |  |
-| 1 | 0% | 97% |  |
-| 2 | 0% | 97% |  |
-| 3 | 0% | 97% |  |
-| 4 | 0% | 97% |  |
-| 5 | 0% | 97% |  |
-| 6 | 0% | 97% |  |
-| 7 | 0% | 97% |  |
-| 8 | 0% | 97% |  |
-| 9 | 0% | 97% |  |
-| 10 | 0% | 97% |  |
-| 11 | 0% | 97% |  |
-| 12 | 0% | 97% |  |
-| 13 | 0% | 97% |  |
-| 14 | 0.8% | 97% |  |
-| 15 | 8% | 96% |  |
-| 16 | 8% | 87% | Last Result |
-| 17 | 25% | 80% |  |
-| 18 | 22% | 55% | Median |
-| 19 | 19% | 33% |  |
-| 20 | 8% | 13% |  |
+| 0 | 4% | 100% |  |
+| 1 | 0% | 96% |  |
+| 2 | 0% | 96% |  |
+| 3 | 0% | 96% |  |
+| 4 | 0% | 96% |  |
+| 5 | 0% | 96% |  |
+| 6 | 0% | 96% |  |
+| 7 | 0% | 96% |  |
+| 8 | 0% | 96% |  |
+| 9 | 0% | 96% |  |
+| 10 | 0% | 96% |  |
+| 11 | 0% | 96% |  |
+| 12 | 0% | 96% |  |
+| 13 | 0% | 96% |  |
+| 14 | 1.1% | 96% |  |
+| 15 | 9% | 95% |  |
+| 16 | 8% | 86% | Last Result |
+| 17 | 24% | 77% |  |
+| 18 | 23% | 54% | Median |
+| 19 | 16% | 30% |  |
+| 20 | 8% | 14% |  |
 | 21 | 4% | 6% |  |
-| 22 | 1.1% | 2% |  |
-| 23 | 0.5% | 0.7% |  |
+| 22 | 1.2% | 2% |  |
+| 23 | 0.4% | 0.6% |  |
 | 24 | 0.1% | 0.2% |  |
 | 25 | 0% | 0.1% |  |
 | 26 | 0% | 0% |  |

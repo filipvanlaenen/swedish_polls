@@ -115,10 +115,10 @@ Last result: **22** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 22–34 | 22–36 | 21–36 | 19–39 |
+| N/A | [Poll Average](average.html) | 26 | 23–33 | 22–35 | 21–36 | 19–39 |
 | [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet |  |  |  |  |  |
 | [20–24 September 2019](2019-09-24-Sentio.html) | Sentio <br> Nyheter Idag |  |  |  |  |  |
-| [10–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 24 | 21–27 | 21–28 | 20–29 | 19–31 |
+| [10–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 25 | 22–28 | 21–29 | 21–30 | 19–32 |
 | [26 August–22 September 2019](2019-09-22-Novus.html) | Novus <br> SVT |  |  |  |  |  |
 | [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 26 | 25–27 | 24–28 | 24–28 | 24–29 |
 | [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 24 | 22–26 | 21–27 | 20–27 | 18–28 |
@@ -128,7 +128,7 @@ Last result: **22** seats (General Election of 9 September 2018)
 | [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 25 | 22–28 | 21–29 | 21–30 | 20–31 |
 | [6–15 August 2019](2019-08-15-Sifo.html) | Sifo | 31 | 28–33 | 28–34 | 28–34 | 27–34 |
 | [1–8 August 2019](2019-08-08-Inizio.html) | Inizio <br> Aftonbladet | 28 | 25–31 | 24–32 | 23–32 | 22–34 |
-| [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 33 | 30–36 | 29–36 | 27–38 | 26–42 |
+| [25 June–16 July 2019](2019-07-16-SKOP.html) | SKOP | 32 | 29–36 | 28–37 | 27–39 | 25–41 |
 | [24 June–1 July 2019](2019-07-01-Demoskop.html) | Demoskop | 29 | 26–32 | 26–33 | 25–34 | 23–36 |
 | [17–24 June 2019](2019-06-24-Inizio.html) | Inizio <br> Aftonbladet | 26 | 23–29 | 22–29 | 22–30 | 21–32 |
 | [3–23 June 2019](2019-06-23-Novus.html) | Novus <br> SVT | 28 | 26–31 | 25–31 | 24–32 | 24–33 |
@@ -205,29 +205,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0.1% | 100% |  |
 | 18 | 0.1% | 99.9% |  |
 | 19 | 0.5% | 99.8% |  |
-| 20 | 1.1% | 99.3% |  |
-| 21 | 3% | 98% |  |
-| 22 | 7% | 95% | Last Result |
-| 23 | 10% | 88% |  |
-| 24 | 10% | 78% |  |
-| 25 | 18% | 67% | Median |
-| 26 | 16% | 49% |  |
-| 27 | 5% | 33% |  |
-| 28 | 3% | 28% |  |
-| 29 | 2% | 25% |  |
-| 30 | 1.5% | 23% |  |
-| 31 | 4% | 22% |  |
-| 32 | 4% | 18% |  |
-| 33 | 3% | 14% |  |
-| 34 | 3% | 11% |  |
-| 35 | 1.3% | 8% |  |
-| 36 | 6% | 7% |  |
-| 37 | 0.2% | 1.2% |  |
-| 38 | 0.4% | 1.0% |  |
-| 39 | 0.2% | 0.6% |  |
-| 40 | 0.2% | 0.4% |  |
-| 41 | 0.1% | 0.2% |  |
-| 42 | 0.1% | 0.2% |  |
-| 43 | 0% | 0% |  |
+| 20 | 0.8% | 99.3% |  |
+| 21 | 2% | 98.5% |  |
+| 22 | 6% | 96% | Last Result |
+| 23 | 9% | 90% |  |
+| 24 | 11% | 81% |  |
+| 25 | 17% | 70% |  |
+| 26 | 17% | 53% | Median |
+| 27 | 7% | 36% |  |
+| 28 | 4% | 29% |  |
+| 29 | 3% | 26% |  |
+| 30 | 3% | 23% |  |
+| 31 | 4% | 20% |  |
+| 32 | 3% | 16% |  |
+| 33 | 4% | 12% |  |
+| 34 | 3% | 9% |  |
+| 35 | 2% | 6% |  |
+| 36 | 2% | 4% |  |
+| 37 | 0.6% | 2% |  |
+| 38 | 0.4% | 1.2% |  |
+| 39 | 0.3% | 0.8% |  |
+| 40 | 0.2% | 0.5% |  |
+| 41 | 0.2% | 0.3% |  |
+| 42 | 0.1% | 0.1% |  |
+| 43 | 0% | 0.1% |  |
+| 44 | 0% | 0% |  |
 
 
