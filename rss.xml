@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sun, 29 Sep 2019 15:00:02 +0200</pubDate>
+    <pubDate>Wed, 09 Oct 2019 19:15:25 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 20–25 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-09-25-Inizio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.2–25.9%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.4–20.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 20.5–24.1%&lt;/li&gt;&lt;li&gt;Centerpartiet: 8.7–11.3%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.4–9.8%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.1–7.1%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.8–4.4%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.4–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-09-25-Inizio.png"
+        length="213859"
+        type="image/png"/>
+      <pubDate>Wed, 09 Oct 2019 18:11:14 +0200</pubDate>
+      <dc:date>2019-10-09T18:11:14.04535+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 20–24 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-09-24-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 21.4–26.6%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 14.9–19.5%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 24.8–30.3%&lt;/li&gt;&lt;li&gt;Centerpartiet: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.8–11.4%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.6–7.6%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.8–5.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.8–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-09-24-Sentio.png"
+        length="233582"
+        type="image/png"/>
+      <pubDate>Wed, 09 Oct 2019 18:37:07 +0200</pubDate>
+      <dc:date>2019-10-09T18:37:07.995169+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–23 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-09-23-Ipsos.html</link>
@@ -18,6 +38,16 @@
         type="image/png"/>
       <pubDate>Sun, 29 Sep 2019 13:24:53 +0200</pubDate>
       <dc:date>2019-09-29T13:24:53.474478+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 26 August–22 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-09-22-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 23.3–26.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 19.1–21.7%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 19.4–22.0%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.2–8.9%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.3–10.2%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 6.0–7.6%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.0–4.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 4.3–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-09-22-Novus.png"
+        length="204123"
+        type="image/png"/>
+      <pubDate>Wed, 09 Oct 2019 19:15:25 +0200</pubDate>
+      <dc:date>2019-10-09T19:15:25.114416+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo, 2–12 September 2019 – Voting Intentions</title>
@@ -1889,6 +1919,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-09-29T15:00:02.643973+02:00</dc:date>
+    <dc:date>2019-10-09T19:15:25.114416+02:00</dc:date>
   </channel>
 </rss>
