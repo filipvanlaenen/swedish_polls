@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Wed, 09 Oct 2019 19:15:25 +0200</pubDate>
+    <pubDate>Thu, 10 Oct 2019 20:27:48 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Demoskop, 24 September–1 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-10-01-Demoskop.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 21.1–25.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.6–21.5%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 20.9–25.0%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.0–9.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.3–10.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.5–7.9%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.0–5.0%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 4.0–6.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-10-01-Demoskop.png"
+        length="222102"
+        type="image/png"/>
+      <pubDate>Thu, 10 Oct 2019 20:05:10 +0200</pubDate>
+      <dc:date>2019-10-10T20:05:10.600345+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 20–25 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-09-25-Inizio.html</link>
@@ -16,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-09-25-Inizio.png"
         length="213859"
         type="image/png"/>
-      <pubDate>Wed, 09 Oct 2019 18:11:14 +0200</pubDate>
-      <dc:date>2019-10-09T18:11:14.04535+02:00</dc:date>
+      <pubDate>Thu, 10 Oct 2019 20:27:48 +0200</pubDate>
+      <dc:date>2019-10-10T20:27:48.603877+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 20–24 September 2019 – Voting Intentions</title>
@@ -1919,6 +1929,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-10-09T19:15:25.114416+02:00</dc:date>
+    <dc:date>2019-10-10T20:27:48.603877+02:00</dc:date>
   </channel>
 </rss>
