@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Thu, 10 Oct 2019 20:27:48 +0200</pubDate>
+    <pubDate>Fri, 11 Oct 2019 16:30:13 +0200</pubDate>
     <item>
       <title>Opinion Poll by Demoskop, 24 September–1 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-10-01-Demoskop.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-09-25-Inizio.png"
         length="213859"
         type="image/png"/>
-      <pubDate>Thu, 10 Oct 2019 20:27:48 +0200</pubDate>
-      <dc:date>2019-10-10T20:27:48.603877+02:00</dc:date>
+      <pubDate>Thu, 10 Oct 2019 22:46:19 +0200</pubDate>
+      <dc:date>2019-10-10T22:46:19.556651+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 20–24 September 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-09-24-Sentio.png"
         length="233582"
         type="image/png"/>
-      <pubDate>Wed, 09 Oct 2019 18:37:07 +0200</pubDate>
-      <dc:date>2019-10-09T18:37:07.995169+02:00</dc:date>
+      <pubDate>Fri, 11 Oct 2019 15:25:44 +0200</pubDate>
+      <dc:date>2019-10-11T15:25:44.277733+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–23 September 2019 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-09-22-Novus.png"
         length="204123"
         type="image/png"/>
-      <pubDate>Wed, 09 Oct 2019 19:15:25 +0200</pubDate>
-      <dc:date>2019-10-09T19:15:25.114416+02:00</dc:date>
+      <pubDate>Fri, 11 Oct 2019 16:30:13 +0200</pubDate>
+      <dc:date>2019-10-11T16:30:13.338988+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo, 2–12 September 2019 – Voting Intentions</title>
@@ -1929,6 +1929,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-10-10T20:27:48.603877+02:00</dc:date>
+    <dc:date>2019-10-11T16:30:13.338988+02:00</dc:date>
   </channel>
 </rss>
