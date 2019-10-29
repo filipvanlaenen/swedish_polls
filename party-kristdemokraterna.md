@@ -10,7 +10,12 @@ Last result: **6.3%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.9% | 5.7–8.8% | 5.4–9.6% | 5.2–10.1% | 4.7–10.9% |
+| N/A | [Poll Average](average.html) | 6.6% | 5.7–7.6% | 5.4–7.9% | 5.2–8.2% | 4.7–8.8% |
+| [18–24 October 2019](2019-10-24-Sentio.html) | Sentio <br> Nyheter Idag | 6.5% | 5.5–7.7% | 5.2–8.1% | 5.0–8.4% | 4.5–9.1% |
+| [8–21 October 2019](2019-10-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8.0% | N/A | N/A | N/A | N/A |
+| [23 September–20 October 2019](2019-10-20-Novus.html) | Novus <br> SVT | 7.0% | N/A | N/A | N/A | N/A |
+| [7–17 October 2019](2019-10-17-Sifo.html) | Sifo | 6.9% | N/A | N/A | N/A | N/A |
+| [8–14 October 2019](2019-10-14-Inizio.html) | Inizio <br> Aftonbladet | 6.5% | N/A | N/A | N/A | N/A |
 | [24 September–1 October 2019](2019-10-01-Demoskop.html) | Demoskop | 6.6% | 5.9–7.5% | 5.7–7.7% | 5.5–7.9% | 5.2–8.4% |
 | [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet | 6.0% | 5.4–6.7% | 5.2–6.9% | 5.1–7.1% | 4.8–7.5% |
 | [20–24 September 2019](2019-09-24-Sentio.html) | Sentio <br> Nyheter Idag | 6.0% | 5.1–7.0% | 4.8–7.3% | 4.6–7.6% | 4.3–8.1% |
@@ -33,7 +38,7 @@ Last result: **6.3%** (General Election of 9 September 2018)
 | [3–13 June 2019](2019-06-13-Sentio.html) | Sentio <br> Nyheter Idag | 8.0% | 6.8–9.2% | 6.4–9.6% | 6.2–10.0% | 5.7–10.6% |
 | [27 May–3 June 2019](2019-06-03-Demoskop.html) | Demoskop <br> Expressen | 7.5% | 6.7–8.4% | 6.5–8.7% | 6.3–8.9% | 5.9–9.3% |
 | [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT | 10.0% | 9.4–10.7% | 9.2–10.9% | 9.1–11.0% | 8.8–11.3% |
-| [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 13.0% | 12.5–13.5% | 12.4–13.6% | 12.3–13.7% | 12.1–13.9% |
+| [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 13.0% | N/A | N/A | N/A | N/A |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 9.0% | 8.2–9.8% | 8.0–10.1% | 7.8–10.3% | 7.5–10.7% |
 | [17–21 May 2019](2019-05-21-Sentio.html) | Sentio <br> Nyheter Idag | 10.4% | 9.3–11.8% | 9.0–12.1% | 8.7–12.5% | 8.2–13.1% |
 | [6–21 May 2019](2019-05-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 12.0% | 11.1–12.9% | 10.9–13.2% | 10.7–13.4% | 10.3–13.9% |
@@ -98,15 +103,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.3% | 100% |  |
-| 4.5–5.5% | 6% | 99.7% |  |
-| 5.5–6.5% | 29% | 93% | Last Result |
-| 6.5–7.5% | 42% | 64% | Median |
-| 7.5–8.5% | 11% | 22% |  |
-| 8.5–9.5% | 6% | 11% |  |
-| 9.5–10.5% | 4% | 5% |  |
-| 10.5–11.5% | 1.0% | 1.1% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 4.5–5.5% | 7% | 99.7% |  |
+| 5.5–6.5% | 40% | 93% | Last Result |
+| 6.5–7.5% | 42% | 53% | Median |
+| 7.5–8.5% | 10% | 11% |  |
+| 8.5–9.5% | 0.9% | 1.0% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -117,7 +120,12 @@ Last result: **22** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 21–31 | 20–34 | 19–35 | 17–38 |
+| N/A | [Poll Average](average.html) | 25 | 22–27 | 21–28 | 19–29 | 18–33 |
+| [18–24 October 2019](2019-10-24-Sentio.html) | Sentio <br> Nyheter Idag | 25 | 22–28 | 21–28 | 19–31 | 17–34 |
+| [8–21 October 2019](2019-10-21-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
+| [23 September–20 October 2019](2019-10-20-Novus.html) | Novus <br> SVT |  |  |  |  |  |
+| [7–17 October 2019](2019-10-17-Sifo.html) | Sifo |  |  |  |  |  |
+| [8–14 October 2019](2019-10-14-Inizio.html) | Inizio <br> Aftonbladet |  |  |  |  |  |
 | [24 September–1 October 2019](2019-10-01-Demoskop.html) | Demoskop | 24 | 21–27 | 21–28 | 20–29 | 19–31 |
 | [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet | 22 | 20–25 | 19–26 | 19–27 | 18–28 |
 | [20–24 September 2019](2019-09-24-Sentio.html) | Sentio <br> Nyheter Idag | 22 | 19–26 | 18–27 | 17–28 | 16–30 |
@@ -140,7 +148,7 @@ Last result: **22** seats (General Election of 9 September 2018)
 | [3–13 June 2019](2019-06-13-Sentio.html) | Sentio <br> Nyheter Idag | 29 | 25–34 | 23–35 | 22–37 | 21–40 |
 | [27 May–3 June 2019](2019-06-03-Demoskop.html) | Demoskop <br> Expressen | 27 | 24–31 | 24–32 | 23–32 | 21–34 |
 | [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT | 36 | 33–38 | 33–39 | 32–40 | 31–41 |
-| [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 48 | 46–50 | 45–50 | 44–50 | 44–51 |
+| [29 April–28 May 2019](2019-05-28-SCB.html) | SCB |  |  |  |  |  |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 33 | 30–36 | 30–37 | 29–38 | 28–40 |
 | [17–21 May 2019](2019-05-21-Sentio.html) | Sentio <br> Nyheter Idag | 39 | 34–44 | 33–45 | 32–46 | 30–49 |
 | [6–21 May 2019](2019-05-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 44 | 40–47 | 39–48 | 38–49 | 37–51 |
@@ -205,34 +213,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0% | 100% |  |
-| 16 | 0.2% | 99.9% |  |
-| 17 | 0.4% | 99.8% |  |
-| 18 | 0.9% | 99.4% |  |
-| 19 | 2% | 98% |  |
-| 20 | 3% | 96% |  |
-| 21 | 8% | 93% |  |
-| 22 | 7% | 86% | Last Result |
-| 23 | 10% | 79% |  |
-| 24 | 11% | 69% |  |
-| 25 | 14% | 57% | Median |
-| 26 | 16% | 43% |  |
-| 27 | 7% | 27% |  |
-| 28 | 4% | 20% |  |
-| 29 | 2% | 16% |  |
-| 30 | 2% | 14% |  |
-| 31 | 2% | 11% |  |
-| 32 | 2% | 9% |  |
-| 33 | 2% | 7% |  |
-| 34 | 2% | 5% |  |
-| 35 | 1.3% | 4% |  |
-| 36 | 1.2% | 2% |  |
-| 37 | 0.4% | 1.1% |  |
-| 38 | 0.2% | 0.7% |  |
-| 39 | 0.2% | 0.5% |  |
-| 40 | 0.1% | 0.3% |  |
-| 41 | 0.1% | 0.2% |  |
-| 42 | 0% | 0.1% |  |
-| 43 | 0% | 0% |  |
+| 16 | 0.2% | 100% |  |
+| 17 | 0.1% | 99.8% |  |
+| 18 | 0.6% | 99.7% |  |
+| 19 | 2% | 99.0% |  |
+| 20 | 2% | 97% |  |
+| 21 | 5% | 95% |  |
+| 22 | 8% | 91% | Last Result |
+| 23 | 9% | 83% |  |
+| 24 | 9% | 74% |  |
+| 25 | 27% | 64% | Median |
+| 26 | 23% | 37% |  |
+| 27 | 5% | 14% |  |
+| 28 | 6% | 10% |  |
+| 29 | 1.5% | 4% |  |
+| 30 | 0.6% | 2% |  |
+| 31 | 0.8% | 2% |  |
+| 32 | 0.2% | 0.8% |  |
+| 33 | 0.2% | 0.6% |  |
+| 34 | 0.3% | 0.4% |  |
+| 35 | 0.1% | 0.1% |  |
+| 36 | 0% | 0% |  |
 
 
