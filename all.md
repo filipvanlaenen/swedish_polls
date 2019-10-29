@@ -5,6 +5,11 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
+| [18–24 October 2019](2019-10-24-Sentio.html) | Sentio <br> Nyheter Idag | 21–27% <br> 79–104 | 14–20% <br> 52–71 | 23–29% <br> 75–101 | 5–8% <br> 17–29 | 8–12% <br> 28–39 | 5–8% <br> 19–31 | 3–6% <br> 0–24 | 3–6% <br> 0–19 |
+| [8–21 October 2019](2019-10-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [23 September–20 October 2019](2019-10-20-Novus.html) | Novus <br> SVT | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–17 October 2019](2019-10-17-Sifo.html) | Sifo | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–14 October 2019](2019-10-14-Inizio.html) | Inizio <br> Aftonbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24 September–1 October 2019](2019-10-01-Demoskop.html) | Demoskop | 21–25% <br> 77–93 | 18–21% <br> 63–79 | 21–25% <br> 75–92 | 7–10% <br> 26–36 | 7–10% <br> 27–37 | 6–8% <br> 20–29 | 3–5% <br> 0–18 | 4–6% <br> 15–22 |
 | [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet | 22–26% <br> 81–97 | 17–21% <br> 64–79 | 21–24% <br> 76–92 | 9–11% <br> 33–43 | 7–10% <br> 28–37 | 5–7% <br> 19–27 | 3–4% <br> 0–16 | 3–5% <br> 0–19 |
 | [20–24 September 2019](2019-09-24-Sentio.html) | Sentio <br> Nyheter Idag | 21–27% <br> 78–101 | 15–20% <br> 54–73 | 25–30% <br> 91–112 | 5–8% <br> 17–29 | 8–11% <br> 28–42 | 5–8% <br> 17–28 | 3–5% <br> 0–17 | 3–5% <br> 0–19 |
@@ -27,7 +32,7 @@ The table below lists all polls registered and analyzed so far.
 | [3–13 June 2019](2019-06-13-Sentio.html) | Sentio <br> Nyheter Idag | 23–29% <br> 82–107 | 15–20% <br> 53–73 | 19–25% <br> 68–92 | 6–9% <br> 21–35 | 7–11% <br> 25–40 | 6–10% <br> 22–37 | 3–5% <br> 0–19 | 4–7% <br> 0–24 |
 | [27 May–3 June 2019](2019-06-03-Demoskop.html) | Demoskop <br> Expressen | 25–29% <br> 89–107 | 16–20% <br> 58–74 | 18–22% <br> 66–81 | 8–10% <br> 27–38 | 7–9% <br> 24–34 | 6–9% <br> 23–32 | 3–5% <br> 0–17 | 4–6% <br> 14–23 |
 | [6 May–2 June 2019](2019-06-02-Novus.html) | Novus <br> SVT | 25–27% <br> 87–99 | 16–19% <br> 59–69 | 16–19% <br> 58–69 | 8–10% <br> 28–35 | 8–10% <br> 29–36 | 9–11% <br> 32–40 | 3–5% <br> 0–17 | 5–6% <br> 17–23 |
-| [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | 27–29% <br> 97–105 | 15–17% <br> 56–62 | 16–18% <br> 59–66 | 6–7% <br> 23–27 | 8–9% <br> 30–34 | 12–14% <br> 44–50 | 3–4% <br> 0–14 | 5–6% <br> 19–23 |
+| [29 April–28 May 2019](2019-05-28-SCB.html) | SCB | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [21–28 May 2019](2019-05-28-Inizio.html) | Inizio <br> Aftonbladet | 24–28% <br> 90–105 | 17–20% <br> 61–74 | 17–20% <br> 62–75 | 9–11% <br> 33–43 | 7–10% <br> 26–36 | 8–10% <br> 29–38 | 2–4% <br> 0 | 4–5% <br> 0–20 |
 | [17–21 May 2019](2019-05-21-Sentio.html) | Sentio <br> Nyheter Idag | 22–28% <br> 81–102 | 13–18% <br> 49–67 | 19–24% <br> 68–88 | 5–8% <br> 19–32 | 8–12% <br> 31–46 | 9–12% <br> 32–46 | 2–5% <br> 0–17 | 4–6% <br> 0–23 |
 | [6–21 May 2019](2019-05-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 24–28% <br> 86–103 | 14–18% <br> 52–65 | 15–19% <br> 56–68 | 8–10% <br> 28–37 | 9–11% <br> 32–41 | 11–13% <br> 38–49 | 3–5% <br> 0–16 | 3–5% <br> 0–17 |
