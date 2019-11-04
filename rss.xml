@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Tue, 29 Oct 2019 06:51:54 +0100</pubDate>
+    <pubDate>Mon, 04 Nov 2019 19:12:12 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 18–24 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-10-24-Sentio.html</link>
@@ -16,8 +16,38 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-10-24-Sentio.png"
         length="247997"
         type="image/png"/>
-      <pubDate>Tue, 29 Oct 2019 06:51:54 +0100</pubDate>
-      <dc:date>2019-10-29T06:51:54.217233+01:00</dc:date>
+      <pubDate>Mon, 04 Nov 2019 17:32:25 +0100</pubDate>
+      <dc:date>2019-11-04T17:32:25.66974+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 8–21 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-10-21-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.0–26.2%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 14.3–17.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 21.0–25.2%&lt;/li&gt;&lt;li&gt;Centerpartiet: 6.8–9.5%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.6–11.6%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 6.8–9.5%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.1–5.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 4.0–6.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-10-21-Ipsos.png"
+        length="222586"
+        type="image/png"/>
+      <pubDate>Mon, 04 Nov 2019 17:58:30 +0100</pubDate>
+      <dc:date>2019-11-04T17:58:30.298221+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 23 September–20 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-10-20-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 24.4–27.2%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 18.2–20.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 19.4–22.0%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.6–9.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.5–9.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 6.2–7.9%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.1–4.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 4.3–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-10-20-Novus.png"
+        length="204140"
+        type="image/png"/>
+      <pubDate>Mon, 04 Nov 2019 18:35:11 +0100</pubDate>
+      <dc:date>2019-11-04T18:35:11.803135+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo, 7–17 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-10-17-Sifo.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 24.5–26.4%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.3–19.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 20.1–21.9%&lt;/li&gt;&lt;li&gt;Centerpartiet: 8.0–9.2%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.8–10.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 6.3–7.4%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.6–4.5%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 4.6–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-10-17-Sifo.png"
+        length="187131"
+        type="image/png"/>
+      <pubDate>Mon, 04 Nov 2019 19:12:12 +0100</pubDate>
+      <dc:date>2019-11-04T19:12:12.170976+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop, 24 September–1 October 2019 – Voting Intentions</title>
@@ -1909,6 +1939,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-10-29T06:51:54.217233+01:00</dc:date>
+    <dc:date>2019-11-04T19:12:12.170976+01:00</dc:date>
   </channel>
 </rss>
