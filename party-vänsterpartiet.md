@@ -134,8 +134,8 @@ Last result: **28** seats (General Election of 9 September 2018)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 34 | 28–38 | 27–40 | 26–41 | 24–45 |
 | [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 37 | 32–43 | 31–44 | 30–46 | 28–49 |
-| [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 36 | 34–39 | 33–39 | 33–40 | 32–41 |
-| [3–15 December 2019](2019-12-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 37 | 33–39 | 31–40 | 30–40 | 29–43 |
+| [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 36 | 34–38 | 33–39 | 33–40 | 32–41 |
+| [3–15 December 2019](2019-12-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 35 | 32–39 | 31–40 | 30–41 | 28–43 |
 | [2–12 December 2019](2019-12-12-Sifo.html) | Sifo | 35 | 33–37 | 33–37 | 33–37 | 32–39 |
 | [26 November–4 December 2019](2019-12-04-Demoskop.html) | Demoskop | 29 | 26–32 | 25–33 | 24–33 | 23–35 |
 | [28 October–26 November 2019](2019-11-26-SCB.html) | SCB | 29 | 27–31 | 27–32 | 26–32 | 25–33 |
@@ -247,14 +247,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 6% | 67% |  |
 | 32 | 5% | 61% |  |
 | 33 | 5% | 56% |  |
-| 34 | 9% | 51% | Median |
-| 35 | 9% | 43% |  |
-| 36 | 9% | 34% |  |
-| 37 | 11% | 25% |  |
-| 38 | 5% | 14% |  |
+| 34 | 8% | 50% | Median |
+| 35 | 10% | 43% |  |
+| 36 | 11% | 32% |  |
+| 37 | 9% | 22% |  |
+| 38 | 4% | 13% |  |
 | 39 | 3% | 9% |  |
 | 40 | 2% | 6% |  |
-| 41 | 1.4% | 4% |  |
+| 41 | 2% | 4% |  |
 | 42 | 0.7% | 2% |  |
 | 43 | 0.5% | 2% |  |
 | 44 | 0.6% | 1.2% |  |

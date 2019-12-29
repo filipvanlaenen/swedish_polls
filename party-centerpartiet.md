@@ -132,10 +132,10 @@ Last result: **31** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29 | 25–38 | 23–39 | 22–40 | 20–42 |
+| N/A | [Poll Average](average.html) | 29 | 25–38 | 24–39 | 22–40 | 20–42 |
 | [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 25 | 21–30 | 20–31 | 19–33 | 18–35 |
-| [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 30 | 29–32 | 28–33 | 27–34 | 26–35 |
-| [3–15 December 2019](2019-12-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 28 | 26–32 | 24–33 | 23–34 | 23–36 |
+| [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 30 | 28–33 | 28–33 | 27–34 | 26–35 |
+| [3–15 December 2019](2019-12-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 29 | 25–32 | 24–32 | 24–33 | 23–35 |
 | [2–12 December 2019](2019-12-12-Sifo.html) | Sifo | 29 | 27–30 | 27–31 | 27–31 | 26–32 |
 | [26 November–4 December 2019](2019-12-04-Demoskop.html) | Demoskop | 35 | 32–38 | 31–39 | 30–40 | 29–42 |
 | [28 October–26 November 2019](2019-11-26-SCB.html) | SCB | 26 | 24–28 | 24–29 | 24–29 | 23–30 |
@@ -244,16 +244,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 1.1% | 98% |  |
 | 23 | 2% | 97% |  |
 | 24 | 3% | 95% |  |
-| 25 | 4% | 92% |  |
-| 26 | 8% | 88% |  |
-| 27 | 7% | 80% |  |
-| 28 | 12% | 73% |  |
-| 29 | 11% | 60% | Median |
-| 30 | 9% | 49% |  |
-| 31 | 7% | 40% | Last Result |
-| 32 | 4% | 33% |  |
+| 25 | 5% | 92% |  |
+| 26 | 9% | 87% |  |
+| 27 | 8% | 78% |  |
+| 28 | 10% | 71% |  |
+| 29 | 11% | 61% | Median |
+| 30 | 9% | 50% |  |
+| 31 | 6% | 41% | Last Result |
+| 32 | 5% | 34% |  |
 | 33 | 4% | 29% |  |
-| 34 | 4% | 25% |  |
+| 34 | 4% | 24% |  |
 | 35 | 3% | 21% |  |
 | 36 | 4% | 18% |  |
 | 37 | 3% | 14% |  |

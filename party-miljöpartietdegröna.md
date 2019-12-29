@@ -129,10 +129,10 @@ Last result: **16** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 0–20 | 0–21 | 0–21 | 0–23 |
+| N/A | [Poll Average](average.html) | 17 | 0–20 | 0–20 | 0–21 | 0–23 |
 | [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 17 | 0–21 | 0–22 | 0–23 | 0–25 |
-| [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 18 | 17–20 | 17–20 | 16–21 | 15–22 |
-| [3–15 December 2019](2019-12-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 19 | 16–21 | 15–22 | 14–23 | 0–23 |
+| [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 18 | 17–20 | 16–20 | 16–21 | 15–22 |
+| [3–15 December 2019](2019-12-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 18 | 15–20 | 15–21 | 14–22 | 0–23 |
 | [2–12 December 2019](2019-12-12-Sifo.html) | Sifo | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
 | [26 November–4 December 2019](2019-12-04-Demoskop.html) | Demoskop | 16 | 0–18 | 0–19 | 0–19 | 0–21 |
 | [28 October–26 November 2019](2019-11-26-SCB.html) | SCB | 18 | 17–20 | 16–21 | 16–21 | 15–22 |
@@ -247,16 +247,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 89% |  |
 | 12 | 0% | 89% |  |
 | 13 | 0% | 89% |  |
-| 14 | 1.3% | 89% |  |
-| 15 | 9% | 88% |  |
-| 16 | 14% | 79% | Last Result |
-| 17 | 20% | 65% | Median |
-| 18 | 19% | 46% |  |
-| 19 | 15% | 27% |  |
-| 20 | 6% | 12% |  |
-| 21 | 3% | 5% |  |
-| 22 | 1.2% | 2% |  |
-| 23 | 0.5% | 0.8% |  |
+| 14 | 1.2% | 89% |  |
+| 15 | 10% | 88% |  |
+| 16 | 14% | 78% | Last Result |
+| 17 | 20% | 63% | Median |
+| 18 | 20% | 44% |  |
+| 19 | 12% | 24% |  |
+| 20 | 7% | 12% |  |
+| 21 | 3% | 4% |  |
+| 22 | 1.0% | 2% |  |
+| 23 | 0.4% | 0.7% |  |
 | 24 | 0.2% | 0.3% |  |
 | 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |

@@ -136,10 +136,10 @@ Last result: **100** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 88 | 80–95 | 75–97 | 73–98 | 68–101 |
+| N/A | [Poll Average](average.html) | 88 | 80–95 | 76–97 | 73–98 | 68–101 |
 | [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 78 | 71–85 | 69–87 | 67–89 | 64–93 |
-| [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 87 | 84–90 | 83–91 | 82–92 | 80–93 |
-| [3–15 December 2019](2019-12-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 87 | 82–92 | 81–94 | 79–96 | 78–98 |
+| [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 87 | 84–90 | 83–91 | 82–92 | 79–93 |
+| [3–15 December 2019](2019-12-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 88 | 83–93 | 82–95 | 81–96 | 78–99 |
 | [2–12 December 2019](2019-12-12-Sifo.html) | Sifo | 88 | 85–93 | 84–93 | 84–93 | 83–95 |
 | [26 November–4 December 2019](2019-12-04-Demoskop.html) | Demoskop | 88 | 83–94 | 81–95 | 79–96 | 78–100 |
 | [28 October–26 November 2019](2019-11-26-SCB.html) | SCB | 94 | 91–99 | 90–100 | 89–101 | 87–103 |
@@ -256,26 +256,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 76 | 0.9% | 95% |  |
 | 77 | 1.1% | 94% |  |
 | 78 | 1.3% | 93% |  |
-| 79 | 1.4% | 92% |  |
-| 80 | 1.3% | 90% |  |
+| 79 | 1.2% | 92% |  |
+| 80 | 1.4% | 90% |  |
 | 81 | 2% | 89% |  |
 | 82 | 2% | 87% |  |
-| 83 | 2% | 85% |  |
-| 84 | 4% | 82% |  |
+| 83 | 3% | 85% |  |
+| 84 | 4% | 83% |  |
 | 85 | 6% | 79% |  |
-| 86 | 8% | 73% |  |
-| 87 | 12% | 64% |  |
-| 88 | 6% | 52% | Median |
-| 89 | 7% | 46% |  |
-| 90 | 6% | 39% |  |
+| 86 | 9% | 73% |  |
+| 87 | 8% | 63% |  |
+| 88 | 7% | 55% | Median |
+| 89 | 6% | 48% |  |
+| 90 | 8% | 42% |  |
 | 91 | 6% | 34% |  |
 | 92 | 5% | 28% |  |
-| 93 | 6% | 22% |  |
+| 93 | 6% | 23% |  |
 | 94 | 5% | 17% |  |
 | 95 | 4% | 12% |  |
 | 96 | 3% | 8% |  |
 | 97 | 2% | 5% |  |
-| 98 | 1.3% | 4% |  |
+| 98 | 1.4% | 4% |  |
 | 99 | 0.8% | 2% |  |
 | 100 | 0.8% | 1.4% | Last Result |
 | 101 | 0.4% | 0.7% |  |
