@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sun, 29 Dec 2019 11:45:38 +0100</pubDate>
+    <pubDate>Mon, 30 Dec 2019 23:51:06 +0100</pubDate>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 13–18 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-12-18-Sentio.html#seats</link>
@@ -300,14 +300,34 @@
       <dc:date>2019-12-13T23:12:49.198591+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 8–14 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-10-14-Inizio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 84–99 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 65–78 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 76–91 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 33–43 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 25–34 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 20–28 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-10-14-Inizio-seats.png"
+        length="201395"
+        type="image/png"/>
+      <pubDate>Mon, 30 Dec 2019 23:51:06 +0100</pubDate>
+      <dc:date>2019-12-30T23:51:06.048282+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Inizio for Aftonbladet, 8–14 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2019-10-14-Inizio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-10-14-Inizio-coalitions-seats.png"
+        length="363027"
+        type="image/png"/>
+      <pubDate>Mon, 30 Dec 2019 23:51:06 +0100</pubDate>
+      <dc:date>2019-12-30T23:51:06.048282+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 8–14 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-10-14-Inizio.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.9–26.6%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.6–21.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 20.9–24.4%&lt;/li&gt;&lt;li&gt;Centerpartiet: 8.9–11.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 6.9–9.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.5–7.7%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.5–4.0%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.4–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-10-14-Inizio.png"
         length="214796"
         type="image/png"/>
-      <pubDate>Sat, 28 Dec 2019 13:37:25 +0100</pubDate>
-      <dc:date>2019-12-28T13:37:25.935985+01:00</dc:date>
+      <pubDate>Mon, 30 Dec 2019 23:51:06 +0100</pubDate>
+      <dc:date>2019-12-30T23:51:06.048282+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop, 24 September–1 October 2019 – Voting Intentions</title>
@@ -2209,6 +2229,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2019-12-29T11:45:38.026092+01:00</dc:date>
+    <dc:date>2019-12-30T23:51:06.048282+01:00</dc:date>
   </channel>
 </rss>
