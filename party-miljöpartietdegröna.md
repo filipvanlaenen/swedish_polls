@@ -10,7 +10,14 @@ Last result: **4.4%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 4.1–5.5% | 3.9–5.7% | 3.7–5.9% | 3.3–6.3% |
+| N/A | [Poll Average](average.html) | 4.6% | 4.0–5.4% | 3.9–5.5% | 3.8–5.7% | 3.7–5.9% |
+| [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 4.2% | 3.9–4.5% | 3.8–4.6% | 3.8–4.6% | 3.6–4.8% |
+| [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 3.8% | N/A | N/A | N/A | N/A |
+| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 4.1% | N/A | N/A | N/A | N/A |
+| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.0% | N/A | N/A | N/A | N/A |
+| [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 4.6% | N/A | N/A | N/A | N/A |
+| [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | 4.1% | N/A | N/A | N/A | N/A |
+| [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | 4.5% | 4.2–4.8% | 4.1–4.9% | 4.0–5.0% | 3.9–5.2% |
 | [30 December 2019–7 January 2020](2020-01-07-Demoskop.html) | Demoskop | 4.8% | 4.2–5.4% | 4.1–5.6% | 3.9–5.8% | 3.7–6.1% |
 | [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 4.5% | 3.7–5.6% | 3.5–5.9% | 3.3–6.2% | 2.9–6.8% |
 | [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 5.0% | 4.6–5.5% | 4.5–5.6% | 4.4–5.7% | 4.2–6.0% |
@@ -113,13 +120,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 28% | 98% | Last Result |
-| 4.5–5.5% | 63% | 71% | Median |
-| 5.5–6.5% | 8% | 8% |  |
-| 6.5–7.5% | 0.2% | 0.2% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 49% | 100% | Last Result |
+| 4.5–5.5% | 46% | 51% | Median |
+| 5.5–6.5% | 5% | 5% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -130,7 +135,14 @@ Last result: **16** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–20 | 0–20 | 0–21 | 0–23 |
+| N/A | [Poll Average](average.html) | 0 | 0–20 | 0–20 | 0–21 | 0–21 |
+| [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 0 | 0 | 0 | 0 | 0 |
+| [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop |  |  |  |  |  |
+| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag |  |  |  |  |  |
+| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
+| [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT |  |  |  |  |  |
+| [14–24 January 2020](2020-01-24-SKOP.html) | SKOP |  |  |  |  |  |
+| [6–16 January 2020](2020-01-16-Sifo.html) | Sifo |  |  |  |  |  |
 | [30 December 2019–7 January 2020](2020-01-07-Demoskop.html) | Demoskop | 18 | 16–20 | 15–20 | 15–21 | 0–22 |
 | [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 17 | 0–21 | 0–22 | 0–23 | 0–25 |
 | [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 18 | 17–20 | 16–20 | 16–21 | 15–22 |
@@ -235,32 +247,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% |  |
-| 1 | 0% | 92% |  |
-| 2 | 0% | 92% |  |
-| 3 | 0% | 92% |  |
-| 4 | 0% | 92% |  |
-| 5 | 0% | 92% |  |
-| 6 | 0% | 92% |  |
-| 7 | 0% | 92% |  |
-| 8 | 0% | 92% |  |
-| 9 | 0% | 92% |  |
-| 10 | 0% | 92% |  |
-| 11 | 0% | 92% |  |
-| 12 | 0% | 92% |  |
-| 13 | 0% | 92% |  |
-| 14 | 0.3% | 92% |  |
-| 15 | 8% | 91% |  |
-| 16 | 15% | 83% | Last Result |
-| 17 | 19% | 68% | Median |
-| 18 | 22% | 49% |  |
-| 19 | 14% | 27% |  |
-| 20 | 8% | 13% |  |
-| 21 | 3% | 5% |  |
-| 22 | 1.2% | 2% |  |
-| 23 | 0.4% | 0.7% |  |
-| 24 | 0.2% | 0.3% |  |
-| 25 | 0.1% | 0.1% |  |
-| 26 | 0% | 0% |  |
+| 0 | 50% | 100% | Median |
+| 1 | 0% | 50% |  |
+| 2 | 0% | 50% |  |
+| 3 | 0% | 50% |  |
+| 4 | 0% | 50% |  |
+| 5 | 0% | 50% |  |
+| 6 | 0% | 50% |  |
+| 7 | 0% | 50% |  |
+| 8 | 0% | 50% |  |
+| 9 | 0% | 50% |  |
+| 10 | 0% | 50% |  |
+| 11 | 0% | 50% |  |
+| 12 | 0% | 50% |  |
+| 13 | 0% | 50% |  |
+| 14 | 0% | 50% |  |
+| 15 | 0.3% | 50% |  |
+| 16 | 3% | 50% | Last Result |
+| 17 | 6% | 46% |  |
+| 18 | 19% | 40% |  |
+| 19 | 11% | 21% |  |
+| 20 | 7% | 10% |  |
+| 21 | 3% | 3% |  |
+| 22 | 0.2% | 0.3% |  |
+| 23 | 0.1% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 
