@@ -5,6 +5,13 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
+| [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 23–25% <br> 93 | 17–18% <br> 68 | 22–24% <br> 89 | 8–9% <br> 33 | 11–12% <br> 46 | 6–7% <br> 20 | 4–5% <br> 0 | 4–5% <br> 0 |
+| [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | 23–24% <br> N/A | 17–18% <br> N/A | 23–25% <br> N/A | 8–9% <br> N/A | 10–11% <br> N/A | 6–7% <br> N/A | 3–4% <br> N/A | 4–5% <br> N/A |
 | [30 December 2019–7 January 2020](2020-01-07-Demoskop.html) | Demoskop | 22–25% <br> 79–93 | 17–20% <br> 61–73 | 23–26% <br> 83–97 | 8–11% <br> 31–40 | 8–10% <br> 29–38 | 5–7% <br> 18–26 | 2–4% <br> 0 | 4–6% <br> 15–21 |
 | [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 18–24% <br> 67–89 | 14–19% <br> 51–72 | 26–32% <br> 95–120 | 5–9% <br> 19–33 | 8–12% <br> 30–46 | 5–8% <br> 18–30 | 2–5% <br> 0–16 | 3–6% <br> 0–23 |
 | [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 22–25% <br> 82–92 | 17–19% <br> 61–70 | 23–25% <br> 83–93 | 7–9% <br> 27–34 | 9–11% <br> 33–40 | 6–7% <br> 20–25 | 3–4% <br> 0–15 | 4–6% <br> 16–21 |
