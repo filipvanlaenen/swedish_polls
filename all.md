@@ -5,11 +5,11 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
-| [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 23–25% <br> 93 | 17–18% <br> 68 | 22–24% <br> 89 | 8–9% <br> 33 | 11–12% <br> 46 | 6–7% <br> 20 | 4–5% <br> 0 | 4–5% <br> 0 |
-| [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 23–25% <br> 80–90 | 17–18% <br> 59–67 | 22–24% <br> 79–88 | 8–9% <br> 27–32 | 11–12% <br> 37–44 | 6–7% <br> 20–24 | 4–5% <br> 0–17 | 4–5% <br> 0–16 |
+| [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 23–27% <br> 84–100 | 17–21% <br> 64–78 | 22–25% <br> 80–95 | 8–10% <br> 29–37 | 8–11% <br> 30–40 | 5–7% <br> 19–27 | 3–4% <br> 0–16 | 3–5% <br> 0–17 |
+| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 20–25% <br> 71–93 | 14–19% <br> 52–70 | 26–32% <br> 94–117 | 6–9% <br> 20–32 | 8–12% <br> 29–43 | 6–10% <br> 23–37 | 2–4% <br> 0 | 3–6% <br> 0–21 |
+| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 21–25% <br> 76–94 | 15–19% <br> 55–71 | 22–26% <br> 77–96 | 8–11% <br> 27–37 | 10–13% <br> 35–48 | 6–8% <br> 21–31 | 3–5% <br> 0–18 | 3–5% <br> 0–18 |
+| [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 23–25% <br> 84–95 | 17–19% <br> 63–72 | 21–24% <br> 79–87 | 8–10% <br> 29–35 | 10–11% <br> 35–42 | 5–7% <br> 20–25 | 3–4% <br> 0–14 | 4–5% <br> 15–20 |
 | [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | 23–24% <br> N/A | 17–18% <br> N/A | 23–25% <br> N/A | 8–9% <br> N/A | 10–11% <br> N/A | 6–7% <br> N/A | 3–4% <br> N/A | 4–5% <br> N/A |
 | [30 December 2019–7 January 2020](2020-01-07-Demoskop.html) | Demoskop | 22–25% <br> 79–93 | 17–20% <br> 61–73 | 23–26% <br> 83–97 | 8–11% <br> 31–40 | 8–10% <br> 29–38 | 5–7% <br> 18–26 | 2–4% <br> 0 | 4–6% <br> 15–21 |
