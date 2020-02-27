@@ -18,7 +18,7 @@ Last result: **8.0%** (General Election of 9 September 2018)
 | [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 11.0% | 10.0–12.1% | 9.8–12.4% | 9.5–12.7% | 9.1–13.2% |
 | [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 10.4% | 9.8–11.0% | 9.7–11.2% | 9.5–11.3% | 9.3–11.6% |
 | [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | 10.6% | 9.4–11.9% | 9.1–12.3% | 8.8–12.7% | 8.3–13.3% |
-| [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | 10.2% | 9.7–10.7% | 9.6–10.8% | 9.5–10.9% | 9.3–11.2% |
+| [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | 10.2% | 9.8–10.7% | 9.6–10.8% | 9.5–10.9% | 9.3–11.1% |
 | [30 December 2019–7 January 2020](2020-01-07-Demoskop.html) | Demoskop | 9.0% | 8.2–9.8% | 8.0–10.1% | 7.8–10.3% | 7.5–10.7% |
 | [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 10.1% | 8.8–11.6% | 8.5–12.0% | 8.2–12.4% | 7.6–13.1% |
 | [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 9.9% | 9.3–10.5% | 9.1–10.7% | 9.0–10.9% | 8.7–11.2% |
@@ -141,15 +141,15 @@ Last result: **28** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38 | 29–42 | 29–43 | 28–45 | 26–48 |
-| [27 January–16 February 2020](2020-02-16-Novus.html) | Novus <br> SVT | 41 | 35–43 | 35–43 | 35–43 | 34–47 |
+| N/A | [Poll Average](average.html) | 38 | 29–42 | 29–43 | 27–45 | 26–48 |
+| [27 January–16 February 2020](2020-02-16-Novus.html) | Novus <br> SVT | 39 | 36–42 | 36–43 | 36–43 | 33–45 |
 | [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 41 | 39–43 | 37–43 | 37–44 | 37–45 |
 | [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 34 | 31–38 | 31–39 | 30–40 | 29–41 |
-| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 35 | 31–41 | 30–43 | 29–43 | 28–46 |
+| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 36 | 31–41 | 30–42 | 29–43 | 27–45 |
 | [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 39 | 36–44 | 36–45 | 35–48 | 32–48 |
 | [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 38 | 36–40 | 35–41 | 35–42 | 34–43 |
 | [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | 39 | 34–45 | 33–45 | 33–46 | 30–50 |
-| [6–16 January 2020](2020-01-16-Sifo.html) | Sifo |  |  |  |  |  |
+| [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | 38 | 36–39 | 35–39 | 35–40 | 34–41 |
 | [30 December 2019–7 January 2020](2020-01-07-Demoskop.html) | Demoskop | 33 | 30–36 | 29–37 | 29–38 | 27–39 |
 | [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 37 | 32–43 | 31–44 | 30–46 | 28–49 |
 | [18 November–15 December 2019](2019-12-15-Novus.html) | Novus <br> SVT | 36 | 34–38 | 33–39 | 33–40 | 32–41 |
@@ -257,26 +257,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 25 | 0.1% | 100% |  |
 | 26 | 0.6% | 99.9% |  |
 | 27 | 2% | 99.3% |  |
-| 28 | 1.4% | 98% | Last Result |
+| 28 | 1.4% | 97% | Last Result |
 | 29 | 7% | 96% |  |
-| 30 | 3% | 89% |  |
-| 31 | 3% | 87% |  |
-| 32 | 5% | 84% |  |
+| 30 | 3% | 90% |  |
+| 31 | 4% | 87% |  |
+| 32 | 4% | 83% |  |
 | 33 | 5% | 79% |  |
-| 34 | 5% | 74% |  |
-| 35 | 6% | 69% |  |
-| 36 | 4% | 63% |  |
-| 37 | 7% | 59% |  |
+| 34 | 4% | 74% |  |
+| 35 | 5% | 71% |  |
+| 36 | 5% | 66% |  |
+| 37 | 8% | 61% |  |
 | 38 | 7% | 53% | Median |
-| 39 | 9% | 46% |  |
-| 40 | 9% | 37% |  |
-| 41 | 13% | 29% |  |
-| 42 | 6% | 16% |  |
-| 43 | 5% | 9% |  |
-| 44 | 1.2% | 5% |  |
+| 39 | 14% | 46% |  |
+| 40 | 8% | 32% |  |
+| 41 | 7% | 24% |  |
+| 42 | 8% | 17% |  |
+| 43 | 4% | 9% |  |
+| 44 | 1.1% | 4% |  |
 | 45 | 2% | 3% |  |
-| 46 | 0.5% | 2% |  |
-| 47 | 0.4% | 1.0% |  |
+| 46 | 0.5% | 1.4% |  |
+| 47 | 0.3% | 0.9% |  |
 | 48 | 0.4% | 0.6% |  |
 | 49 | 0.1% | 0.2% |  |
 | 50 | 0.1% | 0.1% |  |
