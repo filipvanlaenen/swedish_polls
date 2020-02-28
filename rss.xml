@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Thu, 27 Feb 2020 20:59:30 +0100</pubDate>
+    <pubDate>Fri, 28 Feb 2020 21:05:31 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 11–23 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-02-23-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 20.0–24.2%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.1–20.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 21.0–25.2%&lt;/li&gt;&lt;li&gt;Centerpartiet: 6.8–9.5%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 9.5–12.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 6.8–9.5%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.1–5.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 4.0–6.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-02-23-Ipsos.png"
+        length="224350"
+        type="image/png"/>
+      <pubDate>Fri, 28 Feb 2020 21:05:31 +0100</pubDate>
+      <dc:date>2020-02-28T21:05:31.992456+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 27 January–16 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-02-16-Novus.html</link>
@@ -2339,6 +2349,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2020-02-27T20:59:30.686943+01:00</dc:date>
+    <dc:date>2020-02-28T21:05:31.992456+01:00</dc:date>
   </channel>
 </rss>
