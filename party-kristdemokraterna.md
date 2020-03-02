@@ -140,10 +140,10 @@ Last result: **22** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 21–31 | 20–32 | 19–33 | 18–35 |
+| N/A | [Poll Average](average.html) | 24 | 21–31 | 20–32 | 20–33 | 18–35 |
 | [11–23 February 2020](2020-02-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 30 | 27–32 | 26–32 | 25–34 | 23–35 |
 | [27 January–16 February 2020](2020-02-16-Novus.html) | Novus <br> SVT | 21 | 19–24 | 19–25 | 19–25 | 17–26 |
-| [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 22 | 21–24 | 20–24 | 20–24 | 19–25 |
+| [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 21 | 20–23 | 20–24 | 20–24 | 19–25 |
 | [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 23 | 21–26 | 20–27 | 19–27 | 19–29 |
 | [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 29 | 25–33 | 24–34 | 23–36 | 21–38 |
 | [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 27 | 22–29 | 22–30 | 21–31 | 21–33 |
@@ -257,11 +257,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0.2% | 100% |  |
 | 18 | 0.4% | 99.8% |  |
 | 19 | 2% | 99.4% |  |
-| 20 | 6% | 97% |  |
-| 21 | 9% | 92% |  |
-| 22 | 16% | 82% | Last Result |
-| 23 | 9% | 66% |  |
-| 24 | 13% | 57% | Median |
+| 20 | 6% | 98% |  |
+| 21 | 12% | 91% |  |
+| 22 | 14% | 80% | Last Result |
+| 23 | 9% | 65% |  |
+| 24 | 12% | 56% | Median |
 | 25 | 9% | 44% |  |
 | 26 | 5% | 35% |  |
 | 27 | 4% | 30% |  |

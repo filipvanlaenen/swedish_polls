@@ -147,7 +147,7 @@ Last result: **100** seats (General Election of 9 September 2018)
 | N/A | [Poll Average](average.html) | 85 | 77–95 | 74–97 | 74–99 | 70–101 |
 | [11–23 February 2020](2020-02-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 78 | 74–84 | 73–86 | 71–88 | 70–89 |
 | [27 January–16 February 2020](2020-02-16-Novus.html) | Novus <br> SVT | 84 | 82–88 | 80–88 | 78–91 | 76–94 |
-| [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 84 | 82–88 | 81–89 | 80–90 | 79–92 |
+| [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 84 | 82–87 | 81–88 | 80–90 | 79–93 |
 | [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 91 | 87–98 | 85–99 | 84–100 | 82–103 |
 | [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 81 | 75–89 | 73–90 | 72–92 | 68–96 |
 | [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 86 | 80–91 | 77–93 | 76–94 | 74–96 |
@@ -273,15 +273,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 79 | 3% | 84% |  |
 | 80 | 4% | 82% |  |
 | 81 | 3% | 78% |  |
-| 82 | 5% | 76% |  |
-| 83 | 10% | 71% |  |
-| 84 | 8% | 61% |  |
-| 85 | 9% | 53% | Median |
+| 82 | 5% | 75% |  |
+| 83 | 11% | 70% |  |
+| 84 | 8% | 59% |  |
+| 85 | 8% | 50% | Median |
 | 86 | 3% | 43% |  |
-| 87 | 2% | 40% |  |
-| 88 | 4% | 38% |  |
+| 87 | 3% | 40% |  |
+| 88 | 3% | 37% |  |
 | 89 | 4% | 34% |  |
-| 90 | 4% | 30% |  |
+| 90 | 3% | 30% |  |
 | 91 | 5% | 26% |  |
 | 92 | 3% | 22% |  |
 | 93 | 4% | 19% |  |
