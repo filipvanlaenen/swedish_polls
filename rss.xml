@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Fri, 28 Feb 2020 21:05:31 +0100</pubDate>
+    <pubDate>Mon, 02 Mar 2020 21:29:46 +0100</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 11–23 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-02-23-Ipsos.html</link>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-02-13-Sifo.png"
         length="186444"
         type="image/png"/>
-      <pubDate>Sat, 22 Feb 2020 19:30:28 +0100</pubDate>
-      <dc:date>2020-02-22T19:30:28.789364+01:00</dc:date>
+      <pubDate>Mon, 02 Mar 2020 21:29:46 +0100</pubDate>
+      <dc:date>2020-03-02T21:29:46.736184+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop, 25 January–5 February 2020 – Voting Intentions</title>
@@ -2349,6 +2349,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2020-02-28T21:05:31.992456+01:00</dc:date>
+    <dc:date>2020-03-02T21:29:46.736184+01:00</dc:date>
   </channel>
 </rss>
