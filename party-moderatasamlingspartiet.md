@@ -142,9 +142,9 @@ Last result: **70** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 65 | 59–71 | 58–73 | 56–75 | 53–78 |
+| N/A | [Poll Average](average.html) | 64 | 59–71 | 58–73 | 56–74 | 53–78 |
 | [11–23 February 2020](2020-02-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 64 | 59–70 | 58–71 | 57–72 | 55–75 |
-| [27 January–16 February 2020](2020-02-16-Novus.html) | Novus <br> SVT | 66 | 62–70 | 60–71 | 58–71 | 58–74 |
+| [27 January–16 February 2020](2020-02-16-Novus.html) | Novus <br> SVT | 66 | 61–69 | 61–71 | 59–71 | 58–74 |
 | [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 62 | 60–65 | 60–66 | 59–67 | 58–68 |
 | [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 70 | 66–75 | 65–77 | 63–78 | 62–80 |
 | [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 61 | 56–67 | 55–69 | 53–70 | 50–74 |
@@ -268,13 +268,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 58 | 3% | 95% |  |
 | 59 | 4% | 92% |  |
 | 60 | 5% | 88% |  |
-| 61 | 5% | 83% |  |
-| 62 | 10% | 78% |  |
-| 63 | 9% | 68% |  |
-| 64 | 8% | 59% |  |
-| 65 | 8% | 51% | Median |
-| 66 | 11% | 44% |  |
-| 67 | 8% | 32% |  |
+| 61 | 6% | 83% |  |
+| 62 | 10% | 77% |  |
+| 63 | 10% | 67% |  |
+| 64 | 8% | 58% | Median |
+| 65 | 7% | 49% |  |
+| 66 | 10% | 43% |  |
+| 67 | 8% | 33% |  |
 | 68 | 5% | 25% |  |
 | 69 | 5% | 20% |  |
 | 70 | 4% | 15% | Last Result |
@@ -282,7 +282,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 72 | 2% | 7% |  |
 | 73 | 2% | 5% |  |
 | 74 | 1.3% | 4% |  |
-| 75 | 1.1% | 3% |  |
+| 75 | 1.0% | 2% |  |
 | 76 | 0.5% | 1.4% |  |
 | 77 | 0.4% | 0.9% |  |
 | 78 | 0.2% | 0.6% |  |
