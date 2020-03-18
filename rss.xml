@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sun, 15 Mar 2020 22:23:18 +0100</pubDate>
+    <pubDate>Wed, 18 Mar 2020 20:00:35 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Sifo, 2–12 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-03-12-Sifo.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.8–24.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.1–18.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 21.3–23.1%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.8–9.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 10.5–11.9%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 6.2–7.4%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.7–4.6%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.6–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-03-12-Sifo.png"
+        length="185610"
+        type="image/png"/>
+      <pubDate>Wed, 18 Mar 2020 20:00:35 +0100</pubDate>
+      <dc:date>2020-03-18T20:00:35.581594+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Demoskop, 25 February–3 March 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-03-03-Demoskop.html#seats</link>
@@ -2469,6 +2479,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2020-03-15T22:23:18.435531+01:00</dc:date>
+    <dc:date>2020-03-18T20:00:35.581594+01:00</dc:date>
   </channel>
 </rss>
