@@ -8,7 +8,47 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Thu, 19 Mar 2020 19:20:59 +0100</pubDate>
+    <pubDate>Fri, 27 Mar 2020 20:13:57 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 24 February–22 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-03-22-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 24.2–27.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.8–19.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 20.7–23.4%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.3–9.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.9–10.8%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.7–7.3%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.2–4.5%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.9–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-03-22-Novus.png"
+        length="200768"
+        type="image/png"/>
+      <pubDate>Fri, 27 Mar 2020 19:44:13 +0100</pubDate>
+      <dc:date>2020-03-27T19:44:13.281878+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–20 March 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-03-20-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 82–95 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 61–75 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 70–86 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 21–29 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 38–48 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 18–25 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 15–22 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–17 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-03-20-Ipsos-seats.png"
+        length="199158"
+        type="image/png"/>
+      <pubDate>Fri, 27 Mar 2020 19:10:37 +0100</pubDate>
+      <dc:date>2020-03-27T19:10:37.642559+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–20 March 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-03-20-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-03-20-Ipsos-coalitions-seats.png"
+        length="366764"
+        type="image/png"/>
+      <pubDate>Fri, 27 Mar 2020 19:10:37 +0100</pubDate>
+      <dc:date>2020-03-27T19:10:37.642559+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–20 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-03-20-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.9–27.2%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.1–21.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 20.0–24.1%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.9–8.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 10.5–13.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.9–7.3%&lt;/li&gt;&lt;li&gt;Liberalerna: 4.0–6.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.2–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-03-20-Ipsos.png"
+        length="221836"
+        type="image/png"/>
+      <pubDate>Fri, 27 Mar 2020 19:10:37 +0100</pubDate>
+      <dc:date>2020-03-27T19:10:37.642559+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sifo, 2–12 March 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-03-12-Sifo.html#seats</link>
@@ -190,74 +230,14 @@
       <dc:date>2020-03-04T20:38:03.975193+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Demoskop, 25 January–5 February 2020 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-02-05-Demoskop.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 85–101 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 63–78 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 80–95 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 29–38 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 30–40 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 20–28 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–14 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–17 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-02-05-Demoskop-seats.png"
-        length="184565"
-        type="image/png"/>
-      <pubDate>Tue, 03 Mar 2020 20:20:26 +0100</pubDate>
-      <dc:date>2020-03-03T20:20:26.824858+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop, 25 January–5 February 2020 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-02-05-Demoskop.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-02-05-Demoskop-coalitions-seats.png"
-        length="366118"
-        type="image/png"/>
-      <pubDate>Tue, 03 Mar 2020 20:20:26 +0100</pubDate>
-      <dc:date>2020-03-03T20:20:26.824858+01:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Demoskop, 25 January–5 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-02-05-Demoskop.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.9–26.6%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.3–20.6%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 21.8–25.4%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.8–10.2%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.2–10.6%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.3–7.4%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.5–4.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.1–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-02-05-Demoskop.png"
         length="213777"
         type="image/png"/>
-      <pubDate>Tue, 03 Mar 2020 20:20:26 +0100</pubDate>
-      <dc:date>2020-03-03T20:20:26.824858+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 24–28 January 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-01-28-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 19.3–25.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 14.2–19.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 25.7–32.0%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.4–9.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.9–12.0%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 6.2–10.0%&lt;/li&gt;&lt;li&gt;Liberalerna: 1.5–3.7%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.9–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-01-28-Sentio.png"
-        length="237499"
-        type="image/png"/>
-      <pubDate>Sun, 15 Mar 2020 22:23:18 +0100</pubDate>
-      <dc:date>2020-03-15T22:23:18.435531+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 14–27 January 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-01-27-Ipsos.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 20.9–25.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 15.2–19.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 21.9–26.2%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.7–10.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 9.5–12.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.8–8.4%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.1–5.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.1–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-01-27-Ipsos.png"
-        length="223241"
-        type="image/png"/>
-      <pubDate>Sat, 22 Feb 2020 20:52:15 +0100</pubDate>
-      <dc:date>2020-02-22T20:52:15.897566+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Novus for SVT, 7–26 January 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-01-26-Novus.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 23.0–25.5%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.2–19.5%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 21.4–23.9%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.9–9.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 9.5–11.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.4–6.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.0–4.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 4.0–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-01-26-Novus.png"
-        length="198676"
-        type="image/png"/>
-      <pubDate>Sun, 23 Feb 2020 13:27:08 +0100</pubDate>
-      <dc:date>2020-02-23T13:27:08.943853+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by SKOP, 14–24 January 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-01-24-SKOP.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 20.6–25.8%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 15.2–19.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 20.8–26.0%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.9–11.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.8–12.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.3–8.5%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.8–5.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.0–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-01-24-SKOP.png"
-        length="238521"
-        type="image/png"/>
-      <pubDate>Sun, 23 Feb 2020 14:00:06 +0100</pubDate>
-      <dc:date>2020-02-23T14:00:06.363255+01:00</dc:date>
+      <pubDate>Fri, 27 Mar 2020 20:13:57 +0100</pubDate>
+      <dc:date>2020-03-27T20:13:57.365065+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo, 6–16 January 2020 – Voting Intentions</title>
@@ -2519,6 +2499,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2020-03-19T19:20:59.130941+01:00</dc:date>
+    <dc:date>2020-03-27T20:13:57.365065+01:00</dc:date>
   </channel>
 </rss>
