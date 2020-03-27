@@ -10,7 +10,9 @@ Last result: **8.6%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.5% | 7.5–10.0% | 7.1–10.4% | 6.8–10.8% | 6.2–11.5% |
+| N/A | [Poll Average](average.html) | 8.2% | 6.9–9.5% | 6.5–9.9% | 6.2–10.2% | 5.8–10.7% |
+| [24 February–22 March 2020](2020-03-22-Novus.html) | Novus <br> SVT | 8.1% | 7.6–8.7% | 7.4–8.9% | 7.3–9.0% | 7.0–9.3% |
+| [10–20 March 2020](2020-03-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.9–8.4% | 5.5–8.8% |
 | [2–12 March 2020](2020-03-12-Sifo.html) | Sifo | 8.4% | 8.0–8.8% | 7.9–8.9% | 7.8–9.0% | 7.6–9.2% |
 | [25 February–3 March 2020](2020-03-03-Demoskop.html) | Demoskop | 9.4% | 8.7–10.2% | 8.5–10.5% | 8.3–10.7% | 7.9–11.1% |
 | [21–24 February 2020](2020-02-24-Sentio.html) | Sentio <br> Nyheter Idag | 7.9% | 6.8–9.2% | 6.4–9.6% | 6.2–10.0% | 5.7–10.6% |
@@ -19,9 +21,9 @@ Last result: **8.6%** (General Election of 9 September 2018)
 | [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 8.1% | 7.7–8.5% | 7.6–8.6% | 7.5–8.7% | 7.3–8.9% |
 | [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 8.9% | 8.1–9.7% | 7.9–10.0% | 7.8–10.2% | 7.4–10.6% |
 | [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 7.0% | 5.9–8.3% | 5.6–8.6% | 5.4–9.0% | 4.9–9.6% |
-| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 9.0% | 8.2–10.0% | 7.9–10.3% | 7.7–10.6% | 7.3–11.1% |
-| [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 8.7% | 8.2–9.3% | 8.0–9.4% | 7.9–9.6% | 7.7–9.8% |
-| [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | 9.6% | 8.5–10.9% | 8.2–11.3% | 7.9–11.6% | 7.4–12.2% |
+| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8.9% | N/A | N/A | N/A | N/A |
+| [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 8.7% | N/A | N/A | N/A | N/A |
+| [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | 9.6% | N/A | N/A | N/A | N/A |
 | [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | 8.5% | 8.1–8.9% | 8.0–9.0% | 7.9–9.1% | 7.7–9.3% |
 | [30 December 2019–7 January 2020](2020-01-07-Demoskop.html) | Demoskop | 9.5% | 8.7–10.4% | 8.5–10.6% | 8.3–10.9% | 8.0–11.3% |
 | [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 6.8% | 5.8–8.1% | 5.5–8.5% | 5.3–8.8% | 4.8–9.4% |
@@ -125,15 +127,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.2% | 100% |  |
-| 6.5–7.5% | 10% | 98.7% |  |
-| 7.5–8.5% | 41% | 88% | Median |
-| 8.5–9.5% | 30% | 47% | Last Result |
-| 9.5–10.5% | 14% | 17% |  |
-| 10.5–11.5% | 3% | 4% |  |
-| 11.5–12.5% | 0.4% | 0.5% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.2% | 100% |  |
+| 5.5–6.5% | 5% | 99.8% |  |
+| 6.5–7.5% | 19% | 94% |  |
+| 7.5–8.5% | 42% | 76% | Median |
+| 8.5–9.5% | 24% | 34% | Last Result |
+| 9.5–10.5% | 9% | 10% |  |
+| 10.5–11.5% | 0.9% | 0.9% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -144,18 +146,20 @@ Last result: **31** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31 | 27–37 | 26–38 | 25–39 | 23–43 |
+| N/A | [Poll Average](average.html) | 30 | 24–35 | 23–36 | 23–38 | 21–40 |
+| [24 February–22 March 2020](2020-03-22-Novus.html) | Novus <br> SVT | 30 | 27–32 | 27–32 | 26–33 | 26–34 |
+| [10–20 March 2020](2020-03-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 25 | 23–28 | 22–28 | 21–29 | 20–32 |
 | [2–12 March 2020](2020-03-12-Sifo.html) | Sifo | 31 | 29–32 | 29–33 | 28–34 | 28–34 |
 | [25 February–3 March 2020](2020-03-03-Demoskop.html) | Demoskop | 35 | 32–38 | 31–39 | 31–40 | 29–42 |
 | [21–24 February 2020](2020-02-24-Sentio.html) | Sentio <br> Nyheter Idag | 29 | 25–34 | 24–35 | 23–37 | 21–39 |
 | [11–23 February 2020](2020-02-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 29 | 25–32 | 25–33 | 24–35 | 23–36 |
 | [27 January–16 February 2020](2020-02-16-Novus.html) | Novus <br> SVT | 30 | 27–32 | 26–33 | 26–33 | 25–35 |
 | [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 29 | 27–30 | 27–31 | 27–31 | 26–32 |
-| [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 33 | 30–36 | 29–37 | 29–38 | 27–40 |
-| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 26 | 21–31 | 21–32 | 19–35 | 18–36 |
-| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 31 | 28–35 | 28–37 | 27–37 | 26–41 |
-| [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 32 | 30–34 | 29–34 | 29–35 | 28–36 |
-| [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | 35 | 31–40 | 30–43 | 29–43 | 27–46 |
+| [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 32 | 30–36 | 30–37 | 29–37 | 28–40 |
+| [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag |  |  |  |  |  |
+| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
+| [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT |  |  |  |  |  |
+| [14–24 January 2020](2020-01-24-SKOP.html) | SKOP |  |  |  |  |  |
 | [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | 31 | 29–32 | 29–33 | 29–34 | 27–35 |
 | [30 December 2019–7 January 2020](2020-01-07-Demoskop.html) | Demoskop | 35 | 32–38 | 32–39 | 31–40 | 29–41 |
 | [13–18 December 2019](2019-12-18-Sentio.html) | Sentio <br> Nyheter Idag | 25 | 21–30 | 20–31 | 19–33 | 18–35 |
@@ -261,33 +265,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 20 | 0% | 100% |  |
-| 21 | 0.1% | 99.9% |  |
-| 22 | 0.3% | 99.8% |  |
-| 23 | 0.6% | 99.6% |  |
-| 24 | 1.2% | 99.0% |  |
-| 25 | 2% | 98% |  |
-| 26 | 3% | 96% |  |
-| 27 | 4% | 92% |  |
-| 28 | 8% | 88% |  |
-| 29 | 10% | 81% |  |
-| 30 | 14% | 70% |  |
-| 31 | 13% | 56% | Last Result, Median |
-| 32 | 9% | 44% |  |
-| 33 | 7% | 35% |  |
-| 34 | 8% | 28% |  |
-| 35 | 4% | 20% |  |
-| 36 | 4% | 15% |  |
-| 37 | 2% | 11% |  |
-| 38 | 5% | 9% |  |
-| 39 | 2% | 4% |  |
-| 40 | 0.8% | 2% |  |
-| 41 | 0.3% | 2% |  |
-| 42 | 0.2% | 1.4% |  |
-| 43 | 0.8% | 1.1% |  |
-| 44 | 0.2% | 0.3% |  |
-| 45 | 0% | 0.1% |  |
-| 46 | 0.1% | 0.1% |  |
-| 47 | 0% | 0% |  |
+| 19 | 0.1% | 100% |  |
+| 20 | 0.2% | 99.9% |  |
+| 21 | 0.7% | 99.7% |  |
+| 22 | 1.0% | 99.0% |  |
+| 23 | 4% | 98% |  |
+| 24 | 5% | 94% |  |
+| 25 | 3% | 89% |  |
+| 26 | 7% | 86% |  |
+| 27 | 5% | 79% |  |
+| 28 | 8% | 75% |  |
+| 29 | 7% | 66% |  |
+| 30 | 14% | 59% | Median |
+| 31 | 9% | 45% | Last Result |
+| 32 | 12% | 35% |  |
+| 33 | 6% | 24% |  |
+| 34 | 5% | 17% |  |
+| 35 | 4% | 12% |  |
+| 36 | 3% | 8% |  |
+| 37 | 2% | 5% |  |
+| 38 | 2% | 3% |  |
+| 39 | 0.6% | 1.3% |  |
+| 40 | 0.4% | 0.7% |  |
+| 41 | 0.2% | 0.3% |  |
+| 42 | 0.1% | 0.1% |  |
+| 43 | 0% | 0% |  |
 
 
