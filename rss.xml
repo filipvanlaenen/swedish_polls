@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Fri, 27 Mar 2020 20:13:57 +0100</pubDate>
+    <pubDate>Sat, 28 Mar 2020 00:05:41 +0100</pubDate>
     <item>
       <title>Opinion Poll by Novus for SVT, 24 February–22 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-03-22-Novus.html</link>
@@ -238,6 +238,46 @@
         type="image/png"/>
       <pubDate>Fri, 27 Mar 2020 20:13:57 +0100</pubDate>
       <dc:date>2020-03-27T20:13:57.365065+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 24–28 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-01-28-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 19.3–25.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 14.2–19.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 25.7–32.0%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.4–9.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.8–11.9%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 6.1–9.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 1.5–3.7%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.9–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-01-28-Sentio.png"
+        length="237452"
+        type="image/png"/>
+      <pubDate>Fri, 27 Mar 2020 20:39:51 +0100</pubDate>
+      <dc:date>2020-03-27T20:39:51.97789+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 14–27 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-01-27-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 20.7–25.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 15.0–18.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 21.7–26.0%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.6–10.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 9.4–12.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.8–8.3%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.1–5.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.1–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-01-27-Ipsos.png"
+        length="224686"
+        type="image/png"/>
+      <pubDate>Fri, 27 Mar 2020 20:52:06 +0100</pubDate>
+      <dc:date>2020-03-27T20:52:06.561891+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 7–26 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-01-26-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 23.0–25.5%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.2–19.5%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 21.4–23.9%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.9–9.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 9.5–11.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.4–6.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.0–4.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 4.0–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-01-26-Novus.png"
+        length="198676"
+        type="image/png"/>
+      <pubDate>Fri, 27 Mar 2020 21:21:47 +0100</pubDate>
+      <dc:date>2020-03-27T21:21:47.762353+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 14–24 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-01-24-SKOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 20.6–25.8%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 15.2–19.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 20.8–26.0%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.9–11.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.8–12.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.3–8.5%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.8–5.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.0–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-01-24-SKOP.png"
+        length="238521"
+        type="image/png"/>
+      <pubDate>Sat, 28 Mar 2020 00:05:41 +0100</pubDate>
+      <dc:date>2020-03-28T00:05:41.92614+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo, 6–16 January 2020 – Voting Intentions</title>
@@ -2499,6 +2539,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2020-03-27T20:13:57.365065+01:00</dc:date>
+    <dc:date>2020-03-28T00:05:41.92614+01:00</dc:date>
   </channel>
 </rss>
