@@ -6,8 +6,8 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
 | [30 March–8 April 2020](2020-04-08-Sifo.html) | Sifo | 30–32% <br> 109–120 | 18–20% <br> 68–76 | 19–20% <br> 69–77 | 6–8% <br> 24–28 | 9–10% <br> 33–39 | 5–6% <br> 20–24 | 3–4% <br> 0–16 | 3–4% <br> 0 |
-| [25 March–1 April 2020](2020-04-01-Demoskop.html) | Demoskop | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [20–24 March 2020](2020-03-24-Sentio.html) | Sentio <br> Nyheter Idag | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [25 March–1 April 2020](2020-04-01-Demoskop.html) | Demoskop | 26–30% <br> 94–111 | 18–21% <br> 64–77 | 19–22% <br> 70–82 | 9–11% <br> 33–42 | 7–9% <br> 25–33 | 6–8% <br> 21–29 | 2–4% <br> 0 | 3–5% <br> 0–17 |
+| [20–24 March 2020](2020-03-24-Sentio.html) | Sentio <br> Nyheter Idag | 19–25% <br> 70–92 | 17–22% <br> 62–82 | 22–28% <br> 81–102 | 4–8% <br> 16–28 | 9–13% <br> 31–47 | 6–9% <br> 20–33 | 1–4% <br> 0 | 4–7% <br> 0–25 |
 | [24 February–22 March 2020](2020-03-22-Novus.html) | Novus <br> SVT | 24–27% <br> 86–100 | 17–19% <br> 60–71 | 21–23% <br> 73–86 | 7–9% <br> 26–33 | 9–11% <br> 32–39 | 6–7% <br> 21–27 | 3–4% <br> 0–16 | 4–5% <br> 0–19 |
 | [10–20 March 2020](2020-03-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 23–27% <br> 82–95 | 17–21% <br> 61–75 | 20–24% <br> 70–86 | 6–8% <br> 21–29 | 10–14% <br> 38–48 | 5–7% <br> 18–25 | 4–6% <br> 15–22 | 3–5% <br> 0–17 |
 | [2–12 March 2020](2020-03-12-Sifo.html) | Sifo | 23–25% <br> 82–94 | 17–19% <br> 61–71 | 21–23% <br> 76–87 | 8–9% <br> 28–34 | 11–12% <br> 38–44 | 6–7% <br> 23–27 | 4–5% <br> 0–17 | 4% <br> 0–16 |
