@@ -150,9 +150,9 @@ Last result: **16** seats (General Election of 9 September 2018)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 0–19 | 0–21 | 0–22 | 0–25 |
 | [30 March–8 April 2020](2020-04-08-Sifo.html) | Sifo | 0 | 0 | 0 | 0 | 0–15 |
-| [25 March–1 April 2020](2020-04-01-Demoskop.html) | Demoskop | 14 | 0–16 | 0–17 | 0–17 | 0–18 |
+| [25 March–1 April 2020](2020-04-01-Demoskop.html) | Demoskop | 15 | 0–17 | 0–17 | 0–18 | 0–19 |
 | [20–24 March 2020](2020-03-24-Sentio.html) | Sentio <br> Nyheter Idag | 19 | 16–23 | 15–24 | 0–25 | 0–28 |
-| [24 February–22 March 2020](2020-03-22-Novus.html) | Novus <br> SVT | 16 | 15–17 | 15–18 | 0–19 | 0–20 |
+| [24 February–22 March 2020](2020-03-22-Novus.html) | Novus <br> SVT | 16 | 15–17 | 15–18 | 14–19 | 0–20 |
 | [10–20 March 2020](2020-03-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 14 | 0–17 | 0–17 | 0–17 | 0–19 |
 | [2–12 March 2020](2020-03-12-Sifo.html) | Sifo | 14 | 0–15 | 0–16 | 0–16 | 0–17 |
 | [25 February–3 March 2020](2020-03-03-Demoskop.html) | Demoskop | 0 | 0 | 0 | 0 | 0–15 |
@@ -284,11 +284,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 62% |  |
 | 12 | 0% | 62% |  |
 | 13 | 0% | 62% |  |
-| 14 | 7% | 62% |  |
+| 14 | 6% | 62% |  |
 | 15 | 12% | 56% | Median |
 | 16 | 16% | 44% | Last Result |
-| 17 | 12% | 28% |  |
-| 18 | 5% | 16% |  |
+| 17 | 11% | 28% |  |
+| 18 | 5% | 17% |  |
 | 19 | 3% | 12% |  |
 | 20 | 3% | 9% |  |
 | 21 | 2% | 5% |  |
