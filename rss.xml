@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Tue, 14 Apr 2020 20:15:34 +0200</pubDate>
+    <pubDate>Tue, 14 Apr 2020 20:53:02 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sifo, 30 March–8 April 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-04-08-Sifo.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2020-04-13T18:23:05.669+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Demoskop, 25 March–1 April 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-04-01-Demoskop.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 94–111 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 64–77 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 69–84 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 33–42 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 25–33 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 21–29 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-04-01-Demoskop-seats.png"
+        length="190380"
+        type="image/png"/>
+      <pubDate>Tue, 14 Apr 2020 20:34:24 +0200</pubDate>
+      <dc:date>2020-04-14T20:34:24.267745+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop, 25 March–1 April 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-04-01-Demoskop.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-04-01-Demoskop-coalitions-seats.png"
+        length="358828"
+        type="image/png"/>
+      <pubDate>Tue, 14 Apr 2020 20:34:24 +0200</pubDate>
+      <dc:date>2020-04-14T20:34:24.267745+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Demoskop, 25 March–1 April 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-04-01-Demoskop.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 26.1–29.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.7–20.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 19.2–22.5%&lt;/li&gt;&lt;li&gt;Centerpartiet: 8.9–11.2%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 6.7–8.8%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.8–7.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.4–3.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.3–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-04-01-Demoskop.png"
         length="208034"
         type="image/png"/>
-      <pubDate>Tue, 14 Apr 2020 20:15:34 +0200</pubDate>
-      <dc:date>2020-04-14T20:15:34.031699+02:00</dc:date>
+      <pubDate>Tue, 14 Apr 2020 20:34:24 +0200</pubDate>
+      <dc:date>2020-04-14T20:34:24.267745+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 20–24 March 2020 – Seat Projections for the Parties</title>
@@ -80,14 +100,34 @@
       <dc:date>2020-04-14T18:30:10.939501+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Novus for SVT, 24 February–22 March 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-03-22-Novus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 86–100 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 60–71 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 74–86 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 26–33 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 32–40 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 21–27 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–16 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 14–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-03-22-Novus-seats.png"
+        length="181153"
+        type="image/png"/>
+      <pubDate>Tue, 14 Apr 2020 20:53:02 +0200</pubDate>
+      <dc:date>2020-04-14T20:53:02.767619+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 24 February–22 March 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-03-22-Novus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-03-22-Novus-coalitions-seats.png"
+        length="340284"
+        type="image/png"/>
+      <pubDate>Tue, 14 Apr 2020 20:53:02 +0200</pubDate>
+      <dc:date>2020-04-14T20:53:02.767619+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Novus for SVT, 24 February–22 March 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-03-22-Novus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 24.2–27.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.8–19.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 20.7–23.4%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.3–9.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.9–10.8%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.7–7.3%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.2–4.5%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.9–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-03-22-Novus.png"
         length="200768"
         type="image/png"/>
-      <pubDate>Sun, 12 Apr 2020 12:41:24 +0200</pubDate>
-      <dc:date>2020-04-12T12:41:24.550278+02:00</dc:date>
+      <pubDate>Tue, 14 Apr 2020 20:53:02 +0200</pubDate>
+      <dc:date>2020-04-14T20:53:02.767619+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–20 March 2020 – Seat Projections for the Parties</title>
@@ -2609,6 +2649,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2020-04-14T20:15:34.031699+02:00</dc:date>
+    <dc:date>2020-04-14T20:53:02.767619+02:00</dc:date>
   </channel>
 </rss>
