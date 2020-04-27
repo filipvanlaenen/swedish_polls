@@ -10,7 +10,8 @@ Last result: **5.5%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.4–4.9% | 2.1–5.3% | 1.9–5.6% | 1.5–6.1% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.4–4.9% | 2.1–5.3% | 1.9–5.6% | 1.5–6.1% |
+| [30 March–19 April 2020](2020-04-19-Novus.html) | Novus <br> SVT | 2.8% | 2.5–3.2% | 2.4–3.3% | 2.3–3.4% | 2.2–3.6% |
 | [30 March–8 April 2020](2020-04-08-Sifo.html) | Sifo | 3.8% | 3.5–4.1% | 3.4–4.2% | 3.4–4.3% | 3.2–4.5% |
 | [25 March–1 April 2020](2020-04-01-Demoskop.html) | Demoskop | 3.0% | 2.6–3.5% | 2.5–3.7% | 2.4–3.8% | 2.2–4.0% |
 | [20–24 March 2020](2020-03-24-Sentio.html) | Sentio <br> Nyheter Idag | 2.3% | 1.7–3.1% | 1.6–3.4% | 1.4–3.6% | 1.2–4.0% |
@@ -132,9 +133,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 0.7% | 100% |  |
-| 1.5–2.5% | 11% | 99.3% |  |
-| 2.5–3.5% | 30% | 88% |  |
-| 3.5–4.5% | 42% | 58% | Median |
+| 1.5–2.5% | 14% | 99.3% |  |
+| 2.5–3.5% | 41% | 86% | Median |
+| 3.5–4.5% | 29% | 44% |  |
 | 4.5–5.5% | 13% | 16% | Last Result |
 | 5.5–6.5% | 3% | 3% |  |
 | 6.5–7.5% | 0.1% | 0.1% |  |
@@ -150,6 +151,7 @@ Last result: **20** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–18 | 0–18 | 0–19 | 0–22 |
+| [30 March–19 April 2020](2020-04-19-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [30 March–8 April 2020](2020-04-08-Sifo.html) | Sifo | 0 | 0–15 | 0–15 | 0–16 | 0–16 |
 | [25 March–1 April 2020](2020-04-01-Demoskop.html) | Demoskop | 0 | 0 | 0 | 0 | 0–14 |
 | [20–24 March 2020](2020-03-24-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0 | 0 | 0 |
@@ -271,24 +273,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 68% | 100% | Median |
-| 1 | 0% | 32% |  |
-| 2 | 0% | 32% |  |
-| 3 | 0% | 32% |  |
-| 4 | 0% | 32% |  |
-| 5 | 0% | 32% |  |
-| 6 | 0% | 32% |  |
-| 7 | 0% | 32% |  |
-| 8 | 0% | 32% |  |
-| 9 | 0% | 32% |  |
-| 10 | 0% | 32% |  |
-| 11 | 0% | 32% |  |
-| 12 | 0% | 32% |  |
-| 13 | 0% | 32% |  |
-| 14 | 3% | 32% |  |
-| 15 | 9% | 29% |  |
-| 16 | 5% | 20% |  |
-| 17 | 2% | 16% |  |
+| 0 | 73% | 100% | Median |
+| 1 | 0% | 27% |  |
+| 2 | 0% | 27% |  |
+| 3 | 0% | 27% |  |
+| 4 | 0% | 27% |  |
+| 5 | 0% | 27% |  |
+| 6 | 0% | 27% |  |
+| 7 | 0% | 27% |  |
+| 8 | 0% | 27% |  |
+| 9 | 0% | 27% |  |
+| 10 | 0% | 27% |  |
+| 11 | 0% | 27% |  |
+| 12 | 0% | 27% |  |
+| 13 | 0% | 27% |  |
+| 14 | 0.4% | 27% |  |
+| 15 | 7% | 26% |  |
+| 16 | 4% | 20% |  |
+| 17 | 2% | 15% |  |
 | 18 | 10% | 14% |  |
 | 19 | 1.4% | 3% |  |
 | 20 | 0.6% | 2% | Last Result |
