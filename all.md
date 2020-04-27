@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
+| [30 March–19 April 2020](2020-04-19-Novus.html) | Novus <br> SVT | 29–32% <br> 106–120 | 17–20% <br> 64–75 | 18–21% <br> 68–79 | 7–9% <br> 26–32 | 9–10% <br> 32–40 | 5–7% <br> 20–26 | 2–3% <br> 0 | 3–4% <br> 0–16 |
 | [30 March–8 April 2020](2020-04-08-Sifo.html) | Sifo | 30–32% <br> 109–120 | 18–20% <br> 68–76 | 19–20% <br> 69–77 | 6–8% <br> 24–28 | 9–10% <br> 33–39 | 5–6% <br> 20–24 | 3–4% <br> 0–16 | 3–4% <br> 0 |
 | [25 March–1 April 2020](2020-04-01-Demoskop.html) | Demoskop | 26–30% <br> 94–111 | 18–21% <br> 64–77 | 19–22% <br> 69–84 | 9–11% <br> 33–42 | 7–9% <br> 25–33 | 6–8% <br> 21–29 | 2–4% <br> 0 | 3–5% <br> 0–18 |
 | [20–24 March 2020](2020-03-24-Sentio.html) | Sentio <br> Nyheter Idag | 19–25% <br> 70–92 | 17–22% <br> 62–82 | 22–28% <br> 81–102 | 4–8% <br> 16–28 | 9–13% <br> 31–47 | 6–9% <br> 20–33 | 1–4% <br> 0 | 4–7% <br> 0–25 |
