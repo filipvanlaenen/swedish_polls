@@ -152,7 +152,7 @@ Last result: **20** seats (General Election of 9 September 2018)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–15 | 0–16 | 0–17 | 0–19 |
 | [14–26 April 2020](2020-04-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 15 | 0–17 | 0–18 | 0–18 | 0–20 |
-| [17–21 April 2020](2020-04-21-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–15 | 0–17 | 0–18 | 0–20 |
+| [17–21 April 2020](2020-04-21-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–16 | 0–17 | 0–18 | 0–20 |
 | [30 March–19 April 2020](2020-04-19-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [30 March–8 April 2020](2020-04-08-Sifo.html) | Sifo | 0 | 0–15 | 0–15 | 0–16 | 0–16 |
 | [25 March–1 April 2020](2020-04-01-Demoskop.html) | Demoskop | 0 | 0 | 0 | 0 | 0–14 |
@@ -290,9 +290,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 21% |  |
 | 13 | 0% | 21% |  |
 | 14 | 0.2% | 21% |  |
-| 15 | 12% | 21% |  |
+| 15 | 12% | 20% |  |
 | 16 | 4% | 8% |  |
-| 17 | 3% | 5% |  |
+| 17 | 2% | 5% |  |
 | 18 | 1.4% | 2% |  |
 | 19 | 0.5% | 0.7% |  |
 | 20 | 0.1% | 0.2% | Last Result |
