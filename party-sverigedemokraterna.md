@@ -159,8 +159,8 @@ Last result: **62** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 75 | 69–89 | 69–94 | 67–97 | 65–102 |
-| [28 April–5 May 2020](2020-05-05-Demoskop.html) | Demoskop | 71 | 67–75 | 66–75 | 65–75 | 63–78 |
+| N/A | [Poll Average](average.html) | 75 | 69–89 | 68–94 | 66–97 | 64–102 |
+| [28 April–5 May 2020](2020-05-05-Demoskop.html) | Demoskop | 70 | 66–74 | 65–75 | 64–76 | 62–78 |
 | [14–26 April 2020](2020-04-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 77 | 71–83 | 70–84 | 68–86 | 66–89 |
 | [17–21 April 2020](2020-04-21-Sentio.html) | Sentio <br> Nyheter Idag | 89 | 82–97 | 80–100 | 77–102 | 74–107 |
 | [30 March–19 April 2020](2020-04-19-Novus.html) | Novus <br> SVT | 74 | 70–77 | 69–78 | 68–79 | 66–81 |
@@ -285,20 +285,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 62 | 0% | 100% | Last Result |
-| 63 | 0.1% | 100% |  |
-| 64 | 0.2% | 99.8% |  |
-| 65 | 0.7% | 99.7% |  |
-| 66 | 1.0% | 99.0% |  |
-| 67 | 2% | 98% |  |
-| 68 | 1.2% | 96% |  |
-| 69 | 6% | 95% |  |
-| 70 | 4% | 89% |  |
-| 71 | 7% | 85% |  |
-| 72 | 7% | 78% |  |
-| 73 | 8% | 70% |  |
-| 74 | 9% | 62% |  |
-| 75 | 10% | 53% | Median |
+| 62 | 0.1% | 100% | Last Result |
+| 63 | 0.1% | 99.9% |  |
+| 64 | 0.3% | 99.7% |  |
+| 65 | 0.7% | 99.4% |  |
+| 66 | 1.2% | 98.7% |  |
+| 67 | 2% | 97% |  |
+| 68 | 3% | 95% |  |
+| 69 | 4% | 92% |  |
+| 70 | 6% | 88% |  |
+| 71 | 7% | 83% |  |
+| 72 | 8% | 76% |  |
+| 73 | 8% | 69% |  |
+| 74 | 9% | 60% |  |
+| 75 | 9% | 52% | Median |
 | 76 | 7% | 43% |  |
 | 77 | 5% | 36% |  |
 | 78 | 3% | 31% |  |
