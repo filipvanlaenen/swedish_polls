@@ -169,7 +169,7 @@ Last result: **62** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 70 | 62–80 | 60–86 | 59–89 | 55–94 |
-| [1–11 June 2020](2020-06-11-Sifo.html) | Sifo | 71 | 69–74 | 69–75 | 68–75 | 67–76 |
+| [1–11 June 2020](2020-06-11-Sifo.html) | Sifo | 72 | 70–74 | 69–75 | 68–75 | 67–76 |
 | [26 May–3 June 2020](2020-06-03-Demoskop.html) | Demoskop | 72 | 67–76 | 66–77 | 65–79 | 63–80 |
 | [31 May–2 June 2020](2020-06-02-SKOP.html) | SKOP | 63 | 57–70 | 55–71 | 54–73 | 52–76 |
 | [29 April–27 May 2020](2020-05-27-SCB.html) | SCB | 63 | 61–66 | 60–67 | 60–67 | 59–68 |
@@ -322,13 +322,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 67 | 5% | 67% |  |
 | 68 | 4% | 62% |  |
 | 69 | 5% | 58% |  |
-| 70 | 5% | 52% | Median |
-| 71 | 9% | 47% |  |
-| 72 | 8% | 39% |  |
-| 73 | 4% | 31% |  |
-| 74 | 3% | 26% |  |
-| 75 | 4% | 23% |  |
-| 76 | 3% | 19% |  |
+| 70 | 6% | 53% | Median |
+| 71 | 7% | 47% |  |
+| 72 | 8% | 40% |  |
+| 73 | 5% | 32% |  |
+| 74 | 5% | 27% |  |
+| 75 | 3% | 23% |  |
+| 76 | 2% | 19% |  |
 | 77 | 2% | 17% |  |
 | 78 | 1.4% | 15% |  |
 | 79 | 2% | 14% |  |
