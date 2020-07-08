@@ -164,7 +164,7 @@ Last result: **16** seats (General Election of 9 September 2018)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–16 | 0–16 | 0–17 | 0–19 |
 | [25 May–21 June 2020](2020-06-21-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0–15 |
-| [12–15 June 2020](2020-06-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0–14 | 0–15 |
+| [12–15 June 2020](2020-06-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0–15 | 0–15 |
 | [1–11 June 2020](2020-06-11-Sifo.html) | Sifo | 0 | 0 | 0 | 0 | 0–15 |
 | [26 May–3 June 2020](2020-06-03-Demoskop.html) | Demoskop | 0 | 0–16 | 0–17 | 0–17 | 0–18 |
 | [31 May–2 June 2020](2020-06-02-SKOP.html) | SKOP | 0 | 0–17 | 0–17 | 0–18 | 0–20 |
