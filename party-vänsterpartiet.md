@@ -167,8 +167,8 @@ Last result: **28** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34 | 29–39 | 28–41 | 28–43 | 26–46 |
-| [10–12 July 2020](2020-07-12-Sentio.html) | Sentio <br> Nyheter Idag | 32 | 28–36 | 27–37 | 26–38 | 24–41 |
+| N/A | [Poll Average](average.html) | 34 | 29–39 | 28–41 | 27–43 | 25–46 |
+| [10–12 July 2020](2020-07-12-Sentio.html) | Sentio <br> Nyheter Idag | 32 | 27–36 | 26–37 | 24–39 | 23–42 |
 | [25 May–21 June 2020](2020-06-21-Novus.html) | Novus <br> SVT | 35 | 33–38 | 32–38 | 32–39 | 31–40 |
 | [12–15 June 2020](2020-06-15-Sentio.html) | Sentio <br> Nyheter Idag | 37 | 31–42 | 29–43 | 29–45 | 27–47 |
 | [12–15 June 2020](2020-06-15-Ipsos.html) | Ipsos <br> Dagens Nyheter | 34 | 30–38 | 29–39 | 28–40 | 27–42 |
@@ -307,19 +307,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 23 | 0.1% | 100% |  |
-| 24 | 0.1% | 99.9% |  |
-| 25 | 0.3% | 99.8% |  |
-| 26 | 0.6% | 99.6% |  |
-| 27 | 1.3% | 98.9% |  |
-| 28 | 3% | 98% | Last Result |
-| 29 | 8% | 95% |  |
-| 30 | 10% | 87% |  |
-| 31 | 7% | 77% |  |
-| 32 | 9% | 70% |  |
-| 33 | 7% | 61% |  |
+| 24 | 0.3% | 99.8% |  |
+| 25 | 0.4% | 99.6% |  |
+| 26 | 1.0% | 99.2% |  |
+| 27 | 1.4% | 98% |  |
+| 28 | 3% | 97% | Last Result |
+| 29 | 7% | 93% |  |
+| 30 | 10% | 86% |  |
+| 31 | 8% | 76% |  |
+| 32 | 8% | 68% |  |
+| 33 | 6% | 60% |  |
 | 34 | 9% | 54% | Median |
 | 35 | 8% | 45% |  |
-| 36 | 12% | 37% |  |
+| 36 | 11% | 37% |  |
 | 37 | 8% | 25% |  |
 | 38 | 6% | 17% |  |
 | 39 | 2% | 11% |  |
