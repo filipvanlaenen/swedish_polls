@@ -30,6 +30,14 @@
       <dc:date>2020-07-18T20:42:51.130604+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Demoskop, 30 June–7 July 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-07-07-Demoskop.html</link>
+      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Demoskop, 30 June–7 July 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-07-07-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-07-07-Demoskop.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-07-07-Demoskop.png" length="259034" type="image/png"/>
+      <pubDate>Thu, 23 Jul 2020 07:55:21 +0200</pubDate>
+      <dc:date>2020-07-23T07:55:21.913726+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Novus for SVT, 25 May–21 June 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-06-21-Novus.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Novus for SVT, 25 May–21 June 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-06-21-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-06-21-Novus-seating-plan.png"/>]]></description>
@@ -204,30 +212,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-05-24-Ipsos.png" length="269106" type="image/png"/>
       <pubDate>Thu, 4 Jun 2020 16:50:48 +0200</pubDate>
       <dc:date>2020-06-04T16:50:48.77354+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Novus for SVT, 27 April–24 May 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-05-24-Novus.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Novus for SVT, 27 April–24 May 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-05-24-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-05-24-Novus-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-05-24-Novus-seating-plan.png" length="751303" type="image/png"/>
-      <pubDate>Thu, 4 Jun 2020 17:23:46 +0200</pubDate>
-      <dc:date>2020-06-04T17:23:46.258826+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Novus for SVT, 27 April–24 May 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-05-24-Novus.html#seats</link>
-      <description><![CDATA[Seat projections for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Novus for SVT, 27 April–24 May 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-05-24-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-05-24-Novus-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-05-24-Novus-seats.png" length="224818" type="image/png"/>
-      <pubDate>Thu, 4 Jun 2020 17:23:46 +0200</pubDate>
-      <dc:date>2020-06-04T17:23:46.258826+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Novus for SVT, 27 April–24 May 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-05-24-Novus.html</link>
-      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Novus for SVT, 27 April–24 May 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-05-24-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-05-24-Novus.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-05-24-Novus.png" length="247096" type="image/png"/>
-      <pubDate>Thu, 4 Jun 2020 17:23:46 +0200</pubDate>
-      <dc:date>2020-06-04T17:23:46.258826+02:00</dc:date>
     </item>
   </channel>
 </rss>
