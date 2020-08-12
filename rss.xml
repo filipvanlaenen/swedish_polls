@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sun, 09 Aug 2020 11:16:53 +0200</pubDate>
+    <pubDate>Wed, 12 Aug 2020 19:06:09 +0200</pubDate>
     <item>
       <title>Opinion Poll by SKOP, 23–28 July 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-07-28-SKOP.html#seats</link>
@@ -130,14 +130,34 @@
       <dc:date>2020-07-09T17:42:24.506261+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 12–15 June 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-06-15-Sentio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 94–120 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 59–81 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 66–89 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 18–31 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 29–45 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 17–29 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–16 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-06-15-Sentio-seats.png"
+        length="250138"
+        type="image/png"/>
+      <pubDate>Wed, 12 Aug 2020 19:06:09 +0200</pubDate>
+      <dc:date>2020-08-12T19:06:09.700141+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 12–15 June 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-06-15-Sentio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-06-15-Sentio-coalitions-seats.png"
+        length="432387"
+        type="image/png"/>
+      <pubDate>Wed, 12 Aug 2020 19:06:09 +0200</pubDate>
+      <dc:date>2020-08-12T19:06:09.700141+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 12–15 June 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-06-15-Sentio.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 25.7–32.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.1–21.5%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.0–23.6%&lt;/li&gt;&lt;li&gt;Centerpartiet: 4.8–8.3%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.9–12.0%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.5–7.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.0–4.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.8–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-06-15-Sentio.png"
         length="288758"
         type="image/png"/>
-      <pubDate>Fri, 17 Jul 2020 07:11:32 +0200</pubDate>
-      <dc:date>2020-07-17T07:11:32.766636+02:00</dc:date>
+      <pubDate>Wed, 12 Aug 2020 19:06:09 +0200</pubDate>
+      <dc:date>2020-08-12T19:06:09.700141+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–15 June 2020 – Seat Projections for the Parties</title>
@@ -3199,6 +3219,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2020-08-09T11:16:53.453821+02:00</dc:date>
+    <dc:date>2020-08-12T19:06:09.700141+02:00</dc:date>
   </channel>
 </rss>
