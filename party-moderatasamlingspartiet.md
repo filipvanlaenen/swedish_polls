@@ -207,7 +207,7 @@ Last result: **70** seats (General Election of 9 September 2018)
 | [3–13 February 2020](2020-02-13-Sifo.html) | Sifo | 62 | 60–65 | 60–66 | 59–67 | 58–68 |
 | [25 January–5 February 2020](2020-02-05-Demoskop.html) | Demoskop | 70 | 66–75 | 65–77 | 64–78 | 61–80 |
 | [24–28 January 2020](2020-01-28-Sentio.html) | Sentio <br> Nyheter Idag | 61 | 55–68 | 54–70 | 52–71 | 49–74 |
-| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 61 | 58–66 | 56–69 | 55–70 | 52–72 |
+| [14–27 January 2020](2020-01-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 61 | 57–67 | 55–69 | 54–70 | 52–73 |
 | [7–26 January 2020](2020-01-26-Novus.html) | Novus <br> SVT | 67 | 64–70 | 63–71 | 63–72 | 61–73 |
 | [14–24 January 2020](2020-01-24-SKOP.html) | SKOP | 63 | 58–70 | 57–73 | 55–75 | 53–77 |
 | [6–16 January 2020](2020-01-16-Sifo.html) | Sifo | 64 | 61–65 | 61–67 | 60–68 | 59–68 |
