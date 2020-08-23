@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Wed, 19 Aug 2020 18:55:02 +0200</pubDate>
+    <pubDate>Sun, 23 Aug 2020 10:03:31 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Sifo, 10–20 August 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-08-20-Sifo.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 97–109 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 70–80 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 68–78 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 26–32 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 31–37 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 21–26 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–18 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-08-20-Sifo-seats.png"
+        length="229424"
+        type="image/png"/>
+      <pubDate>Sun, 23 Aug 2020 10:03:31 +0200</pubDate>
+      <dc:date>2020-08-23T10:03:31.938537+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo, 10–20 August 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-08-20-Sifo.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-08-20-Sifo-coalitions-seats.png"
+        length="349103"
+        type="image/png"/>
+      <pubDate>Sun, 23 Aug 2020 10:03:31 +0200</pubDate>
+      <dc:date>2020-08-23T10:03:31.938537+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo, 10–20 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-08-20-Sifo.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 26.6–29.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 19.3–21.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.7–20.7%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.1–8.5%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.4–10.0%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.8–7.1%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.7–4.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.1–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-08-20-Sifo.png"
+        length="242949"
+        type="image/png"/>
+      <pubDate>Sun, 23 Aug 2020 10:03:31 +0200</pubDate>
+      <dc:date>2020-08-23T10:03:31.938537+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Demoskop, 28 July–4 August 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-08-04-Demoskop.html#seats</link>
@@ -3269,6 +3299,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2020-08-19T18:55:02.322496+02:00</dc:date>
+    <dc:date>2020-08-23T10:03:31.938537+02:00</dc:date>
   </channel>
 </rss>
