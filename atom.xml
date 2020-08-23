@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_polls</id>
   <title>All Registered Polls for the Riksdagen</title>
-  <updated>2020-08-19T18:55:02.322496+02:00</updated>
+  <updated>2020-08-23T10:03:31.938537+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 26.6–29.0%, 97–109 seats</li><li>Moderata samlingspartiet: 19.3–21.4%, 70–80 seats</li><li>Sverigedemokraterna: 18.7–20.7%, 68–78 seats</li><li>Centerpartiet: 7.1–8.5%, 26–32 seats</li><li>Vänsterpartiet: 8.4–10.0%, 31–37 seats</li><li>Kristdemokraterna: 5.8–7.1%, 21–26 seats</li><li>Liberalerna: 3.7–4.8%, 0–18 seats</li><li>Miljöpartiet de gröna: 3.1–4.1%, 0–15 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_polls/2020-08-20-Sifo.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_polls/2020-08-20-Sifo.html"/>
+    <title>Opinion Poll by Sifo, 10–20 August 2020</title>
+    <updated>2020-08-23T10:03:31.938537+02:00</updated>
+    <dc:date>2020-08-23T10:03:31.938537+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 25.6–29.0%, 98–111 seats</li><li>Moderata samlingspartiet: 20.1–23.2%, 77–89 seats</li><li>Sverigedemokraterna: 19.0–22.1%, 73–85 seats</li><li>Centerpartiet: 7.8–9.9%, 30–38 seats</li><li>Vänsterpartiet: 5.9–7.8%, 23–30 seats</li><li>Kristdemokraterna: 4.8–6.5%, 18–25 seats</li><li>Liberalerna: 2.7–4.0%, 0–15 seats</li><li>Miljöpartiet de gröna: 2.8–4.2%, 0–15 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_polls/2020-08-04-Demoskop.html</id>
@@ -783,5 +791,5 @@
     <updated>2018-10-27T21:13:38.351324+02:00</updated>
     <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
   </entry>
-  <dc:date>2020-08-19T18:55:02.322496+02:00</dc:date>
+  <dc:date>2020-08-23T10:03:31.938537+02:00</dc:date>
 </feed>
