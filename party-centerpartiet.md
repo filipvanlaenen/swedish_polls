@@ -221,7 +221,7 @@ Last result: **31** seats (General Election of 9 September 2018)
 | [15–19 November 2019](2019-11-19-Sentio.html) | Sentio <br> Nyheter Idag | 26 | 22–30 | 21–32 | 20–33 | 18–35 |
 | [21 October–17 November 2019](2019-11-17-Novus.html) | Novus <br> SVT | 29 | 26–31 | 26–32 | 26–32 | 25–33 |
 | [4–14 November 2019](2019-11-14-Sifo.html) | Sifo | 31 | 29–32 | 29–33 | 28–33 | 28–34 |
-| [4–13 November 2019](2019-11-13-Demoskop.html) | Demoskop | 29 | 25–32 | 25–32 | 24–33 | 23–34 |
+| [4–13 November 2019](2019-11-13-Demoskop.html) | Demoskop | 28 | 25–32 | 25–32 | 24–33 | 23–34 |
 | [18–24 October 2019](2019-10-24-Sentio.html) | Sentio <br> Nyheter Idag | 24 | 20–28 | 19–29 | 18–30 | 16–33 |
 | [8–21 October 2019](2019-10-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 29 | 26–32 | 25–34 | 24–35 | 23–36 |
 | [23 September–20 October 2019](2019-10-20-Novus.html) | Novus <br> SVT | 30 | 29–34 | 29–35 | 28–35 | 26–36 |
