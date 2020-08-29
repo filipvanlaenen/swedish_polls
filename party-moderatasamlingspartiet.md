@@ -270,8 +270,8 @@ Last result: **70** seats (General Election of 9 September 2018)
 | [22–27 March 2019](2019-03-27-Sentio.html) | Sentio <br> Nyheter Idag | 65 | 59–72 | 58–74 | 57–75 | 54–78 |
 | [7–27 March 2019](2019-03-27-SKOP.html) | SKOP | 66 | 61–71 | 60–72 | 59–73 | 57–76 |
 | [12–25 March 2019](2019-03-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 66 | 60–72 | 59–72 | 58–74 | 56–77 |
-| [3–14 March 2019](2019-03-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 67 | 64–68 | 63–68 | 62–69 | 61–70 |
-| [26 February–5 March 2019](2019-03-05-Demoskop.html) | Demoskop <br> Expressen | 69 | 64–73 | 62–73 | 61–76 | 58–78 |
+| [3–14 March 2019](2019-03-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 66 | 64–68 | 63–69 | 62–70 | 61–70 |
+| [26 February–5 March 2019](2019-03-05-Demoskop.html) | Demoskop <br> Expressen | 68 | 63–73 | 62–75 | 61–76 | 59–79 |
 | [4 February–3 March 2019](2019-03-03-Novus.html) | Novus <br> SVT | 69 | 65–72 | 63–74 | 62–74 | 60–76 |
 | [22–25 February 2019](2019-02-25-Sentio.html) | Sentio <br> Nyheter Idag | 69 | 63–75 | 61–77 | 60–78 | 57–82 |
 | [7–20 February 2019](2019-02-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 62 | 57–67 | 56–69 | 55–70 | 53–73 |
