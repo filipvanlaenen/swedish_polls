@@ -225,7 +225,7 @@ Last result: **100** seats (General Election of 9 September 2018)
 | [28 October–26 November 2019](2019-11-26-SCB.html) | SCB | 94 | 91–99 | 90–100 | 89–101 | 87–103 |
 | [11–24 November 2019](2019-11-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 92 | 86–97 | 84–98 | 83–100 | 81–103 |
 | [15–19 November 2019](2019-11-19-Sentio.html) | Sentio <br> Nyheter Idag | 83 | 75–90 | 73–92 | 72–94 | 69–97 |
-| [21 October–17 November 2019](2019-11-17-Novus.html) | Novus <br> SVT | 95 | 92–99 | 91–101 | 90–101 | 88–102 |
+| [21 October–17 November 2019](2019-11-17-Novus.html) | Novus <br> SVT | 96 | 92–99 | 91–100 | 90–101 | 88–103 |
 | [4–14 November 2019](2019-11-14-Sifo.html) | Sifo | 90 | 87–92 | 86–93 | 86–93 | 84–94 |
 | [4–13 November 2019](2019-11-13-Demoskop.html) | Demoskop | 80 | 77–85 | 75–88 | 74–90 | 72–91 |
 | [18–24 October 2019](2019-10-24-Sentio.html) | Sentio <br> Nyheter Idag | 89 | 81–95 | 79–99 | 77–101 | 73–103 |
@@ -233,16 +233,16 @@ Last result: **100** seats (General Election of 9 September 2018)
 | [23 September–20 October 2019](2019-10-20-Novus.html) | Novus <br> SVT | 94 | 90–98 | 89–99 | 88–100 | 86–101 |
 | [7–17 October 2019](2019-10-17-Sifo.html) | Sifo | 92 | 89–95 | 88–97 | 87–97 | 86–99 |
 | [8–14 October 2019](2019-10-14-Inizio.html) | Inizio <br> Aftonbladet | 91 | 86–96 | 85–97 | 84–99 | 81–101 |
-| [24 September–1 October 2019](2019-10-01-Demoskop.html) | Demoskop | 84 | 79–89 | 77–91 | 77–93 | 74–96 |
-| [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet | 90 | 85–95 | 83–96 | 81–97 | 79–100 |
+| [24 September–1 October 2019](2019-10-01-Demoskop.html) | Demoskop | 84 | 79–89 | 77–91 | 76–93 | 74–96 |
+| [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet | 89 | 85–95 | 83–96 | 81–98 | 79–101 |
 | [20–24 September 2019](2019-09-24-Sentio.html) | Sentio <br> Nyheter Idag | 88 | 81–95 | 80–98 | 78–100 | 75–104 |
 | [10–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 92 | 87–97 | 85–99 | 84–100 | 82–103 |
 | [26 August–22 September 2019](2019-09-22-Novus.html) | Novus <br> SVT | 90 | 86–93 | 85–95 | 85–96 | 82–98 |
-| [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 91 | 90–95 | 89–96 | 89–97 | 87–99 |
-| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 87 | 82–91 | 82–92 | 80–94 | 78–96 |
+| [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 92 | 90–95 | 89–96 | 88–97 | 87–98 |
+| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 86 | 82–91 | 80–92 | 79–93 | 78–96 |
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 93 | 88–99 | 86–101 | 85–104 | 82–105 |
 | [22–27 August 2019](2019-08-27-Sentio.html) | Sentio <br> Nyheter Idag | 84 | 76–90 | 74–93 | 73–95 | 69–99 |
-| [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 97 | 91–100 | 90–101 | 89–103 | 87–105 |
+| [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 96 | 92–100 | 90–102 | 89–103 | 87–105 |
 | [13–25 August 2019](2019-08-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 93 | 87–98 | 86–99 | 85–101 | 82–103 |
 | [6–15 August 2019](2019-08-15-Sifo.html) | Sifo | 98 | 94–101 | 93–102 | 92–102 | 91–103 |
 | [1–8 August 2019](2019-08-08-Inizio.html) | Inizio <br> Aftonbladet | 97 | 90–102 | 89–103 | 87–105 | 85–107 |

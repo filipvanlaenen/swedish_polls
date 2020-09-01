@@ -224,13 +224,13 @@ Last result: **20** seats (General Election of 9 September 2018)
 | [23 September–20 October 2019](2019-10-20-Novus.html) | Novus <br> SVT | 0 | 0–15 | 0–15 | 0–15 | 0–16 |
 | [7–17 October 2019](2019-10-17-Sifo.html) | Sifo | 14 | 0–15 | 0–15 | 0–16 | 0–16 |
 | [8–14 October 2019](2019-10-14-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0 | 0 | 0 | 0–16 |
-| [24 September–1 October 2019](2019-10-01-Demoskop.html) | Demoskop | 0 | 0–17 | 0–17 | 0–18 | 0–19 |
+| [24 September–1 October 2019](2019-10-01-Demoskop.html) | Demoskop | 0 | 0–16 | 0–17 | 0–18 | 0–19 |
 | [20–25 September 2019](2019-09-25-Inizio.html) | Inizio <br> Aftonbladet | 0 | 0–15 | 0–15 | 0–16 | 0–17 |
 | [20–24 September 2019](2019-09-24-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–17 | 0–17 | 0–17 | 0–21 |
 | [10–23 September 2019](2019-09-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 17 | 16–20 | 14–22 | 0–22 | 0–22 |
 | [26 August–22 September 2019](2019-09-22-Novus.html) | Novus <br> SVT | 0 | 0–14 | 0–15 | 0–15 | 0–16 |
 | [2–12 September 2019](2019-09-12-Sifo.html) | Sifo | 15 | 0–16 | 0–16 | 0–16 | 0–17 |
-| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 16 | 0–19 | 0–19 | 0–20 | 0–21 |
+| [27 August–3 September 2019](2019-09-03-Demoskop.html) | Demoskop | 17 | 14–19 | 0–20 | 0–20 | 0–22 |
 | [22–28 August 2019](2019-08-28-Inizio.html) | Inizio <br> Aftonbladet | 15 | 0–17 | 0–19 | 0–19 | 0–19 |
 | [22–27 August 2019](2019-08-27-Sentio.html) | Sentio <br> Nyheter Idag | 20 | 16–23 | 15–25 | 14–26 | 0–28 |
 | [5–25 August 2019](2019-08-25-Novus.html) | Novus <br> SVT | 0 | 0–15 | 0–15 | 0–16 | 0–17 |
