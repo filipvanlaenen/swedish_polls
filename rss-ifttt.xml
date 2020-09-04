@@ -6,6 +6,22 @@
     <description>All Registered Polls for the Riksdagen</description>
     <pubDate>Fri, 17 Jul 2020 21:17:04 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 11–23 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-08-23-Ipsos.html</link>
+      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Ipsos for Dagens Nyheter, 11–23 August 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-08-23-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-08-23-Ipsos.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-08-23-Ipsos.png" length="274872" type="image/png"/>
+      <pubDate>Fri, 4 Sep 2020 07:13:59 +0200</pubDate>
+      <dc:date>2020-09-04T07:13:59.602131+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 3–23 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-08-23-Novus.html</link>
+      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Novus for SVT, 3–23 August 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-08-23-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-08-23-Novus.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-08-23-Novus.png" length="251104" type="image/png"/>
+      <pubDate>Fri, 4 Sep 2020 18:47:16 +0200</pubDate>
+      <dc:date>2020-09-04T18:47:16.339682+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sifo, 10–20 August 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-08-20-Sifo.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Sifo, 10–20 August 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-08-20-Sifo.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-08-20-Sifo-seating-plan.png"/>]]></description>
@@ -196,54 +212,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-06-15-Sentio.png" length="288758" type="image/png"/>
       <pubDate>Wed, 12 Aug 2020 19:06:09 +0200</pubDate>
       <dc:date>2020-08-12T19:06:09.700141+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sifo, 1–11 June 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-06-11-Sifo.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Sifo, 1–11 June 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-06-11-Sifo.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-06-11-Sifo-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-06-11-Sifo-seating-plan.png" length="715467" type="image/png"/>
-      <pubDate>Fri, 19 Jun 2020 12:18:31 +0200</pubDate>
-      <dc:date>2020-06-19T12:18:31.984483+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sifo, 1–11 June 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-06-11-Sifo.html#seats</link>
-      <description><![CDATA[Seat projections for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Sifo, 1–11 June 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-06-11-Sifo.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-06-11-Sifo-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-06-11-Sifo-seats.png" length="196855" type="image/png"/>
-      <pubDate>Fri, 19 Jun 2020 12:18:31 +0200</pubDate>
-      <dc:date>2020-06-19T12:18:31.984483+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sifo, 1–11 June 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-06-11-Sifo.html</link>
-      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Sifo, 1–11 June 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-06-11-Sifo.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-06-11-Sifo.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-06-11-Sifo.png" length="235971" type="image/png"/>
-      <pubDate>Fri, 19 Jun 2020 12:18:31 +0200</pubDate>
-      <dc:date>2020-06-19T12:18:31.984483+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop, 26 May–3 June 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-06-03-Demoskop.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Demoskop, 26 May–3 June 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-06-03-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-06-03-Demoskop-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-06-03-Demoskop-seating-plan.png" length="742117" type="image/png"/>
-      <pubDate>Sun, 14 Jun 2020 23:11:36 +0200</pubDate>
-      <dc:date>2020-06-14T23:11:36.78496+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop, 26 May–3 June 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-06-03-Demoskop.html#seats</link>
-      <description><![CDATA[Seat projections for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Demoskop, 26 May–3 June 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-06-03-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-06-03-Demoskop-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-06-03-Demoskop-seats.png" length="222953" type="image/png"/>
-      <pubDate>Sun, 14 Jun 2020 23:11:36 +0200</pubDate>
-      <dc:date>2020-06-14T23:11:36.78496+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop, 26 May–3 June 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-06-03-Demoskop.html</link>
-      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Demoskop, 26 May–3 June 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-06-03-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-06-03-Demoskop.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-06-03-Demoskop.png" length="259668" type="image/png"/>
-      <pubDate>Sun, 14 Jun 2020 23:11:36 +0200</pubDate>
-      <dc:date>2020-06-14T23:11:36.78496+02:00</dc:date>
     </item>
   </channel>
 </rss>
