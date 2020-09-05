@@ -170,9 +170,9 @@ Last result: **22** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 20–25 | 19–26 | 18–27 | 16–29 |
-| [3–23 August 2020](2020-08-23-Novus.html) | Novus <br> SVT | 22 | 20–23 | 19–24 | 19–24 | 18–26 |
-| [11–23 August 2020](2020-08-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 22 | 20–25 | 19–27 | 18–28 | 17–30 |
+| N/A | [Poll Average](average.html) | 23 | 20–25 | 19–26 | 18–27 | 16–29 |
+| [3–23 August 2020](2020-08-23-Novus.html) | Novus <br> SVT | 22 | 20–24 | 20–24 | 19–25 | 18–26 |
+| [11–23 August 2020](2020-08-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 22 | 20–26 | 19–26 | 18–28 | 17–29 |
 | [10–20 August 2020](2020-08-20-Sifo.html) | Sifo | 24 | 22–25 | 22–26 | 21–26 | 21–27 |
 | [28 July–4 August 2020](2020-08-04-Demoskop.html) | Demoskop | 22 | 20–23 | 19–24 | 18–25 | 17–26 |
 | [23–28 July 2020](2020-07-28-SKOP.html) | SKOP | 22 | 19–26 | 18–27 | 17–28 | 16–31 |
@@ -332,20 +332,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 99.8% |  |
 | 15 | 0.1% | 99.8% |  |
 | 16 | 0.6% | 99.7% |  |
-| 17 | 1.4% | 99.0% |  |
+| 17 | 1.3% | 99.0% |  |
 | 18 | 2% | 98% |  |
 | 19 | 5% | 95% |  |
 | 20 | 9% | 90% |  |
-| 21 | 15% | 81% |  |
-| 22 | 17% | 66% | Last Result, Median |
-| 23 | 20% | 49% |  |
-| 24 | 15% | 29% |  |
-| 25 | 8% | 14% |  |
-| 26 | 4% | 6% |  |
-| 27 | 1.5% | 3% |  |
-| 28 | 0.8% | 1.5% |  |
-| 29 | 0.3% | 0.7% |  |
-| 30 | 0.2% | 0.4% |  |
+| 21 | 14% | 81% |  |
+| 22 | 17% | 68% | Last Result |
+| 23 | 20% | 50% | Median |
+| 24 | 15% | 31% |  |
+| 25 | 9% | 16% |  |
+| 26 | 4% | 7% |  |
+| 27 | 2% | 3% |  |
+| 28 | 0.8% | 1.4% |  |
+| 29 | 0.3% | 0.6% |  |
+| 30 | 0.2% | 0.3% |  |
 | 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% |  |
 
