@@ -10,7 +10,10 @@ Last result: **8.0%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.2% | 7.6–10.8% | 7.2–11.4% | 7.0–11.8% | 6.5–12.6% |
+| N/A | [Poll Average](average.html) | 9.7% | 8.7–10.9% | 8.4–11.4% | 8.1–11.8% | 7.6–12.6% |
+| [5–15 October 2020](2020-10-15-Sifo.html) | Sifo | 10.0% | 9.6–10.5% | 9.4–10.6% | 9.3–10.7% | 9.1–10.9% |
+| [14 September–11 October 2020](2020-10-11-Novus.html) | Novus <br> SVT | 9.6% | 9.0–10.2% | 8.8–10.4% | 8.7–10.6% | 8.4–10.9% |
+| [1–7 October 2020](2020-10-07-Demoskop.html) | Demoskop | 9.2% | 8.5–9.9% | 8.3–10.2% | 8.2–10.3% | 7.8–10.7% |
 | [8–21 September 2020](2020-09-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 9.0% | 8.1–10.0% | 7.9–10.3% | 7.7–10.6% | 7.3–11.1% |
 | [7–17 September 2020](2020-09-17-Sifo.html) | Sifo | 8.9% | 8.4–9.4% | 8.3–9.6% | 8.1–9.7% | 7.9–10.0% |
 | [24 August–13 September 2020](2020-09-13-Novus.html) | Novus <br> SVT | 9.4% | 8.8–10.1% | 8.6–10.3% | 8.4–10.5% | 8.1–10.9% |
@@ -158,13 +161,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.6% | 100% |  |
-| 6.5–7.5% | 9% | 99.4% |  |
-| 7.5–8.5% | 16% | 91% | Last Result |
-| 8.5–9.5% | 38% | 75% | Median |
-| 9.5–10.5% | 23% | 37% |  |
-| 10.5–11.5% | 10% | 14% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0.4% | 100% |  |
+| 7.5–8.5% | 7% | 99.6% | Last Result |
+| 8.5–9.5% | 34% | 92% |  |
+| 9.5–10.5% | 43% | 58% | Median |
+| 10.5–11.5% | 12% | 15% |  |
 | 11.5–12.5% | 3% | 4% |  |
 | 12.5–13.5% | 0.5% | 0.6% |  |
 | 13.5–14.5% | 0% | 0% |  |
@@ -179,7 +181,10 @@ Last result: **28** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34 | 28–40 | 27–42 | 26–44 | 25–47 |
+| N/A | [Poll Average](average.html) | 36 | 32–40 | 31–42 | 30–44 | 28–47 |
+| [5–15 October 2020](2020-10-15-Sifo.html) | Sifo | 37 | 35–39 | 35–39 | 34–40 | 33–41 |
+| [14 September–11 October 2020](2020-10-11-Novus.html) | Novus <br> SVT | 35 | 33–37 | 32–38 | 32–39 | 31–40 |
+| [1–7 October 2020](2020-10-07-Demoskop.html) | Demoskop | 35 | 32–38 | 31–39 | 31–40 | 29–40 |
 | [8–21 September 2020](2020-09-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 34 | 30–37 | 29–38 | 28–40 | 27–41 |
 | [7–17 September 2020](2020-09-17-Sifo.html) | Sifo | 34 | 31–36 | 31–37 | 30–37 | 29–38 |
 | [24 August–13 September 2020](2020-09-13-Novus.html) | Novus <br> SVT | 35 | 32–37 | 31–38 | 31–39 | 30–40 |
@@ -329,24 +334,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 23 | 0.1% | 100% |  |
-| 24 | 0.3% | 99.9% |  |
-| 25 | 0.8% | 99.6% |  |
-| 26 | 2% | 98.9% |  |
-| 27 | 3% | 97% |  |
-| 28 | 5% | 94% | Last Result |
-| 29 | 3% | 90% |  |
-| 30 | 5% | 87% |  |
-| 31 | 7% | 82% |  |
-| 32 | 6% | 75% |  |
-| 33 | 9% | 69% |  |
-| 34 | 12% | 60% | Median |
-| 35 | 11% | 47% |  |
-| 36 | 8% | 36% |  |
-| 37 | 7% | 28% |  |
-| 38 | 5% | 21% |  |
-| 39 | 4% | 16% |  |
-| 40 | 3% | 12% |  |
+| 26 | 0.1% | 100% |  |
+| 27 | 0.2% | 99.9% |  |
+| 28 | 0.5% | 99.7% | Last Result |
+| 29 | 0.9% | 99.3% |  |
+| 30 | 2% | 98% |  |
+| 31 | 5% | 97% |  |
+| 32 | 5% | 92% |  |
+| 33 | 8% | 87% |  |
+| 34 | 11% | 79% |  |
+| 35 | 13% | 68% |  |
+| 36 | 15% | 55% | Median |
+| 37 | 13% | 40% |  |
+| 38 | 9% | 27% |  |
+| 39 | 5% | 18% |  |
+| 40 | 4% | 13% |  |
 | 41 | 3% | 9% |  |
 | 42 | 2% | 6% |  |
 | 43 | 1.5% | 4% |  |

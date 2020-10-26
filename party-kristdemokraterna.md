@@ -10,7 +10,10 @@ Last result: **6.3%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.9% | 5.0–7.1% | 4.7–7.5% | 4.5–7.8% | 4.1–8.3% |
+| N/A | [Poll Average](average.html) | 6.1% | 5.2–7.2% | 4.9–7.5% | 4.6–7.8% | 4.1–8.3% |
+| [5–15 October 2020](2020-10-15-Sifo.html) | Sifo | 5.9% | 5.6–6.3% | 5.5–6.4% | 5.4–6.5% | 5.2–6.7% |
+| [14 September–11 October 2020](2020-10-11-Novus.html) | Novus <br> SVT | 5.7% | 5.2–6.2% | 5.1–6.4% | 5.0–6.5% | 4.8–6.7% |
+| [1–7 October 2020](2020-10-07-Demoskop.html) | Demoskop | 6.7% | 6.1–7.3% | 5.9–7.5% | 5.8–7.7% | 5.5–8.0% |
 | [8–21 September 2020](2020-09-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 7.0% | 6.2–7.9% | 6.0–8.1% | 5.8–8.4% | 5.4–8.8% |
 | [7–17 September 2020](2020-09-17-Sifo.html) | Sifo | 6.2% | 5.8–6.7% | 5.7–6.8% | 5.6–6.9% | 5.4–7.1% |
 | [24 August–13 September 2020](2020-09-13-Novus.html) | Novus <br> SVT | 5.7% | 5.2–6.3% | 5.1–6.4% | 4.9–6.6% | 4.7–6.9% |
@@ -159,12 +162,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 3% | 100% |  |
-| 4.5–5.5% | 28% | 97% |  |
-| 5.5–6.5% | 48% | 69% | Last Result, Median |
-| 6.5–7.5% | 18% | 22% |  |
-| 7.5–8.5% | 4% | 4% |  |
-| 8.5–9.5% | 0.2% | 0.2% |  |
+| 3.5–4.5% | 2% | 100% |  |
+| 4.5–5.5% | 18% | 98% |  |
+| 5.5–6.5% | 50% | 80% | Last Result, Median |
+| 6.5–7.5% | 24% | 29% |  |
+| 7.5–8.5% | 5% | 5% |  |
+| 8.5–9.5% | 0.2% | 0.3% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -176,7 +179,10 @@ Last result: **22** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 19–26 | 18–28 | 17–29 | 15–31 |
+| N/A | [Poll Average](average.html) | 22 | 19–27 | 18–28 | 17–29 | 15–31 |
+| [5–15 October 2020](2020-10-15-Sifo.html) | Sifo | 22 | 20–23 | 20–24 | 20–24 | 19–25 |
+| [14 September–11 October 2020](2020-10-11-Novus.html) | Novus <br> SVT | 21 | 19–23 | 19–23 | 18–23 | 17–25 |
+| [1–7 October 2020](2020-10-07-Demoskop.html) | Demoskop | 25 | 23–28 | 22–29 | 22–29 | 21–31 |
 | [8–21 September 2020](2020-09-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 26 | 23–29 | 22–30 | 21–31 | 20–33 |
 | [7–17 September 2020](2020-09-17-Sifo.html) | Sifo | 24 | 22–25 | 21–26 | 21–26 | 20–27 |
 | [24 August–13 September 2020](2020-09-13-Novus.html) | Novus <br> SVT | 21 | 19–23 | 19–24 | 18–24 | 17–26 |
@@ -342,21 +348,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 99.6% |  |
 | 14 | 0% | 99.6% |  |
 | 15 | 0.3% | 99.6% |  |
-| 16 | 1.4% | 99.3% |  |
-| 17 | 3% | 98% |  |
-| 18 | 5% | 95% |  |
-| 19 | 9% | 91% |  |
-| 20 | 11% | 82% |  |
-| 21 | 13% | 70% |  |
-| 22 | 14% | 58% | Last Result, Median |
-| 23 | 11% | 43% |  |
-| 24 | 10% | 32% |  |
-| 25 | 9% | 22% |  |
-| 26 | 4% | 13% |  |
-| 27 | 4% | 9% |  |
-| 28 | 2% | 5% |  |
-| 29 | 2% | 3% |  |
-| 30 | 0.9% | 2% |  |
+| 16 | 1.2% | 99.3% |  |
+| 17 | 2% | 98% |  |
+| 18 | 3% | 96% |  |
+| 19 | 6% | 93% |  |
+| 20 | 11% | 87% |  |
+| 21 | 14% | 77% |  |
+| 22 | 14% | 62% | Last Result, Median |
+| 23 | 11% | 48% |  |
+| 24 | 8% | 37% |  |
+| 25 | 10% | 29% |  |
+| 26 | 7% | 20% |  |
+| 27 | 5% | 13% |  |
+| 28 | 4% | 8% |  |
+| 29 | 2% | 4% |  |
+| 30 | 1.0% | 2% |  |
 | 31 | 0.4% | 0.7% |  |
 | 32 | 0.2% | 0.3% |  |
 | 33 | 0.1% | 0.1% |  |
