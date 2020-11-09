@@ -10,7 +10,9 @@ Last result: **5.5%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.4% | 2.8–4.2% | 2.5–4.5% | 2.3–4.8% | 1.9–5.2% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.2–4.7% | 1.9–5.1% |
+| [27 October–4 November 2020](2020-11-04-Demoskop.html) | Demoskop | 3.1% | 2.7–3.6% | 2.5–3.8% | 2.4–3.9% | 2.3–4.2% |
+| [23–26 October 2020](2020-10-26-SKOP.html) | SKOP | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [5–15 October 2020](2020-10-15-Sifo.html) | Sifo | 3.2% | 3.0–3.5% | 2.9–3.6% | 2.8–3.6% | 2.7–3.8% |
 | [14 September–11 October 2020](2020-10-11-Novus.html) | Novus <br> SVT | 3.4% | 3.0–3.8% | 3.0–3.9% | 2.9–4.0% | 2.7–4.2% |
 | [1–7 October 2020](2020-10-07-Demoskop.html) | Demoskop | 3.4% | 3.0–3.9% | 2.9–4.1% | 2.8–4.2% | 2.6–4.4% |
@@ -162,10 +164,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 5% | 99.9% |  |
-| 2.5–3.5% | 56% | 95% | Median |
-| 3.5–4.5% | 35% | 39% |  |
-| 4.5–5.5% | 4% | 5% | Last Result |
+| 1.5–2.5% | 7% | 99.9% |  |
+| 2.5–3.5% | 62% | 93% | Median |
+| 3.5–4.5% | 28% | 31% |  |
+| 4.5–5.5% | 3% | 3% | Last Result |
 | 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -178,7 +180,9 @@ Last result: **20** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–16 | 0–16 | 0–17 | 0–19 |
+| N/A | [Poll Average](average.html) | 0 | 0–15 | 0–16 | 0–16 | 0–19 |
+| [27 October–4 November 2020](2020-11-04-Demoskop.html) | Demoskop | 0 | 0 | 0 | 0 | 0–15 |
+| [23–26 October 2020](2020-10-26-SKOP.html) | SKOP | 0 | 0–15 | 0–16 | 0–16 | 0–18 |
 | [5–15 October 2020](2020-10-15-Sifo.html) | Sifo | 0 | 0 | 0 | 0 | 0 |
 | [14 September–11 October 2020](2020-10-11-Novus.html) | Novus <br> SVT | 0 | 0 | 0–14 | 0–15 | 0–15 |
 | [1–7 October 2020](2020-10-07-Demoskop.html) | Demoskop | 0 | 0 | 0–15 | 0–15 | 0–16 |
@@ -331,28 +335,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 84% | 100% | Median |
-| 1 | 0% | 16% |  |
-| 2 | 0% | 16% |  |
-| 3 | 0% | 16% |  |
-| 4 | 0% | 16% |  |
-| 5 | 0% | 16% |  |
-| 6 | 0% | 16% |  |
-| 7 | 0% | 16% |  |
-| 8 | 0% | 16% |  |
-| 9 | 0% | 16% |  |
-| 10 | 0% | 16% |  |
-| 11 | 0% | 16% |  |
-| 12 | 0% | 16% |  |
-| 13 | 0% | 16% |  |
-| 14 | 1.1% | 16% |  |
-| 15 | 4% | 15% |  |
-| 16 | 7% | 11% |  |
-| 17 | 2% | 3% |  |
-| 18 | 0.5% | 2% |  |
-| 19 | 1.0% | 1.2% |  |
-| 20 | 0.1% | 0.2% | Last Result |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 0 | 89% | 100% | Median |
+| 1 | 0% | 11% |  |
+| 2 | 0% | 11% |  |
+| 3 | 0% | 11% |  |
+| 4 | 0% | 11% |  |
+| 5 | 0% | 11% |  |
+| 6 | 0% | 11% |  |
+| 7 | 0% | 11% |  |
+| 8 | 0% | 11% |  |
+| 9 | 0% | 11% |  |
+| 10 | 0% | 11% |  |
+| 11 | 0% | 11% |  |
+| 12 | 0% | 11% |  |
+| 13 | 0% | 11% |  |
+| 14 | 0.7% | 11% |  |
+| 15 | 2% | 10% |  |
+| 16 | 6% | 8% |  |
+| 17 | 1.3% | 2% |  |
+| 18 | 0.2% | 1.1% |  |
+| 19 | 0.9% | 0.9% |  |
+| 20 | 0% | 0.1% | Last Result |
+| 21 | 0% | 0% |  |
 
 
