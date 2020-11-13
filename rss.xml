@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sun, 08 Nov 2020 09:35:51 +0100</pubDate>
+    <pubDate>Fri, 13 Nov 2020 18:21:28 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 12 October–8 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-11-08-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 25.0–27.8%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 20.7–23.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.2–20.7%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.7–9.5%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 9.6–11.6%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.3–5.7%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.2–3.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.3–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-11-08-Novus.png"
+        length="257007"
+        type="image/png"/>
+      <pubDate>Fri, 13 Nov 2020 18:21:28 +0100</pubDate>
+      <dc:date>2020-11-13T18:21:28.836507+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Demoskop, 27 October–4 November 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-11-04-Demoskop.html#seats</link>
@@ -4359,6 +4369,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2020-11-08T09:35:51.74911+01:00</dc:date>
+    <dc:date>2020-11-13T18:21:28.836507+01:00</dc:date>
   </channel>
 </rss>
