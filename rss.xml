@@ -8,7 +8,97 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Mon, 30 Nov 2020 21:22:54 +0100</pubDate>
+    <pubDate>Mon, 07 Dec 2020 19:11:39 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Demoskop, 26 November–2 December 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-12-02-Demoskop.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 86–101 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 80–94 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 67–80 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 31–40 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 31–40 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 18–25 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–16 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-12-02-Demoskop-seats.png"
+        length="228741"
+        type="image/png"/>
+      <pubDate>Mon, 07 Dec 2020 18:45:30 +0100</pubDate>
+      <dc:date>2020-12-07T18:45:30.870884+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop, 26 November–2 December 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-12-02-Demoskop.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-12-02-Demoskop-coalitions-seats.png"
+        length="359975"
+        type="image/png"/>
+      <pubDate>Mon, 07 Dec 2020 18:45:30 +0100</pubDate>
+      <dc:date>2020-12-07T18:45:30.870884+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop, 26 November–2 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-12-02-Demoskop.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 23.2–26.8%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 21.5–25.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.0–21.3%&lt;/li&gt;&lt;li&gt;Centerpartiet: 8.3–10.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.2–10.6%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.8–6.7%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.2–3.6%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.9–4.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-12-02-Demoskop.png"
+        length="265111"
+        type="image/png"/>
+      <pubDate>Mon, 07 Dec 2020 18:45:30 +0100</pubDate>
+      <dc:date>2020-12-07T18:45:30.870884+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SCB, 2–26 November 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-11-26-SCB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 103–115 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 77–87 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 61–69 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 25–31 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 31–38 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 18–22 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-11-26-SCB-seats.png"
+        length="222383"
+        type="image/png"/>
+      <pubDate>Mon, 07 Dec 2020 17:30:49 +0100</pubDate>
+      <dc:date>2020-12-07T17:30:49.822863+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SCB, 2–26 November 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-11-26-SCB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-11-26-SCB-coalitions-seats.png"
+        length="335836"
+        type="image/png"/>
+      <pubDate>Mon, 07 Dec 2020 17:30:49 +0100</pubDate>
+      <dc:date>2020-12-07T17:30:49.822863+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SCB, 2–26 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-11-26-SCB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 28.1–30.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 20.9–23.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 16.5–18.7%&lt;/li&gt;&lt;li&gt;Centerpartiet: 6.9–8.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.5–10.2%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.8–6.1%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.5–3.5%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.7–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-11-26-SCB.png"
+        length="243689"
+        type="image/png"/>
+      <pubDate>Mon, 07 Dec 2020 17:30:49 +0100</pubDate>
+      <dc:date>2020-12-07T17:30:49.822863+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–22 November 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-11-22-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 87–105 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 70–86 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 66–83 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 29–40 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 35–47 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 15–23 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-11-22-Ipsos-seats.png"
+        length="253427"
+        type="image/png"/>
+      <pubDate>Mon, 07 Dec 2020 19:11:39 +0100</pubDate>
+      <dc:date>2020-12-07T19:11:39.996359+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–22 November 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-11-22-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-11-22-Ipsos-coalitions-seats.png"
+        length="393583"
+        type="image/png"/>
+      <pubDate>Mon, 07 Dec 2020 19:11:39 +0100</pubDate>
+      <dc:date>2020-12-07T19:11:39.996359+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–22 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-11-22-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 23.8–28.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 19.0–23.2%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.0–22.1%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.7–10.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 9.5–12.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.0–6.2%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.3–4.0%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.1–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-11-22-Ipsos.png"
+        length="277627"
+        type="image/png"/>
+      <pubDate>Mon, 07 Dec 2020 19:11:39 +0100</pubDate>
+      <dc:date>2020-12-07T19:11:39.996359+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sentio for Nyheter Idag, 12–16 November 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-11-16-Sentio.html#seats</link>
@@ -4519,6 +4609,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2020-11-30T21:22:54.80121+01:00</dc:date>
+    <dc:date>2020-12-07T19:11:39.996359+01:00</dc:date>
   </channel>
 </rss>
