@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
-| [9 November–6 December 2020](2020-12-06-Novus.html) | Novus <br> SVT | 27–29% <br> 97–110 | 20–23% <br> 75–86 | 17–20% <br> 63–75 | 7–9% <br> 27–34 | 9–11% <br> 32–40 | 5–6% <br> 18–23 | 2–3% <br> 0 | 4–5% <br> 0–17 |
+| [9 November–6 December 2020](2020-12-06-Novus.html) | Novus <br> SVT | 27–29% <br> 98–110 | 20–23% <br> 75–86 | 17–20% <br> 64–74 | 7–9% <br> 27–34 | 9–11% <br> 33–40 | 5–6% <br> 17–23 | 2–3% <br> 0 | 4–5% <br> 0–17 |
 | [26 November–2 December 2020](2020-12-02-Demoskop.html) | Demoskop | 23–27% <br> 86–101 | 21–25% <br> 80–94 | 18–21% <br> 67–80 | 8–11% <br> 31–40 | 8–11% <br> 31–40 | 5–7% <br> 18–25 | 2–4% <br> 0 | 3–4% <br> 0–16 |
 | [2–26 November 2020](2020-11-26-SCB.html) | SCB | 28–31% <br> 103–115 | 21–23% <br> 77–87 | 17–19% <br> 61–69 | 7–8% <br> 25–31 | 8–10% <br> 31–38 | 5–6% <br> 18–22 | 3–4% <br> 0 | 4–5% <br> 0–18 |
 | [10–22 November 2020](2020-11-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 24–28% <br> 87–105 | 19–23% <br> 70–86 | 18–22% <br> 66–83 | 8–11% <br> 29–40 | 9–13% <br> 35–47 | 4–6% <br> 15–23 | 2–4% <br> 0 | 3–5% <br> 0–18 |
