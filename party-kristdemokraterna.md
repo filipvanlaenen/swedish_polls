@@ -192,7 +192,7 @@ Last result: **22** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 18–24 | 17–26 | 16–27 | 15–29 |
-| [9 November–6 December 2020](2020-12-06-Novus.html) | Novus <br> SVT | 20 | 18–22 | 18–23 | 18–23 | 17–24 |
+| [9 November–6 December 2020](2020-12-06-Novus.html) | Novus <br> SVT | 20 | 18–22 | 18–22 | 17–23 | 17–24 |
 | [26 November–2 December 2020](2020-12-02-Demoskop.html) | Demoskop | 21 | 19–23 | 19–24 | 18–25 | 17–26 |
 | [2–26 November 2020](2020-11-26-SCB.html) | SCB | 20 | 18–22 | 18–22 | 18–22 | 17–23 |
 | [10–22 November 2020](2020-11-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 18 | 16–21 | 15–22 | 15–23 | 0–25 |
@@ -376,10 +376,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 4% | 97% |  |
 | 18 | 8% | 93% |  |
 | 19 | 14% | 85% |  |
-| 20 | 20% | 71% |  |
-| 21 | 16% | 51% | Median |
+| 20 | 17% | 71% |  |
+| 21 | 18% | 54% | Median |
 | 22 | 13% | 36% | Last Result |
-| 23 | 9% | 23% |  |
+| 23 | 8% | 22% |  |
 | 24 | 5% | 14% |  |
 | 25 | 4% | 9% |  |
 | 26 | 2% | 5% |  |
