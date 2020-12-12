@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Fri, 11 Dec 2020 19:17:00 +0100</pubDate>
+    <pubDate>Fri, 11 Dec 2020 21:14:22 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 9 November–6 December 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-12-06-Novus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 98–110 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 75–86 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 64–74 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 27–34 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 33–40 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 17–23 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–17 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-12-06-Novus-seats.png"
+        length="229396"
+        type="image/png"/>
+      <pubDate>Fri, 11 Dec 2020 21:14:22 +0100</pubDate>
+      <dc:date>2020-12-11T21:14:22.119151+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 9 November–6 December 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2020-12-06-Novus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-12-06-Novus-coalitions-seats.png"
+        length="349850"
+        type="image/png"/>
+      <pubDate>Fri, 11 Dec 2020 21:14:22 +0100</pubDate>
+      <dc:date>2020-12-11T21:14:22.119151+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 9 November–6 December 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-12-06-Novus.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-12-06-Novus.png"
         length="253662"
         type="image/png"/>
-      <pubDate>Fri, 11 Dec 2020 19:17:00 +0100</pubDate>
-      <dc:date>2020-12-11T19:17:00.661696+01:00</dc:date>
+      <pubDate>Fri, 11 Dec 2020 21:14:22 +0100</pubDate>
+      <dc:date>2020-12-11T21:14:22.119151+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop, 26 November–2 December 2020 – Seat Projections for the Parties</title>
@@ -4619,6 +4639,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2020-12-11T19:17:00.661696+01:00</dc:date>
+    <dc:date>2020-12-11T21:14:22.119151+01:00</dc:date>
   </channel>
 </rss>
