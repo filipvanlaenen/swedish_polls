@@ -10,7 +10,9 @@ Last result: **5.5%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 2.4–3.4% | 2.2–3.6% | 2.0–3.8% | 1.7–4.2% |
+| N/A | [Poll Average](average.html) | 2.8% | 2.2–3.4% | 2.0–3.5% | 1.9–3.7% | 1.7–4.2% |
+| [29 December 2020–11 January 2021](2021-01-11-Demoskop.html) | Demoskop | 2.3% | 1.9–2.8% | 1.8–2.9% | 1.7–3.0% | 1.6–3.3% |
+| [7 December 2020–10 January 2021](2021-01-10-Novus.html) | Novus <br> SVT | 2.6% | 2.3–3.1% | 2.1–3.2% | 2.1–3.3% | 1.9–3.5% |
 | [11–14 December 2020](2020-12-14-Sentio.html) | Sentio <br> Nyheter Idag | 2.7% | 2.1–3.6% | 1.9–3.8% | 1.8–4.0% | 1.5–4.5% |
 | [1–13 December 2020](2020-12-13-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–4.0% | 2.0–4.3% |
 | [30 November–10 December 2020](2020-12-10-Sifo.html) | Sifo | 3.0% | 2.7–3.3% | 2.7–3.4% | 2.6–3.4% | 2.5–3.6% |
@@ -178,9 +180,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 18% | 99.9% |  |
-| 2.5–3.5% | 76% | 82% | Median |
+| 0.5–1.5% | 0.2% | 100% |  |
+| 1.5–2.5% | 28% | 99.8% |  |
+| 2.5–3.5% | 67% | 72% | Median |
 | 3.5–4.5% | 5% | 5% |  |
 | 4.5–5.5% | 0.1% | 0.1% | Last Result |
 | 5.5–6.5% | 0% | 0% |  |
@@ -195,6 +197,8 @@ Last result: **20** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–15 |
+| [29 December 2020–11 January 2021](2021-01-11-Demoskop.html) | Demoskop | 0 | 0 | 0 | 0 | 0 |
+| [7 December 2020–10 January 2021](2021-01-10-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [11–14 December 2020](2020-12-14-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0 | 0–15 | 0–16 |
 | [1–13 December 2020](2020-12-13-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0–14 | 0–15 |
 | [30 November–10 December 2020](2020-12-10-Sifo.html) | Sifo | 0 | 0 | 0 | 0 | 0 |
