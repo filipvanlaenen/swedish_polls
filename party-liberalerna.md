@@ -10,7 +10,8 @@ Last result: **5.5%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 2.2–3.4% | 2.0–3.5% | 1.9–3.7% | 1.7–4.2% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.2–3.4% | 2.0–3.6% | 1.9–3.8% | 1.7–4.2% |
+| [11–21 January 2021](2021-01-21-Sifo.html) | Sifo | 3.2% | 2.9–3.5% | 2.9–3.6% | 2.8–3.6% | 2.7–3.8% |
 | [29 December 2020–11 January 2021](2021-01-11-Demoskop.html) | Demoskop | 2.3% | 1.9–2.8% | 1.8–2.9% | 1.7–3.0% | 1.6–3.3% |
 | [7 December 2020–10 January 2021](2021-01-10-Novus.html) | Novus <br> SVT | 2.6% | 2.3–3.1% | 2.1–3.2% | 2.1–3.3% | 1.9–3.5% |
 | [11–14 December 2020](2020-12-14-Sentio.html) | Sentio <br> Nyheter Idag | 2.7% | 2.1–3.6% | 1.9–3.8% | 1.8–4.0% | 1.5–4.5% |
@@ -182,8 +183,8 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 0.2% | 100% |  |
 | 1.5–2.5% | 28% | 99.8% |  |
-| 2.5–3.5% | 67% | 72% | Median |
-| 3.5–4.5% | 5% | 5% |  |
+| 2.5–3.5% | 66% | 72% | Median |
+| 3.5–4.5% | 6% | 6% |  |
 | 4.5–5.5% | 0.1% | 0.1% | Last Result |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -197,6 +198,7 @@ Last result: **20** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–15 |
+| [11–21 January 2021](2021-01-21-Sifo.html) | Sifo | 0 | 0 | 0 | 0 | 0 |
 | [29 December 2020–11 January 2021](2021-01-11-Demoskop.html) | Demoskop | 0 | 0 | 0 | 0 | 0 |
 | [7 December 2020–10 January 2021](2021-01-10-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [11–14 December 2020](2020-12-14-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0 | 0–15 | 0–16 |
