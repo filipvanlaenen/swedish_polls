@@ -6,6 +6,30 @@
     <description>All Registered Polls for the Riksdagen</description>
     <pubDate>Fri, 17 Jul 2020 21:17:04 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Demoskop, 26 January–3 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-02-03-Demoskop.html</link>
+      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Demoskop, 26 January–3 February 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-02-03-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-02-03-Demoskop.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-03-Demoskop.png" length="265492" type="image/png"/>
+      <pubDate>Mon, 8 Feb 2021 18:46:39 +0100</pubDate>
+      <dc:date>2021-02-08T18:46:39.149357+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 28–31 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio.html</link>
+      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Sentio for Nyheter Idag, 28–31 January 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio.png" length="286801" type="image/png"/>
+      <pubDate>Mon, 8 Feb 2021 19:09:35 +0100</pubDate>
+      <dc:date>2021-02-08T19:09:35.648506+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 11–31 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Novus.html</link>
+      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Novus for SVT, 11–31 January 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Novus.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Novus.png" length="255743" type="image/png"/>
+      <pubDate>Mon, 8 Feb 2021 19:32:12 +0100</pubDate>
+      <dc:date>2021-02-08T19:32:12.388664+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sifo, 11–21 January 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-01-21-Sifo.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Sifo, 11–21 January 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-01-21-Sifo.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-01-21-Sifo-seating-plan.png"/>]]></description>
@@ -148,102 +172,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-12-10-Sifo.png" length="243537" type="image/png"/>
       <pubDate>Sat, 26 Dec 2020 19:14:57 +0100</pubDate>
       <dc:date>2020-12-26T19:14:57.714335+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Novus for SVT, 9 November–6 December 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-12-06-Novus.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Novus for SVT, 9 November–6 December 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-12-06-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-12-06-Novus-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-12-06-Novus-seating-plan.png" length="751711" type="image/png"/>
-      <pubDate>Fri, 11 Dec 2020 21:14:22 +0100</pubDate>
-      <dc:date>2020-12-11T21:14:22.119151+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Novus for SVT, 9 November–6 December 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-12-06-Novus.html#seats</link>
-      <description><![CDATA[Seat projections for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Novus for SVT, 9 November–6 December 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-12-06-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-12-06-Novus-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-12-06-Novus-seats.png" length="229396" type="image/png"/>
-      <pubDate>Fri, 11 Dec 2020 21:14:22 +0100</pubDate>
-      <dc:date>2020-12-11T21:14:22.119151+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Novus for SVT, 9 November–6 December 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-12-06-Novus.html</link>
-      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Novus for SVT, 9 November–6 December 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-12-06-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-12-06-Novus.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-12-06-Novus.png" length="253662" type="image/png"/>
-      <pubDate>Fri, 11 Dec 2020 21:14:22 +0100</pubDate>
-      <dc:date>2020-12-11T21:14:22.119151+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by SKOP, 30 November–3 December 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-12-03-SKOP.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by SKOP, 30 November–3 December 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-12-03-SKOP.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-12-03-SKOP-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-12-03-SKOP-seating-plan.png" length="760351" type="image/png"/>
-      <pubDate>Sat, 26 Dec 2020 14:42:21 +0100</pubDate>
-      <dc:date>2020-12-26T14:42:21.330046+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by SKOP, 30 November–3 December 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-12-03-SKOP.html#seats</link>
-      <description><![CDATA[Seat projections for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by SKOP, 30 November–3 December 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-12-03-SKOP.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-12-03-SKOP-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-12-03-SKOP-seats.png" length="246976" type="image/png"/>
-      <pubDate>Sat, 26 Dec 2020 14:42:21 +0100</pubDate>
-      <dc:date>2020-12-26T14:42:21.330046+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by SKOP, 30 November–3 December 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-12-03-SKOP.html</link>
-      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by SKOP, 30 November–3 December 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-12-03-SKOP.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-12-03-SKOP.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-12-03-SKOP.png" length="289186" type="image/png"/>
-      <pubDate>Sat, 26 Dec 2020 14:42:21 +0100</pubDate>
-      <dc:date>2020-12-26T14:42:21.330046+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop, 26 November–2 December 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-12-02-Demoskop.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Demoskop, 26 November–2 December 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-12-02-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-12-02-Demoskop-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-12-02-Demoskop-seating-plan.png" length="741420" type="image/png"/>
-      <pubDate>Mon, 7 Dec 2020 18:45:30 +0100</pubDate>
-      <dc:date>2020-12-07T18:45:30.870884+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop, 26 November–2 December 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-12-02-Demoskop.html#seats</link>
-      <description><![CDATA[Seat projections for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Demoskop, 26 November–2 December 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-12-02-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-12-02-Demoskop-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-12-02-Demoskop-seats.png" length="228741" type="image/png"/>
-      <pubDate>Mon, 7 Dec 2020 18:45:30 +0100</pubDate>
-      <dc:date>2020-12-07T18:45:30.870884+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop, 26 November–2 December 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-12-02-Demoskop.html</link>
-      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Demoskop, 26 November–2 December 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-12-02-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-12-02-Demoskop.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-12-02-Demoskop.png" length="265111" type="image/png"/>
-      <pubDate>Mon, 7 Dec 2020 18:45:30 +0100</pubDate>
-      <dc:date>2020-12-07T18:45:30.870884+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by SCB, 2–26 November 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-11-26-SCB.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by SCB, 2–26 November 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-11-26-SCB.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-11-26-SCB-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-11-26-SCB-seating-plan.png" length="745445" type="image/png"/>
-      <pubDate>Mon, 7 Dec 2020 17:30:49 +0100</pubDate>
-      <dc:date>2020-12-07T17:30:49.822863+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by SCB, 2–26 November 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-11-26-SCB.html#seats</link>
-      <description><![CDATA[Seat projections for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by SCB, 2–26 November 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-11-26-SCB.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-11-26-SCB-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-11-26-SCB-seats.png" length="222383" type="image/png"/>
-      <pubDate>Mon, 7 Dec 2020 17:30:49 +0100</pubDate>
-      <dc:date>2020-12-07T17:30:49.822863+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by SCB, 2–26 November 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-11-26-SCB.html</link>
-      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by SCB, 2–26 November 2020<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2020-11-26-SCB.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2020-11-26-SCB.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-11-26-SCB.png" length="243689" type="image/png"/>
-      <pubDate>Mon, 7 Dec 2020 17:30:49 +0100</pubDate>
-      <dc:date>2020-12-07T17:30:49.822863+01:00</dc:date>
     </item>
   </channel>
 </rss>
