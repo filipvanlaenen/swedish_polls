@@ -205,7 +205,7 @@ Last result: **20** seats (General Election of 9 September 2018)
 | [26 January–3 February 2021](2021-02-03-Demoskop.html) | Demoskop | 0 | 0 | 0 | 0 | 0–15 |
 | [28–31 January 2021](2021-01-31-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0 | 0 | 0 |
 | [11–31 January 2021](2021-01-31-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
-| [13–25 January 2021](2021-01-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0–15 | 0–15 |
+| [13–25 January 2021](2021-01-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0–16 |
 | [11–21 January 2021](2021-01-21-Sifo.html) | Sifo | 0 | 0 | 0 | 0 | 0 |
 | [29 December 2020–11 January 2021](2021-01-11-Demoskop.html) | Demoskop | 0 | 0 | 0 | 0 | 0 |
 | [7 December 2020–10 January 2021](2021-01-10-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
@@ -377,24 +377,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.1% | 100% | Median |
-| 1 | 0% | 0.9% |  |
-| 2 | 0% | 0.9% |  |
-| 3 | 0% | 0.9% |  |
-| 4 | 0% | 0.9% |  |
-| 5 | 0% | 0.9% |  |
-| 6 | 0% | 0.9% |  |
-| 7 | 0% | 0.9% |  |
-| 8 | 0% | 0.9% |  |
-| 9 | 0% | 0.9% |  |
-| 10 | 0% | 0.9% |  |
-| 11 | 0% | 0.9% |  |
-| 12 | 0% | 0.9% |  |
-| 13 | 0% | 0.9% |  |
-| 14 | 0.1% | 0.9% |  |
-| 15 | 0.6% | 0.7% |  |
-| 16 | 0.1% | 0.2% |  |
-| 17 | 0.1% | 0.1% |  |
+| 0 | 99.2% | 100% | Median |
+| 1 | 0% | 0.8% |  |
+| 2 | 0% | 0.8% |  |
+| 3 | 0% | 0.8% |  |
+| 4 | 0% | 0.8% |  |
+| 5 | 0% | 0.8% |  |
+| 6 | 0% | 0.8% |  |
+| 7 | 0% | 0.8% |  |
+| 8 | 0% | 0.8% |  |
+| 9 | 0% | 0.8% |  |
+| 10 | 0% | 0.8% |  |
+| 11 | 0% | 0.8% |  |
+| 12 | 0% | 0.8% |  |
+| 13 | 0% | 0.8% |  |
+| 14 | 0.1% | 0.8% |  |
+| 15 | 0.4% | 0.7% |  |
+| 16 | 0.2% | 0.2% |  |
+| 17 | 0% | 0.1% |  |
 | 18 | 0% | 0% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% | Last Result |
