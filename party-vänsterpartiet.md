@@ -11,6 +11,7 @@ Last result: **8.0%** (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.1% | 9.0–11.6% | 8.8–12.0% | 8.6–12.4% | 8.2–13.2% |
+| [1–11 February 2021](2021-02-11-Sifo.html) | Sifo | 10.0% | 9.5–10.5% | 9.4–10.6% | 9.3–10.7% | 9.1–11.0% |
 | [26 January–3 February 2021](2021-02-03-Demoskop.html) | Demoskop | 9.4% | 8.6–10.2% | 8.4–10.5% | 8.2–10.7% | 7.9–11.1% |
 | [28–31 January 2021](2021-01-31-Sentio.html) | Sentio <br> Nyheter Idag | 10.7% | 9.5–12.1% | 9.2–12.4% | 8.9–12.8% | 8.4–13.5% |
 | [11–31 January 2021](2021-01-31-Novus.html) | Novus <br> SVT | 10.8% | 10.1–11.6% | 9.9–11.8% | 9.7–12.0% | 9.4–12.4% |
@@ -204,6 +205,7 @@ Last result: **28** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 38 | 33–43 | 33–45 | 32–46 | 31–49 |
+| [1–11 February 2021](2021-02-11-Sifo.html) | Sifo | 38 | 36–40 | 36–40 | 35–41 | 34–43 |
 | [26 January–3 February 2021](2021-02-03-Demoskop.html) | Demoskop | 36 | 33–39 | 32–40 | 31–40 | 30–42 |
 | [28–31 January 2021](2021-01-31-Sentio.html) | Sentio <br> Nyheter Idag | 41 | 35–45 | 34–46 | 33–47 | 31–50 |
 | [11–31 January 2021](2021-01-31-Novus.html) | Novus <br> SVT | 40 | 37–43 | 36–44 | 36–44 | 34–46 |
@@ -386,9 +388,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 3% | 98.5% |  |
 | 33 | 6% | 95% |  |
 | 34 | 6% | 90% |  |
-| 35 | 9% | 84% |  |
+| 35 | 8% | 84% |  |
 | 36 | 10% | 75% |  |
-| 37 | 10% | 65% |  |
+| 37 | 11% | 66% |  |
 | 38 | 11% | 55% | Median |
 | 39 | 10% | 44% |  |
 | 40 | 9% | 34% |  |

@@ -11,6 +11,7 @@ Last result: **28.3%** (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 27.0% | 24.6–29.2% | 24.0–29.7% | 23.6–30.0% | 22.9–30.6% |
+| [1–11 February 2021](2021-02-11-Sifo.html) | Sifo | 27.6% | 26.9–28.3% | 26.7–28.5% | 26.5–28.7% | 26.2–29.0% |
 | [26 January–3 February 2021](2021-02-03-Demoskop.html) | Demoskop | 24.7% | 23.5–25.9% | 23.2–26.2% | 22.9–26.5% | 22.4–27.1% |
 | [28–31 January 2021](2021-01-31-Sentio.html) | Sentio <br> Nyheter Idag | 26.3% | 24.6–28.2% | 24.1–28.7% | 23.7–29.1% | 22.8–30.0% |
 | [11–31 January 2021](2021-01-31-Novus.html) | Novus <br> SVT | 26.9% | 25.9–28.0% | 25.6–28.3% | 25.3–28.6% | 24.8–29.1% |
@@ -207,6 +208,7 @@ Last result: **100** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 100 | 92–108 | 90–110 | 88–112 | 84–115 |
+| [1–11 February 2021](2021-02-11-Sifo.html) | Sifo | 105 | 102–108 | 100–111 | 100–112 | 98–113 |
 | [26 January–3 February 2021](2021-02-03-Demoskop.html) | Demoskop | 93 | 89–98 | 87–100 | 86–100 | 84–103 |
 | [28–31 January 2021](2021-01-31-Sentio.html) | Sentio <br> Nyheter Idag | 98 | 91–105 | 89–107 | 87–109 | 84–113 |
 | [11–31 January 2021](2021-01-31-Novus.html) | Novus <br> SVT | 98 | 94–104 | 93–105 | 92–107 | 91–109 |
@@ -403,17 +405,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 99 | 6% | 58% |  |
 | 100 | 5% | 53% | Last Result, Median |
 | 101 | 5% | 48% |  |
-| 102 | 4% | 42% |  |
+| 102 | 5% | 43% |  |
 | 103 | 5% | 38% |  |
-| 104 | 5% | 34% |  |
-| 105 | 7% | 29% |  |
+| 104 | 5% | 32% |  |
+| 105 | 5% | 27% |  |
 | 106 | 5% | 22% |  |
 | 107 | 5% | 17% |  |
-| 108 | 4% | 12% |  |
-| 109 | 3% | 9% |  |
-| 110 | 2% | 6% |  |
-| 111 | 1.4% | 4% |  |
-| 112 | 0.8% | 3% |  |
+| 108 | 3% | 12% |  |
+| 109 | 2% | 9% |  |
+| 110 | 2% | 7% |  |
+| 111 | 2% | 5% |  |
+| 112 | 1.1% | 3% |  |
 | 113 | 0.8% | 2% |  |
 | 114 | 0.5% | 1.3% |  |
 | 115 | 0.4% | 0.8% |  |
