@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
+| [1–11 February 2021](2021-02-11-Sifo.html) | Sifo | 27–29% <br> 100–112 | 22–25% <br> 85–94 | 18–20% <br> 67–76 | 7–9% <br> 28–33 | 9–11% <br> 35–41 | 4–5% <br> 0–18 | 2–3% <br> 0 | 3–4% <br> 0–15 |
 | [26 January–3 February 2021](2021-02-03-Demoskop.html) | Demoskop | 23–27% <br> 86–100 | 21–25% <br> 81–95 | 17–20% <br> 63–75 | 8–11% <br> 32–41 | 8–11% <br> 31–40 | 6–8% <br> 21–29 | 2–4% <br> 0 | 3–4% <br> 0–16 |
 | [28–31 January 2021](2021-01-31-Sentio.html) | Sentio <br> Nyheter Idag | 24–29% <br> 87–109 | 18–23% <br> 68–87 | 21–26% <br> 77–98 | 5–7% <br> 17–28 | 9–13% <br> 33–47 | 4–7% <br> 15–25 | 1–3% <br> 0 | 3–5% <br> 0–18 |
 | [11–31 January 2021](2021-01-31-Novus.html) | Novus <br> SVT | 25–29% <br> 92–107 | 22–25% <br> 79–92 | 17–20% <br> 61–73 | 8–10% <br> 28–36 | 10–12% <br> 36–44 | 4–6% <br> 15–20 | 2–3% <br> 0 | 3–5% <br> 0–18 |
