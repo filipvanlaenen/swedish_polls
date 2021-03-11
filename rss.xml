@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Tue, 09 Mar 2021 08:54:54 +0100</pubDate>
+    <pubDate>Thu, 11 Mar 2021 18:19:03 +0100</pubDate>
     <item>
       <title>Opinion Poll by Demoskop, 26 February–3 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-03-03-Demoskop.html</link>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-23-SKOP.png"
         length="282123"
         type="image/png"/>
-      <pubDate>Tue, 09 Mar 2021 08:54:54 +0100</pubDate>
-      <dc:date>2021-03-09T08:54:54.843603+01:00</dc:date>
+      <pubDate>Thu, 11 Mar 2021 18:19:03 +0100</pubDate>
+      <dc:date>2021-03-11T18:19:03.819223+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo, 1–11 February 2021 – Seat Projections for the Parties</title>
@@ -5049,6 +5049,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2021-03-09T08:54:54.843603+01:00</dc:date>
+    <dc:date>2021-03-11T18:19:03.819223+01:00</dc:date>
   </channel>
 </rss>
