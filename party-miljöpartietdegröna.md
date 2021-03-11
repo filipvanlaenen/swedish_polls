@@ -208,7 +208,7 @@ Last result: **16** seats (General Election of 9 September 2018)
 | N/A | [Poll Average](average.html) | 0 | 0–17 | 0–18 | 0–18 | 0–20 |
 | [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 0 | 0 | 0 | 0 | 0–15 |
 | [1–28 February 2021](2021-02-28-Novus.html) | Novus <br> SVT | 17 | 0–18 | 0–18 | 0–19 | 0–20 |
-| [19–23 February 2021](2021-02-23-SKOP.html) | SKOP | 0 | 0–18 | 0–19 | 0–20 | 0–22 |
+| [19–23 February 2021](2021-02-23-SKOP.html) | SKOP | 0 | 0–18 | 0–19 | 0–20 | 0–21 |
 | [1–11 February 2021](2021-02-11-Sifo.html) | Sifo | 0 | 0 | 0 | 0–15 | 0–15 |
 | [26 January–3 February 2021](2021-02-03-Demoskop.html) | Demoskop | 0 | 0–15 | 0–15 | 0–16 | 0–17 |
 | [28–31 January 2021](2021-01-31-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0–16 | 0–17 | 0–18 | 0–20 |
@@ -402,11 +402,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.1% | 36% |  |
 | 15 | 6% | 36% |  |
 | 16 | 12% | 30% | Last Result |
-| 17 | 9% | 17% |  |
-| 18 | 6% | 9% |  |
+| 17 | 8% | 17% |  |
+| 18 | 7% | 9% |  |
 | 19 | 1.1% | 2% |  |
-| 20 | 0.9% | 1.1% |  |
-| 21 | 0.1% | 0.3% |  |
+| 20 | 0.7% | 1.1% |  |
+| 21 | 0.4% | 0.5% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
