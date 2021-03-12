@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Fri, 12 Mar 2021 07:57:17 +0100</pubDate>
+    <pubDate>Fri, 12 Mar 2021 19:16:50 +0100</pubDate>
     <item>
       <title>Opinion Poll by Demoskop, 26 February–3 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-03-03-Demoskop.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-28-Sentio.png"
         length="294346"
         type="image/png"/>
-      <pubDate>Thu, 11 Mar 2021 23:04:08 +0100</pubDate>
-      <dc:date>2021-03-11T23:04:08.974693+01:00</dc:date>
+      <pubDate>Fri, 12 Mar 2021 08:11:19 +0100</pubDate>
+      <dc:date>2021-03-12T08:11:19.975166+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 1–28 February 2021 – Voting Intentions</title>
@@ -56,8 +56,28 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-28-Novus.png"
         length="252013"
         type="image/png"/>
-      <pubDate>Tue, 09 Mar 2021 07:44:56 +0100</pubDate>
-      <dc:date>2021-03-09T07:44:56.91768+01:00</dc:date>
+      <pubDate>Fri, 12 Mar 2021 19:16:50 +0100</pubDate>
+      <dc:date>2021-03-12T19:16:50.965829+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 19–23 February 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-02-23-SKOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 91–114 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 81–102 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 48–67 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 31–45 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 31–46 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0–22 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-23-SKOP-seats.png"
+        length="258565"
+        type="image/png"/>
+      <pubDate>Fri, 12 Mar 2021 18:24:21 +0100</pubDate>
+      <dc:date>2021-03-12T18:24:21.724365+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 19–23 February 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-02-23-SKOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-23-SKOP-coalitions-seats.png"
+        length="400022"
+        type="image/png"/>
+      <pubDate>Fri, 12 Mar 2021 18:24:21 +0100</pubDate>
+      <dc:date>2021-03-12T18:24:21.724365+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKOP, 19–23 February 2021 – Voting Intentions</title>
@@ -66,15 +86,15 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-23-SKOP.png"
         length="282123"
         type="image/png"/>
-      <pubDate>Thu, 11 Mar 2021 18:19:03 +0100</pubDate>
-      <dc:date>2021-03-11T18:19:03.819223+01:00</dc:date>
+      <pubDate>Fri, 12 Mar 2021 18:24:21 +0100</pubDate>
+      <dc:date>2021-03-12T18:24:21.724365+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 9–21 February 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-02-21-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 90–110 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 76–95 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 63–78 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 28–39 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 28–39 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0–23 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-21-Ipsos-seats.png"
-        length="265684"
+        length="262994"
         type="image/png"/>
       <pubDate>Fri, 12 Mar 2021 07:57:17 +0100</pubDate>
       <dc:date>2021-03-12T07:57:17.984086+01:00</dc:date>
@@ -5109,6 +5129,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2021-03-12T07:57:17.984086+01:00</dc:date>
+    <dc:date>2021-03-12T19:16:50.965829+01:00</dc:date>
   </channel>
 </rss>
