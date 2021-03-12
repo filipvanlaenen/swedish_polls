@@ -10,10 +10,12 @@ Last result: **5.5%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 2.1–3.5% | 1.9–3.6% | 1.7–3.8% | 1.5–4.1% |
+| N/A | [Poll Average](average.html) | 2.9% | 2.3–3.6% | 2.1–3.8% | 2.0–4.0% | 1.6–4.5% |
 | [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 2.7% | 2.3–3.2% | 2.2–3.4% | 2.1–3.5% | 2.0–3.7% |
+| [25–28 February 2021](2021-02-28-Sentio.html) | Sentio | 3.0% | 2.4–4.0% | 2.2–4.3% | 2.1–4.5% | 1.8–5.0% |
 | [1–28 February 2021](2021-02-28-Novus.html) | Novus <br> SVT | 3.3% | 2.9–3.7% | 2.9–3.8% | 2.8–3.9% | 2.6–4.1% |
 | [19–23 February 2021](2021-02-23-SKOP.html) | SKOP | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
+| [9–21 February 2021](2021-02-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3.0% | 2.5–3.7% | 2.4–3.9% | 2.3–4.0% | 2.0–4.4% |
 | [1–11 February 2021](2021-02-11-Sifo.html) | Sifo | 2.8% | 2.6–3.1% | 2.5–3.2% | 2.4–3.2% | 2.3–3.4% |
 | [26 January–3 February 2021](2021-02-03-Demoskop.html) | Demoskop | 3.1% | 2.7–3.7% | 2.6–3.8% | 2.5–3.9% | 2.3–4.2% |
 | [28–31 January 2021](2021-01-31-Sentio.html) | Sentio <br> Nyheter Idag | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
@@ -189,11 +191,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 1.0% | 100% |  |
-| 1.5–2.5% | 28% | 99.0% |  |
-| 2.5–3.5% | 64% | 71% | Median |
-| 3.5–4.5% | 7% | 7% |  |
-| 4.5–5.5% | 0% | 0% | Last Result |
+| 0.5–1.5% | 0.3% | 100% |  |
+| 1.5–2.5% | 20% | 99.7% |  |
+| 2.5–3.5% | 69% | 80% | Median |
+| 3.5–4.5% | 11% | 11% |  |
+| 4.5–5.5% | 0.4% | 0.4% | Last Result |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -204,10 +207,12 @@ Last result: **20** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–14 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–16 |
 | [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 0 | 0 | 0 | 0 | 0 |
+| [25–28 February 2021](2021-02-28-Sentio.html) | Sentio | 0 | 0 | 0–15 | 0–16 | 0–18 |
 | [1–28 February 2021](2021-02-28-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [19–23 February 2021](2021-02-23-SKOP.html) | SKOP | 0 | 0 | 0 | 0 | 0 |
+| [9–21 February 2021](2021-02-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0–16 |
 | [1–11 February 2021](2021-02-11-Sifo.html) | Sifo | 0 | 0 | 0 | 0 | 0 |
 | [26 January–3 February 2021](2021-02-03-Demoskop.html) | Demoskop | 0 | 0 | 0 | 0 | 0–15 |
 | [28–31 January 2021](2021-01-31-Sentio.html) | Sentio <br> Nyheter Idag | 0 | 0 | 0 | 0 | 0 |
@@ -384,25 +389,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.5% | 100% | Median |
-| 1 | 0% | 0.5% |  |
-| 2 | 0% | 0.5% |  |
-| 3 | 0% | 0.5% |  |
-| 4 | 0% | 0.5% |  |
-| 5 | 0% | 0.5% |  |
-| 6 | 0% | 0.5% |  |
-| 7 | 0% | 0.5% |  |
-| 8 | 0% | 0.5% |  |
-| 9 | 0% | 0.5% |  |
-| 10 | 0% | 0.5% |  |
-| 11 | 0% | 0.5% |  |
-| 12 | 0% | 0.5% |  |
-| 13 | 0% | 0.5% |  |
-| 14 | 0.1% | 0.5% |  |
-| 15 | 0.3% | 0.5% |  |
-| 16 | 0.1% | 0.2% |  |
-| 17 | 0% | 0% |  |
-| 18 | 0% | 0% |  |
+| 0 | 98% | 100% | Median |
+| 1 | 0% | 2% |  |
+| 2 | 0% | 2% |  |
+| 3 | 0% | 2% |  |
+| 4 | 0% | 2% |  |
+| 5 | 0% | 2% |  |
+| 6 | 0% | 2% |  |
+| 7 | 0% | 2% |  |
+| 8 | 0% | 2% |  |
+| 9 | 0% | 2% |  |
+| 10 | 0% | 2% |  |
+| 11 | 0% | 2% |  |
+| 12 | 0% | 2% |  |
+| 13 | 0% | 2% |  |
+| 14 | 0.1% | 2% |  |
+| 15 | 1.1% | 2% |  |
+| 16 | 0.4% | 0.8% |  |
+| 17 | 0.3% | 0.4% |  |
+| 18 | 0.1% | 0.2% |  |
 | 19 | 0% | 0% |  |
 | 20 | 0% | 0% | Last Result |
 
