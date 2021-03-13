@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Fri, 12 Mar 2021 19:16:50 +0100</pubDate>
+    <pubDate>Fri, 12 Mar 2021 20:26:22 +0100</pubDate>
     <item>
       <title>Opinion Poll by Demoskop, 26 February–3 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-03-03-Demoskop.html#seats</link>
@@ -40,14 +40,54 @@
       <dc:date>2021-03-11T20:53:06.555732+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sentio, 25–28 February 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-02-28-Sentio.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 84–108 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 71–93 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 67–89 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 21–34 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 31–47 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 17–29 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–17 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-28-Sentio-seats.png"
+        length="247414"
+        type="image/png"/>
+      <pubDate>Fri, 12 Mar 2021 20:26:22 +0100</pubDate>
+      <dc:date>2021-03-12T20:26:22.520301+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio, 25–28 February 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-02-28-Sentio.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-28-Sentio-coalitions-seats.png"
+        length="419557"
+        type="image/png"/>
+      <pubDate>Fri, 12 Mar 2021 20:26:22 +0100</pubDate>
+      <dc:date>2021-03-12T20:26:22.520301+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Sentio, 25–28 February 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-02-28-Sentio.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.4–28.5%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 18.9–24.7%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.0–23.6%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.7–9.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.2–12.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.5–7.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.1–4.5%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.3–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-28-Sentio.png"
         length="294346"
         type="image/png"/>
-      <pubDate>Fri, 12 Mar 2021 08:11:19 +0100</pubDate>
-      <dc:date>2021-03-12T08:11:19.975166+01:00</dc:date>
+      <pubDate>Fri, 12 Mar 2021 20:26:22 +0100</pubDate>
+      <dc:date>2021-03-12T20:26:22.520301+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 1–28 February 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-02-28-Novus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 94–109 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 84–97 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 61–73 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 28–35 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 32–40 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0–18 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-28-Novus-seats.png"
+        length="242415"
+        type="image/png"/>
+      <pubDate>Fri, 12 Mar 2021 19:37:16 +0100</pubDate>
+      <dc:date>2021-03-12T19:37:16.441922+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 1–28 February 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-02-28-Novus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-28-Novus-coalitions-seats.png"
+        length="368607"
+        type="image/png"/>
+      <pubDate>Fri, 12 Mar 2021 19:37:16 +0100</pubDate>
+      <dc:date>2021-03-12T19:37:16.441922+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 1–28 February 2021 – Voting Intentions</title>
@@ -56,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-28-Novus.png"
         length="252013"
         type="image/png"/>
-      <pubDate>Fri, 12 Mar 2021 19:16:50 +0100</pubDate>
-      <dc:date>2021-03-12T19:16:50.965829+01:00</dc:date>
+      <pubDate>Fri, 12 Mar 2021 19:37:16 +0100</pubDate>
+      <dc:date>2021-03-12T19:37:16.441922+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKOP, 19–23 February 2021 – Seat Projections for the Parties</title>
@@ -5129,6 +5169,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2021-03-12T19:16:50.965829+01:00</dc:date>
+    <dc:date>2021-03-12T20:26:22.520301+01:00</dc:date>
   </channel>
 </rss>
