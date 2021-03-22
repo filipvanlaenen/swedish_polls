@@ -10,7 +10,8 @@ Last result: **17.5%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.5% | 15.8–20.6% | 14.9–21.5% | 14.4–22.2% | 13.5–23.5% |
+| N/A | [Poll Average](average.html) | 18.3% | 15.8–20.6% | 14.9–21.5% | 14.4–22.2% | 13.5–23.5% |
+| [1–11 March 2021](2021-03-11-Sifo.html) | Sifo | 18.4% | 17.8–19.0% | 17.7–19.1% | 17.5–19.3% | 17.3–19.6% |
 | [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 18.2% | 17.2–19.3% | 16.9–19.6% | 16.7–19.9% | 16.2–20.4% |
 | [25–28 February 2021](2021-02-28-Sentio.html) | Sentio | 20.7% | 18.9–22.6% | 18.4–23.2% | 18.0–23.6% | 17.2–24.6% |
 | [1–28 February 2021](2021-02-28-Novus.html) | Novus <br> SVT | 17.9% | 17.1–18.7% | 16.9–19.0% | 16.7–19.2% | 16.3–19.6% |
@@ -196,9 +197,9 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 5% | 97% |  |
 | 15.5–16.5% | 6% | 92% |  |
 | 16.5–17.5% | 11% | 86% |  |
-| 17.5–18.5% | 28% | 75% | Last Result, Median |
-| 18.5–19.5% | 27% | 47% |  |
-| 19.5–20.5% | 10% | 20% |  |
+| 17.5–18.5% | 33% | 75% | Last Result, Median |
+| 18.5–19.5% | 23% | 42% |  |
+| 19.5–20.5% | 9% | 19% |  |
 | 20.5–21.5% | 5% | 10% |  |
 | 21.5–22.5% | 3% | 5% |  |
 | 22.5–23.5% | 1.3% | 2% |  |
@@ -215,7 +216,8 @@ Last result: **62** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 69 | 58–77 | 56–81 | 54–84 | 49–88 |
+| N/A | [Poll Average](average.html) | 68 | 58–77 | 56–81 | 54–84 | 49–88 |
+| [1–11 March 2021](2021-03-11-Sifo.html) | Sifo | 69 | 66–71 | 65–72 | 64–72 | 63–74 |
 | [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 69 | 66–73 | 64–74 | 63–75 | 62–77 |
 | [25–28 February 2021](2021-02-28-Sentio.html) | Sentio | 78 | 71–84 | 69–87 | 67–89 | 64–93 |
 | [1–28 February 2021](2021-02-28-Novus.html) | Novus <br> SVT | 67 | 63–71 | 62–72 | 61–73 | 60–75 |
@@ -416,18 +418,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 62 | 1.4% | 85% | Last Result |
 | 63 | 2% | 84% |  |
 | 64 | 3% | 81% |  |
-| 65 | 3% | 79% |  |
-| 66 | 4% | 75% |  |
-| 67 | 7% | 72% |  |
-| 68 | 8% | 64% |  |
-| 69 | 7% | 56% | Median |
-| 70 | 7% | 49% |  |
-| 71 | 8% | 42% |  |
-| 72 | 8% | 34% |  |
-| 73 | 5% | 26% |  |
-| 74 | 4% | 21% |  |
-| 75 | 3% | 17% |  |
-| 76 | 2% | 14% |  |
+| 65 | 4% | 78% |  |
+| 66 | 7% | 74% |  |
+| 67 | 8% | 67% |  |
+| 68 | 10% | 59% | Median |
+| 69 | 13% | 50% |  |
+| 70 | 6% | 37% |  |
+| 71 | 5% | 31% |  |
+| 72 | 6% | 26% |  |
+| 73 | 3% | 20% |  |
+| 74 | 3% | 18% |  |
+| 75 | 2% | 15% |  |
+| 76 | 1.2% | 13% |  |
 | 77 | 2% | 12% |  |
 | 78 | 2% | 10% |  |
 | 79 | 1.0% | 8% |  |
