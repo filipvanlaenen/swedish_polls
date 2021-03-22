@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Riksdagen</description>
     <pubDate>Fri, 17 Jul 2020 21:17:04 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Sifo, 1–11 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-03-11-Sifo.html</link>
+      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Sifo, 1–11 March 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-03-11-Sifo.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-03-11-Sifo.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-03-11-Sifo.png" length="237749" type="image/png"/>
+      <pubDate>Sun, 21 Mar 2021 21:24:44 +0100</pubDate>
+      <dc:date>2021-03-21T21:24:44.128228+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Demoskop, 26 February–3 March 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-03-03-Demoskop.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Demoskop, 26 February–3 March 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-03-03-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-03-03-Demoskop-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Novus.png" length="255743" type="image/png"/>
       <pubDate>Sat, 13 Feb 2021 14:55:43 +0100</pubDate>
       <dc:date>2021-02-13T14:55:43.430498+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 13–25 January 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-01-25-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 13–25 January 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-01-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-01-25-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-01-25-Ipsos-seating-plan.png" length="777072" type="image/png"/>
-      <pubDate>Tue, 9 Feb 2021 20:25:14 +0100</pubDate>
-      <dc:date>2021-02-09T20:25:14.546522+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 13–25 January 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-01-25-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 13–25 January 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-01-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-01-25-Ipsos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-01-25-Ipsos-seats.png" length="263759" type="image/png"/>
-      <pubDate>Tue, 9 Feb 2021 20:25:14 +0100</pubDate>
-      <dc:date>2021-02-09T20:25:14.546522+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 13–25 January 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-01-25-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Ipsos for Dagens Nyheter, 13–25 January 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-01-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-01-25-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-01-25-Ipsos.png" length="272001" type="image/png"/>
-      <pubDate>Tue, 9 Feb 2021 20:25:14 +0100</pubDate>
-      <dc:date>2021-02-09T20:25:14.546522+01:00</dc:date>
     </item>
   </channel>
 </rss>
