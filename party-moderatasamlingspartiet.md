@@ -215,7 +215,7 @@ Last result: **70** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 87 | 80–95 | 77–97 | 75–99 | 71–102 |
-| [1–11 March 2021](2021-03-11-Sifo.html) | Sifo | 84 | 82–87 | 82–88 | 81–89 | 79–90 |
+| [1–11 March 2021](2021-03-11-Sifo.html) | Sifo | 84 | 82–87 | 81–88 | 80–89 | 79–91 |
 | [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 93 | 88–97 | 87–98 | 86–100 | 84–101 |
 | [25–28 February 2021](2021-02-28-Sentio.html) | Sentio | 81 | 74–89 | 72–91 | 71–93 | 67–97 |
 | [1–28 February 2021](2021-02-28-Novus.html) | Novus <br> SVT | 89 | 85–95 | 84–96 | 84–97 | 81–100 |
@@ -413,12 +413,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 79 | 2% | 93% |  |
 | 80 | 3% | 92% |  |
 | 81 | 4% | 89% |  |
-| 82 | 8% | 85% |  |
-| 83 | 5% | 77% |  |
-| 84 | 5% | 72% |  |
+| 82 | 5% | 85% |  |
+| 83 | 5% | 80% |  |
+| 84 | 8% | 75% |  |
 | 85 | 7% | 67% |  |
-| 86 | 4% | 60% |  |
-| 87 | 9% | 56% | Median |
+| 86 | 5% | 61% |  |
+| 87 | 8% | 56% | Median |
 | 88 | 6% | 47% |  |
 | 89 | 5% | 41% |  |
 | 90 | 5% | 36% |  |
