@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Tue, 23 Mar 2021 18:01:05 +0100</pubDate>
+    <pubDate>Thu, 25 Mar 2021 19:58:46 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 9–21 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-03-21-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 92–111 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 72–92 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 66–83 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 29–40 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 35–47 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0–19 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–15 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-03-21-Ipsos-seats.png"
+        length="240958"
+        type="image/png"/>
+      <pubDate>Thu, 25 Mar 2021 19:58:46 +0100</pubDate>
+      <dc:date>2021-03-25T19:58:46.12883+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 9–21 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-03-21-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-03-21-Ipsos-coalitions-seats.png"
+        length="407081"
+        type="image/png"/>
+      <pubDate>Thu, 25 Mar 2021 19:58:46 +0100</pubDate>
+      <dc:date>2021-03-25T19:58:46.12883+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 9–21 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-03-21-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 24.8–29.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 20.0–24.1%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.1–22.1%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.7–10.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 9.5–12.6%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 3.1–5.1%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.2–4.0%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.1–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-03-21-Ipsos.png"
+        length="273865"
+        type="image/png"/>
+      <pubDate>Thu, 25 Mar 2021 19:58:46 +0100</pubDate>
+      <dc:date>2021-03-25T19:58:46.12883+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sifo, 1–11 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-03-11-Sifo.html#seats</link>
@@ -5199,6 +5229,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2021-03-23T18:01:05.368087+01:00</dc:date>
+    <dc:date>2021-03-25T19:58:46.12883+01:00</dc:date>
   </channel>
 </rss>
