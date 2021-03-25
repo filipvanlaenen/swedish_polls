@@ -11,6 +11,7 @@ Last result: **4.4%** (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.0% | 3.0–4.7% | 2.8–4.9% | 2.6–5.0% | 2.3–5.5% |
+| [9–21 March 2021](2021-03-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.0% | 3.4–4.7% | 3.3–5.0% | 3.1–5.1% | 2.9–5.5% |
 | [1–11 March 2021](2021-03-11-Sifo.html) | Sifo | 4.2% | 3.9–4.5% | 3.8–4.6% | 3.8–4.7% | 3.6–4.8% |
 | [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 3.1% | 2.7–3.6% | 2.6–3.8% | 2.5–3.9% | 2.3–4.2% |
 | [25–28 February 2021](2021-02-28-Sentio.html) | Sentio | 3.3% | 2.6–4.3% | 2.4–4.5% | 2.3–4.8% | 2.0–5.3% |
@@ -193,9 +194,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 29% | 98% |  |
-| 3.5–4.5% | 56% | 69% | Last Result, Median |
-| 4.5–5.5% | 13% | 14% |  |
+| 2.5–3.5% | 28% | 98% |  |
+| 3.5–4.5% | 56% | 70% | Last Result, Median |
+| 4.5–5.5% | 14% | 14% |  |
 | 5.5–6.5% | 0.4% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
@@ -208,7 +209,8 @@ Last result: **16** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 0–17 | 0–18 | 0–18 | 0–20 |
+| N/A | [Poll Average](average.html) | 0 | 0–17 | 0–18 | 0–18 | 0–20 |
+| [9–21 March 2021](2021-03-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0–18 | 0–18 | 0–18 | 0–20 |
 | [1–11 March 2021](2021-03-11-Sifo.html) | Sifo | 15 | 0–16 | 0–17 | 0–17 | 0–18 |
 | [26 February–3 March 2021](2021-03-03-Demoskop.html) | Demoskop | 0 | 0 | 0 | 0 | 0–15 |
 | [25–28 February 2021](2021-02-28-Sentio.html) | Sentio | 0 | 0–16 | 0–17 | 0–18 | 0–20 |
@@ -391,26 +393,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 49% | 100% |  |
-| 1 | 0% | 51% |  |
-| 2 | 0% | 51% |  |
-| 3 | 0% | 51% |  |
-| 4 | 0% | 51% |  |
-| 5 | 0% | 51% |  |
-| 6 | 0% | 51% |  |
-| 7 | 0% | 51% |  |
-| 8 | 0% | 51% |  |
-| 9 | 0% | 51% |  |
-| 10 | 0% | 51% |  |
-| 11 | 0% | 51% |  |
-| 12 | 0% | 51% |  |
-| 13 | 0% | 51% |  |
-| 14 | 0.1% | 51% |  |
-| 15 | 18% | 51% | Median |
-| 16 | 18% | 33% | Last Result |
-| 17 | 9% | 16% |  |
-| 18 | 4% | 6% |  |
-| 19 | 2% | 2% |  |
+| 0 | 50% | 100% | Median |
+| 1 | 0% | 50% |  |
+| 2 | 0% | 50% |  |
+| 3 | 0% | 50% |  |
+| 4 | 0% | 50% |  |
+| 5 | 0% | 50% |  |
+| 6 | 0% | 50% |  |
+| 7 | 0% | 50% |  |
+| 8 | 0% | 50% |  |
+| 9 | 0% | 50% |  |
+| 10 | 0% | 50% |  |
+| 11 | 0% | 50% |  |
+| 12 | 0% | 50% |  |
+| 13 | 0% | 50% |  |
+| 14 | 0.1% | 50% |  |
+| 15 | 15% | 49% |  |
+| 16 | 17% | 34% | Last Result |
+| 17 | 10% | 17% |  |
+| 18 | 5% | 7% |  |
+| 19 | 1.5% | 2% |  |
 | 20 | 0.6% | 0.9% |  |
 | 21 | 0.2% | 0.3% |  |
 | 22 | 0.1% | 0.1% |  |
