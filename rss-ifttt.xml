@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Riksdagen</description>
     <pubDate>Fri, 17 Jul 2020 21:17:04 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Novus for SVT, 1 March–4 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-04-04-Novus.html</link>
+      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Novus for SVT, 1 March–4 April 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-04-04-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-04-04-Novus.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-04-04-Novus.png" length="247744" type="image/png"/>
+      <pubDate>Fri, 9 Apr 2021 23:27:17 +0200</pubDate>
+      <dc:date>2021-04-09T23:27:17.893041+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 9–21 March 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-03-21-Ipsos.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 9–21 March 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-03-21-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-03-21-Ipsos-seating-plan.png"/>]]></description>
@@ -172,78 +180,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-21-Ipsos.png" length="272822" type="image/png"/>
       <pubDate>Fri, 12 Mar 2021 07:57:17 +0100</pubDate>
       <dc:date>2021-03-12T07:57:17.984086+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sifo, 1–11 February 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-02-11-Sifo.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Sifo, 1–11 February 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-02-11-Sifo.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-02-11-Sifo-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-11-Sifo-seating-plan.png" length="731777" type="image/png"/>
-      <pubDate>Mon, 15 Feb 2021 08:26:37 +0100</pubDate>
-      <dc:date>2021-02-15T08:26:37.992357+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sifo, 1–11 February 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-02-11-Sifo.html#seats</link>
-      <description><![CDATA[Seat projections for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Sifo, 1–11 February 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-02-11-Sifo.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-02-11-Sifo-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-11-Sifo-seats.png" length="221167" type="image/png"/>
-      <pubDate>Mon, 15 Feb 2021 08:26:37 +0100</pubDate>
-      <dc:date>2021-02-15T08:26:37.992357+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sifo, 1–11 February 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-02-11-Sifo.html</link>
-      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Sifo, 1–11 February 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-02-11-Sifo.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-02-11-Sifo.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-11-Sifo.png" length="238806" type="image/png"/>
-      <pubDate>Mon, 15 Feb 2021 08:26:37 +0100</pubDate>
-      <dc:date>2021-02-15T08:26:37.992357+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop, 26 January–3 February 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-02-03-Demoskop.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Demoskop, 26 January–3 February 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-02-03-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-02-03-Demoskop-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-03-Demoskop-seating-plan.png" length="738194" type="image/png"/>
-      <pubDate>Tue, 9 Feb 2021 21:34:04 +0100</pubDate>
-      <dc:date>2021-02-09T21:34:04.534613+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop, 26 January–3 February 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-02-03-Demoskop.html#seats</link>
-      <description><![CDATA[Seat projections for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Demoskop, 26 January–3 February 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-02-03-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-02-03-Demoskop-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-03-Demoskop-seats.png" length="226798" type="image/png"/>
-      <pubDate>Tue, 9 Feb 2021 21:34:04 +0100</pubDate>
-      <dc:date>2021-02-09T21:34:04.534613+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop, 26 January–3 February 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-02-03-Demoskop.html</link>
-      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Demoskop, 26 January–3 February 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-02-03-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-02-03-Demoskop.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-03-Demoskop.png" length="265492" type="image/png"/>
-      <pubDate>Tue, 9 Feb 2021 21:34:04 +0100</pubDate>
-      <dc:date>2021-02-09T21:34:04.534613+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 28–31 January 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Sentio for Nyheter Idag, 28–31 January 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio-seating-plan.png" length="748053" type="image/png"/>
-      <pubDate>Sat, 13 Feb 2021 13:45:55 +0100</pubDate>
-      <dc:date>2021-02-13T13:45:55.083486+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 28–31 January 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio.html#seats</link>
-      <description><![CDATA[Seat projections for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Sentio for Nyheter Idag, 28–31 January 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio-seats.png" length="243921" type="image/png"/>
-      <pubDate>Sat, 13 Feb 2021 13:45:55 +0100</pubDate>
-      <dc:date>2021-02-13T13:45:55.083486+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 28–31 January 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio.html</link>
-      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Sentio for Nyheter Idag, 28–31 January 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio.png" length="286801" type="image/png"/>
-      <pubDate>Sat, 13 Feb 2021 13:45:55 +0100</pubDate>
-      <dc:date>2021-02-13T13:45:55.083486+01:00</dc:date>
     </item>
   </channel>
 </rss>
