@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Thu, 25 Mar 2021 19:58:46 +0100</pubDate>
+    <pubDate>Fri, 09 Apr 2021 23:27:17 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 1 March–4 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-04-04-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 26.4–28.9%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 21.5–23.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 17.6–19.8%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.7–9.2%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.7–10.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 3.7–4.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.5–3.4%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 4.0–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-04-04-Novus.png"
+        length="247744"
+        type="image/png"/>
+      <pubDate>Fri, 09 Apr 2021 23:27:17 +0200</pubDate>
+      <dc:date>2021-04-09T23:27:17.893041+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 9–21 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-03-21-Ipsos.html#seats</link>
@@ -5229,6 +5239,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2021-03-25T19:58:46.12883+01:00</dc:date>
+    <dc:date>2021-04-09T23:27:17.893041+02:00</dc:date>
   </channel>
 </rss>
