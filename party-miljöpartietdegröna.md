@@ -10,8 +10,8 @@ Last result: **4.4%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 3.6–4.8% | 3.4–5.0% | 3.2–5.1% | 2.9–5.5% |
-| [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 3.3% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 4.1% | 3.2–4.7% | 3.0–4.9% | 2.9–5.1% | 2.6–5.5% |
+| [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 3.3% | 2.9–3.8% | 2.8–3.9% | 2.7–4.0% | 2.5–4.3% |
 | [1 March–4 April 2021](2021-04-04-Novus.html) | Novus <br> SVT | 4.5% | 4.1–4.9% | 4.1–5.0% | 4.0–5.1% | 3.8–5.3% |
 | [26–29 March 2021](2021-03-29-Sentio.html) | Sentio | 4.9% | N/A | N/A | N/A | N/A |
 | [9–21 March 2021](2021-03-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.0% | 3.4–4.7% | 3.3–5.0% | 3.1–5.1% | 2.9–5.5% |
@@ -195,11 +195,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 8% | 99.9% |  |
-| 3.5–4.5% | 69% | 91% | Last Result, Median |
-| 4.5–5.5% | 22% | 23% |  |
-| 5.5–6.5% | 0.5% | 0.5% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.2% | 100% |  |
+| 2.5–3.5% | 22% | 99.8% |  |
+| 3.5–4.5% | 60% | 78% | Last Result, Median |
+| 4.5–5.5% | 18% | 18% |  |
+| 5.5–6.5% | 0.4% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -211,8 +212,8 @@ Last result: **16** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 0–18 | 0–18 | 0–19 | 0–20 |
-| [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 15 | 0–17 | 0–18 | 0–19 | 0–20 |
+| [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 0 | 0 | 0 | 0 | 0–15 |
 | [1 March–4 April 2021](2021-04-04-Novus.html) | Novus <br> SVT | 17 | 16–18 | 15–19 | 15–19 | 0–20 |
 | [26–29 March 2021](2021-03-29-Sentio.html) | Sentio |  |  |  |  |  |
 | [9–21 March 2021](2021-03-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0–18 | 0–18 | 0–18 | 0–20 |
@@ -398,29 +399,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 29% | 100% |  |
-| 1 | 0% | 71% |  |
-| 2 | 0% | 71% |  |
-| 3 | 0% | 71% |  |
-| 4 | 0% | 71% |  |
-| 5 | 0% | 71% |  |
-| 6 | 0% | 71% |  |
-| 7 | 0% | 71% |  |
-| 8 | 0% | 71% |  |
-| 9 | 0% | 71% |  |
-| 10 | 0% | 71% |  |
-| 11 | 0% | 71% |  |
-| 12 | 0% | 71% |  |
-| 13 | 0% | 71% |  |
-| 14 | 0.1% | 71% |  |
-| 15 | 19% | 71% |  |
-| 16 | 23% | 52% | Last Result, Median |
-| 17 | 19% | 29% |  |
-| 18 | 6% | 10% |  |
-| 19 | 3% | 4% |  |
-| 20 | 0.8% | 1.2% |  |
-| 21 | 0.2% | 0.4% |  |
-| 22 | 0.1% | 0.2% |  |
+| 0 | 43% | 100% |  |
+| 1 | 0% | 57% |  |
+| 2 | 0% | 57% |  |
+| 3 | 0% | 57% |  |
+| 4 | 0% | 57% |  |
+| 5 | 0% | 57% |  |
+| 6 | 0% | 57% |  |
+| 7 | 0% | 57% |  |
+| 8 | 0% | 57% |  |
+| 9 | 0% | 57% |  |
+| 10 | 0% | 57% |  |
+| 11 | 0% | 57% |  |
+| 12 | 0% | 57% |  |
+| 13 | 0% | 57% |  |
+| 14 | 0.1% | 57% |  |
+| 15 | 16% | 57% | Median |
+| 16 | 19% | 42% | Last Result |
+| 17 | 15% | 23% |  |
+| 18 | 5% | 8% |  |
+| 19 | 2% | 3% |  |
+| 20 | 0.7% | 1.0% |  |
+| 21 | 0.2% | 0.3% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
 
