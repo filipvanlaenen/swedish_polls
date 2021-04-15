@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
-| N/A | [Poll Average](average.html) | 25–29% <br> 93–111 | 21–26% <br> 76–98 | 14–21% <br> 52–79 | 8–11% <br> 29–42 | 9–12% <br> 32–45 | 3–6% <br> 0–20 | 2–4% <br> 0 | 3–5% <br> 0–19 |
-| [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 24–29% <br> 90–110 | 21–26% <br> 77–97 | 14–21% <br> 53–79 | 8–11% <br> 29–42 | 8–12% <br> 30–45 | 4–6% <br> 0–22 | 2–4% <br> 0–15 | 3–5% <br> 0–19 |
+| [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 24–27% <br> 89–103 | 21–24% <br> 81–94 | 18–21% <br> 66–77 | 9–11% <br> 32–41 | 7–10% <br> 29–37 | 4–6% <br> 16–24 | 3–4% <br> 0–16 | 3–4% <br> 0 |
 | [1 March–4 April 2021](2021-04-04-Novus.html) | Novus <br> SVT | 26–29% <br> 96–108 | 21–24% <br> 78–90 | 18–20% <br> 65–74 | 8–9% <br> 28–34 | 9–10% <br> 31–39 | 4–5% <br> 0–18 | 2–3% <br> 0 | 4–5% <br> 15–19 |
 | [26–29 March 2021](2021-03-29-Sentio.html) | Sentio | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [9–21 March 2021](2021-03-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 25–29% <br> 92–111 | 20–24% <br> 72–92 | 18–22% <br> 66–83 | 8–11% <br> 29–40 | 9–13% <br> 35–47 | 3–5% <br> 0–19 | 2–4% <br> 0–15 | 3–5% <br> 0–18 |
