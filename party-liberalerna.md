@@ -212,7 +212,7 @@ Last result: **20** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–15 | 0–17 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–15 | 0–15 | 0–17 |
 | [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 0 | 0–15 | 0–16 | 0–16 | 0–17 |
 | [1 March–4 April 2021](2021-04-04-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [26–29 March 2021](2021-03-29-Sentio.html) | Sentio | 0 | 0 | 0–15 | 0–16 | 0–18 |
@@ -414,8 +414,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 5% |  |
 | 13 | 0% | 5% |  |
 | 14 | 0.2% | 5% |  |
-| 15 | 2% | 5% |  |
-| 16 | 1.4% | 2% |  |
+| 15 | 3% | 5% |  |
+| 16 | 2% | 2% |  |
 | 17 | 0.5% | 0.7% |  |
 | 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
