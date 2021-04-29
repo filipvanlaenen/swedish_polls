@@ -212,8 +212,8 @@ Last result: **20** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–15 | 0–15 | 0–17 |
-| [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 0 | 0–15 | 0–16 | 0–16 | 0–18 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–15 | 0–17 |
+| [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 0 | 0–15 | 0–16 | 0–16 | 0–17 |
 | [1 March–4 April 2021](2021-04-04-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [26–29 March 2021](2021-03-29-Sentio.html) | Sentio | 0 | 0 | 0–15 | 0–16 | 0–18 |
 | [9–21 March 2021](2021-03-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0–15 | 0–16 |
@@ -399,26 +399,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 94% | 100% | Median |
-| 1 | 0% | 6% |  |
-| 2 | 0% | 6% |  |
-| 3 | 0% | 6% |  |
-| 4 | 0% | 6% |  |
-| 5 | 0% | 6% |  |
-| 6 | 0% | 6% |  |
-| 7 | 0% | 6% |  |
-| 8 | 0% | 6% |  |
-| 9 | 0% | 6% |  |
-| 10 | 0% | 6% |  |
-| 11 | 0% | 6% |  |
-| 12 | 0% | 6% |  |
-| 13 | 0% | 6% |  |
-| 14 | 0.2% | 6% |  |
-| 15 | 4% | 6% |  |
+| 0 | 95% | 100% | Median |
+| 1 | 0% | 5% |  |
+| 2 | 0% | 5% |  |
+| 3 | 0% | 5% |  |
+| 4 | 0% | 5% |  |
+| 5 | 0% | 5% |  |
+| 6 | 0% | 5% |  |
+| 7 | 0% | 5% |  |
+| 8 | 0% | 5% |  |
+| 9 | 0% | 5% |  |
+| 10 | 0% | 5% |  |
+| 11 | 0% | 5% |  |
+| 12 | 0% | 5% |  |
+| 13 | 0% | 5% |  |
+| 14 | 0.2% | 5% |  |
+| 15 | 2% | 5% |  |
 | 16 | 1.4% | 2% |  |
 | 17 | 0.5% | 0.7% |  |
 | 18 | 0.2% | 0.2% |  |
-| 19 | 0% | 0.1% |  |
+| 19 | 0% | 0% |  |
 | 20 | 0% | 0% | Last Result |
 
 

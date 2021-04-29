@@ -217,8 +217,8 @@ Last result: **31** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33 | 23–39 | 21–40 | 19–42 | 17–44 |
-| [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 37 | 34–40 | 33–40 | 32–41 | 31–43 |
+| N/A | [Poll Average](average.html) | 33 | 23–38 | 21–40 | 19–42 | 17–44 |
+| [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 37 | 35–40 | 33–41 | 33–42 | 32–43 |
 | [1 March–4 April 2021](2021-04-04-Novus.html) | Novus <br> SVT | 31 | 29–33 | 28–34 | 28–34 | 27–35 |
 | [26–29 March 2021](2021-03-29-Sentio.html) | Sentio | 22 | 18–26 | 17–28 | 16–29 | 0–31 |
 | [9–21 March 2021](2021-03-21-Ipsos.html) | Ipsos <br> Dagens Nyheter | 35 | 31–37 | 29–39 | 29–40 | 26–43 |
@@ -438,15 +438,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 10% | 74% | Last Result |
 | 32 | 11% | 64% |  |
 | 33 | 8% | 53% | Median |
-| 34 | 7% | 45% |  |
-| 35 | 8% | 38% |  |
-| 36 | 7% | 30% |  |
-| 37 | 6% | 23% |  |
-| 38 | 5% | 16% |  |
-| 39 | 3% | 12% |  |
-| 40 | 5% | 9% |  |
-| 41 | 2% | 4% |  |
-| 42 | 0.9% | 3% |  |
+| 34 | 6% | 45% |  |
+| 35 | 7% | 39% |  |
+| 36 | 9% | 32% |  |
+| 37 | 8% | 23% |  |
+| 38 | 6% | 16% |  |
+| 39 | 3% | 10% |  |
+| 40 | 3% | 7% |  |
+| 41 | 1.4% | 4% |  |
+| 42 | 1.1% | 3% |  |
 | 43 | 0.6% | 2% |  |
 | 44 | 0.7% | 1.2% |  |
 | 45 | 0.1% | 0.5% |  |
