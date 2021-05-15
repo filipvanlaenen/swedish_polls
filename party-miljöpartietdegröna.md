@@ -10,8 +10,8 @@ Last result: **4.4%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 3.5–5.7% | 3.3–6.1% | 3.1–6.4% | 2.8–7.0% |
-| [3–13 May 2021](2021-05-13-Sifo.html) | Sifo | 4.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 4.2% | 3.6–5.5% | 3.4–5.9% | 3.2–6.2% | 2.8–6.9% |
+| [3–13 May 2021](2021-05-13-Sifo.html) | Sifo | 4.0% | 3.7–4.4% | 3.6–4.4% | 3.6–4.5% | 3.4–4.7% |
 | [28 April–5 May 2021](2021-05-05-Demoskop.html) | Demoskop | 4.1% | N/A | N/A | N/A | N/A |
 | [5 April–2 May 2021](2021-05-02-Novus.html) | Novus <br> SVT | 4.0% | N/A | N/A | N/A | N/A |
 | [13–25 April 2021](2021-04-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.0% | N/A | N/A | N/A | N/A |
@@ -200,13 +200,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 11% | 99.9% |  |
-| 3.5–4.5% | 42% | 89% | Last Result |
-| 4.5–5.5% | 34% | 48% | Median |
-| 5.5–6.5% | 12% | 14% |  |
-| 6.5–7.5% | 2% | 2% |  |
+| 2.5–3.5% | 7% | 99.9% |  |
+| 3.5–4.5% | 61% | 92% | Last Result, Median |
+| 4.5–5.5% | 23% | 32% |  |
+| 5.5–6.5% | 8% | 9% |  |
+| 6.5–7.5% | 1.1% | 1.2% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
