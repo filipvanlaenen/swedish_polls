@@ -5,10 +5,10 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
-| [3–13 May 2021](2021-05-13-Sifo.html) | Sifo | 26–28% <br> N/A | 21–23% <br> N/A | 18–20% <br> N/A | 9–10% <br> N/A | 9–10% <br> N/A | 5–6% <br> N/A | 2–3% <br> N/A | 4–5% <br> N/A |
-| [28 April–5 May 2021](2021-05-05-Demoskop.html) | Demoskop | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [5 April–2 May 2021](2021-05-02-Novus.html) | Novus <br> SVT | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [13–25 April 2021](2021-04-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [3–13 May 2021](2021-05-13-Sifo.html) | Sifo | 26–28% <br> 96–105 | 21–23% <br> 77–85 | 18–20% <br> 66–75 | 9–10% <br> 32–37 | 9–10% <br> 34–38 | 5–6% <br> 18–21 | 3% <br> 0 | 4% <br> 0–16 |
+| [28 April–5 May 2021](2021-05-05-Demoskop.html) | Demoskop | 24–27% <br> 86–102 | 22–25% <br> 79–92 | 18–21% <br> 64–76 | 11–13% <br> 38–49 | 6–8% <br> 22–30 | 4–6% <br> 16–23 | 3–4% <br> 0 | 3–5% <br> 0–18 |
+| [5 April–2 May 2021](2021-05-02-Novus.html) | Novus <br> SVT | 26–29% <br> 96–106 | 22–24% <br> 80–91 | 17–19% <br> 62–72 | 8–9% <br> 28–34 | 9–11% <br> 31–39 | 5–6% <br> 17–22 | 2–4% <br> 0 | 3–5% <br> 0–17 |
+| [13–25 April 2021](2021-04-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 24–28% <br> 89–107 | 20–24% <br> 75–91 | 17–21% <br> 65–79 | 8–10% <br> 29–38 | 9–11% <br> 33–44 | 4–6% <br> 0–22 | 2–4% <br> 0 | 3–5% <br> 0–18 |
 | [5–15 April 2021](2021-04-15-Sifo.html) | Sifo | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 24–27% <br> 89–103 | 21–24% <br> 80–93 | 18–21% <br> 67–79 | 9–11% <br> 33–42 | 7–10% <br> 28–36 | 4–6% <br> 17–24 | 3–4% <br> 0–16 | 3–4% <br> 0–15 |
 | [1 March–4 April 2021](2021-04-04-Novus.html) | Novus <br> SVT | 26–29% <br> 97–108 | 21–24% <br> 78–90 | 18–20% <br> 65–74 | 8–9% <br> 28–34 | 9–10% <br> 32–39 | 4–5% <br> 0–18 | 2–3% <br> 0 | 4–5% <br> 15–19 |
