@@ -5,6 +5,11 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
+| [3–13 May 2021](2021-05-13-Sifo.html) | Sifo | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [28 April–5 May 2021](2021-05-05-Demoskop.html) | Demoskop | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [5 April–2 May 2021](2021-05-02-Novus.html) | Novus <br> SVT | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [13–25 April 2021](2021-04-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [5–15 April 2021](2021-04-15-Sifo.html) | Sifo | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 24–27% <br> 89–103 | 21–24% <br> 80–93 | 18–21% <br> 67–79 | 9–11% <br> 33–42 | 7–10% <br> 28–36 | 4–6% <br> 17–24 | 3–4% <br> 0–16 | 3–4% <br> 0–15 |
 | [1 March–4 April 2021](2021-04-04-Novus.html) | Novus <br> SVT | 26–29% <br> 97–108 | 21–24% <br> 78–90 | 18–20% <br> 65–74 | 8–9% <br> 28–34 | 9–10% <br> 32–39 | 4–5% <br> 0–18 | 2–3% <br> 0 | 4–5% <br> 15–19 |
 | [26–29 March 2021](2021-03-29-Sentio.html) | Sentio | 24–30% <br> 86–110 | 17–23% <br> 64–85 | 19–25% <br> 71–93 | 5–8% <br> 16–29 | 7–11% <br> 26–41 | 5–8% <br> 16–29 | 2–4% <br> 0–16 | 4–7% <br> 0–25 |
