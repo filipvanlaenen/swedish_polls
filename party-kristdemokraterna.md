@@ -219,11 +219,11 @@ Last result: **22** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–22 | 15–24 | 0–26 | 0–28 |
+| N/A | [Poll Average](average.html) | 19 | 17–22 | 15–24 | 0–26 | 0–28 |
 | [3–13 May 2021](2021-05-13-Sifo.html) | Sifo | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
-| [28 April–5 May 2021](2021-05-05-Demoskop.html) | Demoskop | 19 | 17–21 | 17–22 | 16–23 | 15–24 |
-| [5 April–2 May 2021](2021-05-02-Novus.html) | Novus <br> SVT | 19 | 18–22 | 17–22 | 17–22 | 16–23 |
-| [13–25 April 2021](2021-04-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 19 | 16–21 | 16–22 | 0–22 | 0–24 |
+| [28 April–5 May 2021](2021-05-05-Demoskop.html) | Demoskop | 19 | 17–22 | 17–22 | 16–23 | 15–24 |
+| [5 April–2 May 2021](2021-05-02-Novus.html) | Novus <br> SVT | 20 | 18–22 | 18–22 | 17–23 | 16–24 |
+| [13–25 April 2021](2021-04-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 19 | 17–21 | 16–22 | 15–23 | 0–24 |
 | [5–15 April 2021](2021-04-15-Sifo.html) | Sifo |  |  |  |  |  |
 | [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 20 | 18–22 | 17–23 | 17–24 | 16–24 |
 | [1 March–4 April 2021](2021-04-04-Novus.html) | Novus <br> SVT | 15 | 0–17 | 0–17 | 0–18 | 0–18 |
@@ -427,17 +427,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 97% |  |
 | 14 | 0% | 97% |  |
 | 15 | 2% | 97% |  |
-| 16 | 6% | 95% |  |
-| 17 | 10% | 89% |  |
-| 18 | 19% | 79% |  |
-| 19 | 17% | 60% | Median |
-| 20 | 17% | 43% |  |
-| 21 | 11% | 26% |  |
-| 22 | 5% | 15% | Last Result |
-| 23 | 3% | 9% |  |
+| 16 | 5% | 95% |  |
+| 17 | 8% | 90% |  |
+| 18 | 16% | 82% |  |
+| 19 | 20% | 66% | Median |
+| 20 | 18% | 46% |  |
+| 21 | 12% | 28% |  |
+| 22 | 6% | 15% | Last Result |
+| 23 | 3% | 10% |  |
 | 24 | 2% | 7% |  |
 | 25 | 2% | 4% |  |
-| 26 | 1.0% | 3% |  |
+| 26 | 0.9% | 3% |  |
 | 27 | 0.8% | 2% |  |
 | 28 | 0.5% | 1.0% |  |
 | 29 | 0.2% | 0.5% |  |
