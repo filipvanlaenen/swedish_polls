@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sun, 16 May 2021 21:28:04 +0200</pubDate>
+    <pubDate>Sun, 23 May 2021 21:55:31 +0200</pubDate>
     <item>
       <title>Opinion Poll by Sifo, 3–13 May 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-05-13-Sifo.html#seats</link>
@@ -128,6 +128,16 @@
         type="image/png"/>
       <pubDate>Sun, 16 May 2021 21:28:04 +0200</pubDate>
       <dc:date>2021-05-16T21:28:04.922651+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo, 5–15 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-04-15-Sifo.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 26.7–28.9%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 20.3–22.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.0–19.8%&lt;/li&gt;&lt;li&gt;Centerpartiet: 8.2–9.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.7–10.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.3–5.3%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.7–3.5%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.8–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-04-15-Sifo.png"
+        length="240102"
+        type="image/png"/>
+      <pubDate>Sun, 23 May 2021 21:55:31 +0200</pubDate>
+      <dc:date>2021-05-23T21:55:31.629657+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop, 30 March–7 April 2021 – Seat Projections for the Parties</title>
@@ -5439,6 +5449,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2021-05-16T21:28:04.922651+02:00</dc:date>
+    <dc:date>2021-05-23T21:55:31.629657+02:00</dc:date>
   </channel>
 </rss>
