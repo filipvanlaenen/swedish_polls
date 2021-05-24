@@ -15,7 +15,7 @@ Last result: **17.5%** (General Election of 9 September 2018)
 | [28 April–5 May 2021](2021-05-05-Demoskop.html) | Demoskop | 19.0% | 18.1–20.0% | 17.8–20.3% | 17.6–20.6% | 17.1–21.0% |
 | [5 April–2 May 2021](2021-05-02-Novus.html) | Novus <br> SVT | 18.1% | 17.3–19.0% | 17.1–19.2% | 16.9–19.4% | 16.6–19.8% |
 | [13–25 April 2021](2021-04-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 19.0% | 17.9–20.1% | 17.6–20.5% | 17.3–20.7% | 16.8–21.3% |
-| [5–15 April 2021](2021-04-15-Sifo.html) | Sifo | 18.9% | N/A | N/A | N/A | N/A |
+| [5–15 April 2021](2021-04-15-Sifo.html) | Sifo | 18.9% | 18.3–19.5% | 18.1–19.7% | 18.0–19.8% | 17.7–20.1% |
 | [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 19.2% | 18.2–20.2% | 18.0–20.5% | 17.7–20.8% | 17.3–21.2% |
 | [1 March–4 April 2021](2021-04-04-Novus.html) | Novus <br> SVT | 18.7% | 18.0–19.4% | 17.8–19.6% | 17.6–19.8% | 17.3–20.2% |
 | [26–29 March 2021](2021-03-29-Sentio.html) | Sentio | 22.2% | 20.4–24.2% | 19.9–24.7% | 19.4–25.2% | 18.6–26.2% |
@@ -231,7 +231,7 @@ Last result: **62** seats (General Election of 9 September 2018)
 | [28 April–5 May 2021](2021-05-05-Demoskop.html) | Demoskop | 70 | 67–74 | 65–76 | 64–77 | 63–79 |
 | [5 April–2 May 2021](2021-05-02-Novus.html) | Novus <br> SVT | 67 | 64–71 | 63–72 | 62–72 | 61–74 |
 | [13–25 April 2021](2021-04-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 71 | 67–76 | 65–78 | 64–79 | 62–81 |
-| [5–15 April 2021](2021-04-15-Sifo.html) | Sifo |  |  |  |  |  |
+| [5–15 April 2021](2021-04-15-Sifo.html) | Sifo | 70 | 66–73 | 66–73 | 66–73 | 64–75 |
 | [30 March–7 April 2021](2021-04-07-Demoskop.html) | Demoskop | 73 | 69–77 | 68–78 | 67–79 | 65–81 |
 | [1 March–4 April 2021](2021-04-04-Novus.html) | Novus <br> SVT | 69 | 66–72 | 65–73 | 65–74 | 63–76 |
 | [26–29 March 2021](2021-03-29-Sentio.html) | Sentio | 82 | 74–89 | 72–91 | 71–93 | 68–97 |
