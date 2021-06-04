@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sun, 23 May 2021 21:55:31 +0200</pubDate>
+    <pubDate>Fri, 04 Jun 2021 11:32:27 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SCB, 28 April–27 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-05-27-SCB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 27.3–29.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 21.5–23.2%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.1–19.7%&lt;/li&gt;&lt;li&gt;Centerpartiet: 8.9–10.1%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.3–9.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.1–4.9%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.2–2.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.4–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-05-27-SCB.png"
+        length="237751"
+        type="image/png"/>
+      <pubDate>Fri, 04 Jun 2021 11:04:44 +0200</pubDate>
+      <dc:date>2021-06-04T11:04:44.80497+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio, 21–24 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-05-24-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.6–28.6%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.7–22.2%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.3–24.0%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.4–9.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.3–12.6%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 3.9–7.0%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.3–4.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.6–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-05-24-Sentio.png"
+        length="289804"
+        type="image/png"/>
+      <pubDate>Fri, 04 Jun 2021 11:19:19 +0200</pubDate>
+      <dc:date>2021-06-04T11:19:19.59887+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 11–23 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-05-23-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 23.6–28.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 19.8–23.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 17.9–21.9%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.6–10.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.5–11.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.0–6.2%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.2–3.9%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.1–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-05-23-Ipsos.png"
+        length="275487"
+        type="image/png"/>
+      <pubDate>Fri, 04 Jun 2021 11:32:27 +0200</pubDate>
+      <dc:date>2021-06-04T11:32:27.150442+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sifo, 3–13 May 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-05-13-Sifo.html#seats</link>
@@ -5449,6 +5479,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2021-05-23T21:55:31.629657+02:00</dc:date>
+    <dc:date>2021-06-04T11:32:27.150442+02:00</dc:date>
   </channel>
 </rss>
