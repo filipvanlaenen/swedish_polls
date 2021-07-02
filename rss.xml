@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Fri, 04 Jun 2021 18:54:00 +0200</pubDate>
+    <pubDate>Fri, 02 Jul 2021 12:02:03 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 8–20 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-06-20-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 21.9–26.2%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 20.0–24.1%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 17.1–21.0%&lt;/li&gt;&lt;li&gt;Centerpartiet: 8.6–11.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 10.5–13.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.9–7.3%&lt;/li&gt;&lt;li&gt;Liberalerna: 1.4–2.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.2–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-06-20-Ipsos.png"
+        length="273544"
+        type="image/png"/>
+      <pubDate>Thu, 01 Jul 2021 21:15:21 +0200</pubDate>
+      <dc:date>2021-07-01T21:15:21.182243+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo, 7–17 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-06-17-Sifo.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 24.8–26.9%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 21.4–23.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 19.2–21.2%&lt;/li&gt;&lt;li&gt;Centerpartiet: 9.2–10.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.9–10.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.6–5.7%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.0–2.7%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.1–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-06-17-Sifo.png"
+        length="240619"
+        type="image/png"/>
+      <pubDate>Fri, 02 Jul 2021 12:02:03 +0200</pubDate>
+      <dc:date>2021-07-02T12:02:03.190065+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SCB, 28 April–27 May 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-05-27-SCB.html#seats</link>
@@ -5549,6 +5569,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2021-06-04T18:54:00.55292+02:00</dc:date>
+    <dc:date>2021-07-02T12:02:03.190065+02:00</dc:date>
   </channel>
 </rss>
