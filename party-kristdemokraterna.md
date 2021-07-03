@@ -226,11 +226,11 @@ Last result: **22** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 17–23 | 16–25 | 15–26 | 0–27 |
-| [8–20 June 2021](2021-06-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 23 | 20–26 | 19–26 | 19–27 | 17–29 |
-| [7–17 June 2021](2021-06-17-Sifo.html) | Sifo | 19 | 18–20 | 17–21 | 17–22 | 17–22 |
-| [3 May–6 June 2021](2021-06-06-Novus.html) | Novus <br> SVT | 19 | 18–21 | 18–21 | 17–21 | 17–22 |
-| [26 May–2 June 2021](2021-06-02-Demoskop.html) | Demoskop | 22 | 19–24 | 19–25 | 18–25 | 17–27 |
+| N/A | [Poll Average](average.html) | 20 | 17–23 | 16–24 | 15–26 | 0–27 |
+| [8–20 June 2021](2021-06-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 23 | 20–26 | 19–27 | 19–27 | 17–29 |
+| [7–17 June 2021](2021-06-17-Sifo.html) | Sifo | 19 | 18–20 | 17–21 | 17–21 | 17–22 |
+| [3 May–6 June 2021](2021-06-06-Novus.html) | Novus <br> SVT | 19 | 18–21 | 18–22 | 17–22 | 16–23 |
+| [26 May–2 June 2021](2021-06-02-Demoskop.html) | Demoskop | 21 | 19–23 | 19–24 | 18–25 | 17–26 |
 | [28 April–27 May 2021](2021-05-27-SCB.html) | SCB | 17 | 16–18 | 15–18 | 15–18 | 0–19 |
 | [21–24 May 2021](2021-05-24-Sentio.html) | Sentio | 19 | 16–23 | 14–24 | 0–25 | 0–28 |
 | [11–23 May 2021](2021-05-23-Ipsos.html) | Ipsos <br> Dagens Nyheter | 19 | 16–22 | 15–22 | 0–23 | 0–25 |
@@ -444,13 +444,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 2% | 98.9% |  |
 | 16 | 7% | 97% |  |
 | 17 | 11% | 90% |  |
-| 18 | 10% | 79% |  |
-| 19 | 19% | 70% |  |
-| 20 | 13% | 50% | Median |
-| 21 | 10% | 37% |  |
-| 22 | 11% | 27% | Last Result |
-| 23 | 6% | 15% |  |
-| 24 | 4% | 10% |  |
+| 18 | 11% | 80% |  |
+| 19 | 17% | 68% |  |
+| 20 | 16% | 51% | Median |
+| 21 | 11% | 36% |  |
+| 22 | 8% | 24% | Last Result |
+| 23 | 7% | 16% |  |
+| 24 | 4% | 9% |  |
 | 25 | 2% | 5% |  |
 | 26 | 1.5% | 3% |  |
 | 27 | 0.7% | 1.1% |  |
