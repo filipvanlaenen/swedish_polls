@@ -10,7 +10,8 @@ Last result: **8.0%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.7% | 8.9–12.3% | 8.7–12.7% | 8.5–13.0% | 8.2–13.7% |
+| N/A | [Poll Average](average.html) | 10.2% | 8.8–12.3% | 8.6–12.7% | 8.5–13.1% | 8.1–13.8% |
+| [29 June–7 July 2021](2021-07-07-Demoskop.html) | Demoskop <br> Aftonbladet | 9.4% | N/A | N/A | N/A | N/A |
 | [23–28 June 2021](2021-06-28-Demoskop.html) | Demoskop <br> Aftonbladet | 11.3% | 10.5–12.2% | 10.2–12.5% | 10.0–12.7% | 9.6–13.2% |
 | [21–27 June 2021](2021-06-27-Novus.html) | Novus <br> SVT | 11.5% | 10.7–12.3% | 10.4–12.6% | 10.2–12.8% | 9.9–13.2% |
 | [18–21 June 2021](2021-06-21-Sentio.html) | Sentio <br> Nyheter Idag | 10.1% | 8.9–11.6% | 8.5–12.1% | 8.2–12.5% | 7.7–13.2% |
@@ -211,15 +212,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
+| 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0.1% | 100% |  |
 | 7.5–8.5% | 3% | 99.9% | Last Result |
-| 8.5–9.5% | 25% | 97% |  |
-| 9.5–10.5% | 19% | 72% |  |
-| 10.5–11.5% | 25% | 53% | Median |
-| 11.5–12.5% | 21% | 28% |  |
+| 8.5–9.5% | 30% | 96% |  |
+| 9.5–10.5% | 20% | 66% | Median |
+| 10.5–11.5% | 20% | 46% |  |
+| 11.5–12.5% | 19% | 26% |  |
 | 12.5–13.5% | 6% | 7% |  |
-| 13.5–14.5% | 0.7% | 0.7% |  |
+| 13.5–14.5% | 0.8% | 0.9% |  |
 | 14.5–15.5% | 0% | 0% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -230,10 +233,11 @@ Last result: **28** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 40 | 33–47 | 32–48 | 32–49 | 31–51 |
-| [23–28 June 2021](2021-06-28-Demoskop.html) | Demoskop <br> Aftonbladet | 42 | 38–47 | 38–48 | 37–49 | 36–50 |
-| [21–27 June 2021](2021-06-27-Novus.html) | Novus <br> SVT | 44 | 40–46 | 40–47 | 38–48 | 38–49 |
-| [18–21 June 2021](2021-06-21-Sentio.html) | Sentio <br> Nyheter Idag | 38 | 33–45 | 32–47 | 31–47 | 29–50 |
+| N/A | [Poll Average](average.html) | 38 | 33–46 | 32–48 | 32–49 | 30–51 |
+| [29 June–7 July 2021](2021-07-07-Demoskop.html) | Demoskop <br> Aftonbladet |  |  |  |  |  |
+| [23–28 June 2021](2021-06-28-Demoskop.html) | Demoskop <br> Aftonbladet | 42 | 39–45 | 38–47 | 37–48 | 36–50 |
+| [21–27 June 2021](2021-06-27-Novus.html) | Novus <br> SVT | 43 | 40–46 | 39–47 | 38–48 | 37–50 |
+| [18–21 June 2021](2021-06-21-Sentio.html) | Sentio <br> Nyheter Idag | 38 | 33–44 | 32–45 | 31–47 | 29–50 |
 | [8–20 June 2021](2021-06-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 45 | 41–49 | 40–50 | 39–51 | 38–54 |
 | [7–17 June 2021](2021-06-17-Sifo.html) | Sifo | 36 | 34–38 | 34–38 | 33–39 | 33–40 |
 | [3 May–6 June 2021](2021-06-06-Novus.html) | Novus <br> SVT | 35 | 33–37 | 33–38 | 32–39 | 31–40 |
@@ -433,31 +437,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 28 | 0% | 100% | Last Result |
+| 28 | 0.1% | 100% | Last Result |
 | 29 | 0.1% | 99.9% |  |
-| 30 | 0.2% | 99.8% |  |
-| 31 | 1.4% | 99.6% |  |
+| 30 | 0.3% | 99.8% |  |
+| 31 | 2% | 99.5% |  |
 | 32 | 4% | 98% |  |
-| 33 | 6% | 94% |  |
-| 34 | 7% | 88% |  |
-| 35 | 9% | 82% |  |
-| 36 | 7% | 73% |  |
-| 37 | 6% | 66% |  |
-| 38 | 4% | 60% |  |
-| 39 | 5% | 56% |  |
-| 40 | 4% | 51% | Median |
-| 41 | 5% | 47% |  |
-| 42 | 7% | 42% |  |
-| 43 | 7% | 35% |  |
-| 44 | 4% | 28% |  |
-| 45 | 9% | 24% |  |
-| 46 | 5% | 15% |  |
-| 47 | 4% | 10% |  |
+| 33 | 7% | 94% |  |
+| 34 | 8% | 86% |  |
+| 35 | 9% | 78% |  |
+| 36 | 8% | 69% |  |
+| 37 | 7% | 61% |  |
+| 38 | 4% | 54% | Median |
+| 39 | 4% | 50% |  |
+| 40 | 4% | 45% |  |
+| 41 | 4% | 41% |  |
+| 42 | 7% | 37% |  |
+| 43 | 6% | 30% |  |
+| 44 | 5% | 24% |  |
+| 45 | 7% | 20% |  |
+| 46 | 4% | 13% |  |
+| 47 | 3% | 9% |  |
 | 48 | 3% | 6% |  |
 | 49 | 2% | 3% |  |
 | 50 | 1.0% | 2% |  |
-| 51 | 0.3% | 0.7% |  |
-| 52 | 0.2% | 0.4% |  |
+| 51 | 0.4% | 0.9% |  |
+| 52 | 0.3% | 0.5% |  |
 | 53 | 0.1% | 0.2% |  |
 | 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |
