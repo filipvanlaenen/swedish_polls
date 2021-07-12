@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sat, 10 Jul 2021 12:10:10 +0200</pubDate>
+    <pubDate>Sun, 11 Jul 2021 19:16:31 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet, 29 June–7 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-07-07-Demoskop.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 88–101 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 75–88 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 67–78 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 35–44 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 32–39 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 20–27 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–15 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-07-07-Demoskop-seats.png"
+        length="228466"
+        type="image/png"/>
+      <pubDate>Sun, 11 Jul 2021 19:16:31 +0200</pubDate>
+      <dc:date>2021-07-11T19:16:31.951718+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet, 29 June–7 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-07-07-Demoskop.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-07-07-Demoskop-coalitions-seats.png"
+        length="356673"
+        type="image/png"/>
+      <pubDate>Sun, 11 Jul 2021 19:16:31 +0200</pubDate>
+      <dc:date>2021-07-11T19:16:31.951718+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet, 29 June–7 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-07-07-Demoskop.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 23.7–26.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 20.3–23.2%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.0–20.7%&lt;/li&gt;&lt;li&gt;Centerpartiet: 9.4–11.5%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.4–10.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.3–7.0%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.9–4.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.9–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-07-07-Demoskop.png"
+        length="260208"
+        type="image/png"/>
+      <pubDate>Sun, 11 Jul 2021 19:16:31 +0200</pubDate>
+      <dc:date>2021-07-11T19:16:31.951718+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Demoskop for Aftonbladet, 23–28 June 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-06-28-Demoskop.html#seats</link>
@@ -5759,6 +5789,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2021-07-10T12:10:10.092979+02:00</dc:date>
+    <dc:date>2021-07-11T19:16:31.951718+02:00</dc:date>
   </channel>
 </rss>
