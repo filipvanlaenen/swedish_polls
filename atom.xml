@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_polls</id>
   <title>All Registered Polls for the Riksdagen</title>
-  <updated>2021-07-10T12:10:10.092979+02:00</updated>
+  <updated>2021-07-11T19:16:31.951718+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 23.7–26.7%, 88–101 seats</li><li>Moderata samlingspartiet: 20.3–23.2%, 75–88 seats</li><li>Sverigedemokraterna: 18.0–20.7%, 67–78 seats</li><li>Centerpartiet: 9.4–11.5%, 35–44 seats</li><li>Vänsterpartiet: 8.4–10.5%, 32–39 seats</li><li>Kristdemokraterna: 5.3–7.0%, 20–27 seats</li><li>Liberalerna: 2.9–4.2%, 0–15 seats</li><li>Miljöpartiet de gröna: 2.9–4.2%, 0–15 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_polls/2021-07-07-Demoskop.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_polls/2021-07-07-Demoskop.html"/>
+    <title>Opinion Poll by Demoskop for Aftonbladet, 29 June–7 July 2021</title>
+    <updated>2021-07-11T19:16:31.951718+02:00</updated>
+    <dc:date>2021-07-11T19:16:31.951718+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 21.7–25.3%, 81–94 seats</li><li>Moderata samlingspartiet: 20.4–23.9%, 76–90 seats</li><li>Sverigedemokraterna: 16.6–19.9%, 62–75 seats</li><li>Centerpartiet: 9.4–12.0%, 35–45 seats</li><li>Vänsterpartiet: 10.0–12.7%, 37–48 seats</li><li>Kristdemokraterna: 5.8–8.0%, 22–30 seats</li><li>Liberalerna: 2.7–4.3%, 0–15 seats</li><li>Miljöpartiet de gröna: 2.6–4.2%, 0–15 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_polls/2021-06-28-Demoskop.html</id>
@@ -1535,5 +1543,5 @@
     <updated>2018-10-27T21:13:38.351324+02:00</updated>
     <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
   </entry>
-  <dc:date>2021-07-10T12:10:10.092979+02:00</dc:date>
+  <dc:date>2021-07-11T19:16:31.951718+02:00</dc:date>
 </feed>
