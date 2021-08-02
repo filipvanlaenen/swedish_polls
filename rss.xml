@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sun, 11 Jul 2021 19:16:31 +0200</pubDate>
+    <pubDate>Mon, 02 Aug 2021 12:03:16 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 19–26 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-07-26-Novus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 80–96 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 71–85 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 73–88 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 29–38 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 44–55 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0–20 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–17 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-07-26-Novus-seats.png"
+        length="243526"
+        type="image/png"/>
+      <pubDate>Mon, 02 Aug 2021 12:03:16 +0200</pubDate>
+      <dc:date>2021-08-02T12:03:16.883684+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 19–26 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-07-26-Novus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-07-26-Novus-coalitions-seats.png"
+        length="380470"
+        type="image/png"/>
+      <pubDate>Mon, 02 Aug 2021 12:03:16 +0200</pubDate>
+      <dc:date>2021-08-02T12:03:16.883684+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 19–26 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-07-26-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.1–25.5%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 19.4–22.7%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 20.0–23.3%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.8–10.1%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 12.0–14.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 3.8–5.4%&lt;/li&gt;&lt;li&gt;Liberalerna: 1.7–2.9%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.1–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-07-26-Novus.png"
+        length="263736"
+        type="image/png"/>
+      <pubDate>Mon, 02 Aug 2021 12:03:16 +0200</pubDate>
+      <dc:date>2021-08-02T12:03:16.883684+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Demoskop for Aftonbladet, 29 June–7 July 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-07-07-Demoskop.html#seats</link>
@@ -38,6 +68,16 @@
         type="image/png"/>
       <pubDate>Sun, 11 Jul 2021 19:16:31 +0200</pubDate>
       <dc:date>2021-07-11T19:16:31.951718+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 2–5 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-07-05-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 21.0–26.9%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 18.3–24.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 19.2–25.0%&lt;/li&gt;&lt;li&gt;Centerpartiet: 4.8–8.3%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.3–12.6%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.6–8.0%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.1–6.0%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.1–6.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-07-05-Sentio.png"
+        length="297405"
+        type="image/png"/>
+      <pubDate>Mon, 02 Aug 2021 08:27:07 +0200</pubDate>
+      <dc:date>2021-08-02T08:27:07.10792+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop for Aftonbladet, 23–28 June 2021 – Seat Projections for the Parties</title>
@@ -5789,6 +5829,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2021-07-11T19:16:31.951718+02:00</dc:date>
+    <dc:date>2021-08-02T12:03:16.883684+02:00</dc:date>
   </channel>
 </rss>
