@@ -234,10 +234,10 @@ Last result: **28** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38 | 33–49 | 32–51 | 32–52 | 31–54 |
+| N/A | [Poll Average](average.html) | 37 | 33–49 | 32–51 | 32–52 | 30–54 |
 | [19–26 July 2021](2021-07-26-Novus.html) | Novus <br> SVT | 50 | 46–53 | 45–54 | 44–55 | 43–57 |
 | [29 June–7 July 2021](2021-07-07-Demoskop.html) | Demoskop <br> Aftonbladet | 35 | 33–38 | 32–38 | 32–39 | 30–41 |
-| [2–5 July 2021](2021-07-05-Sentio.html) | Sentio <br> Nyheter Idag | 40 | 33–41 | 33–43 | 33–45 | 28–48 |
+| [2–5 July 2021](2021-07-05-Sentio.html) | Sentio <br> Nyheter Idag | 38 | 32–43 | 31–45 | 30–46 | 28–49 |
 | [23–28 June 2021](2021-06-28-Demoskop.html) | Demoskop <br> Aftonbladet | 42 | 39–45 | 38–47 | 37–48 | 36–50 |
 | [21–27 June 2021](2021-06-27-Novus.html) | Novus <br> SVT | 43 | 40–46 | 39–47 | 38–48 | 37–50 |
 | [18–21 June 2021](2021-06-21-Sentio.html) | Sentio <br> Nyheter Idag | 38 | 33–44 | 32–45 | 31–47 | 29–50 |
@@ -440,25 +440,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 28 | 0.1% | 100% | Last Result |
+| 27 | 0% | 100% |  |
+| 28 | 0.1% | 99.9% | Last Result |
 | 29 | 0.1% | 99.9% |  |
-| 30 | 0.2% | 99.8% |  |
-| 31 | 1.3% | 99.6% |  |
-| 32 | 4% | 98% |  |
-| 33 | 9% | 94% |  |
-| 34 | 9% | 85% |  |
-| 35 | 10% | 76% |  |
-| 36 | 8% | 65% |  |
-| 37 | 6% | 58% |  |
-| 38 | 3% | 51% | Median |
-| 39 | 2% | 48% |  |
-| 40 | 12% | 47% |  |
-| 41 | 2% | 35% |  |
-| 42 | 2% | 32% |  |
-| 43 | 2% | 31% |  |
-| 44 | 3% | 29% |  |
-| 45 | 3% | 26% |  |
-| 46 | 3% | 23% |  |
+| 30 | 0.4% | 99.7% |  |
+| 31 | 2% | 99.3% |  |
+| 32 | 5% | 98% |  |
+| 33 | 8% | 93% |  |
+| 34 | 10% | 85% |  |
+| 35 | 12% | 75% |  |
+| 36 | 10% | 63% |  |
+| 37 | 7% | 53% | Median |
+| 38 | 4% | 46% |  |
+| 39 | 3% | 42% |  |
+| 40 | 2% | 39% |  |
+| 41 | 2% | 36% |  |
+| 42 | 2% | 34% |  |
+| 43 | 2% | 32% |  |
+| 44 | 3% | 30% |  |
+| 45 | 3% | 27% |  |
+| 46 | 4% | 24% |  |
 | 47 | 4% | 20% |  |
 | 48 | 4% | 16% |  |
 | 49 | 3% | 13% |  |
@@ -466,7 +467,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 51 | 3% | 6% |  |
 | 52 | 2% | 4% |  |
 | 53 | 1.2% | 2% |  |
-| 54 | 0.6% | 1.1% |  |
+| 54 | 0.6% | 1.0% |  |
 | 55 | 0.2% | 0.5% |  |
 | 56 | 0.1% | 0.3% |  |
 | 57 | 0.1% | 0.1% |  |
