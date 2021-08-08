@@ -30,6 +30,14 @@
       <dc:date>2021-08-02T12:03:16.883684+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 16–19 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-07-19-Sentio.html</link>
+      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Sentio for Nyheter Idag, 16–19 July 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-07-19-Sentio.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-07-19-Sentio.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-07-19-Sentio.png" length="296933" type="image/png"/>
+      <pubDate>Sun, 8 Aug 2021 12:19:24 +0200</pubDate>
+      <dc:date>2021-08-08T12:19:24.593441+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Demoskop for Aftonbladet, 29 June–7 July 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-07-07-Demoskop.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Demoskop for Aftonbladet, 29 June–7 July 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-07-07-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-07-07-Demoskop-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-06-06-Novus.png" length="249916" type="image/png"/>
       <pubDate>Sat, 3 Jul 2021 17:56:14 +0200</pubDate>
       <dc:date>2021-07-03T17:56:14.286323+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop, 26 May–2 June 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-06-02-Demoskop.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Demoskop, 26 May–2 June 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-06-02-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-06-02-Demoskop-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-06-02-Demoskop-seating-plan.png" length="736992" type="image/png"/>
-      <pubDate>Sat, 3 Jul 2021 18:46:17 +0200</pubDate>
-      <dc:date>2021-07-03T18:46:17.242576+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop, 26 May–2 June 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-06-02-Demoskop.html#seats</link>
-      <description><![CDATA[Seat projections for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Demoskop, 26 May–2 June 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-06-02-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-06-02-Demoskop-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-06-02-Demoskop-seats.png" length="229097" type="image/png"/>
-      <pubDate>Sat, 3 Jul 2021 18:46:17 +0200</pubDate>
-      <dc:date>2021-07-03T18:46:17.242576+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop, 26 May–2 June 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-06-02-Demoskop.html</link>
-      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Demoskop, 26 May–2 June 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-06-02-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-06-02-Demoskop.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-06-02-Demoskop.png" length="261058" type="image/png"/>
-      <pubDate>Sat, 3 Jul 2021 18:46:17 +0200</pubDate>
-      <dc:date>2021-07-03T18:46:17.242576+02:00</dc:date>
     </item>
   </channel>
 </rss>
