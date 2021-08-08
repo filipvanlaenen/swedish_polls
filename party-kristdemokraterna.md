@@ -10,8 +10,9 @@ Last result: **6.3%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.3% | 4.4–6.6% | 4.2–6.9% | 4.1–7.2% | 3.8–7.9% |
+| N/A | [Poll Average](average.html) | 5.1% | 4.3–6.4% | 4.2–6.7% | 4.0–6.9% | 3.7–7.4% |
 | [19–26 July 2021](2021-07-26-Novus.html) | Novus <br> SVT | 4.5% | 4.0–5.1% | 3.9–5.3% | 3.8–5.4% | 3.5–5.7% |
+| [16–19 July 2021](2021-07-19-Sentio.html) | Sentio <br> Nyheter Idag | 5.1% | 4.2–6.2% | 3.9–6.6% | 3.7–6.8% | 3.4–7.4% |
 | [29 June–7 July 2021](2021-07-07-Demoskop.html) | Demoskop <br> Aftonbladet | 6.1% | 5.6–6.7% | 5.4–6.8% | 5.3–7.0% | 5.1–7.3% |
 | [2–5 July 2021](2021-07-05-Sentio.html) | Sentio <br> Nyheter Idag | 6.1% | 5.1–7.3% | 4.8–7.7% | 4.6–8.0% | 4.2–8.6% |
 | [23–28 June 2021](2021-06-28-Demoskop.html) | Demoskop <br> Aftonbladet | 6.8% | 6.1–7.5% | 6.0–7.8% | 5.8–8.0% | 5.5–8.3% |
@@ -214,14 +215,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 19% | 99.9% |  |
-| 4.5–5.5% | 38% | 81% | Median |
-| 5.5–6.5% | 31% | 43% | Last Result |
-| 6.5–7.5% | 10% | 11% |  |
-| 7.5–8.5% | 1.2% | 1.3% |  |
-| 8.5–9.5% | 0.1% | 0.1% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0.3% | 100% |  |
+| 3.5–4.5% | 22% | 99.7% |  |
+| 4.5–5.5% | 42% | 77% | Median |
+| 5.5–6.5% | 28% | 35% | Last Result |
+| 6.5–7.5% | 7% | 7% |  |
+| 7.5–8.5% | 0.2% | 0.2% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -232,8 +233,9 @@ Last result: **22** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 16–25 | 16–26 | 15–27 | 0–29 |
+| N/A | [Poll Average](average.html) | 19 | 16–24 | 15–25 | 14–26 | 0–27 |
 | [19–26 July 2021](2021-07-26-Novus.html) | Novus <br> SVT | 17 | 15–19 | 0–19 | 0–20 | 0–21 |
+| [16–19 July 2021](2021-07-19-Sentio.html) | Sentio <br> Nyheter Idag | 19 | 15–23 | 15–24 | 0–25 | 0–26 |
 | [29 June–7 July 2021](2021-07-07-Demoskop.html) | Demoskop <br> Aftonbladet | 23 | 21–26 | 20–26 | 20–27 | 19–27 |
 | [2–5 July 2021](2021-07-05-Sentio.html) | Sentio <br> Nyheter Idag | 22 | 19–27 | 18–28 | 17–29 | 15–32 |
 | [23–28 June 2021](2021-06-28-Demoskop.html) | Demoskop <br> Aftonbladet | 26 | 23–28 | 22–29 | 22–30 | 21–31 |
@@ -452,25 +454,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 98% |  |
 | 12 | 0% | 98% |  |
 | 13 | 0% | 98% |  |
-| 14 | 0% | 98% |  |
-| 15 | 3% | 98% |  |
-| 16 | 9% | 95% |  |
-| 17 | 13% | 86% |  |
-| 18 | 10% | 73% |  |
-| 19 | 10% | 63% |  |
-| 20 | 10% | 53% | Median |
-| 21 | 7% | 43% |  |
-| 22 | 8% | 36% | Last Result |
-| 23 | 9% | 28% |  |
-| 24 | 7% | 19% |  |
-| 25 | 4% | 11% |  |
-| 26 | 4% | 7% |  |
-| 27 | 1.4% | 3% |  |
-| 28 | 0.8% | 2% |  |
-| 29 | 0.4% | 0.9% |  |
-| 30 | 0.2% | 0.4% |  |
-| 31 | 0.1% | 0.2% |  |
-| 32 | 0% | 0.1% |  |
-| 33 | 0% | 0% |  |
+| 14 | 0.1% | 98% |  |
+| 15 | 4% | 97% |  |
+| 16 | 11% | 93% |  |
+| 17 | 15% | 82% |  |
+| 18 | 11% | 67% |  |
+| 19 | 10% | 56% | Median |
+| 20 | 11% | 47% |  |
+| 21 | 6% | 36% |  |
+| 22 | 8% | 30% | Last Result |
+| 23 | 8% | 22% |  |
+| 24 | 5% | 13% |  |
+| 25 | 4% | 8% |  |
+| 26 | 3% | 4% |  |
+| 27 | 0.9% | 1.3% |  |
+| 28 | 0.2% | 0.4% |  |
+| 29 | 0.1% | 0.2% |  |
+| 30 | 0% | 0% |  |
 
 
