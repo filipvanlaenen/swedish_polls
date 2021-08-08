@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Wed, 04 Aug 2021 12:05:01 +0200</pubDate>
+    <pubDate>Sun, 08 Aug 2021 12:19:24 +0200</pubDate>
     <item>
       <title>Opinion Poll by Novus for SVT, 19–26 July 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-07-26-Novus.html#seats</link>
@@ -38,6 +38,16 @@
         type="image/png"/>
       <pubDate>Mon, 02 Aug 2021 12:03:16 +0200</pubDate>
       <dc:date>2021-08-02T12:03:16.883684+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sentio for Nyheter Idag, 16–19 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-07-19-Sentio.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 20.7–26.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.3–21.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 21.1–27.1%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.3–8.8%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.8–13.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 3.7–6.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.9–5.7%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.6–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-07-19-Sentio.png"
+        length="296933"
+        type="image/png"/>
+      <pubDate>Sun, 08 Aug 2021 12:19:24 +0200</pubDate>
+      <dc:date>2021-08-08T12:19:24.593441+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop for Aftonbladet, 29 June–7 July 2021 – Seat Projections for the Parties</title>
@@ -5849,6 +5859,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2021-08-04T12:05:01.959871+02:00</dc:date>
+    <dc:date>2021-08-08T12:19:24.593441+02:00</dc:date>
   </channel>
 </rss>
