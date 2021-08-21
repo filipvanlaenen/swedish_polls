@@ -237,7 +237,7 @@ Last result: **22** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 0–23 | 0–24 | 0–25 | 0–27 |
-| [2–5 August 2021](2021-08-05-Demoskop.html) | Demoskop <br> Aftonbladet | 20 | 17–22 | 17–23 | 17–24 | 16–25 |
+| [2–5 August 2021](2021-08-05-Demoskop.html) | Demoskop <br> Aftonbladet | 20 | 18–22 | 17–23 | 17–24 | 16–25 |
 | [19–26 July 2021](2021-07-26-Novus.html) | Novus <br> SVT | 17 | 15–19 | 0–19 | 0–20 | 0–21 |
 | [19–23 July 2021](2021-07-23-SKOP.html) | SKOP | 0 | 0–16 | 0–17 | 0–18 | 0–20 |
 | [16–19 July 2021](2021-07-19-Sentio.html) | Sentio <br> Nyheter Idag | 19 | 15–22 | 0–24 | 0–25 | 0–27 |
@@ -462,15 +462,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.1% | 86% |  |
 | 15 | 4% | 86% |  |
 | 16 | 10% | 82% |  |
-| 17 | 15% | 72% |  |
-| 18 | 12% | 57% | Median |
-| 19 | 12% | 45% |  |
-| 20 | 12% | 33% |  |
-| 21 | 6% | 21% |  |
-| 22 | 4% | 15% | Last Result |
+| 17 | 14% | 72% |  |
+| 18 | 12% | 58% | Median |
+| 19 | 12% | 46% |  |
+| 20 | 11% | 34% |  |
+| 21 | 7% | 23% |  |
+| 22 | 5% | 16% | Last Result |
 | 23 | 4% | 11% |  |
 | 24 | 3% | 6% |  |
-| 25 | 1.4% | 3% |  |
+| 25 | 1.3% | 3% |  |
 | 26 | 1.2% | 2% |  |
 | 27 | 0.5% | 0.8% |  |
 | 28 | 0.2% | 0.3% |  |
