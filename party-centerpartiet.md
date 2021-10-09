@@ -11,6 +11,7 @@ Last result: **8.6%** (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.9% | 7.0–10.1% | 6.4–10.5% | 6.0–10.9% | 5.3–11.5% |
+| [14–26 September 2021](2021-09-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 8.0% | 7.2–9.0% | 7.0–9.3% | 6.8–9.5% | 6.4–10.0% |
 | [6–16 September 2021](2021-09-16-Sifo.html) | Sifo | 8.9% | 8.4–9.4% | 8.3–9.5% | 8.2–9.6% | 8.0–9.8% |
 | [3–11 September 2021](2021-09-11-SKOP.html) | SKOP | 9.6% | 8.5–10.9% | 8.2–11.2% | 8.0–11.6% | 7.5–12.2% |
 | [31 August–8 September 2021](2021-09-08-Demoskop.html) | Demoskop <br> Aftonbladet | 9.7% | 9.0–10.6% | 8.7–10.8% | 8.6–11.1% | 8.2–11.5% |
@@ -226,7 +227,7 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.8% | 100% |  |
 | 5.5–6.5% | 5% | 99.1% |  |
-| 6.5–7.5% | 10% | 94% |  |
+| 6.5–7.5% | 11% | 94% |  |
 | 7.5–8.5% | 20% | 84% |  |
 | 8.5–9.5% | 42% | 64% | Last Result, Median |
 | 9.5–10.5% | 17% | 22% |  |
@@ -244,6 +245,7 @@ Last result: **31** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32 | 26–38 | 23–39 | 22–40 | 19–43 |
+| [14–26 September 2021](2021-09-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 30 | 27–34 | 26–35 | 25–37 | 24–38 |
 | [6–16 September 2021](2021-09-16-Sifo.html) | Sifo | 32 | 31–34 | 31–35 | 30–35 | 29–37 |
 | [3–11 September 2021](2021-09-11-SKOP.html) | SKOP | 36 | 32–40 | 30–41 | 30–43 | 28–46 |
 | [31 August–8 September 2021](2021-09-08-Demoskop.html) | Demoskop <br> Aftonbladet | 36 | 33–40 | 32–40 | 32–41 | 30–43 |
@@ -468,14 +470,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 2% | 94% |  |
 | 25 | 2% | 92% |  |
 | 26 | 3% | 90% |  |
-| 27 | 3% | 87% |  |
-| 28 | 3% | 85% |  |
-| 29 | 3% | 82% |  |
+| 27 | 3% | 88% |  |
+| 28 | 2% | 85% |  |
+| 29 | 5% | 83% |  |
 | 30 | 6% | 78% |  |
-| 31 | 11% | 72% | Last Result |
-| 32 | 13% | 62% | Median |
-| 33 | 13% | 49% |  |
-| 34 | 8% | 36% |  |
+| 31 | 10% | 72% | Last Result |
+| 32 | 12% | 62% | Median |
+| 33 | 13% | 50% |  |
+| 34 | 9% | 37% |  |
 | 35 | 7% | 28% |  |
 | 36 | 6% | 21% |  |
 | 37 | 4% | 15% |  |
