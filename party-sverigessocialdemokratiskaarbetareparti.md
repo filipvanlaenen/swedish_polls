@@ -249,8 +249,8 @@ Last result: **100** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 97 | 86–102 | 82–104 | 78–105 | 74–108 |
-| [29 September–6 October 2021](2021-10-06-Demoskop.html) | Demoskop <br> Aftonbladet | 100 | 96–104 | 94–105 | 92–106 | 90–108 |
+| N/A | [Poll Average](average.html) | 96 | 86–102 | 82–104 | 78–105 | 74–108 |
+| [29 September–6 October 2021](2021-10-06-Demoskop.html) | Demoskop <br> Aftonbladet | 100 | 96–104 | 94–105 | 93–106 | 91–109 |
 | [30 August–3 October 2021](2021-10-03-Novus.html) | Novus <br> SVT | 99 | 92–101 | 91–102 | 91–102 | 89–105 |
 | [14–26 September 2021](2021-09-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 95 | 88–103 | 86–104 | 85–106 | 83–109 |
 | [6–16 September 2021](2021-09-16-Sifo.html) | Sifo | 96 | 93–99 | 92–101 | 92–102 | 90–104 |
@@ -489,23 +489,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 89 | 2% | 85% |  |
 | 90 | 3% | 83% |  |
 | 91 | 3% | 80% |  |
-| 92 | 5% | 77% |  |
-| 93 | 4% | 72% |  |
+| 92 | 4% | 77% |  |
+| 93 | 4% | 73% |  |
 | 94 | 4% | 68% |  |
-| 95 | 6% | 64% |  |
-| 96 | 7% | 58% |  |
-| 97 | 9% | 51% | Median |
-| 98 | 5% | 42% |  |
-| 99 | 14% | 36% |  |
-| 100 | 6% | 22% | Last Result |
-| 101 | 5% | 17% |  |
+| 95 | 7% | 64% |  |
+| 96 | 7% | 57% | Median |
+| 97 | 8% | 50% |  |
+| 98 | 6% | 42% |  |
+| 99 | 13% | 36% |  |
+| 100 | 7% | 23% | Last Result |
+| 101 | 4% | 16% |  |
 | 102 | 4% | 12% |  |
 | 103 | 2% | 8% |  |
 | 104 | 2% | 5% |  |
-| 105 | 1.2% | 3% |  |
-| 106 | 0.9% | 2% |  |
-| 107 | 0.4% | 1.0% |  |
-| 108 | 0.2% | 0.6% |  |
+| 105 | 1.0% | 3% |  |
+| 106 | 0.8% | 2% |  |
+| 107 | 0.4% | 1.1% |  |
+| 108 | 0.3% | 0.7% |  |
 | 109 | 0.2% | 0.4% |  |
 | 110 | 0.1% | 0.2% |  |
 | 111 | 0% | 0.1% |  |
