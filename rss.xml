@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Mon, 11 Oct 2021 07:27:49 +0200</pubDate>
+    <pubDate>Wed, 13 Oct 2021 19:00:06 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet, 29 September–6 October 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-10-06-Demoskop.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 93–106 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 77–89 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 72–84 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 31–40 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 28–36 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 17–24 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-10-06-Demoskop-seats.png"
+        length="223927"
+        type="image/png"/>
+      <pubDate>Wed, 13 Oct 2021 19:00:06 +0200</pubDate>
+      <dc:date>2021-10-13T19:00:06.304315+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet, 29 September–6 October 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-10-06-Demoskop.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-10-06-Demoskop-coalitions-seats.png"
+        length="339388"
+        type="image/png"/>
+      <pubDate>Wed, 13 Oct 2021 19:00:06 +0200</pubDate>
+      <dc:date>2021-10-13T19:00:06.304315+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Demoskop for Aftonbladet, 29 September–6 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-10-06-Demoskop.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-10-06-Demoskop.png"
         length="266688"
         type="image/png"/>
-      <pubDate>Mon, 11 Oct 2021 07:04:02 +0200</pubDate>
-      <dc:date>2021-10-11T07:04:02.133863+02:00</dc:date>
+      <pubDate>Wed, 13 Oct 2021 19:00:06 +0200</pubDate>
+      <dc:date>2021-10-13T19:00:06.304315+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 30 August–3 October 2021 – Voting Intentions</title>
@@ -6169,6 +6189,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2021-10-11T07:27:49.69012+02:00</dc:date>
+    <dc:date>2021-10-13T19:00:06.304315+02:00</dc:date>
   </channel>
 </rss>
