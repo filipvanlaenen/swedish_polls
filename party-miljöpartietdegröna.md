@@ -244,9 +244,9 @@ Last result: **16** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–18 | 0–20 | 0–21 | 0–24 |
+| N/A | [Poll Average](average.html) | 14 | 0–18 | 0–20 | 0–21 | 0–24 |
 | [29 September–6 October 2021](2021-10-06-Demoskop.html) | Demoskop <br> Aftonbladet | 0 | 0 | 0 | 0 | 0–15 |
-| [30 August–3 October 2021](2021-10-03-Novus.html) | Novus <br> SVT | 0 | 0–16 | 0–16 | 0–17 | 0–18 |
+| [30 August–3 October 2021](2021-10-03-Novus.html) | Novus <br> SVT | 0 | 0–16 | 0–16 | 0–17 | 0–17 |
 | [14–26 September 2021](2021-09-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 15 | 0–18 | 0–18 | 0–19 | 0–20 |
 | [6–16 September 2021](2021-09-16-Sifo.html) | Sifo | 15 | 0–16 | 0–17 | 0–17 | 0–18 |
 | [3–11 September 2021](2021-09-11-SKOP.html) | SKOP | 0 | 0–15 | 0–16 | 0–17 | 0–18 |
@@ -462,22 +462,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 55% | 100% | Median |
-| 1 | 0% | 45% |  |
-| 2 | 0% | 45% |  |
-| 3 | 0% | 45% |  |
-| 4 | 0% | 45% |  |
-| 5 | 0% | 45% |  |
-| 6 | 0% | 45% |  |
-| 7 | 0% | 45% |  |
-| 8 | 0% | 45% |  |
-| 9 | 0% | 45% |  |
-| 10 | 0% | 45% |  |
-| 11 | 0% | 45% |  |
-| 12 | 0% | 45% |  |
-| 13 | 0% | 45% |  |
-| 14 | 0.6% | 45% |  |
-| 15 | 13% | 44% |  |
+| 0 | 50% | 100% |  |
+| 1 | 0% | 50% |  |
+| 2 | 0% | 50% |  |
+| 3 | 0% | 50% |  |
+| 4 | 0% | 50% |  |
+| 5 | 0% | 50% |  |
+| 6 | 0% | 50% |  |
+| 7 | 0% | 50% |  |
+| 8 | 0% | 50% |  |
+| 9 | 0% | 50% |  |
+| 10 | 0% | 50% |  |
+| 11 | 0% | 50% |  |
+| 12 | 0% | 50% |  |
+| 13 | 0% | 50% |  |
+| 14 | 0.6% | 50% | Median |
+| 15 | 18% | 50% |  |
 | 16 | 14% | 32% | Last Result |
 | 17 | 6% | 18% |  |
 | 18 | 4% | 12% |  |
