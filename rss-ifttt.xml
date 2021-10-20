@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Riksdagen</description>
     <pubDate>Fri, 17 Jul 2020 21:17:04 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Sifo, 4–14 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-10-14-Sifo.html</link>
+      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Sifo, 4–14 October 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-10-14-Sifo.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-10-14-Sifo.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-10-14-Sifo.png" length="241635" type="image/png"/>
+      <pubDate>Wed, 20 Oct 2021 07:29:52 +0200</pubDate>
+      <dc:date>2021-10-20T07:29:52.683481+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Demoskop for Aftonbladet, 29 September–6 October 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-10-06-Demoskop.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Demoskop for Aftonbladet, 29 September–6 October 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-10-06-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-10-06-Demoskop-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-08-18-Sifo.png" length="246782" type="image/png"/>
       <pubDate>Sun, 22 Aug 2021 15:27:12 +0200</pubDate>
       <dc:date>2021-08-22T15:27:12.092397+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop for Aftonbladet, 2–5 August 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-08-05-Demoskop.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Demoskop for Aftonbladet, 2–5 August 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-08-05-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-08-05-Demoskop-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-08-05-Demoskop-seating-plan.png" length="738842" type="image/png"/>
-      <pubDate>Sat, 21 Aug 2021 09:15:16 +0200</pubDate>
-      <dc:date>2021-08-21T09:15:16.212551+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop for Aftonbladet, 2–5 August 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-08-05-Demoskop.html#seats</link>
-      <description><![CDATA[Seat projections for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Demoskop for Aftonbladet, 2–5 August 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-08-05-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-08-05-Demoskop-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-08-05-Demoskop-seats.png" length="228945" type="image/png"/>
-      <pubDate>Sat, 21 Aug 2021 09:15:16 +0200</pubDate>
-      <dc:date>2021-08-21T09:15:16.212551+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop for Aftonbladet, 2–5 August 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-08-05-Demoskop.html</link>
-      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Demoskop for Aftonbladet, 2–5 August 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-08-05-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-08-05-Demoskop.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-08-05-Demoskop.png" length="266661" type="image/png"/>
-      <pubDate>Sat, 21 Aug 2021 09:15:16 +0200</pubDate>
-      <dc:date>2021-08-21T09:15:16.212551+02:00</dc:date>
     </item>
   </channel>
 </rss>
