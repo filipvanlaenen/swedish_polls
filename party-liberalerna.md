@@ -10,7 +10,8 @@ Last result: **5.5%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 2.3–4.0% | 2.2–4.5% | 2.0–4.9% | 1.7–5.6% |
+| N/A | [Poll Average](average.html) | 2.8% | 2.3–4.0% | 2.2–4.5% | 2.0–4.9% | 1.7–5.6% |
+| [4–14 October 2021](2021-10-14-Sifo.html) | Sifo | 2.8% | 2.5–3.1% | 2.5–3.2% | 2.4–3.2% | 2.3–3.4% |
 | [29 September–6 October 2021](2021-10-06-Demoskop.html) | Demoskop <br> Aftonbladet | 2.7% | 2.3–3.2% | 2.2–3.3% | 2.1–3.4% | 1.9–3.7% |
 | [30 August–3 October 2021](2021-10-03-Novus.html) | Novus <br> SVT | 2.6% | 2.3–2.9% | 2.3–3.0% | 2.2–3.1% | 2.1–3.2% |
 | [14–26 September 2021](2021-09-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–4.0% | 2.0–4.3% |
@@ -228,8 +229,8 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 0.2% | 100% |  |
-| 1.5–2.5% | 22% | 99.8% |  |
-| 2.5–3.5% | 61% | 77% | Median |
+| 1.5–2.5% | 24% | 99.8% |  |
+| 2.5–3.5% | 60% | 76% | Median |
 | 3.5–4.5% | 12% | 16% |  |
 | 4.5–5.5% | 4% | 5% | Last Result |
 | 5.5–6.5% | 0.5% | 0.6% |  |
@@ -245,6 +246,7 @@ Last result: **20** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–14 | 0–16 | 0–18 | 0–20 |
+| [4–14 October 2021](2021-10-14-Sifo.html) | Sifo | 0 | 0 | 0 | 0 | 0 |
 | [29 September–6 October 2021](2021-10-06-Demoskop.html) | Demoskop <br> Aftonbladet | 0 | 0 | 0 | 0 | 0 |
 | [30 August–3 October 2021](2021-10-03-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [14–26 September 2021](2021-09-26-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0–16 |
