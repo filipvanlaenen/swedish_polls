@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Wed, 13 Oct 2021 21:16:17 +0200</pubDate>
+    <pubDate>Wed, 20 Oct 2021 07:29:52 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Sifo, 4–14 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-10-14-Sifo.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 25.5–27.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 20.9–23.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.9–20.9%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.3–8.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 9.8–11.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.5–5.6%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.4–3.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.3–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-10-14-Sifo.png"
+        length="241635"
+        type="image/png"/>
+      <pubDate>Wed, 20 Oct 2021 07:29:52 +0200</pubDate>
+      <dc:date>2021-10-20T07:29:52.683481+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Demoskop for Aftonbladet, 29 September–6 October 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-10-06-Demoskop.html#seats</link>
@@ -6209,6 +6219,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2021-10-13T21:16:17.49618+02:00</dc:date>
+    <dc:date>2021-10-20T07:29:52.683481+02:00</dc:date>
   </channel>
 </rss>
