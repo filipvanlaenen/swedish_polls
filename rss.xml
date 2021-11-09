@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sat, 30 Oct 2021 23:23:59 +0200</pubDate>
+    <pubDate>Tue, 09 Nov 2021 07:56:53 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 4–31 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-10-31-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 24.2–27.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 21.6–24.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 17.8–20.4%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.6–9.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 10.3–12.4%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 3.5–4.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.3–3.4%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 4.2–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-10-31-Novus.png"
+        length="255568"
+        type="image/png"/>
+      <pubDate>Tue, 09 Nov 2021 07:05:36 +0100</pubDate>
+      <dc:date>2021-11-09T07:05:36.149049+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–25 October 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-10-25-Ipsos.html#seats</link>
@@ -38,6 +48,16 @@
         type="image/png"/>
       <pubDate>Fri, 29 Oct 2021 21:47:29 +0200</pubDate>
       <dc:date>2021-10-29T21:47:29.856064+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Skop, 15–17 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-10-17-Skop.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 21.8–27.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 19.6–24.7%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 17.5–22.5%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.8–11.5%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 9.6–13.6%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 2.7–5.0%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.2–4.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.3–5.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-10-17-Skop.png"
+        length="286808"
+        type="image/png"/>
+      <pubDate>Tue, 09 Nov 2021 07:56:53 +0100</pubDate>
+      <dc:date>2021-11-09T07:56:53.545117+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo, 4–14 October 2021 – Seat Projections for the Parties</title>
@@ -430,36 +450,6 @@
       <dc:date>2021-08-09T11:42:26.621351+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 16–19 July 2021 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-07-19-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 74–98 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 59–79 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 76–99 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 19–32 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 32–48 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0–25 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–20 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–24 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-07-19-Sentio-seats.png"
-        length="300559"
-        type="image/png"/>
-      <pubDate>Sun, 08 Aug 2021 17:00:24 +0200</pubDate>
-      <dc:date>2021-08-08T17:00:24.963783+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 16–19 July 2021 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-07-19-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-07-19-Sentio-coalitions-seats.png"
-        length="442678"
-        type="image/png"/>
-      <pubDate>Sun, 08 Aug 2021 17:00:24 +0200</pubDate>
-      <dc:date>2021-08-08T17:00:24.963783+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 16–19 July 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-07-19-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 20.7–26.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.3–21.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 21.1–27.1%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.3–8.8%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.8–13.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 3.7–6.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.9–5.7%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.6–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-07-19-Sentio.png"
-        length="296933"
-        type="image/png"/>
-      <pubDate>Sun, 08 Aug 2021 17:00:24 +0200</pubDate>
-      <dc:date>2021-08-08T17:00:24.963783+02:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Demoskop for Aftonbladet, 29 June–7 July 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-07-07-Demoskop.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 88–101 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 75–88 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 67–78 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 35–44 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 32–39 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 20–27 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–15 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -488,36 +478,6 @@
         type="image/png"/>
       <pubDate>Sun, 11 Jul 2021 19:16:31 +0200</pubDate>
       <dc:date>2021-07-11T19:16:31.951718+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 2–5 July 2021 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-07-05-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 76–100 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 66–88 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 69–92 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 18–30 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 30–46 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 17–29 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–19 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–22 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-07-05-Sentio-seats.png"
-        length="271719"
-        type="image/png"/>
-      <pubDate>Wed, 04 Aug 2021 12:05:01 +0200</pubDate>
-      <dc:date>2021-08-04T12:05:01.959871+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 2–5 July 2021 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-07-05-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-07-05-Sentio-coalitions-seats.png"
-        length="452072"
-        type="image/png"/>
-      <pubDate>Wed, 04 Aug 2021 12:05:01 +0200</pubDate>
-      <dc:date>2021-08-04T12:05:01.959871+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 2–5 July 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-07-05-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 21.0–26.9%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 18.3–24.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 19.2–25.0%&lt;/li&gt;&lt;li&gt;Centerpartiet: 4.8–8.3%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.3–12.6%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.6–8.0%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.1–6.0%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.1–6.0%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-07-05-Sentio.png"
-        length="297405"
-        type="image/png"/>
-      <pubDate>Wed, 04 Aug 2021 12:05:01 +0200</pubDate>
-      <dc:date>2021-08-04T12:05:01.959871+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoskop for Aftonbladet, 23–28 June 2021 – Seat Projections for the Parties</title>
@@ -578,36 +538,6 @@
         type="image/png"/>
       <pubDate>Sat, 10 Jul 2021 11:27:40 +0200</pubDate>
       <dc:date>2021-07-10T11:27:40.179921+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 18–21 June 2021 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-06-21-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 83–107 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 69–92 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 63–84 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 23–38 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 31–47 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 20–33 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–15 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–17 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-06-21-Sentio-seats.png"
-        length="255073"
-        type="image/png"/>
-      <pubDate>Sat, 10 Jul 2021 12:10:10 +0200</pubDate>
-      <dc:date>2021-07-10T12:10:10.092979+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 18–21 June 2021 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-06-21-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-06-21-Sentio-coalitions-seats.png"
-        length="426199"
-        type="image/png"/>
-      <pubDate>Sat, 10 Jul 2021 12:10:10 +0200</pubDate>
-      <dc:date>2021-07-10T12:10:10.092979+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 18–21 June 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-06-21-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.3–28.4%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 18.5–24.2%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 16.8–22.3%&lt;/li&gt;&lt;li&gt;Centerpartiet: 6.2–10.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.2–12.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.3–8.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 1.8–4.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.3–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-06-21-Sentio.png"
-        length="296818"
-        type="image/png"/>
-      <pubDate>Sat, 10 Jul 2021 12:10:10 +0200</pubDate>
-      <dc:date>2021-07-10T12:10:10.092979+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 8–20 June 2021 – Seat Projections for the Parties</title>
@@ -760,36 +690,6 @@
       <dc:date>2021-06-04T18:54:00.55292+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sentio, 21–24 May 2021 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-05-24-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 81–107 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 60–82 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 66–89 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 20–33 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 30–46 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0–25 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–17 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–25 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-05-24-Sentio-seats.png"
-        length="281557"
-        type="image/png"/>
-      <pubDate>Fri, 04 Jun 2021 16:07:04 +0200</pubDate>
-      <dc:date>2021-06-04T16:07:04.066131+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio, 21–24 May 2021 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-05-24-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-05-24-Sentio-coalitions-seats.png"
-        length="446375"
-        type="image/png"/>
-      <pubDate>Fri, 04 Jun 2021 16:07:04 +0200</pubDate>
-      <dc:date>2021-06-04T16:07:04.066131+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio, 21–24 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-05-24-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.6–28.6%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.7–22.2%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.3–24.0%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.4–9.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.3–12.6%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 3.9–7.0%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.3–4.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.6–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-05-24-Sentio.png"
-        length="289804"
-        type="image/png"/>
-      <pubDate>Fri, 04 Jun 2021 16:07:04 +0200</pubDate>
-      <dc:date>2021-06-04T16:07:04.066131+02:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 11–23 May 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-05-23-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 87–105 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 73–90 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 66–83 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 28–39 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 31–43 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0–23 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -910,16 +810,6 @@
       <dc:date>2021-05-16T20:45:32.631559+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sentio, 23–26 April 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-04-26-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.4–28.5%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 18.5–24.2%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.7–24.4%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.2–8.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.2–12.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.2–7.4%&lt;/li&gt;&lt;li&gt;Liberalerna: 1.6–3.9%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.3–6.3%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-04-26-Sentio.png"
-        length="291842"
-        type="image/png"/>
-      <pubDate>Fri, 04 Jun 2021 12:26:19 +0200</pubDate>
-      <dc:date>2021-06-04T12:26:19.076832+02:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 13–25 April 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-04-25-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 89–106 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 75–90 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 64–79 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 29–38 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 33–43 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 15–23 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -1020,36 +910,6 @@
       <dc:date>2021-04-21T18:47:36.70034+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sentio, 26–29 March 2021 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-03-29-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 86–110 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 64–85 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 71–93 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 16–29 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 26–41 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 16–29 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–16 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–25 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-03-29-Sentio-seats.png"
-        length="264053"
-        type="image/png"/>
-      <pubDate>Tue, 20 Apr 2021 20:58:14 +0200</pubDate>
-      <dc:date>2021-04-20T20:58:14.250404+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio, 26–29 March 2021 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-03-29-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-03-29-Sentio-coalitions-seats.png"
-        length="429553"
-        type="image/png"/>
-      <pubDate>Tue, 20 Apr 2021 20:58:14 +0200</pubDate>
-      <dc:date>2021-04-20T20:58:14.250404+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio, 26–29 March 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-03-29-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 23.5–29.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.5–23.1%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 19.4–25.2%&lt;/li&gt;&lt;li&gt;Centerpartiet: 4.5–7.8%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.1–11.1%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.5–7.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.1–4.5%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.6–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-03-29-Sentio.png"
-        length="287644"
-        type="image/png"/>
-      <pubDate>Tue, 20 Apr 2021 20:58:14 +0200</pubDate>
-      <dc:date>2021-04-20T20:58:14.250404+02:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 9–21 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-03-21-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 92–111 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 72–92 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 66–83 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 29–40 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 35–47 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0–19 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–15 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -1138,36 +998,6 @@
         type="image/png"/>
       <pubDate>Thu, 11 Mar 2021 20:53:06 +0100</pubDate>
       <dc:date>2021-03-11T20:53:06.555732+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio, 25–28 February 2021 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-02-28-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 84–108 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 71–93 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 67–89 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 21–34 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 31–47 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 17–29 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–17 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-28-Sentio-seats.png"
-        length="247414"
-        type="image/png"/>
-      <pubDate>Fri, 12 Mar 2021 20:26:22 +0100</pubDate>
-      <dc:date>2021-03-12T20:26:22.520301+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio, 25–28 February 2021 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-02-28-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-28-Sentio-coalitions-seats.png"
-        length="419557"
-        type="image/png"/>
-      <pubDate>Fri, 12 Mar 2021 20:26:22 +0100</pubDate>
-      <dc:date>2021-03-12T20:26:22.520301+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio, 25–28 February 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-02-28-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.4–28.5%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 18.9–24.7%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.0–23.6%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.7–9.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.2–12.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.5–7.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.1–4.5%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.3–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-02-28-Sentio.png"
-        length="294346"
-        type="image/png"/>
-      <pubDate>Fri, 12 Mar 2021 20:26:22 +0100</pubDate>
-      <dc:date>2021-03-12T20:26:22.520301+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 1–28 February 2021 – Seat Projections for the Parties</title>
@@ -1320,36 +1150,6 @@
       <dc:date>2021-02-09T21:34:04.534613+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 28–31 January 2021 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 87–109 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 68–87 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 77–98 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 17–28 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 33–47 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 15–25 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio-seats.png"
-        length="243921"
-        type="image/png"/>
-      <pubDate>Sat, 13 Feb 2021 13:45:55 +0100</pubDate>
-      <dc:date>2021-02-13T13:45:55.083486+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 28–31 January 2021 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio-coalitions-seats.png"
-        length="416172"
-        type="image/png"/>
-      <pubDate>Sat, 13 Feb 2021 13:45:55 +0100</pubDate>
-      <dc:date>2021-02-13T13:45:55.083486+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 28–31 January 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 23.7–29.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 18.3–23.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 20.8–26.0%&lt;/li&gt;&lt;li&gt;Centerpartiet: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.9–12.8%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.0–6.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 1.4–3.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.6–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Sentio.png"
-        length="286801"
-        type="image/png"/>
-      <pubDate>Sat, 13 Feb 2021 13:45:55 +0100</pubDate>
-      <dc:date>2021-02-13T13:45:55.083486+01:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Novus for SVT, 11–31 January 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-01-31-Novus.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 92–107 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 79–92 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 61–73 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 28–36 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 36–44 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 15–20 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -1498,36 +1298,6 @@
         type="image/png"/>
       <pubDate>Thu, 14 Jan 2021 20:52:00 +0100</pubDate>
       <dc:date>2021-01-14T20:52:00.593886+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 11–14 December 2020 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-12-14-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 80–103 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 72–96 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 76–100 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 17–30 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 35–52 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0–25 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–15 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–17 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-12-14-Sentio-seats.png"
-        length="270749"
-        type="image/png"/>
-      <pubDate>Sat, 26 Dec 2020 17:22:05 +0100</pubDate>
-      <dc:date>2020-12-26T17:22:05.349489+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 11–14 December 2020 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-12-14-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-12-14-Sentio-coalitions-seats.png"
-        length="433930"
-        type="image/png"/>
-      <pubDate>Sat, 26 Dec 2020 17:22:05 +0100</pubDate>
-      <dc:date>2020-12-26T17:22:05.349489+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 11–14 December 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-12-14-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 21.2–27.2%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 19.3–25.1%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 20.4–26.3%&lt;/li&gt;&lt;li&gt;Centerpartiet: 4.5–7.8%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 9.3–13.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 3.5–6.6%&lt;/li&gt;&lt;li&gt;Liberalerna: 1.8–4.0%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.1–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-12-14-Sentio.png"
-        length="296236"
-        type="image/png"/>
-      <pubDate>Sat, 26 Dec 2020 17:22:05 +0100</pubDate>
-      <dc:date>2020-12-26T17:22:05.349489+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 1–13 December 2020 – Seat Projections for the Parties</title>
@@ -1740,36 +1510,6 @@
       <dc:date>2020-12-07T19:11:39.996359+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 12–16 November 2020 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-11-16-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 75–100 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 63–85 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 82–108 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 16–28 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 30–46 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 17–29 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–16 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-11-16-Sentio-seats.png"
-        length="256874"
-        type="image/png"/>
-      <pubDate>Sun, 22 Nov 2020 21:31:59 +0100</pubDate>
-      <dc:date>2020-11-22T21:31:59.482096+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 12–16 November 2020 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-11-16-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-11-16-Sentio-coalitions-seats.png"
-        length="444739"
-        type="image/png"/>
-      <pubDate>Sun, 22 Nov 2020 21:31:59 +0100</pubDate>
-      <dc:date>2020-11-22T21:31:59.482096+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 12–16 November 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-11-16-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 20.5–26.4%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.1–22.7%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 22.3–28.4%&lt;/li&gt;&lt;li&gt;Centerpartiet: 4.4–7.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.0–12.2%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.5–7.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.3–4.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.3–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-11-16-Sentio.png"
-        length="299437"
-        type="image/png"/>
-      <pubDate>Sun, 22 Nov 2020 21:31:59 +0100</pubDate>
-      <dc:date>2020-11-22T21:31:59.482096+01:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Sifo, 2–11 November 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-11-11-Sifo.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 89–111 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 69–85 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 66–81 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 23–33 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 32–44 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 17–26 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–15 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -1920,36 +1660,6 @@
       <dc:date>2020-11-15T11:57:22.947525+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 15–18 October 2020 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-10-18-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 81–104 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 60–81 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 78–102 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 18–31 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 29–45 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 17–29 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–15 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-10-18-Sentio-seats.png"
-        length="268931"
-        type="image/png"/>
-      <pubDate>Tue, 05 Jan 2021 18:11:33 +0100</pubDate>
-      <dc:date>2021-01-05T18:11:33.812055+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 15–18 October 2020 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-10-18-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-10-18-Sentio-coalitions-seats.png"
-        length="439276"
-        type="image/png"/>
-      <pubDate>Tue, 05 Jan 2021 18:11:33 +0100</pubDate>
-      <dc:date>2021-01-05T18:11:33.812055+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 15–18 October 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-10-18-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 21.9–28.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.2–21.6%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 21.2–27.2%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.0–8.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.9–12.0%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.5–7.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 1.8–4.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.3–6.3%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-10-18-Sentio.png"
-        length="299853"
-        type="image/png"/>
-      <pubDate>Tue, 05 Jan 2021 18:11:33 +0100</pubDate>
-      <dc:date>2021-01-05T18:11:33.812055+01:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Sifo, 5–15 October 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-10-15-Sifo.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 93–103 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 72–80 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 71–79 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 26–31 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 34–40 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 20–24 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2070,36 +1780,6 @@
       <dc:date>2020-09-29T07:31:02.022802+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 17–20 September 2020 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-09-20-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 76–105 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 70–93 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 74–97 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 20–36 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 24–38 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 20–33 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–16 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-09-20-Sentio-seats.png"
-        length="274423"
-        type="image/png"/>
-      <pubDate>Mon, 30 Nov 2020 21:22:54 +0100</pubDate>
-      <dc:date>2020-11-30T21:22:54.80121+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 17–20 September 2020 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-09-20-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-09-20-Sentio-coalitions-seats.png"
-        length="439639"
-        type="image/png"/>
-      <pubDate>Mon, 30 Nov 2020 21:22:54 +0100</pubDate>
-      <dc:date>2020-11-30T21:22:54.80121+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 17–20 September 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-09-20-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 21.8–27.8%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 19.3–25.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 20.9–26.7%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.7–9.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 6.7–10.6%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.4–9.0%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.0–4.4%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.7–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-09-20-Sentio.png"
-        length="299036"
-        type="image/png"/>
-      <pubDate>Mon, 30 Nov 2020 21:22:54 +0100</pubDate>
-      <dc:date>2020-11-30T21:22:54.80121+01:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Sifo, 7–17 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-09-17-Sifo.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 97–109 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 73–83 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 69–80 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 28–34 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 30–37 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 21–26 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–15 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–16 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2188,36 +1868,6 @@
         type="image/png"/>
       <pubDate>Sat, 12 Sep 2020 18:53:56 +0200</pubDate>
       <dc:date>2020-09-12T18:53:56.020053+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 20–25 August 2020 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-08-25-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 87–110 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 64–85 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 72–94 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 0–25 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 30–45 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 15–27 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–15 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–24 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-08-25-Sentio-seats.png"
-        length="278556"
-        type="image/png"/>
-      <pubDate>Sat, 12 Sep 2020 17:13:00 +0200</pubDate>
-      <dc:date>2020-09-12T17:13:00.256014+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 20–25 August 2020 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-08-25-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-08-25-Sentio-coalitions-seats.png"
-        length="445285"
-        type="image/png"/>
-      <pubDate>Sat, 12 Sep 2020 17:13:00 +0200</pubDate>
-      <dc:date>2020-09-12T17:13:00.256014+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 20–25 August 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-08-25-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 23.8–29.9%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.6–23.2%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 19.7–25.5%&lt;/li&gt;&lt;li&gt;Centerpartiet: 3.7–6.8%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.1–12.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.1–7.3%&lt;/li&gt;&lt;li&gt;Liberalerna: 1.8–4.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.6–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-08-25-Sentio.png"
-        length="294558"
-        type="image/png"/>
-      <pubDate>Sat, 12 Sep 2020 17:13:00 +0200</pubDate>
-      <dc:date>2020-09-12T17:13:00.256014+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 3–23 August 2020 – Seat Projections for the Parties</title>
@@ -2370,36 +2020,6 @@
       <dc:date>2020-08-09T11:16:53.453821+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 10–12 July 2020 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-07-12-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 82–106 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 64–85 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 77–100 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 16–28 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 24–39 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 16–28 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–15 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–25 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-07-12-Sentio-seats.png"
-        length="271748"
-        type="image/png"/>
-      <pubDate>Sat, 18 Jul 2020 20:42:51 +0200</pubDate>
-      <dc:date>2020-07-18T20:42:51.130604+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 10–12 July 2020 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-07-12-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-07-12-Sentio-coalitions-seats.png"
-        length="430386"
-        type="image/png"/>
-      <pubDate>Sat, 18 Jul 2020 20:42:51 +0200</pubDate>
-      <dc:date>2020-07-18T20:42:51.130604+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 10–12 July 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-07-12-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.6–28.6%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.6–23.2%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 21.2–27.2%&lt;/li&gt;&lt;li&gt;Centerpartiet: 4.4–7.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 6.7–10.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.3–7.6%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.0–4.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.7–6.8%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-07-12-Sentio.png"
-        length="293426"
-        type="image/png"/>
-      <pubDate>Sat, 18 Jul 2020 20:42:51 +0200</pubDate>
-      <dc:date>2020-07-18T20:42:51.130604+02:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Demoskop, 30 June–7 July 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-07-07-Demoskop.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 99–115 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 70–85 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 67–81 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 27–36 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 25–34 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 18–25 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2458,36 +2078,6 @@
         type="image/png"/>
       <pubDate>Thu, 09 Jul 2020 17:42:24 +0200</pubDate>
       <dc:date>2020-07-09T17:42:24.506261+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 12–15 June 2020 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-06-15-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 94–120 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 59–81 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 66–89 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 18–31 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 29–45 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 17–29 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–16 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-06-15-Sentio-seats.png"
-        length="250138"
-        type="image/png"/>
-      <pubDate>Wed, 12 Aug 2020 19:06:09 +0200</pubDate>
-      <dc:date>2020-08-12T19:06:09.700141+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 12–15 June 2020 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-06-15-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-06-15-Sentio-coalitions-seats.png"
-        length="432387"
-        type="image/png"/>
-      <pubDate>Wed, 12 Aug 2020 19:06:09 +0200</pubDate>
-      <dc:date>2020-08-12T19:06:09.700141+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 12–15 June 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-06-15-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 25.7–32.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.1–21.5%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.0–23.6%&lt;/li&gt;&lt;li&gt;Centerpartiet: 4.8–8.3%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.9–12.0%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.5–7.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.0–4.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.8–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-06-15-Sentio.png"
-        length="288758"
-        type="image/png"/>
-      <pubDate>Wed, 12 Aug 2020 19:06:09 +0200</pubDate>
-      <dc:date>2020-08-12T19:06:09.700141+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–15 June 2020 – Seat Projections for the Parties</title>
@@ -2700,36 +2290,6 @@
       <dc:date>2020-06-04T16:50:48.77354+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 15–18 May 2020 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-05-18-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 93–121 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 63–83 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 72–95 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 0–24 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 27–45 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 23–37 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–16 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-05-18-Sentio-seats.png"
-        length="256795"
-        type="image/png"/>
-      <pubDate>Mon, 15 Jun 2020 16:52:44 +0200</pubDate>
-      <dc:date>2020-06-15T16:52:44.927787+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 15–18 May 2020 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-05-18-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-05-18-Sentio-coalitions-seats.png"
-        length="452019"
-        type="image/png"/>
-      <pubDate>Mon, 15 Jun 2020 16:52:44 +0200</pubDate>
-      <dc:date>2020-06-15T16:52:44.927787+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 15–18 May 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-05-18-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 25.1–31.4%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.8–22.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 19.4–25.2%&lt;/li&gt;&lt;li&gt;Centerpartiet: 3.4–6.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.4–11.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 6.1–9.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.1–4.5%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.5–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-05-18-Sentio.png"
-        length="289083"
-        type="image/png"/>
-      <pubDate>Mon, 15 Jun 2020 16:52:44 +0200</pubDate>
-      <dc:date>2020-06-15T16:52:44.927787+02:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Sifo, 4–14 May 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-05-14-Sifo.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 113–125 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 65–74 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 67–75 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 25–29 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 31–37 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 21–25 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–16 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2850,36 +2410,6 @@
       <dc:date>2020-04-29T19:34:22.578737+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 17–21 April 2020 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-04-21-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 89–115 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 59–81 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 77–102 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 16–28 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 26–42 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 15–27 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–18 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-04-21-Sentio-seats.png"
-        length="264293"
-        type="image/png"/>
-      <pubDate>Wed, 29 Apr 2020 20:09:27 +0200</pubDate>
-      <dc:date>2020-04-29T20:09:27.327513+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 17–21 April 2020 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-04-21-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-04-21-Sentio-coalitions-seats.png"
-        length="443648"
-        type="image/png"/>
-      <pubDate>Wed, 29 Apr 2020 20:09:27 +0200</pubDate>
-      <dc:date>2020-04-29T20:09:27.327513+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 17–21 April 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-04-21-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 24.5–30.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.2–21.6%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 21.3–27.3%&lt;/li&gt;&lt;li&gt;Centerpartiet: 4.4–7.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.2–11.2%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.1–7.3%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.4–4.9%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.9–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-04-21-Sentio.png"
-        length="289089"
-        type="image/png"/>
-      <pubDate>Wed, 29 Apr 2020 20:09:27 +0200</pubDate>
-      <dc:date>2020-04-29T20:09:27.327513+02:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Novus for SVT, 30 March–19 April 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-04-19-Novus.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 106–120 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 64–75 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 68–79 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 26–32 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 32–40 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 20–26 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–16 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2968,36 +2498,6 @@
         type="image/png"/>
       <pubDate>Tue, 14 Apr 2020 20:34:24 +0200</pubDate>
       <dc:date>2020-04-14T20:34:24.267745+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 20–24 March 2020 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-03-24-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 70–92 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 62–82 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 81–102 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 16–28 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 31–47 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 20–33 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–25 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-03-24-Sentio-seats.png"
-        length="271262"
-        type="image/png"/>
-      <pubDate>Tue, 14 Apr 2020 18:30:10 +0200</pubDate>
-      <dc:date>2020-04-14T18:30:10.939501+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 20–24 March 2020 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-03-24-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-03-24-Sentio-coalitions-seats.png"
-        length="416372"
-        type="image/png"/>
-      <pubDate>Tue, 14 Apr 2020 18:30:10 +0200</pubDate>
-      <dc:date>2020-04-14T18:30:10.939501+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 20–24 March 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-03-24-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 19.3–25.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.9–22.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 22.1–28.1%&lt;/li&gt;&lt;li&gt;Centerpartiet: 4.4–7.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.6–12.9%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.5–9.1%&lt;/li&gt;&lt;li&gt;Liberalerna: 1.4–3.6%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.9–7.0%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-03-24-Sentio.png"
-        length="298365"
-        type="image/png"/>
-      <pubDate>Tue, 14 Apr 2020 18:30:10 +0200</pubDate>
-      <dc:date>2020-04-14T18:30:10.939501+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 24 February–22 March 2020 – Seat Projections for the Parties</title>
@@ -3120,36 +2620,6 @@
       <dc:date>2020-03-13T19:51:14.925316+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 21–24 February 2020 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-02-24-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 69–92 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 62–83 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 90–114 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 23–37 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 33–50 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 0–27 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-02-24-Sentio-seats.png"
-        length="260967"
-        type="image/png"/>
-      <pubDate>Thu, 19 Mar 2020 19:20:59 +0100</pubDate>
-      <dc:date>2020-03-19T19:20:59.130941+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 21–24 February 2020 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-02-24-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-02-24-Sentio-coalitions-seats.png"
-        length="423843"
-        type="image/png"/>
-      <pubDate>Thu, 19 Mar 2020 19:20:59 +0100</pubDate>
-      <dc:date>2020-03-19T19:20:59.130941+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 21–24 February 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-02-24-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 18.8–24.6%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.0–22.6%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 24.9–31.1%&lt;/li&gt;&lt;li&gt;Centerpartiet: 6.2–10.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 9.1–13.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.0–7.1%&lt;/li&gt;&lt;li&gt;Liberalerna: 1.1–3.0%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.5–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-02-24-Sentio.png"
-        length="291092"
-        type="image/png"/>
-      <pubDate>Thu, 19 Mar 2020 19:20:59 +0100</pubDate>
-      <dc:date>2020-03-19T19:20:59.130941+01:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 11–23 February 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2020-02-23-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 71–87 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 57–72 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 74–91 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 24–35 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 34–46 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 24–34 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–18 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 14–22 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -3268,36 +2738,6 @@
         type="image/png"/>
       <pubDate>Sun, 30 Aug 2020 15:21:23 +0200</pubDate>
       <dc:date>2020-08-30T15:21:23.868191+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 24–28 January 2020 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-01-28-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 70–93 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 52–72 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 94–119 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 20–33 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 29–44 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 22–36 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-01-28-Sentio-seats.png"
-        length="259882"
-        type="image/png"/>
-      <pubDate>Sun, 30 Aug 2020 08:12:00 +0200</pubDate>
-      <dc:date>2020-08-30T08:12:00.172724+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 24–28 January 2020 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-01-28-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-01-28-Sentio-coalitions-seats.png"
-        length="423306"
-        type="image/png"/>
-      <pubDate>Sun, 30 Aug 2020 08:12:00 +0200</pubDate>
-      <dc:date>2020-08-30T08:12:00.172724+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 24–28 January 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2020-01-28-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 19.3–25.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 14.2–19.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 25.7–32.0%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.4–9.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.8–11.9%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 6.1–9.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 1.5–3.7%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.9–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2020-01-28-Sentio.png"
-        length="290546"
-        type="image/png"/>
-      <pubDate>Sun, 30 Aug 2020 08:12:00 +0200</pubDate>
-      <dc:date>2020-08-30T08:12:00.172724+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 14–27 January 2020 – Seat Projections for the Parties</title>
@@ -3448,36 +2888,6 @@
         type="image/png"/>
       <pubDate>Wed, 15 Jan 2020 18:38:39 +0100</pubDate>
       <dc:date>2020-01-15T18:38:39.276985+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 13–18 December 2019 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-12-18-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 67–89 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 51–72 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 95–120 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 19–33 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 30–46 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 18–30 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–16 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-12-18-Sentio-seats.png"
-        length="263556"
-        type="image/png"/>
-      <pubDate>Sat, 28 Dec 2019 17:24:44 +0100</pubDate>
-      <dc:date>2019-12-28T17:24:44.467889+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 13–18 December 2019 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-12-18-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-12-18-Sentio-coalitions-seats.png"
-        length="434877"
-        type="image/png"/>
-      <pubDate>Sat, 28 Dec 2019 17:24:44 +0100</pubDate>
-      <dc:date>2019-12-28T17:24:44.467889+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 13–18 December 2019 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-12-18-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 18.4–24.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 14.1–19.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 26.1–32.4%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.3–8.8%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.2–12.4%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.8–8.2%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.1–4.6%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.3–6.2%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-12-18-Sentio.png"
-        length="290785"
-        type="image/png"/>
-      <pubDate>Sat, 28 Dec 2019 17:24:44 +0100</pubDate>
-      <dc:date>2019-12-28T17:24:44.467889+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 18 November–15 December 2019 – Seat Projections for the Parties</title>
@@ -3660,36 +3070,6 @@
       <dc:date>2019-12-23T13:35:24.459541+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 15–19 November 2019 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-11-19-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 72–94 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 53–72 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 93–117 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 20–33 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 24–39 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 19–32 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–24 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-11-19-Sentio-seats.png"
-        length="260925"
-        type="image/png"/>
-      <pubDate>Mon, 31 Aug 2020 17:36:49 +0200</pubDate>
-      <dc:date>2020-08-31T17:36:49.563482+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 15–19 November 2019 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-11-19-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-11-19-Sentio-coalitions-seats.png"
-        length="421757"
-        type="image/png"/>
-      <pubDate>Mon, 31 Aug 2020 17:36:49 +0200</pubDate>
-      <dc:date>2020-08-31T17:36:49.563482+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 15–19 November 2019 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-11-19-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 19.8–25.6%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 14.5–19.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 25.5–31.8%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.4–9.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 6.7–10.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.3–8.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 1.6–3.9%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.6–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-11-19-Sentio.png"
-        length="289489"
-        type="image/png"/>
-      <pubDate>Mon, 31 Aug 2020 17:36:49 +0200</pubDate>
-      <dc:date>2020-08-31T17:36:49.563482+02:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Novus for SVT, 21 October–17 November 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-11-17-Novus.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 90–101 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 63–72 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 74–84 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 26–32 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 31–38 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 23–29 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–14 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 15–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -3778,36 +3158,6 @@
         type="image/png"/>
       <pubDate>Mon, 24 Aug 2020 22:40:00 +0200</pubDate>
       <dc:date>2020-08-24T22:40:00.432121+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 18–24 October 2019 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-10-24-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 77–101 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 51–72 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 80–105 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 18–31 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 28–43 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 18–30 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–23 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–21 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-10-24-Sentio-seats.png"
-        length="285258"
-        type="image/png"/>
-      <pubDate>Mon, 31 Aug 2020 16:41:19 +0200</pubDate>
-      <dc:date>2020-08-31T16:41:19.618526+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 18–24 October 2019 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-10-24-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-10-24-Sentio-coalitions-seats.png"
-        length="445008"
-        type="image/png"/>
-      <pubDate>Mon, 31 Aug 2020 16:41:19 +0200</pubDate>
-      <dc:date>2020-08-31T16:41:19.618526+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 18–24 October 2019 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-10-24-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 21.5–27.5%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 14.4–19.6%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 22.6–28.6%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.0–8.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.8–11.9%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.0–8.4%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.4–6.4%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.0–5.8%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-10-24-Sentio.png"
-        length="300580"
-        type="image/png"/>
-      <pubDate>Mon, 31 Aug 2020 16:41:19 +0200</pubDate>
-      <dc:date>2020-08-31T16:41:19.618526+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 8–21 October 2019 – Seat Projections for the Parties</title>
@@ -3990,36 +3340,6 @@
       <dc:date>2020-08-31T21:57:41.820183+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 20–24 September 2019 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-09-24-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 78–100 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 55–73 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 90–113 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 17–29 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 28–43 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 17–28 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–17 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-09-24-Sentio-seats.png"
-        length="248070"
-        type="image/png"/>
-      <pubDate>Mon, 31 Aug 2020 20:02:07 +0200</pubDate>
-      <dc:date>2020-08-31T20:02:07.535742+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 20–24 September 2019 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-09-24-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-09-24-Sentio-coalitions-seats.png"
-        length="436426"
-        type="image/png"/>
-      <pubDate>Mon, 31 Aug 2020 20:02:07 +0200</pubDate>
-      <dc:date>2020-08-31T20:02:07.535742+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 20–24 September 2019 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-09-24-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 21.4–26.6%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 14.9–19.5%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 24.8–30.3%&lt;/li&gt;&lt;li&gt;Centerpartiet: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.8–11.4%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.6–7.6%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.8–5.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.8–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-09-24-Sentio.png"
-        length="287670"
-        type="image/png"/>
-      <pubDate>Mon, 31 Aug 2020 20:02:07 +0200</pubDate>
-      <dc:date>2020-08-31T20:02:07.535742+02:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–23 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-09-23-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 84–100 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 60–74 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 60–74 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 27–37 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 26–36 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 21–30 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–22 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 14–22 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -4168,36 +3488,6 @@
         type="image/png"/>
       <pubDate>Sun, 30 Aug 2020 17:00:36 +0200</pubDate>
       <dc:date>2020-08-30T17:00:36.258407+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 22–27 August 2019 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-08-27-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 73–95 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 56–76 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 73–96 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 17–29 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 31–46 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 16–27 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 14–26 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-08-27-Sentio-seats.png"
-        length="277305"
-        type="image/png"/>
-      <pubDate>Sun, 30 Aug 2020 16:25:11 +0200</pubDate>
-      <dc:date>2020-08-30T16:25:11.514908+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 22–27 August 2019 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-08-27-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-08-27-Sentio-coalitions-seats.png"
-        length="430063"
-        type="image/png"/>
-      <pubDate>Sun, 30 Aug 2020 16:25:11 +0200</pubDate>
-      <dc:date>2020-08-30T16:25:11.514908+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 22–27 August 2019 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-08-27-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 20.5–26.4%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 15.9–21.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 20.8–26.7%&lt;/li&gt;&lt;li&gt;Centerpartiet: 4.7–8.1%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.6–12.9%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.4–7.7%&lt;/li&gt;&lt;li&gt;Liberalerna: 4.1–7.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.4–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-08-27-Sentio.png"
-        length="300831"
-        type="image/png"/>
-      <pubDate>Sun, 30 Aug 2020 16:25:11 +0200</pubDate>
-      <dc:date>2020-08-30T16:25:11.514908+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 5–25 August 2019 – Seat Projections for the Parties</title>
@@ -4500,36 +3790,6 @@
       <dc:date>2019-06-19T21:46:12.588003+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 3–13 June 2019 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-06-13-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 82–107 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 53–73 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 68–92 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 21–35 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 25–40 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 22–37 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–19 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–24 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-06-13-Sentio-seats.png"
-        length="272702"
-        type="image/png"/>
-      <pubDate>Sun, 30 Jun 2019 20:46:28 +0200</pubDate>
-      <dc:date>2019-06-30T20:46:28.153708+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 3–13 June 2019 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-06-13-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-06-13-Sentio-coalitions-seats.png"
-        length="453442"
-        type="image/png"/>
-      <pubDate>Sun, 30 Jun 2019 20:46:28 +0200</pubDate>
-      <dc:date>2019-06-30T20:46:28.153708+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 3–13 June 2019 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-06-13-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.8–28.9%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 14.5–19.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 19.1–24.8%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.7–9.4%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.0–10.9%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 6.2–10.0%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.6–5.2%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.5–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-06-13-Sentio.png"
-        length="299238"
-        type="image/png"/>
-      <pubDate>Sun, 30 Jun 2019 20:46:28 +0200</pubDate>
-      <dc:date>2019-06-30T20:46:28.153708+02:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Demoskop for Expressen, 27 May–3 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-06-03-Demoskop.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 89–107 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 58–74 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 66–81 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 27–38 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 24–34 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 23–32 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–17 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 14–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -4648,36 +3908,6 @@
         type="image/png"/>
       <pubDate>Sat, 08 Jun 2019 19:43:54 +0200</pubDate>
       <dc:date>2019-06-08T19:43:54.281251+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 17–21 May 2019 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-05-21-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 81–102 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 49–67 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 68–88 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 19–32 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 31–46 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 32–46 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–17 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-05-21-Sentio-seats.png"
-        length="269992"
-        type="image/png"/>
-      <pubDate>Sat, 08 Jun 2019 23:33:27 +0200</pubDate>
-      <dc:date>2019-06-08T23:33:27.223357+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 17–21 May 2019 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-05-21-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-05-21-Sentio-coalitions-seats.png"
-        length="427567"
-        type="image/png"/>
-      <pubDate>Sat, 08 Jun 2019 23:33:27 +0200</pubDate>
-      <dc:date>2019-06-08T23:33:27.223357+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 17–21 May 2019 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-05-21-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.3–27.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 13.4–17.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.7–23.8%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.3–8.5%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.4–12.2%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 8.7–12.5%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.3–4.6%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.5–6.2%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-05-21-Sentio.png"
-        length="292379"
-        type="image/png"/>
-      <pubDate>Sat, 08 Jun 2019 23:33:27 +0200</pubDate>
-      <dc:date>2019-06-08T23:33:27.223357+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 6–21 May 2019 – Seat Projections for the Parties</title>
@@ -4920,36 +4150,6 @@
       <dc:date>2019-05-07T20:37:01.25722+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 4–10 April 2019 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-04-10-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 82–108 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 54–75 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 63–86 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 18–31 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 27–42 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 31–48 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–19 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–22 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-04-10-Sentio-seats.png"
-        length="270340"
-        type="image/png"/>
-      <pubDate>Tue, 07 May 2019 19:42:15 +0200</pubDate>
-      <dc:date>2019-05-07T19:42:15.4025+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 4–10 April 2019 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-04-10-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-04-10-Sentio-coalitions-seats.png"
-        length="448990"
-        type="image/png"/>
-      <pubDate>Tue, 07 May 2019 19:42:15 +0200</pubDate>
-      <dc:date>2019-05-07T19:42:15.4025+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 4–10 April 2019 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-04-10-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.7–28.8%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 15.0–20.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 17.5–23.1%&lt;/li&gt;&lt;li&gt;Centerpartiet: 4.8–8.3%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.4–11.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 8.7–13.0%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.7–5.4%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.1–6.0%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-04-10-Sentio.png"
-        length="297843"
-        type="image/png"/>
-      <pubDate>Tue, 07 May 2019 19:42:15 +0200</pubDate>
-      <dc:date>2019-05-07T19:42:15.4025+02:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Demoskop for Expressen, 26 March–3 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-04-03-Demoskop.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 84–103 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 54–68 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 59–74 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 25–36 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 30–41 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 37–49 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–18 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -5038,36 +4238,6 @@
         type="image/png"/>
       <pubDate>Thu, 13 Jun 2019 21:04:45 +0200</pubDate>
       <dc:date>2019-06-13T21:04:45.645103+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 22–27 March 2019 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-03-27-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 82–104 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 57–75 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 62–83 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 18–29 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 31–46 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 40–56 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–16 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-03-27-Sentio-seats.png"
-        length="250429"
-        type="image/png"/>
-      <pubDate>Thu, 13 Jun 2019 15:02:51 +0200</pubDate>
-      <dc:date>2019-06-13T15:02:51.920304+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 22–27 March 2019 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-03-27-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-03-27-Sentio-coalitions-seats.png"
-        length="424772"
-        type="image/png"/>
-      <pubDate>Thu, 13 Jun 2019 15:02:51 +0200</pubDate>
-      <dc:date>2019-06-13T15:02:51.920304+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 22–27 March 2019 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-03-27-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 22.2–27.5%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 15.2–20.0%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 16.9–21.8%&lt;/li&gt;&lt;li&gt;Centerpartiet: 4.8–7.8%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.5–12.2%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 10.8–15.0%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.2–4.4%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.9–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-03-27-Sentio.png"
-        length="291627"
-        type="image/png"/>
-      <pubDate>Thu, 13 Jun 2019 15:02:51 +0200</pubDate>
-      <dc:date>2019-06-13T15:02:51.920304+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SKOP, 7–27 March 2019 – Seat Projections for the Parties</title>
@@ -5220,36 +4390,6 @@
       <dc:date>2020-08-30T08:43:06.578713+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 22–25 February 2019 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-02-25-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 89–111 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 60–78 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 71–91 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 16–27 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 32–47 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 29–43 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–17 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-02-25-Sentio-seats.png"
-        length="243262"
-        type="image/png"/>
-      <pubDate>Fri, 28 Aug 2020 17:42:36 +0200</pubDate>
-      <dc:date>2020-08-28T17:42:36.627487+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 22–25 February 2019 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-02-25-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-02-25-Sentio-coalitions-seats.png"
-        length="411107"
-        type="image/png"/>
-      <pubDate>Fri, 28 Aug 2020 17:42:36 +0200</pubDate>
-      <dc:date>2020-08-28T17:42:36.627487+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 22–25 February 2019 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-02-25-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 23.9–29.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.0–20.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 19.0–24.1%&lt;/li&gt;&lt;li&gt;Centerpartiet: 4.3–7.1%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.7–12.6%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 7.7–11.4%&lt;/li&gt;&lt;li&gt;Liberalerna: 1.8–3.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.4–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-02-25-Sentio.png"
-        length="286898"
-        type="image/png"/>
-      <pubDate>Fri, 28 Aug 2020 17:42:36 +0200</pubDate>
-      <dc:date>2020-08-28T17:42:36.627487+02:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 7–20 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2019-02-20-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 91–113 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 55–70 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 61–78 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 24–35 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 31–43 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 28–39 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–18 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -5398,36 +4538,6 @@
         type="image/png"/>
       <pubDate>Wed, 13 Feb 2019 11:31:27 +0100</pubDate>
       <dc:date>2019-02-13T11:31:27.222689+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 24–30 January 2019 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-01-30-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 91–114 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 56–75 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 65–86 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 21–33 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 29–42 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 21–33 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–19 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-01-30-Sentio-seats.png"
-        length="261469"
-        type="image/png"/>
-      <pubDate>Sat, 09 Feb 2019 18:06:51 +0100</pubDate>
-      <dc:date>2019-02-09T18:06:51.087792+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 24–30 January 2019 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-01-30-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-01-30-Sentio-coalitions-seats.png"
-        length="436981"
-        type="image/png"/>
-      <pubDate>Sat, 09 Feb 2019 18:06:51 +0100</pubDate>
-      <dc:date>2019-02-09T18:06:51.087792+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 24–30 January 2019 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2019-01-30-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 25.1–30.6%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 15.4–20.2%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.0–23.0%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.7–8.9%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.8–11.5%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.8–9.1%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.9–5.3%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.9–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2019-01-30-Sentio.png"
-        length="286291"
-        type="image/png"/>
-      <pubDate>Sat, 09 Feb 2019 18:06:51 +0100</pubDate>
-      <dc:date>2019-02-09T18:06:51.087792+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 16–23 January 2019 – Seat Projections for the Parties</title>
@@ -5790,36 +4900,6 @@
       <dc:date>2018-12-19T11:17:37.346794+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 29 November–3 December 2018 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2018-12-03-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 93–117 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 57–76 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 72–94 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 20–32 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 24–37 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 17–29 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–20 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-12-03-Sentio-seats.png"
-        length="259941"
-        type="image/png"/>
-      <pubDate>Sun, 20 Jan 2019 20:33:04 +0100</pubDate>
-      <dc:date>2019-01-20T20:33:04.202535+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 29 November–3 December 2018 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2018-12-03-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-12-03-Sentio-coalitions-seats.png"
-        length="432859"
-        type="image/png"/>
-      <pubDate>Sun, 20 Jan 2019 20:33:04 +0100</pubDate>
-      <dc:date>2019-01-20T20:33:04.202535+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 29 November–3 December 2018 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2018-12-03-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 25.7–31.2%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 15.7–20.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 19.9–25.0%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.5–8.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 6.5–9.8%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.8–7.7%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.1–5.6%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.9–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-12-03-Sentio.png"
-        length="275255"
-        type="image/png"/>
-      <pubDate>Sun, 20 Jan 2019 20:33:04 +0100</pubDate>
-      <dc:date>2019-01-20T20:33:04.202535+01:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by SCB, 29 October–27 November 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-11-27-SCB.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 104–118 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 64–75 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 62–72 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 28–35 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 27–34 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 17–22 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–18 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–16 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -5970,36 +5050,6 @@
       <dc:date>2018-12-19T09:15:06.902184+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 1–7 November 2018 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2018-11-07-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 94–117 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 61–80 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 66–85 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 28–42 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 28–42 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 15–26 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–17 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-11-07-Sentio-seats.png"
-        length="243830"
-        type="image/png"/>
-      <pubDate>Tue, 27 Nov 2018 20:59:42 +0100</pubDate>
-      <dc:date>2018-11-27T20:59:42.612651+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 1–7 November 2018 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2018-11-07-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-11-07-Sentio-coalitions-seats.png"
-        length="361582"
-        type="image/png"/>
-      <pubDate>Tue, 27 Nov 2018 20:59:42 +0100</pubDate>
-      <dc:date>2018-11-27T20:59:42.612651+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 1–7 November 2018 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2018-11-07-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 25.5–31.1%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.4–21.2%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 17.9–22.9%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.7–11.3%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.7–11.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.1–7.0%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.3–4.6%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.8–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-11-07-Sentio.png"
-        length="283213"
-        type="image/png"/>
-      <pubDate>Tue, 27 Nov 2018 20:59:42 +0100</pubDate>
-      <dc:date>2018-11-27T20:59:42.612651+01:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 26 October–6 November 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2018-11-06-Inizio.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 99–118 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 61–76 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 63–78 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 31–42 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 25–33 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 18–26 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–18 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–17 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -6118,36 +5168,6 @@
         type="image/png"/>
       <pubDate>Sun, 28 Oct 2018 18:16:48 +0100</pubDate>
       <dc:date>2018-10-28T18:16:48.345198+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 5–9 October 2018 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2018-10-09-Sentio.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 88–110 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 63–81 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 63–83 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 21–33 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 24–37 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 16–26 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–20 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–24 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-10-09-Sentio-seats.png"
-        length="276345"
-        type="image/png"/>
-      <pubDate>Sat, 27 Oct 2018 16:42:10 +0200</pubDate>
-      <dc:date>2018-10-27T16:42:10.739021+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 5–9 October 2018 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2018-10-09-Sentio.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-10-09-Sentio-coalitions-seats.png"
-        length="360139"
-        type="image/png"/>
-      <pubDate>Sat, 27 Oct 2018 16:42:10 +0200</pubDate>
-      <dc:date>2018-10-27T16:42:10.739021+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Sentio for Nyheter Idag, 5–9 October 2018 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2018-10-09-Sentio.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 24.7–30.2%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.6–22.6%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 17.9–22.9%&lt;/li&gt;&lt;li&gt;Centerpartiet: 6.1–9.3%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 6.8–10.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.4–7.2%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.1–5.6%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.9–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2018-10-09-Sentio.png"
-        length="286306"
-        type="image/png"/>
-      <pubDate>Sat, 27 Oct 2018 16:42:10 +0200</pubDate>
-      <dc:date>2018-10-27T16:42:10.739021+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Inizio for Aftonbladet, 1–8 October 2018 – Seat Projections for the Parties</title>
@@ -6269,6 +5289,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38.351324+02:00</dc:date>
     </item>
-    <dc:date>2021-10-30T23:23:59.945478+02:00</dc:date>
+    <dc:date>2021-11-09T07:56:53.545117+01:00</dc:date>
   </channel>
 </rss>
