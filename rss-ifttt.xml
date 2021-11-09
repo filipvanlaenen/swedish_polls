@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Riksdagen</description>
     <pubDate>Fri, 17 Jul 2020 21:17:04 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Novus for SVT, 4–31 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-10-31-Novus.html</link>
+      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Novus for SVT, 4–31 October 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-10-31-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-10-31-Novus.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-10-31-Novus.png" length="255568" type="image/png"/>
+      <pubDate>Tue, 9 Nov 2021 07:05:36 +0100</pubDate>
+      <dc:date>2021-11-09T07:05:36.149049+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 12–25 October 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-10-25-Ipsos.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 12–25 October 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-10-25-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-10-25-Ipsos-seating-plan.png"/>]]></description>
@@ -28,6 +36,14 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-10-25-Ipsos.png" length="276077" type="image/png"/>
       <pubDate>Fri, 29 Oct 2021 21:47:29 +0200</pubDate>
       <dc:date>2021-10-29T21:47:29.856064+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Skop, 15–17 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-10-17-Skop.html</link>
+      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Skop, 15–17 October 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-10-17-Skop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-10-17-Skop.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-10-17-Skop.png" length="286808" type="image/png"/>
+      <pubDate>Tue, 9 Nov 2021 07:56:53 +0100</pubDate>
+      <dc:date>2021-11-09T07:56:53.545117+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo, 4–14 October 2021 – Seating Plan Projection</title>
@@ -196,54 +212,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-09-08-Demoskop.png" length="269324" type="image/png"/>
       <pubDate>Sun, 19 Sep 2021 14:30:38 +0200</pubDate>
       <dc:date>2021-09-19T14:30:38.416186+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Novus for SVT, 2–29 August 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-08-29-Novus.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Novus for SVT, 2–29 August 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-08-29-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-08-29-Novus-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-08-29-Novus-seating-plan.png" length="757063" type="image/png"/>
-      <pubDate>Sun, 5 Sep 2021 16:21:30 +0200</pubDate>
-      <dc:date>2021-09-05T16:21:30.937746+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Novus for SVT, 2–29 August 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-08-29-Novus.html#seats</link>
-      <description><![CDATA[Seat projections for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Novus for SVT, 2–29 August 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-08-29-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-08-29-Novus-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-08-29-Novus-seats.png" length="243414" type="image/png"/>
-      <pubDate>Sun, 5 Sep 2021 16:21:30 +0200</pubDate>
-      <dc:date>2021-09-05T16:21:30.937746+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Novus for SVT, 2–29 August 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-08-29-Novus.html</link>
-      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Novus for SVT, 2–29 August 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-08-29-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-08-29-Novus.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-08-29-Novus.png" length="249150" type="image/png"/>
-      <pubDate>Sun, 5 Sep 2021 16:21:30 +0200</pubDate>
-      <dc:date>2021-09-05T16:21:30.937746+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–23 August 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-08-23-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 10–23 August 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-08-23-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-08-23-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-08-23-Ipsos-seating-plan.png" length="759614" type="image/png"/>
-      <pubDate>Sun, 5 Sep 2021 16:59:32 +0200</pubDate>
-      <dc:date>2021-09-05T16:59:32.407421+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–23 August 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-08-23-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Ipsos for Dagens Nyheter, 10–23 August 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-08-23-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-08-23-Ipsos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-08-23-Ipsos-seats.png" length="254976" type="image/png"/>
-      <pubDate>Sun, 5 Sep 2021 16:59:32 +0200</pubDate>
-      <dc:date>2021-09-05T16:59:32.407421+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–23 August 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2021-08-23-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Ipsos for Dagens Nyheter, 10–23 August 2021<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2021-08-23-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2021-08-23-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-08-23-Ipsos.png" length="278418" type="image/png"/>
-      <pubDate>Sun, 5 Sep 2021 16:59:32 +0200</pubDate>
-      <dc:date>2021-09-05T16:59:32.407421+02:00</dc:date>
     </item>
   </channel>
 </rss>
