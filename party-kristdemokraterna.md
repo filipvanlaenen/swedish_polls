@@ -215,9 +215,9 @@ Last result: **22** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 0–21 | 0–22 | 0–23 | 0–24 |
-| [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT | 15 | 0–17 | 0–17 | 0–17 | 0–19 |
+| [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT | 15 | 0–17 | 0–17 | 0–17 | 0–18 |
 | [12–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 16 | 0–16 | 0–16 | 0–19 | 0–20 |
-| [15–17 October 2021](2021-10-17-Skop.html) | Skop | 0 | 0–16 | 0–18 | 0–18 | 0–20 |
+| [15–17 October 2021](2021-10-17-Skop.html) | Skop | 0 | 0–17 | 0–18 | 0–18 | 0–20 |
 | [4–14 October 2021](2021-10-14-Sifo.html) | Sifo | 19 | 18–20 | 17–21 | 17–21 | 16–22 |
 | [29 September–6 October 2021](2021-10-06-Demoskop.html) | Demoskop <br> Aftonbladet | 21 | 18–23 | 18–24 | 17–24 | 16–25 |
 | [30 August–3 October 2021](2021-10-03-Novus.html) | Novus <br> SVT | 17 | 16–19 | 15–19 | 15–20 | 0–20 |
@@ -418,8 +418,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 74% |  |
 | 14 | 0.1% | 74% |  |
 | 15 | 7% | 74% |  |
-| 16 | 14% | 67% |  |
-| 17 | 8% | 53% | Median |
+| 16 | 16% | 67% |  |
+| 17 | 7% | 51% | Median |
 | 18 | 9% | 44% |  |
 | 19 | 11% | 35% |  |
 | 20 | 10% | 24% |  |

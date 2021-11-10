@@ -214,10 +214,10 @@ Last result: **16** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–19 | 0–20 | 0–21 | 0–23 |
-| [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT | 18 | 16–19 | 16–20 | 15–20 | 0–22 |
+| N/A | [Poll Average](average.html) | 14 | 0–19 | 0–20 | 0–21 | 0–23 |
+| [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT | 17 | 16–19 | 16–20 | 15–20 | 0–21 |
 | [12–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 19 | 16–21 | 15–22 | 15–23 | 0–24 |
-| [15–17 October 2021](2021-10-17-Skop.html) | Skop | 16 | 0–19 | 0–20 | 0–21 | 0–23 |
+| [15–17 October 2021](2021-10-17-Skop.html) | Skop | 17 | 0–20 | 0–21 | 0–22 | 0–23 |
 | [4–14 October 2021](2021-10-14-Sifo.html) | Sifo | 0 | 0–15 | 0–15 | 0–15 | 0–16 |
 | [29 September–6 October 2021](2021-10-06-Demoskop.html) | Demoskop <br> Aftonbladet | 0 | 0 | 0 | 0 | 0–15 |
 | [30 August–3 October 2021](2021-10-03-Novus.html) | Novus <br> SVT | 0 | 0–16 | 0–16 | 0–17 | 0–17 |
@@ -402,7 +402,7 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% | Median |
+| 0 | 50% | 100% |  |
 | 1 | 0% | 50% |  |
 | 2 | 0% | 50% |  |
 | 3 | 0% | 50% |  |
@@ -416,12 +416,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 50% |  |
 | 12 | 0% | 50% |  |
 | 13 | 0% | 50% |  |
-| 14 | 0.3% | 50% |  |
-| 15 | 5% | 49% |  |
-| 16 | 8% | 44% | Last Result |
-| 17 | 10% | 36% |  |
-| 18 | 10% | 26% |  |
-| 19 | 7% | 16% |  |
+| 14 | 0.4% | 50% | Median |
+| 15 | 5% | 50% |  |
+| 16 | 8% | 45% | Last Result |
+| 17 | 11% | 37% |  |
+| 18 | 8% | 26% |  |
+| 19 | 8% | 18% |  |
 | 20 | 5% | 9% |  |
 | 21 | 2% | 4% |  |
 | 22 | 0.9% | 2% |  |

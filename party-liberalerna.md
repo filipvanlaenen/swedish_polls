@@ -217,7 +217,7 @@ Last result: **20** seats (General Election of 9 September 2018)
 | N/A | [Poll Average](average.html) | 0 | 0–15 | 0–16 | 0–17 | 0–18 |
 | [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
 | [12–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 15 | 0–17 | 0–18 | 0–19 | 0–20 |
-| [15–17 October 2021](2021-10-17-Skop.html) | Skop | 0 | 0 | 0–15 | 0–15 | 0–18 |
+| [15–17 October 2021](2021-10-17-Skop.html) | Skop | 0 | 0 | 0–15 | 0–16 | 0–17 |
 | [4–14 October 2021](2021-10-14-Sifo.html) | Sifo | 0 | 0 | 0 | 0 | 0 |
 | [29 September–6 October 2021](2021-10-06-Demoskop.html) | Demoskop <br> Aftonbladet | 0 | 0 | 0 | 0 | 0 |
 | [30 August–3 October 2021](2021-10-03-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0 |
@@ -416,8 +416,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 11% |  |
 | 12 | 0% | 11% |  |
 | 13 | 0% | 11% |  |
-| 14 | 0.7% | 11% |  |
-| 15 | 5% | 10% |  |
+| 14 | 0.5% | 11% |  |
+| 15 | 4% | 10% |  |
 | 16 | 3% | 6% |  |
 | 17 | 1.4% | 3% |  |
 | 18 | 0.8% | 1.2% |  |
