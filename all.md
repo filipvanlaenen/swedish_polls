@@ -9,7 +9,7 @@ The table below lists all polls registered and analyzed so far.
 | [5–11 November 2021](2021-11-11-Demoskop.html) | Demoskop <br> Aftonbladet | 25–29% <br> 94–109 | 22–25% <br> 82–96 | 17–20% <br> 64–76 | 9–11% <br> 32–41 | 7–9% <br> 26–35 | 4–6% <br> 17–24 | 3–4% <br> 0 | 3–4% <br> 0–15 |
 | [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT | 24–27% <br> 88–101 | 22–24% <br> 78–90 | 18–20% <br> 65–76 | 8–9% <br> 28–35 | 10–12% <br> 38–46 | 3–5% <br> 0–17 | 2–3% <br> 0 | 4–6% <br> 15–20 |
 | [12–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 24–28% <br> 87–106 | 18–22% <br> 65–82 | 18–22% <br> 66–82 | 7–9% <br> 25–35 | 10–13% <br> 35–47 | 3–5% <br> 0–19 | 3–5% <br> 0–19 | 4–6% <br> 15–23 |
-| [15–17 October 2021](2021-10-17-SKOP.html) | SKOP | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [15–17 October 2021](2021-10-17-SKOP.html) | SKOP | 22–27% <br> 81–103 | 20–25% <br> 73–94 | 18–22% <br> 65–86 | 8–11% <br> 29–43 | 10–14% <br> 36–52 | 3–5% <br> 0–18 | 2–4% <br> 0–16 | 3–6% <br> 0–22 |
 | [4–14 October 2021](2021-10-14-Sifo.html) | Sifo | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [29 September–6 October 2021](2021-10-06-Demoskop.html) | Demoskop <br> Aftonbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [30 August–3 October 2021](2021-10-03-Novus.html) | Novus <br> SVT | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
