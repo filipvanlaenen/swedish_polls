@@ -10,11 +10,11 @@ Last result: **17.5%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.7% | 18.0–20.8% | 17.7–21.0% | 17.4–21.2% | 16.9–21.6% |
+| N/A | [Poll Average](average.html) | 19.5% | 18.2–20.8% | 17.9–21.1% | 17.6–21.4% | 17.1–22.1% |
 | [8–18 November 2021](2021-11-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 20.3% | 19.6–21.0% | 19.4–21.2% | 19.3–21.4% | 19.0–21.7% |
 | [5–11 November 2021](2021-11-11-Demoskop.html) | Demoskop <br> Aftonbladet | 18.7% | 17.7–19.8% | 17.4–20.1% | 17.2–20.3% | 16.7–20.9% |
-| [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT | 19.1% | N/A | N/A | N/A | N/A |
-| [12–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 20.0% | N/A | N/A | N/A | N/A |
+| [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT | 19.1% | 18.3–20.0% | 18.0–20.2% | 17.8–20.4% | 17.5–20.8% |
+| [12–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 20.0% | 18.7–21.3% | 18.4–21.7% | 18.1–22.0% | 17.5–22.7% |
 | [15–17 October 2021](2021-10-17-SKOP.html) | SKOP | 19.9% | N/A | N/A | N/A | N/A |
 | [4–14 October 2021](2021-10-14-Sifo.html) | Sifo | 19.9% | N/A | N/A | N/A | N/A |
 | [29 September–6 October 2021](2021-10-06-Demoskop.html) | Demoskop <br> Aftonbladet | 20.9% | N/A | N/A | N/A | N/A |
@@ -198,15 +198,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 3% | 99.9% |  |
-| 17.5–18.5% | 18% | 97% | Last Result |
-| 18.5–19.5% | 25% | 79% |  |
-| 19.5–20.5% | 36% | 54% | Median |
-| 20.5–21.5% | 17% | 18% |  |
-| 21.5–22.5% | 0.6% | 0.6% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 16.5–17.5% | 2% | 99.9% |  |
+| 17.5–18.5% | 15% | 98% | Last Result |
+| 18.5–19.5% | 33% | 83% |  |
+| 19.5–20.5% | 33% | 50% | Median |
+| 20.5–21.5% | 15% | 17% |  |
+| 21.5–22.5% | 2% | 2% |  |
+| 22.5–23.5% | 0.2% | 0.2% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -217,11 +217,11 @@ Last result: **62** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 74 | 68–79 | 66–79 | 65–80 | 63–82 |
+| N/A | [Poll Average](average.html) | 73 | 67–78 | 66–79 | 65–80 | 63–83 |
 | [8–18 November 2021](2021-11-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 76 | 74–79 | 73–80 | 72–81 | 70–82 |
 | [5–11 November 2021](2021-11-11-Demoskop.html) | Demoskop <br> Aftonbladet | 71 | 66–75 | 65–75 | 64–76 | 62–78 |
-| [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT |  |  |  |  |  |
-| [12–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter |  |  |  |  |  |
+| [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT | 70 | 67–74 | 66–75 | 65–76 | 64–78 |
+| [12–25 October 2021](2021-10-25-Ipsos.html) | Ipsos <br> Dagens Nyheter | 74 | 67–78 | 66–80 | 66–82 | 64–86 |
 | [15–17 October 2021](2021-10-17-SKOP.html) | SKOP |  |  |  |  |  |
 | [4–14 October 2021](2021-10-14-Sifo.html) | Sifo |  |  |  |  |  |
 | [29 September–6 October 2021](2021-10-06-Demoskop.html) | Demoskop <br> Aftonbladet |  |  |  |  |  |
@@ -407,31 +407,34 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 60 | 0.1% | 100% |  |
+| 60 | 0% | 100% |  |
 | 61 | 0.1% | 99.9% |  |
-| 62 | 0.3% | 99.8% | Last Result |
-| 63 | 0.4% | 99.5% |  |
-| 64 | 0.9% | 99.1% |  |
+| 62 | 0.2% | 99.9% | Last Result |
+| 63 | 0.4% | 99.7% |  |
+| 64 | 1.0% | 99.3% |  |
 | 65 | 2% | 98% |  |
-| 66 | 2% | 96% |  |
-| 67 | 3% | 94% |  |
-| 68 | 4% | 91% |  |
-| 69 | 4% | 87% |  |
-| 70 | 5% | 83% |  |
-| 71 | 8% | 77% |  |
-| 72 | 5% | 70% |  |
-| 73 | 7% | 65% |  |
-| 74 | 10% | 57% | Median |
-| 75 | 11% | 47% |  |
-| 76 | 11% | 36% |  |
-| 77 | 8% | 25% |  |
-| 78 | 7% | 17% |  |
-| 79 | 6% | 10% |  |
-| 80 | 2% | 4% |  |
-| 81 | 1.2% | 2% |  |
-| 82 | 0.4% | 0.6% |  |
-| 83 | 0.1% | 0.2% |  |
-| 84 | 0.1% | 0.1% |  |
-| 85 | 0% | 0% |  |
+| 66 | 4% | 96% |  |
+| 67 | 4% | 93% |  |
+| 68 | 6% | 89% |  |
+| 69 | 6% | 83% |  |
+| 70 | 7% | 77% |  |
+| 71 | 10% | 70% |  |
+| 72 | 9% | 60% |  |
+| 73 | 7% | 51% | Median |
+| 74 | 8% | 44% |  |
+| 75 | 9% | 36% |  |
+| 76 | 7% | 27% |  |
+| 77 | 7% | 19% |  |
+| 78 | 5% | 12% |  |
+| 79 | 4% | 7% |  |
+| 80 | 2% | 3% |  |
+| 81 | 0.8% | 2% |  |
+| 82 | 0.4% | 1.0% |  |
+| 83 | 0.2% | 0.7% |  |
+| 84 | 0.2% | 0.4% |  |
+| 85 | 0.1% | 0.2% |  |
+| 86 | 0.1% | 0.1% |  |
+| 87 | 0.1% | 0.1% |  |
+| 88 | 0% | 0% |  |
 
 
