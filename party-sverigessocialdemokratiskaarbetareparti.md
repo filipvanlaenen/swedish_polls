@@ -222,8 +222,8 @@ Last result: **100** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 97 | 88–109 | 86–111 | 84–112 | 81–114 |
-| [9–22 November 2021](2021-11-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 92 | 87–99 | 85–100 | 84–101 | 82–106 |
+| N/A | [Poll Average](average.html) | 97 | 89–109 | 86–111 | 84–112 | 81–114 |
+| [9–22 November 2021](2021-11-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 93 | 88–100 | 86–101 | 85–102 | 82–104 |
 | [8–18 November 2021](2021-11-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 109 | 106–112 | 105–113 | 103–114 | 101–116 |
 | [5–11 November 2021](2021-11-11-Demoskop.html) | Demoskop <br> Aftonbladet | 101 | 96–106 | 95–107 | 94–109 | 92–111 |
 | [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT | 94 | 90–98 | 89–100 | 88–101 | 86–104 |
@@ -421,22 +421,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 81 | 0.3% | 99.5% |  |
 | 82 | 0.4% | 99.2% |  |
 | 83 | 0.5% | 98.9% |  |
-| 84 | 1.2% | 98% |  |
-| 85 | 2% | 97% |  |
+| 84 | 1.1% | 98% |  |
+| 85 | 1.4% | 97% |  |
 | 86 | 2% | 96% |  |
 | 87 | 2% | 94% |  |
 | 88 | 2% | 92% |  |
-| 89 | 4% | 89% |  |
-| 90 | 5% | 86% |  |
-| 91 | 4% | 80% |  |
-| 92 | 5% | 77% |  |
-| 93 | 6% | 72% |  |
-| 94 | 4% | 66% |  |
-| 95 | 5% | 62% |  |
-| 96 | 5% | 56% |  |
-| 97 | 4% | 51% | Median |
-| 98 | 5% | 47% |  |
-| 99 | 3% | 41% |  |
+| 89 | 3% | 90% |  |
+| 90 | 5% | 87% |  |
+| 91 | 4% | 83% |  |
+| 92 | 5% | 79% |  |
+| 93 | 7% | 74% |  |
+| 94 | 5% | 67% |  |
+| 95 | 5% | 63% |  |
+| 96 | 5% | 57% |  |
+| 97 | 5% | 53% | Median |
+| 98 | 6% | 48% |  |
+| 99 | 3% | 42% |  |
 | 100 | 5% | 39% | Last Result |
 | 101 | 4% | 34% |  |
 | 102 | 3% | 30% |  |
