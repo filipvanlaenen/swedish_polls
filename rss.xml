@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sun, 28 Nov 2021 19:51:21 +0100</pubDate>
+    <pubDate>Fri, 03 Dec 2021 18:59:55 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Dagens Nyheter, 9–22 November 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-11-22-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 23.2–27.4%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 19.3–23.3%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 18.3–22.2%&lt;/li&gt;&lt;li&gt;Centerpartiet: 6.9–9.5%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 9.6–12.7%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.0–7.3%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.3–4.0%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.2–5.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-11-22-Ipsos.png"
+        length="277486"
+        type="image/png"/>
+      <pubDate>Fri, 03 Dec 2021 18:59:55 +0100</pubDate>
+      <dc:date>2021-12-03T18:59:55.885852+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 8–18 November 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-11-18-Sifo.html#seats</link>
@@ -5069,6 +5079,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38+02:00</dc:date>
     </item>
-    <dc:date>2021-11-28T19:51:21.991353+01:00</dc:date>
+    <dc:date>2021-12-03T18:59:55.885852+01:00</dc:date>
   </channel>
 </rss>
