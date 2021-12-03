@@ -10,7 +10,8 @@ Last result: **4.4%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 3.3–5.3% | 3.1–5.6% | 3.0–5.8% | 2.7–6.3% |
+| N/A | [Poll Average](average.html) | 4.0% | 3.3–5.0% | 3.1–5.3% | 3.0–5.4% | 2.7–5.8% |
+| [9–22 November 2021](2021-11-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 4.0% | 3.5–4.8% | 3.3–5.0% | 3.2–5.1% | 2.9–5.5% |
 | [8–18 November 2021](2021-11-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 3.6% | 3.3–3.9% | 3.2–4.1% | 3.2–4.1% | 3.0–4.3% |
 | [5–11 November 2021](2021-11-11-Demoskop.html) | Demoskop <br> Aftonbladet | 3.4% | 3.0–3.9% | 2.8–4.1% | 2.7–4.2% | 2.5–4.5% |
 | [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT | 4.8% | 4.4–5.3% | 4.3–5.4% | 4.2–5.6% | 4.0–5.8% |
@@ -199,12 +200,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 22% | 99.9% |  |
-| 3.5–4.5% | 37% | 78% | Last Result, Median |
-| 4.5–5.5% | 35% | 40% |  |
-| 5.5–6.5% | 5% | 5% |  |
-| 6.5–7.5% | 0.2% | 0.2% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 2.5–3.5% | 25% | 99.9% |  |
+| 3.5–4.5% | 48% | 75% | Last Result, Median |
+| 4.5–5.5% | 26% | 27% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -215,7 +215,8 @@ Last result: **16** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 0–20 | 0–21 | 0–21 | 0–23 |
+| N/A | [Poll Average](average.html) | 0 | 0–19 | 0–19 | 0–20 | 0–22 |
+| [9–22 November 2021](2021-11-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 15 | 0–17 | 0–18 | 0–19 | 0–20 |
 | [8–18 November 2021](2021-11-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0–15 | 0–15 | 0–15 |
 | [5–11 November 2021](2021-11-11-Demoskop.html) | Demoskop <br> Aftonbladet | 0 | 0 | 0–15 | 0–15 | 0–16 |
 | [4–31 October 2021](2021-10-31-Novus.html) | Novus <br> SVT | 17 | 16–19 | 16–20 | 15–20 | 0–21 |
@@ -405,32 +406,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 43% | 100% |  |
-| 1 | 0% | 57% |  |
-| 2 | 0% | 57% |  |
-| 3 | 0% | 57% |  |
-| 4 | 0% | 57% |  |
-| 5 | 0% | 57% |  |
-| 6 | 0% | 57% |  |
-| 7 | 0% | 57% |  |
-| 8 | 0% | 57% |  |
-| 9 | 0% | 57% |  |
-| 10 | 0% | 57% |  |
-| 11 | 0% | 57% |  |
-| 12 | 0% | 57% |  |
-| 13 | 0% | 57% |  |
-| 14 | 0.1% | 57% |  |
-| 15 | 5% | 57% |  |
-| 16 | 9% | 52% | Last Result, Median |
-| 17 | 13% | 43% |  |
-| 18 | 9% | 30% |  |
-| 19 | 10% | 21% |  |
-| 20 | 6% | 11% |  |
-| 21 | 3% | 5% |  |
-| 22 | 1.1% | 2% |  |
-| 23 | 0.7% | 1.0% |  |
-| 24 | 0.2% | 0.4% |  |
-| 25 | 0.1% | 0.1% |  |
-| 26 | 0% | 0% |  |
+| 0 | 51% | 100% | Median |
+| 1 | 0% | 49% |  |
+| 2 | 0% | 49% |  |
+| 3 | 0% | 49% |  |
+| 4 | 0% | 49% |  |
+| 5 | 0% | 49% |  |
+| 6 | 0% | 49% |  |
+| 7 | 0% | 49% |  |
+| 8 | 0% | 49% |  |
+| 9 | 0% | 49% |  |
+| 10 | 0% | 49% |  |
+| 11 | 0% | 49% |  |
+| 12 | 0% | 49% |  |
+| 13 | 0% | 49% |  |
+| 14 | 0.2% | 49% |  |
+| 15 | 8% | 49% |  |
+| 16 | 12% | 41% | Last Result |
+| 17 | 11% | 28% |  |
+| 18 | 7% | 18% |  |
+| 19 | 7% | 11% |  |
+| 20 | 2% | 4% |  |
+| 21 | 1.3% | 2% |  |
+| 22 | 0.4% | 0.6% |  |
+| 23 | 0.2% | 0.2% |  |
+| 24 | 0.1% | 0.1% |  |
+| 25 | 0% | 0% |  |
 
 
