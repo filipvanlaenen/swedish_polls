@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Fri, 03 Dec 2021 19:41:57 +0100</pubDate>
+    <pubDate>Sun, 05 Dec 2021 15:15:18 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by SCB, 28 October–25 November 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-11-25-SCB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 103–112 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 80–88 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 65–73 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 29–34 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 31–37 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 15–19 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–16 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-11-25-SCB-seats.png"
+        length="212514"
+        type="image/png"/>
+      <pubDate>Sun, 05 Dec 2021 15:15:18 +0100</pubDate>
+      <dc:date>2021-12-05T15:15:18.500617+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SCB, 28 October–25 November 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-11-25-SCB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-11-25-SCB-coalitions-seats.png"
+        length="329789"
+        type="image/png"/>
+      <pubDate>Sun, 05 Dec 2021 15:15:18 +0100</pubDate>
+      <dc:date>2021-12-05T15:15:18.500617+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SCB, 28 October–25 November 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2021-11-25-SCB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 28.2–30.0%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 21.8–23.6%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 17.8–19.4%&lt;/li&gt;&lt;li&gt;Centerpartiet: 7.8–9.0%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.6–9.8%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.2–5.1%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.2–2.9%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.5–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2021-11-25-SCB.png"
+        length="238538"
+        type="image/png"/>
+      <pubDate>Sun, 05 Dec 2021 15:15:18 +0100</pubDate>
+      <dc:date>2021-12-05T15:15:18.500617+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 9–22 November 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2021-11-22-Ipsos.html#seats</link>
@@ -5099,6 +5129,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38+02:00</dc:date>
     </item>
-    <dc:date>2021-12-03T19:41:57.527181+01:00</dc:date>
+    <dc:date>2021-12-05T15:15:18.500617+01:00</dc:date>
   </channel>
 </rss>
