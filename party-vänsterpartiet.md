@@ -10,7 +10,9 @@ Last result: **8.0%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.9% | 8.3–12.0% | 7.8–12.4% | 7.6–12.7% | 7.1–13.5% |
+| N/A | [Poll Average](average.html) | 9.7% | 8.3–11.8% | 7.9–12.3% | 7.6–12.7% | 7.2–13.5% |
+| [30 November–8 December 2021](2021-12-08-Demoskop.html) | Demoskop <br> Aftonbladet | 8.2% | 7.5–8.9% | 7.3–9.1% | 7.1–9.3% | 6.8–9.7% |
+| [8 November–5 December 2021](2021-12-05-Novus.html) | Novus <br> SVT | 10.1% | 9.5–10.7% | 9.4–10.9% | 9.2–11.1% | 9.0–11.4% |
 | [28 October–25 November 2021](2021-11-25-SCB.html) | SCB | 9.2% | 8.8–9.6% | 8.7–9.7% | 8.6–9.8% | 8.4–10.0% |
 | [9–22 November 2021](2021-11-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 11.1% | 10.1–12.2% | 9.9–12.5% | 9.6–12.7% | 9.2–13.3% |
 | [8–18 November 2021](2021-11-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 9.3% | 8.8–9.8% | 8.7–10.0% | 8.6–10.1% | 8.4–10.3% |
@@ -203,11 +205,11 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 2% | 100% |  |
 | 7.5–8.5% | 11% | 98% | Last Result |
-| 8.5–9.5% | 30% | 87% |  |
-| 9.5–10.5% | 14% | 56% | Median |
-| 10.5–11.5% | 24% | 42% |  |
-| 11.5–12.5% | 15% | 19% |  |
-| 12.5–13.5% | 3% | 4% |  |
+| 8.5–9.5% | 33% | 87% |  |
+| 9.5–10.5% | 24% | 54% | Median |
+| 10.5–11.5% | 17% | 30% |  |
+| 11.5–12.5% | 10% | 13% |  |
+| 12.5–13.5% | 3% | 3% |  |
 | 13.5–14.5% | 0.4% | 0.5% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
@@ -220,7 +222,9 @@ Last result: **28** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37 | 31–44 | 29–46 | 28–48 | 26–52 |
+| N/A | [Poll Average](average.html) | 36 | 31–43 | 30–46 | 29–48 | 27–52 |
+| [30 November–8 December 2021](2021-12-08-Demoskop.html) | Demoskop <br> Aftonbladet | 31 | 28–33 | 28–34 | 27–35 | 26–36 |
+| [8 November–5 December 2021](2021-12-05-Novus.html) | Novus <br> SVT | 38 | 36–41 | 35–41 | 35–42 | 33–43 |
 | [28 October–25 November 2021](2021-11-25-SCB.html) | SCB | 34 | 32–36 | 32–36 | 31–37 | 31–38 |
 | [9–22 November 2021](2021-11-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 41 | 38–44 | 37–45 | 36–46 | 35–49 |
 | [8–18 November 2021](2021-11-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 35 | 33–37 | 33–38 | 32–38 | 31–39 |
@@ -413,28 +417,28 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0.1% | 100% |  |
-| 26 | 0.4% | 99.8% |  |
-| 27 | 0.9% | 99.4% |  |
-| 28 | 2% | 98% | Last Result |
-| 29 | 2% | 96% |  |
-| 30 | 2% | 94% |  |
-| 31 | 3% | 92% |  |
-| 32 | 4% | 88% |  |
-| 33 | 7% | 85% |  |
-| 34 | 10% | 78% |  |
+| 26 | 0.2% | 99.9% |  |
+| 27 | 0.5% | 99.7% |  |
+| 28 | 1.2% | 99.2% | Last Result |
+| 29 | 2% | 98% |  |
+| 30 | 3% | 96% |  |
+| 31 | 4% | 93% |  |
+| 32 | 4% | 89% |  |
+| 33 | 7% | 84% |  |
+| 34 | 10% | 77% |  |
 | 35 | 10% | 68% |  |
-| 36 | 6% | 59% |  |
-| 37 | 4% | 53% | Median |
-| 38 | 3% | 49% |  |
-| 39 | 5% | 46% |  |
-| 40 | 6% | 40% |  |
-| 41 | 7% | 35% |  |
-| 42 | 8% | 28% |  |
-| 43 | 7% | 19% |  |
-| 44 | 4% | 13% |  |
-| 45 | 3% | 9% |  |
-| 46 | 2% | 6% |  |
-| 47 | 1.1% | 4% |  |
+| 36 | 7% | 57% | Median |
+| 37 | 7% | 50% |  |
+| 38 | 5% | 43% |  |
+| 39 | 7% | 37% |  |
+| 40 | 6% | 30% |  |
+| 41 | 5% | 25% |  |
+| 42 | 5% | 19% |  |
+| 43 | 4% | 14% |  |
+| 44 | 2% | 9% |  |
+| 45 | 2% | 7% |  |
+| 46 | 2% | 5% |  |
+| 47 | 0.9% | 4% |  |
 | 48 | 0.9% | 3% |  |
 | 49 | 0.8% | 2% |  |
 | 50 | 0.3% | 1.1% |  |
