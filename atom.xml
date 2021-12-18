@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_polls</id>
   <title>All Registered Polls for the Riksdagen</title>
-  <updated>2021-12-12T12:20:04.811018+01:00</updated>
+  <updated>2021-12-18T10:50:58.003022+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 29.9–32.3%, 113–121 seats</li><li>Moderata samlingspartiet: 19.0–21.0%, 72–79 seats</li><li>Sverigedemokraterna: 18.7–20.7%, 70–78 seats</li><li>Centerpartiet: 6.4–7.7%, 24–29 seats</li><li>Vänsterpartiet: 9.0–10.5%, 34–39 seats</li><li>Kristdemokraterna: 4.7–5.8%, 18–22 seats</li><li>Liberalerna: 2.4–3.2%, 0 seats</li><li>Miljöpartiet de gröna: 2.8–3.7%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_polls/2021-12-16-Sifo.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_polls/2021-12-16-Sifo.html"/>
+    <title>Opinion Poll by Sifo for Svenska Dagbladet, 6–16 December 2021</title>
+    <updated>2021-12-18T10:50:58.003022+01:00</updated>
+    <dc:date>2021-12-18T10:50:58.003022+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 27.3–30.9%, 101–115 seats</li><li>Moderata samlingspartiet: 20.9–24.3%, 78–91 seats</li><li>Sverigedemokraterna: 17.2–20.3%, 64–76 seats</li><li>Centerpartiet: 7.5–9.7%, 28–36 seats</li><li>Vänsterpartiet: 7.1–9.3%, 27–35 seats</li><li>Kristdemokraterna: 5.1–7.0%, 19–26 seats</li><li>Liberalerna: 1.5–2.7%, 0 seats</li><li>Miljöpartiet de gröna: 2.7–4.1%, 0–15 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_polls/2021-12-08-Demoskop.html</id>
@@ -1383,5 +1391,5 @@
     <updated>2018-10-27T21:13:38+02:00</updated>
     <dc:date>2018-10-27T21:13:38+02:00</dc:date>
   </entry>
-  <dc:date>2021-12-12T12:20:04.811018+01:00</dc:date>
+  <dc:date>2021-12-18T10:50:58.003022+01:00</dc:date>
 </feed>
