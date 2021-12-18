@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
+| [6–16 December 2021](2021-12-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 30–32% <br> 113–121 | 19–21% <br> 72–79 | 19–21% <br> 70–78 | 6–8% <br> 24–29 | 9–10% <br> 34–39 | 5–6% <br> 18–22 | 2–3% <br> 0 | 3–4% <br> 0 |
 | [30 November–8 December 2021](2021-12-08-Demoskop.html) | Demoskop <br> Aftonbladet | 27–31% <br> 101–115 | 21–24% <br> 78–91 | 17–20% <br> 64–76 | 7–10% <br> 28–36 | 7–9% <br> 27–35 | 5–7% <br> 19–26 | 2–3% <br> 0 | 3–4% <br> 0–15 |
 | [8 November–5 December 2021](2021-12-05-Novus.html) | Novus <br> SVT | 28–31% <br> 103–116 | 20–22% <br> 75–85 | 18–20% <br> 67–77 | 7–8% <br> 25–32 | 9–11% <br> 35–42 | 4–5% <br> 15–20 | 2–3% <br> 0 | 3–4% <br> 0–16 |
 | [28 October–25 November 2021](2021-11-25-SCB.html) | SCB | 28–30% <br> 103–112 | 22–24% <br> 80–88 | 18–19% <br> 65–73 | 8–9% <br> 29–34 | 9–10% <br> 31–37 | 4–5% <br> 15–19 | 2–3% <br> 0 | 4% <br> 0–16 |
