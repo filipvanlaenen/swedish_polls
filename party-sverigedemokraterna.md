@@ -10,7 +10,8 @@ Last result: **17.5%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.5% | 18.2–20.9% | 17.9–21.4% | 17.7–21.8% | 17.1–22.6% |
+| N/A | [Poll Average](average.html) | 19.4% | 17.8–20.9% | 17.4–21.4% | 17.0–21.8% | 16.4–22.6% |
+| [28 December 2021–5 January 2022](2022-01-05-Demoskop.html) | Demoskop <br> Aftonbladet | 17.8% | 16.8–18.8% | 16.6–19.1% | 16.3–19.4% | 15.9–19.9% |
 | [6 December 2021–2 January 2022](2022-01-02-Novus.html) | Novus <br> SVT | 20.1% | 19.0–21.3% | 18.7–21.6% | 18.4–21.9% | 17.9–22.5% |
 | [7–20 December 2021](2021-12-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 20.0% | 18.7–21.3% | 18.4–21.7% | 18.1–22.0% | 17.5–22.7% |
 | [6–16 December 2021](2021-12-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 19.7% | 19.1–20.4% | 18.9–20.6% | 18.7–20.7% | 18.4–21.0% |
@@ -206,12 +207,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 2% | 99.9% |  |
-| 17.5–18.5% | 17% | 98% | Last Result |
-| 18.5–19.5% | 35% | 81% | Median |
-| 19.5–20.5% | 30% | 47% |  |
-| 20.5–21.5% | 13% | 16% |  |
+| 15.5–16.5% | 0.8% | 100% |  |
+| 16.5–17.5% | 6% | 99.1% |  |
+| 17.5–18.5% | 19% | 93% | Last Result |
+| 18.5–19.5% | 30% | 75% | Median |
+| 19.5–20.5% | 28% | 44% |  |
+| 20.5–21.5% | 12% | 16% |  |
 | 21.5–22.5% | 3% | 4% |  |
 | 22.5–23.5% | 0.5% | 0.5% |  |
 | 23.5–24.5% | 0.1% | 0.1% |  |
@@ -226,7 +227,8 @@ Last result: **62** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 73 | 68–79 | 66–80 | 65–82 | 63–86 |
+| N/A | [Poll Average](average.html) | 73 | 67–79 | 65–80 | 64–82 | 62–86 |
+| [28 December 2021–5 January 2022](2022-01-05-Demoskop.html) | Demoskop <br> Aftonbladet | 68 | 64–72 | 62–72 | 62–73 | 60–75 |
 | [6 December 2021–2 January 2022](2022-01-02-Novus.html) | Novus <br> SVT | 75 | 71–80 | 70–81 | 68–82 | 66–84 |
 | [7–20 December 2021](2021-12-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 75 | 69–80 | 68–82 | 67–83 | 64–86 |
 | [6–16 December 2021](2021-12-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 74 | 71–76 | 71–77 | 70–78 | 70–79 |
@@ -423,23 +425,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 61 | 0.1% | 100% |  |
-| 62 | 0.1% | 99.9% | Last Result |
-| 63 | 0.3% | 99.8% |  |
-| 64 | 0.7% | 99.5% |  |
-| 65 | 1.3% | 98.8% |  |
-| 66 | 3% | 97% |  |
-| 67 | 3% | 94% |  |
-| 68 | 5% | 91% |  |
-| 69 | 5% | 86% |  |
-| 70 | 10% | 81% |  |
-| 71 | 8% | 71% |  |
-| 72 | 8% | 63% |  |
-| 73 | 10% | 55% | Median |
-| 74 | 8% | 45% |  |
-| 75 | 8% | 37% |  |
+| 59 | 0% | 100% |  |
+| 60 | 0.1% | 99.9% |  |
+| 61 | 0.2% | 99.9% |  |
+| 62 | 0.6% | 99.7% | Last Result |
+| 63 | 0.6% | 99.0% |  |
+| 64 | 2% | 98% |  |
+| 65 | 2% | 96% |  |
+| 66 | 4% | 95% |  |
+| 67 | 5% | 90% |  |
+| 68 | 5% | 86% |  |
+| 69 | 5% | 81% |  |
+| 70 | 10% | 75% |  |
+| 71 | 6% | 65% |  |
+| 72 | 8% | 59% |  |
+| 73 | 8% | 51% | Median |
+| 74 | 7% | 43% |  |
+| 75 | 8% | 35% |  |
 | 76 | 8% | 28% |  |
-| 77 | 6% | 20% |  |
+| 77 | 5% | 20% |  |
 | 78 | 4% | 15% |  |
 | 79 | 3% | 11% |  |
 | 80 | 2% | 7% |  |
