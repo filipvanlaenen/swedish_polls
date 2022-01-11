@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_polls</id>
   <title>All Registered Polls for the Riksdagen</title>
-  <updated>2022-01-07T19:12:25.131323+01:00</updated>
+  <updated>2022-01-11T20:08:36.440255+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 27.4–31.0%, 104–117 seats</li><li>Moderata samlingspartiet: 20.2–23.5%, 77–89 seats</li><li>Sverigedemokraterna: 16.3–19.4%, 62–73 seats</li><li>Centerpartiet: 7.3–9.5%, 28–36 seats</li><li>Vänsterpartiet: 8.2–10.5%, 31–40 seats</li><li>Kristdemokraterna: 4.6–6.4%, 17–24 seats</li><li>Liberalerna: 2.6–4.0%, 0 seats</li><li>Miljöpartiet de gröna: 2.2–3.5%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_polls/2022-01-05-Demoskop.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_polls/2022-01-05-Demoskop.html"/>
+    <title>Opinion Poll by Demoskop for Aftonbladet, 28 December 2021–5 January 2022</title>
+    <updated>2022-01-11T20:08:36.440255+01:00</updated>
+    <dc:date>2022-01-11T20:08:36.440255+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 29.3–33.3%, 108–125 seats</li><li>Moderata samlingspartiet: 17.0–20.5%, 63–77 seats</li><li>Sverigedemokraterna: 18.4–21.9%, 68–82 seats</li><li>Centerpartiet: 5.7–7.9%, 21–29 seats</li><li>Vänsterpartiet: 9.2–11.9%, 34–44 seats</li><li>Kristdemokraterna: 4.7–6.7%, 17–25 seats</li><li>Liberalerna: 1.6–2.9%, 0 seats</li><li>Miljöpartiet de gröna: 2.7–4.3%, 0–16 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_polls/2022-01-02-Novus.html</id>
@@ -1407,5 +1415,5 @@
     <updated>2018-10-27T21:13:38+02:00</updated>
     <dc:date>2018-10-27T21:13:38+02:00</dc:date>
   </entry>
-  <dc:date>2022-01-07T19:12:25.131323+01:00</dc:date>
+  <dc:date>2022-01-11T20:08:36.440255+01:00</dc:date>
 </feed>
