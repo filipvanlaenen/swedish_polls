@@ -11,7 +11,7 @@ Last result: **8.0%** (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.6% | 8.9–10.8% | 8.7–11.2% | 8.6–11.5% | 8.2–12.0% |
-| [10 December–22 January 2022](2022-01-22-Sifo.html) | Sifo <br> Svenska Dagbladet | 9.6% | 9.1–10.1% | 9.0–10.2% | 8.9–10.3% | 8.7–10.6% |
+| [10–20 January 2022](2022-01-20-Sifo.html) | Sifo <br> Svenska Dagbladet | 9.6% | 9.1–10.1% | 9.0–10.2% | 8.9–10.3% | 8.7–10.6% |
 | [28 December 2021–5 January 2022](2022-01-05-Demoskop.html) | Demoskop <br> Aftonbladet | 9.3% | 8.6–10.1% | 8.4–10.3% | 8.2–10.5% | 7.9–10.9% |
 | [6 December 2021–2 January 2022](2022-01-02-Novus.html) | Novus <br> SVT | 10.5% | 9.7–11.4% | 9.4–11.7% | 9.2–11.9% | 8.9–12.4% |
 | [7–20 December 2021](2021-12-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 10.0% | 9.1–11.0% | 8.8–11.3% | 8.6–11.6% | 8.2–12.1% |
@@ -226,7 +226,7 @@ Last result: **28** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 36 | 33–41 | 32–42 | 32–43 | 31–45 |
-| [10 December–22 January 2022](2022-01-22-Sifo.html) | Sifo <br> Svenska Dagbladet | 36 | 35–38 | 34–39 | 34–40 | 33–40 |
+| [10–20 January 2022](2022-01-20-Sifo.html) | Sifo <br> Svenska Dagbladet | 36 | 35–38 | 34–39 | 34–40 | 33–40 |
 | [28 December 2021–5 January 2022](2022-01-05-Demoskop.html) | Demoskop <br> Aftonbladet | 35 | 33–38 | 32–39 | 31–40 | 30–41 |
 | [6 December 2021–2 January 2022](2022-01-02-Novus.html) | Novus <br> SVT | 39 | 36–43 | 35–44 | 34–44 | 33–46 |
 | [7–20 December 2021](2021-12-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 37 | 34–41 | 33–43 | 32–44 | 30–46 |
