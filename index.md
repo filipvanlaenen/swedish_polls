@@ -5,11 +5,11 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
-| N/A | [Poll Average](average.html) | 28–32% <br> 102–123 | 18–23% <br> 66–87 | 17–22% <br> 64–81 | 6–9% <br> 22–34 | 9–12% <br> 32–43 | 4–6% <br> 15–24 | 2–4% <br> 0 | 2–5% <br> 0–17 |
+| N/A | [Poll Average](average.html) | 27–32% <br> 102–122 | 20–23% <br> 72–87 | 17–21% <br> 62–78 | 5–9% <br> 20–33 | 9–11% <br> 32–41 | 4–7% <br> 15–25 | 2–5% <br> 0–17 | 2–4% <br> 0–15 |
+| [1–8 February 2022](2022-02-08-Demoskop.html) | Demoskop <br> Aftonbladet | 26–30% <br> 99–112 | 20–24% <br> 76–88 | 18–21% <br> 66–78 | 7–9% <br> 26–34 | 9–11% <br> 33–42 | 5–7% <br> 18–25 | 3–4% <br> 0 | 2–4% <br> 0 |
+| [3–30 January 2022](2022-01-30-Novus.html) | Novus <br> SVT | 28–31% <br> 104–116 | 19–22% <br> 72–82 | 19–21% <br> 69–80 | 7–8% <br> 25–31 | 9–11% <br> 33–41 | 5–6% <br> 18–23 | 2–3% <br> 0 | 3–4% <br> 0–15 |
+| [11–24 January 2022](2022-01-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 29–33% <br> 105–124 | 19–23% <br> 70–86 | 16–20% <br> 60–74 | 5–7% <br> 18–27 | 9–12% <br> 32–43 | 5–7% <br> 18–27 | 3–5% <br> 0–18 | 2–4% <br> 0 |
 | [10–20 January 2022](2022-01-20-Sifo.html) | Sifo <br> Svenska Dagbladet | 30–32% <br> 113–123 | 20–22% <br> 76–84 | 18–20% <br> 69–77 | 6–8% <br> 24–29 | 9–10% <br> 34–40 | 4–5% <br> 0–19 | 3% <br> 0 | 3% <br> 0 |
-| [28 December 2021–5 January 2022](2022-01-05-Demoskop.html) | Demoskop <br> Aftonbladet | 27–31% <br> 104–117 | 20–23% <br> 77–89 | 16–19% <br> 62–73 | 7–9% <br> 28–36 | 8–11% <br> 31–40 | 5–6% <br> 17–24 | 3–4% <br> 0 | 2–4% <br> 0 |
-| [6 December 2021–2 January 2022](2022-01-02-Novus.html) | Novus <br> SVT | 29–33% <br> 108–125 | 17–20% <br> 63–77 | 18–22% <br> 68–82 | 6–8% <br> 21–29 | 9–12% <br> 34–44 | 5–7% <br> 17–25 | 2–3% <br> 0 | 3–4% <br> 0–16 |
-| [7–20 December 2021](2021-12-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 27–31% <br> 99–119 | 18–22% <br> 67–83 | 18–22% <br> 67–83 | 6–8% <br> 22–32 | 9–12% <br> 32–44 | 4–6% <br> 15–23 | 2–4% <br> 0 | 3–5% <br> 0–19 |
 | [28 October–25 November 2021](2021-11-25-SCB.html) | SCB | 28–30% <br> 103–112 | 22–24% <br> 80–88 | 18–19% <br> 65–73 | 8–9% <br> 29–34 | 9–10% <br> 31–37 | 4–5% <br> 15–19 | 2–3% <br> 0 | 4% <br> 0–16 |
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
 
