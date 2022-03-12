@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Riksdagen</description>
     <pubDate>Fri, 17 Jul 2020 21:17:04 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet, 1–9 March 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-03-09-Demoskop.html</link>
+      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Demoskop for Aftonbladet, 1–9 March 2022<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2022-03-09-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2022-03-09-Demoskop.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-03-09-Demoskop.png" length="255990" type="image/png"/>
+      <pubDate>Sat, 12 Mar 2022 17:13:55 +0100</pubDate>
+      <dc:date>2022-03-12T17:13:55.416393+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Novus for SVT, 31 January–27 February 2022 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2022-02-27-Novus.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Novus for SVT, 31 January–27 February 2022<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2022-02-27-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2022-02-27-Novus-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-01-05-Demoskop.png" length="263638" type="image/png"/>
       <pubDate>Tue, 11 Jan 2022 20:08:36 +0100</pubDate>
       <dc:date>2022-01-11T20:08:36.440255+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Novus for SVT, 6 December 2021–2 January 2022 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2022-01-02-Novus.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Novus for SVT, 6 December 2021–2 January 2022<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2022-01-02-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2022-01-02-Novus-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-01-02-Novus-seating-plan.png" length="742783" type="image/png"/>
-      <pubDate>Fri, 7 Jan 2022 18:59:56 +0100</pubDate>
-      <dc:date>2022-01-07T18:59:56.922321+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Novus for SVT, 6 December 2021–2 January 2022 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2022-01-02-Novus.html#seats</link>
-      <description><![CDATA[Seat projections for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Novus for SVT, 6 December 2021–2 January 2022<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2022-01-02-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2022-01-02-Novus-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-01-02-Novus-seats.png" length="225492" type="image/png"/>
-      <pubDate>Fri, 7 Jan 2022 18:59:56 +0100</pubDate>
-      <dc:date>2022-01-07T18:59:56.922321+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Novus for SVT, 6 December 2021–2 January 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2022-01-02-Novus.html</link>
-      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Novus for SVT, 6 December 2021–2 January 2022<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2022-01-02-Novus.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2022-01-02-Novus.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-01-02-Novus.png" length="262723" type="image/png"/>
-      <pubDate>Fri, 7 Jan 2022 18:59:56 +0100</pubDate>
-      <dc:date>2022-01-07T18:59:56.922321+01:00</dc:date>
     </item>
   </channel>
 </rss>
