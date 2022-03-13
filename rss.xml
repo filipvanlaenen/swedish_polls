@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sat, 12 Mar 2022 17:13:55 +0100</pubDate>
+    <pubDate>Sun, 13 Mar 2022 10:42:11 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet, 1–9 March 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-03-09-Demoskop.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 114–128 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 76–89 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 60–72 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 24–32 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 24–32 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 20–28 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-03-09-Demoskop-seats.png"
+        length="215672"
+        type="image/png"/>
+      <pubDate>Sun, 13 Mar 2022 10:42:11 +0100</pubDate>
+      <dc:date>2022-03-13T10:42:11.635791+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet, 1–9 March 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-03-09-Demoskop.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-03-09-Demoskop-coalitions-seats.png"
+        length="327687"
+        type="image/png"/>
+      <pubDate>Sun, 13 Mar 2022 10:42:11 +0100</pubDate>
+      <dc:date>2022-03-13T10:42:11.635791+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Demoskop for Aftonbladet, 1–9 March 2022 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2022-03-09-Demoskop.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-03-09-Demoskop.png"
         length="255990"
         type="image/png"/>
-      <pubDate>Sat, 12 Mar 2022 17:13:55 +0100</pubDate>
-      <dc:date>2022-03-12T17:13:55.416393+01:00</dc:date>
+      <pubDate>Sun, 13 Mar 2022 10:42:11 +0100</pubDate>
+      <dc:date>2022-03-13T10:42:11.635791+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 31 January–27 February 2022 – Seat Projections for the Parties</title>
@@ -5559,6 +5579,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38+02:00</dc:date>
     </item>
-    <dc:date>2022-03-12T17:13:55.416393+01:00</dc:date>
+    <dc:date>2022-03-13T10:42:11.635791+01:00</dc:date>
   </channel>
 </rss>
