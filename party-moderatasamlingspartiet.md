@@ -238,7 +238,7 @@ Last result: **70** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 79 | 72–84 | 69–85 | 67–87 | 63–89 |
-| [1–9 March 2022](2022-03-09-Demoskop.html) | Demoskop <br> Aftonbladet | 82 | 79–87 | 77–88 | 75–88 | 74–91 |
+| [1–9 March 2022](2022-03-09-Demoskop.html) | Demoskop <br> Aftonbladet | 82 | 78–87 | 77–88 | 76–89 | 74–91 |
 | [31 January–27 February 2022](2022-02-27-Novus.html) | Novus <br> SVT | 79 | 75–83 | 74–84 | 73–85 | 71–87 |
 | [8–20 February 2022](2022-02-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 79 | 75–85 | 74–86 | 72–87 | 70–89 |
 | [7–17 February 2022](2022-02-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 79 | 76–81 | 75–82 | 75–83 | 73–84 |
@@ -459,25 +459,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 71 | 2% | 92% |  |
 | 72 | 2% | 90% |  |
 | 73 | 3% | 89% |  |
-| 74 | 4% | 86% |  |
-| 75 | 4% | 82% |  |
+| 74 | 3% | 86% |  |
+| 75 | 4% | 83% |  |
 | 76 | 5% | 79% |  |
 | 77 | 9% | 74% |  |
-| 78 | 9% | 65% |  |
-| 79 | 11% | 56% | Median |
-| 80 | 10% | 45% |  |
-| 81 | 10% | 35% |  |
+| 78 | 9% | 64% |  |
+| 79 | 11% | 55% | Median |
+| 80 | 11% | 45% |  |
+| 81 | 9% | 34% |  |
 | 82 | 8% | 25% |  |
 | 83 | 5% | 17% |  |
 | 84 | 4% | 12% |  |
-| 85 | 4% | 8% |  |
-| 86 | 1.4% | 5% |  |
-| 87 | 2% | 3% |  |
-| 88 | 0.8% | 1.5% |  |
-| 89 | 0.3% | 0.7% |  |
+| 85 | 3% | 8% |  |
+| 86 | 2% | 5% |  |
+| 87 | 1.4% | 3% |  |
+| 88 | 0.9% | 2% |  |
+| 89 | 0.5% | 0.8% |  |
 | 90 | 0.2% | 0.4% |  |
 | 91 | 0.1% | 0.2% |  |
-| 92 | 0.1% | 0.1% |  |
+| 92 | 0% | 0.1% |  |
 | 93 | 0% | 0% |  |
 
 

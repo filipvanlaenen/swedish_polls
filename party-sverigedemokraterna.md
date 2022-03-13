@@ -236,8 +236,8 @@ Last result: **62** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 72 | 65–77 | 62–79 | 62–81 | 60–84 |
-| [1–9 March 2022](2022-03-09-Demoskop.html) | Demoskop <br> Aftonbladet | 66 | 62–70 | 61–72 | 60–72 | 58–73 |
+| N/A | [Poll Average](average.html) | 72 | 65–77 | 63–79 | 61–81 | 60–84 |
+| [1–9 March 2022](2022-03-09-Demoskop.html) | Demoskop <br> Aftonbladet | 66 | 61–70 | 61–71 | 60–72 | 58–73 |
 | [31 January–27 February 2022](2022-02-27-Novus.html) | Novus <br> SVT | 72 | 69–76 | 67–77 | 66–78 | 65–80 |
 | [8–20 February 2022](2022-02-20-Ipsos.html) | Ipsos <br> Dagens Nyheter | 75 | 71–80 | 70–82 | 69–83 | 66–86 |
 | [7–17 February 2022](2022-02-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 73 | 70–76 | 69–76 | 69–77 | 67–78 |
@@ -443,21 +443,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 58 | 0.2% | 100% |  |
-| 59 | 0.1% | 99.8% |  |
-| 60 | 0.8% | 99.7% |  |
-| 61 | 0.5% | 98.9% |  |
-| 62 | 4% | 98% | Last Result |
-| 63 | 1.2% | 94% |  |
-| 64 | 2% | 93% |  |
-| 65 | 2% | 91% |  |
-| 66 | 3% | 89% |  |
-| 67 | 4% | 85% |  |
-| 68 | 6% | 81% |  |
+| 57 | 0% | 100% |  |
+| 58 | 0.2% | 99.9% |  |
+| 59 | 0.2% | 99.8% |  |
+| 60 | 0.5% | 99.6% |  |
+| 61 | 2% | 99.0% |  |
+| 62 | 2% | 97% | Last Result |
+| 63 | 2% | 96% |  |
+| 64 | 2% | 94% |  |
+| 65 | 4% | 92% |  |
+| 66 | 4% | 88% |  |
+| 67 | 4% | 84% |  |
+| 68 | 5% | 80% |  |
 | 69 | 6% | 76% |  |
-| 70 | 6% | 69% |  |
+| 70 | 7% | 70% |  |
 | 71 | 7% | 63% |  |
-| 72 | 10% | 56% | Median |
+| 72 | 9% | 55% | Median |
 | 73 | 9% | 46% |  |
 | 74 | 10% | 38% |  |
 | 75 | 8% | 28% |  |
