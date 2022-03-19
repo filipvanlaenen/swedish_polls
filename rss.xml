@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sun, 13 Mar 2022 10:42:11 +0100</pubDate>
+    <pubDate>Sat, 19 Mar 2022 14:45:42 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 7–17 March 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-03-17-Sifo.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 118–127 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 77–84 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 66–73 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 24–29 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 30–35 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 16–20 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-03-17-Sifo-seats.png"
+        length="202327"
+        type="image/png"/>
+      <pubDate>Sat, 19 Mar 2022 14:45:42 +0100</pubDate>
+      <dc:date>2022-03-19T14:45:42.827743+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 7–17 March 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-03-17-Sifo.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-03-17-Sifo-coalitions-seats.png"
+        length="295902"
+        type="image/png"/>
+      <pubDate>Sat, 19 Mar 2022 14:45:42 +0100</pubDate>
+      <dc:date>2022-03-19T14:45:42.827743+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 7–17 March 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-03-17-Sifo.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 31.7–33.9%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 20.5–22.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 17.7–19.6%&lt;/li&gt;&lt;li&gt;Centerpartiet: 6.4–7.6%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.0–9.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.4–5.4%&lt;/li&gt;&lt;li&gt;Liberalerna: 2.1–2.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-03-17-Sifo.png"
+        length="243126"
+        type="image/png"/>
+      <pubDate>Sat, 19 Mar 2022 14:45:42 +0100</pubDate>
+      <dc:date>2022-03-19T14:45:42.827743+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Demoskop for Aftonbladet, 1–9 March 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2022-03-09-Demoskop.html#seats</link>
@@ -5579,6 +5609,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38+02:00</dc:date>
     </item>
-    <dc:date>2022-03-13T10:42:11.635791+01:00</dc:date>
+    <dc:date>2022-03-19T14:45:42.827743+01:00</dc:date>
   </channel>
 </rss>
