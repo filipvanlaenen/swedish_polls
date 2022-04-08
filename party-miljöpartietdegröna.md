@@ -10,7 +10,10 @@ Last result: **4.4%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–4.0% | 2.1–4.4% |
+| N/A | [Poll Average](average.html) | 3.1% | 2.6–3.8% | 2.4–4.0% | 2.3–4.2% | 2.1–4.5% |
+| [29 March–5 April 2022](2022-04-05-Demoskop.html) | Demoskop <br> Aftonbladet | 3.5% | 3.0–4.1% | 2.9–4.2% | 2.8–4.4% | 2.6–4.6% |
+| [7 March–3 April 2022](2022-04-03-Novus.html) | Novus <br> SVT | 3.3% | 2.9–3.7% | 2.9–3.8% | 2.8–3.9% | 2.6–4.1% |
+| [15–27 March 2022](2022-03-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–4.0% | 2.0–4.3% |
 | [7–17 March 2022](2022-03-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 2.7% | 2.5–3.0% | 2.4–3.0% | 2.3–3.1% | 2.2–3.2% |
 | [1–9 March 2022](2022-03-09-Demoskop.html) | Demoskop <br> Aftonbladet | 2.9% | 2.5–3.4% | 2.4–3.6% | 2.3–3.7% | 2.1–4.0% |
 | [31 January–27 February 2022](2022-02-27-Novus.html) | Novus <br> SVT | 3.2% | 2.8–3.7% | 2.7–3.8% | 2.6–4.0% | 2.4–4.2% |
@@ -217,10 +220,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 12% | 100% |  |
-| 2.5–3.5% | 77% | 88% | Median |
-| 3.5–4.5% | 11% | 12% | Last Result |
-| 4.5–5.5% | 0.2% | 0.2% |  |
+| 1.5–2.5% | 9% | 100% |  |
+| 2.5–3.5% | 71% | 91% | Median |
+| 3.5–4.5% | 20% | 21% | Last Result |
+| 4.5–5.5% | 0.4% | 0.4% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -232,7 +235,10 @@ Last result: **16** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–16 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–15 | 0–16 |
+| [29 March–5 April 2022](2022-04-05-Demoskop.html) | Demoskop <br> Aftonbladet | 0 | 0–14 | 0–15 | 0–16 | 0–17 |
+| [7 March–3 April 2022](2022-04-03-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0–15 |
+| [15–27 March 2022](2022-03-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0–15 |
 | [7–17 March 2022](2022-03-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |
 | [1–9 March 2022](2022-03-09-Demoskop.html) | Demoskop <br> Aftonbladet | 0 | 0 | 0 | 0 | 0 |
 | [31 January–27 February 2022](2022-02-27-Novus.html) | Novus <br> SVT | 0 | 0 | 0 | 0 | 0–15 |
@@ -440,24 +446,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Median |
-| 1 | 0% | 2% |  |
-| 2 | 0% | 2% |  |
-| 3 | 0% | 2% |  |
-| 4 | 0% | 2% |  |
-| 5 | 0% | 2% |  |
-| 6 | 0% | 2% |  |
-| 7 | 0% | 2% |  |
-| 8 | 0% | 2% |  |
-| 9 | 0% | 2% |  |
-| 10 | 0% | 2% |  |
-| 11 | 0% | 2% |  |
-| 12 | 0% | 2% |  |
-| 13 | 0% | 2% |  |
-| 14 | 0% | 2% |  |
-| 15 | 1.3% | 2% |  |
-| 16 | 0.5% | 0.8% | Last Result |
-| 17 | 0.2% | 0.3% |  |
+| 0 | 96% | 100% | Median |
+| 1 | 0% | 4% |  |
+| 2 | 0% | 4% |  |
+| 3 | 0% | 4% |  |
+| 4 | 0% | 4% |  |
+| 5 | 0% | 4% |  |
+| 6 | 0% | 4% |  |
+| 7 | 0% | 4% |  |
+| 8 | 0% | 4% |  |
+| 9 | 0% | 4% |  |
+| 10 | 0% | 4% |  |
+| 11 | 0% | 4% |  |
+| 12 | 0% | 4% |  |
+| 13 | 0% | 4% |  |
+| 14 | 0.2% | 4% |  |
+| 15 | 2% | 4% |  |
+| 16 | 0.8% | 1.2% | Last Result |
+| 17 | 0.3% | 0.4% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
