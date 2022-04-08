@@ -5,6 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
+| [29 March–5 April 2022](2022-04-05-Demoskop.html) | Demoskop <br> Aftonbladet | 30–34% <br> 109–125 | 21–25% <br> 78–92 | 15–19% <br> 58–70 | 7–9% <br> 26–34 | 7–9% <br> 26–35 | 5–6% <br> 17–24 | 2–3% <br> 0 | 3–4% <br> 0–16 |
+| [7 March–3 April 2022](2022-04-03-Novus.html) | Novus <br> SVT | 31–33% <br> 114–125 | 20–23% <br> 76–85 | 18–20% <br> 66–75 | 6–8% <br> 23–29 | 7–9% <br> 28–35 | 5–6% <br> 19–24 | 2–3% <br> 0 | 3–4% <br> 0 |
+| [15–27 March 2022](2022-03-27-Ipsos.html) | Ipsos <br> Dagens Nyheter | 31–35% <br> 112–130 | 20–24% <br> 73–89 | 17–21% <br> 63–77 | 6–8% <br> 21–30 | 7–9% <br> 25–35 | 5–7% <br> 18–27 | 1–3% <br> 0 | 2–4% <br> 0 |
 | [7–17 March 2022](2022-03-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 32–34% <br> 118–127 | 20–22% <br> 77–84 | 18–20% <br> 66–73 | 6–8% <br> 24–29 | 8–9% <br> 30–35 | 4–5% <br> 16–20 | 2–3% <br> 0 | 2–3% <br> 0 |
 | [1–9 March 2022](2022-03-09-Demoskop.html) | Demoskop <br> Aftonbladet | 30–34% <br> 114–128 | 20–24% <br> 76–89 | 16–19% <br> 60–72 | 6–9% <br> 24–32 | 6–9% <br> 24–32 | 6–8% <br> 20–28 | 2–3% <br> 0 | 2–4% <br> 0 |
 | [31 January–27 February 2022](2022-02-27-Novus.html) | Novus <br> SVT | 30–34% <br> 112–126 | 20–23% <br> 73–85 | 18–21% <br> 66–78 | 6–8% <br> 22–29 | 8–10% <br> 29–37 | 4–6% <br> 16–22 | 2–3% <br> 0 | 3–4% <br> 0 |
