@@ -6,6 +6,30 @@
     <description>All Registered Polls for the Riksdagen</description>
     <pubDate>Fri, 17 Jul 2020 21:17:04 +0200</pubDate>
     <item>
+      <title>Opinion Poll by SKOP, 6–14 April 2022 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-04-14-SKOP.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by SKOP, 6–14 April 2022<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2022-04-14-SKOP.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2022-04-14-SKOP-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-04-14-SKOP-seating-plan.png" length="750050" type="image/png"/>
+      <pubDate>Wed, 20 Apr 2022 21:51:22 +0200</pubDate>
+      <dc:date>2022-04-20T21:51:22.755025+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 6–14 April 2022 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-04-14-SKOP.html#seats</link>
+      <description><![CDATA[Seat projections for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by SKOP, 6–14 April 2022<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2022-04-14-SKOP.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2022-04-14-SKOP-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-04-14-SKOP-seats.png" length="221658" type="image/png"/>
+      <pubDate>Wed, 20 Apr 2022 21:51:22 +0200</pubDate>
+      <dc:date>2022-04-20T21:51:22.755025+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SKOP, 6–14 April 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-04-14-SKOP.html</link>
+      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by SKOP, 6–14 April 2022<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2022-04-14-SKOP.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2022-04-14-SKOP.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-04-14-SKOP.png" length="264616" type="image/png"/>
+      <pubDate>Wed, 20 Apr 2022 21:51:22 +0200</pubDate>
+      <dc:date>2022-04-20T21:51:22.755025+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Demoskop for Aftonbladet, 29 March–5 April 2022 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2022-04-05-Demoskop.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Demoskop for Aftonbladet, 29 March–5 April 2022<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2022-04-05-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2022-04-05-Demoskop-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-02-14-SKOP.png" length="271411" type="image/png"/>
       <pubDate>Thu, 10 Mar 2022 21:53:52 +0100</pubDate>
       <dc:date>2022-03-10T21:53:52.651341+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop for Aftonbladet, 1–8 February 2022 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2022-02-08-Demoskop.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Demoskop for Aftonbladet, 1–8 February 2022<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2022-02-08-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2022-02-08-Demoskop-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-02-08-Demoskop-seating-plan.png" length="737717" type="image/png"/>
-      <pubDate>Mon, 14 Feb 2022 17:08:16 +0100</pubDate>
-      <dc:date>2022-02-14T17:08:16.580361+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop for Aftonbladet, 1–8 February 2022 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2022-02-08-Demoskop.html#seats</link>
-      <description><![CDATA[Seat projections for the Riksdagen<br/>175 seats needed for a majority<br/>Opinion poll by Demoskop for Aftonbladet, 1–8 February 2022<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2022-02-08-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2022-02-08-Demoskop-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-02-08-Demoskop-seats.png" length="219341" type="image/png"/>
-      <pubDate>Mon, 14 Feb 2022 17:08:16 +0100</pubDate>
-      <dc:date>2022-02-14T17:08:16.580361+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Demoskop for Aftonbladet, 1–8 February 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2022-02-08-Demoskop.html</link>
-      <description><![CDATA[Voting intentions for the Riksdagen<br/>Opinion poll by Demoskop for Aftonbladet, 1–8 February 2022<br/>Details on https://filipvanlaenen.github.io/swedish_polls/2022-02-08-Demoskop.html<br/><img src="https://filipvanlaenen.github.io/swedish_polls/2022-02-08-Demoskop.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-02-08-Demoskop.png" length="259342" type="image/png"/>
-      <pubDate>Mon, 14 Feb 2022 17:08:16 +0100</pubDate>
-      <dc:date>2022-02-14T17:08:16.580361+01:00</dc:date>
     </item>
   </channel>
 </rss>
