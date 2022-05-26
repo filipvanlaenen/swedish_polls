@@ -10,7 +10,8 @@ Last result: **6.3%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 5.3–7.0% | 5.1–7.3% | 4.9–7.6% | 4.5–8.0% |
+| N/A | [Poll Average](average.html) | 5.8% | 4.9–7.0% | 4.7–7.3% | 4.4–7.5% | 4.0–8.0% |
+| [10–22 May 2022](2022-05-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 5.0% | 4.3–5.8% | 4.1–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [2–12 May 2022](2022-05-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 5.6% | 5.3–6.0% | 5.2–6.1% | 5.1–6.2% | 4.9–6.4% |
 | [4–10 May 2022](2022-05-10-Infostat.html) | Infostat | 6.0% | 5.3–6.8% | 5.1–7.0% | 4.9–7.2% | 4.6–7.6% |
 | [26 April–4 May 2022](2022-05-04-Demoskop.html) | Demoskop <br> Aftonbladet | 6.9% | 6.2–7.6% | 6.0–7.8% | 5.9–8.0% | 5.6–8.4% |
@@ -227,11 +228,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.6% | 100% |  |
-| 4.5–5.5% | 22% | 99.4% |  |
-| 5.5–6.5% | 55% | 78% | Last Result, Median |
-| 6.5–7.5% | 20% | 22% |  |
-| 7.5–8.5% | 3% | 3% |  |
+| 3.5–4.5% | 4% | 100% |  |
+| 4.5–5.5% | 29% | 96% |  |
+| 5.5–6.5% | 48% | 67% | Last Result, Median |
+| 6.5–7.5% | 17% | 19% |  |
+| 7.5–8.5% | 2% | 2% |  |
 | 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -244,7 +245,8 @@ Last result: **22** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 20–26 | 19–28 | 18–28 | 17–30 |
+| N/A | [Poll Average](average.html) | 22 | 19–26 | 18–28 | 17–28 | 15–30 |
+| [10–22 May 2022](2022-05-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 19 | 17–22 | 16–23 | 0–24 | 0–25 |
 | [2–12 May 2022](2022-05-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 21 | 20–23 | 20–23 | 19–24 | 19–24 |
 | [4–10 May 2022](2022-05-10-Infostat.html) | Infostat | 23 | 20–26 | 19–27 | 19–27 | 17–29 |
 | [26 April–4 May 2022](2022-05-04-Demoskop.html) | Demoskop <br> Aftonbladet | 26 | 23–29 | 23–30 | 22–30 | 21–31 |
@@ -462,22 +464,37 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0% | 100% |  |
-| 16 | 0.3% | 99.9% |  |
-| 17 | 0.7% | 99.6% |  |
-| 18 | 2% | 98.9% |  |
-| 19 | 4% | 97% |  |
-| 20 | 10% | 93% |  |
-| 21 | 17% | 83% |  |
-| 22 | 18% | 67% | Last Result, Median |
-| 23 | 15% | 49% |  |
-| 24 | 11% | 35% |  |
-| 25 | 8% | 24% |  |
-| 26 | 7% | 16% |  |
+| 0 | 0.5% | 100% |  |
+| 1 | 0% | 99.5% |  |
+| 2 | 0% | 99.5% |  |
+| 3 | 0% | 99.5% |  |
+| 4 | 0% | 99.5% |  |
+| 5 | 0% | 99.5% |  |
+| 6 | 0% | 99.5% |  |
+| 7 | 0% | 99.5% |  |
+| 8 | 0% | 99.5% |  |
+| 9 | 0% | 99.5% |  |
+| 10 | 0% | 99.5% |  |
+| 11 | 0% | 99.5% |  |
+| 12 | 0% | 99.5% |  |
+| 13 | 0% | 99.5% |  |
+| 14 | 0% | 99.5% |  |
+| 15 | 0.2% | 99.5% |  |
+| 16 | 1.2% | 99.3% |  |
+| 17 | 2% | 98% |  |
+| 18 | 4% | 96% |  |
+| 19 | 7% | 92% |  |
+| 20 | 11% | 85% |  |
+| 21 | 16% | 74% |  |
+| 22 | 16% | 58% | Last Result, Median |
+| 23 | 12% | 42% |  |
+| 24 | 9% | 30% |  |
+| 25 | 7% | 21% |  |
+| 26 | 6% | 14% |  |
 | 27 | 4% | 9% |  |
 | 28 | 3% | 5% |  |
-| 29 | 1.3% | 2% |  |
-| 30 | 0.7% | 1.1% |  |
+| 29 | 1.2% | 2% |  |
+| 30 | 0.7% | 1.0% |  |
 | 31 | 0.2% | 0.3% |  |
 | 32 | 0.1% | 0.1% |  |
 | 33 | 0% | 0% |  |

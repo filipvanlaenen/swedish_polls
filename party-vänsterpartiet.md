@@ -11,6 +11,7 @@ Last result: **8.0%** (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.5% | 7.3–9.7% | 6.9–10.0% | 6.7–10.4% | 6.3–11.1% |
+| [10–22 May 2022](2022-05-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 9.0% | 8.1–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
 | [2–12 May 2022](2022-05-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 8.2% | 7.8–8.6% | 7.7–8.8% | 7.6–8.9% | 7.4–9.1% |
 | [4–10 May 2022](2022-05-10-Infostat.html) | Infostat | 8.2% | 7.4–9.1% | 7.2–9.4% | 7.0–9.6% | 6.6–10.1% |
 | [26 April–4 May 2022](2022-05-04-Demoskop.html) | Demoskop <br> Aftonbladet | 7.2% | 6.6–8.0% | 6.4–8.2% | 6.2–8.4% | 5.9–8.8% |
@@ -245,7 +246,8 @@ Last result: **28** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32 | 27–37 | 26–38 | 25–39 | 24–41 |
+| N/A | [Poll Average](average.html) | 32 | 27–37 | 26–38 | 25–39 | 24–42 |
+| [10–22 May 2022](2022-05-22-Ipsos.html) | Ipsos <br> Dagens Nyheter | 35 | 31–38 | 30–39 | 29–40 | 28–43 |
 | [2–12 May 2022](2022-05-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 31 | 29–33 | 29–34 | 28–34 | 28–35 |
 | [4–10 May 2022](2022-05-10-Infostat.html) | Infostat | 32 | 28–35 | 27–36 | 26–37 | 25–39 |
 | [26 April–4 May 2022](2022-05-04-Demoskop.html) | Demoskop <br> Aftonbladet | 27 | 25–30 | 24–31 | 24–32 | 22–33 |
@@ -471,21 +473,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 5% | 92% |  |
 | 28 | 4% | 87% | Last Result |
 | 29 | 5% | 83% |  |
-| 30 | 8% | 77% |  |
-| 31 | 11% | 69% |  |
-| 32 | 13% | 58% | Median |
-| 33 | 13% | 45% |  |
-| 34 | 9% | 33% |  |
-| 35 | 8% | 24% |  |
-| 36 | 5% | 15% |  |
-| 37 | 5% | 10% |  |
-| 38 | 2% | 5% |  |
-| 39 | 1.4% | 3% |  |
-| 40 | 0.6% | 1.4% |  |
-| 41 | 0.4% | 0.8% |  |
-| 42 | 0.3% | 0.4% |  |
+| 30 | 8% | 78% |  |
+| 31 | 10% | 70% |  |
+| 32 | 12% | 59% | Median |
+| 33 | 11% | 47% |  |
+| 34 | 9% | 36% |  |
+| 35 | 9% | 27% |  |
+| 36 | 7% | 18% |  |
+| 37 | 6% | 11% |  |
+| 38 | 2% | 6% |  |
+| 39 | 2% | 4% |  |
+| 40 | 0.7% | 2% |  |
+| 41 | 0.5% | 1.1% |  |
+| 42 | 0.3% | 0.5% |  |
 | 43 | 0.1% | 0.2% |  |
-| 44 | 0% | 0.1% |  |
-| 45 | 0% | 0% |  |
+| 44 | 0.1% | 0.1% |  |
+| 45 | 0% | 0.1% |  |
+| 46 | 0% | 0% |  |
 
 
