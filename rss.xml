@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Thu, 26 May 2022 13:54:54 +0200</pubDate>
+    <pubDate>Sat, 04 Jun 2022 22:05:32 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by SCB, 28 April–25 May 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-05-25-SCB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 124–131 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 78–84 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 62–68 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 24–28 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 28–32 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 18–22 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-05-25-SCB-seats.png"
+        length="196992"
+        type="image/png"/>
+      <pubDate>Sat, 04 Jun 2022 22:05:32 +0200</pubDate>
+      <dc:date>2022-06-04T22:05:32.800886+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SCB, 28 April–25 May 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-05-25-SCB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-05-25-SCB-coalitions-seats.png"
+        length="288363"
+        type="image/png"/>
+      <pubDate>Sat, 04 Jun 2022 22:05:32 +0200</pubDate>
+      <dc:date>2022-06-04T22:05:32.800886+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SCB, 28 April–25 May 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-05-25-SCB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 32.4–34.3%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 20.4–22.1%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 16.3–17.8%&lt;/li&gt;&lt;li&gt;Centerpartiet: 6.2–7.2%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 7.3–8.4%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.8–5.7%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.0–3.8%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.0–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-05-25-SCB.png"
+        length="233219"
+        type="image/png"/>
+      <pubDate>Sat, 04 Jun 2022 22:05:32 +0200</pubDate>
+      <dc:date>2022-06-04T22:05:32.800886+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Dagens Nyheter, 10–22 May 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2022-05-22-Ipsos.html#seats</link>
@@ -5939,6 +5969,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38+02:00</dc:date>
     </item>
-    <dc:date>2022-05-26T13:54:54.642449+02:00</dc:date>
+    <dc:date>2022-06-04T22:05:32.800886+02:00</dc:date>
   </channel>
 </rss>
