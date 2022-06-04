@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/swedish_polls</id>
   <title>All Registered Polls for the Riksdagen</title>
-  <updated>2022-05-26T13:54:54.642449+02:00</updated>
+  <updated>2022-06-04T22:05:32.800886+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 32.4–34.3%, 124–131 seats</li><li>Moderata samlingspartiet: 20.4–22.1%, 78–84 seats</li><li>Sverigedemokraterna: 16.3–17.8%, 62–68 seats</li><li>Centerpartiet: 6.2–7.2%, 24–28 seats</li><li>Vänsterpartiet: 7.3–8.4%, 28–32 seats</li><li>Kristdemokraterna: 4.8–5.7%, 18–22 seats</li><li>Liberalerna: 3.0–3.8%, 0 seats</li><li>Miljöpartiet de gröna: 3.0–3.7%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/swedish_polls/2022-05-25-SCB.html</id>
+    <link href="https://filipvanlaenen.github.io/swedish_polls/2022-05-25-SCB.html"/>
+    <title>Opinion Poll by SCB, 28 April–25 May 2022</title>
+    <updated>2022-06-04T22:05:32.800886+02:00</updated>
+    <dc:date>2022-06-04T22:05:32.800886+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sveriges socialdemokratiska arbetareparti: 29.7–34.4%, 113–132 seats</li><li>Moderata samlingspartiet: 20.0–24.1%, 76–93 seats</li><li>Sverigedemokraterna: 16.1–20.0%, 62–77 seats</li><li>Centerpartiet: 4.0–6.2%, 15–24 seats</li><li>Vänsterpartiet: 7.7–10.5%, 29–40 seats</li><li>Kristdemokraterna: 4.0–6.2%, 0–24 seats</li><li>Liberalerna: 2.3–4.0%, 0 seats</li><li>Miljöpartiet de gröna: 2.3–4.0%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/swedish_polls/2022-05-22-Ipsos.html</id>
@@ -1583,5 +1591,5 @@
     <updated>2018-10-27T21:13:38+02:00</updated>
     <dc:date>2018-10-27T21:13:38+02:00</dc:date>
   </entry>
-  <dc:date>2022-05-26T13:54:54.642449+02:00</dc:date>
+  <dc:date>2022-06-04T22:05:32.800886+02:00</dc:date>
 </feed>
