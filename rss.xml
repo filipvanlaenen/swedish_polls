@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Sat, 04 Jun 2022 22:05:32 +0200</pubDate>
+    <pubDate>Fri, 10 Jun 2022 18:27:39 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 9 May–5 June 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-06-05-Novus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 109–121 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 77–87 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 64–73 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 20–25 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 33–40 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 21–27 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–15 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-06-05-Novus-seats.png"
+        length="209448"
+        type="image/png"/>
+      <pubDate>Fri, 10 Jun 2022 18:27:39 +0200</pubDate>
+      <dc:date>2022-06-10T18:27:39.965585+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 9 May–5 June 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-06-05-Novus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-06-05-Novus-coalitions-seats.png"
+        length="336414"
+        type="image/png"/>
+      <pubDate>Fri, 10 Jun 2022 18:27:39 +0200</pubDate>
+      <dc:date>2022-06-10T18:27:39.965585+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 9 May–5 June 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-06-05-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 28.8–31.7%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 20.2–22.8%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 16.8–19.3%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.2–6.7%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.5–10.4%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 5.6–7.1%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.0–4.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 2.8–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-06-05-Novus.png"
+        length="248671"
+        type="image/png"/>
+      <pubDate>Fri, 10 Jun 2022 18:27:39 +0200</pubDate>
+      <dc:date>2022-06-10T18:27:39.965585+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SCB, 28 April–25 May 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2022-05-25-SCB.html#seats</link>
@@ -5969,6 +5999,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38+02:00</dc:date>
     </item>
-    <dc:date>2022-06-04T22:05:32.800886+02:00</dc:date>
+    <dc:date>2022-06-10T18:27:39.965585+02:00</dc:date>
   </channel>
 </rss>
