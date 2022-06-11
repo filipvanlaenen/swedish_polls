@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Fri, 10 Jun 2022 18:27:39 +0200</pubDate>
+    <pubDate>Sat, 11 Jun 2022 18:51:22 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet, 31 May–9 June 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-06-09-Demoskop.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 103–123 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 73–90 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 55–69 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 24–33 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 23–32 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 17–25 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 0–19 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–17 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-06-09-Demoskop-seats.png"
+        length="242651"
+        type="image/png"/>
+      <pubDate>Sat, 11 Jun 2022 18:51:22 +0200</pubDate>
+      <dc:date>2022-06-11T18:51:22.008088+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet, 31 May–9 June 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-06-09-Demoskop.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-06-09-Demoskop-coalitions-seats.png"
+        length="392480"
+        type="image/png"/>
+      <pubDate>Sat, 11 Jun 2022 18:51:22 +0200</pubDate>
+      <dc:date>2022-06-11T18:51:22.008088+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demoskop for Aftonbladet, 31 May–9 June 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-06-09-Demoskop.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 29.0–32.9%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 20.4–23.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 15.3–18.5%&lt;/li&gt;&lt;li&gt;Centerpartiet: 6.6–8.9%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 6.5–8.8%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.8–6.8%&lt;/li&gt;&lt;li&gt;Liberalerna: 3.4–5.1%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.2–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-06-09-Demoskop.png"
+        length="259932"
+        type="image/png"/>
+      <pubDate>Sat, 11 Jun 2022 18:51:22 +0200</pubDate>
+      <dc:date>2022-06-11T18:51:22.008088+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Novus for SVT, 9 May–5 June 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2022-06-05-Novus.html#seats</link>
@@ -5999,6 +6029,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38+02:00</dc:date>
     </item>
-    <dc:date>2022-06-10T18:27:39.965585+02:00</dc:date>
+    <dc:date>2022-06-11T18:51:22.008088+02:00</dc:date>
   </channel>
 </rss>
