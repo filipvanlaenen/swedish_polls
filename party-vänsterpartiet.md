@@ -10,7 +10,8 @@ Last result: **8.0%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.3% | 7.5–9.8% | 7.2–10.1% | 7.0–10.4% | 6.6–11.0% |
+| N/A | [Poll Average](average.html) | 8.3% | 7.5–9.7% | 7.2–10.1% | 7.0–10.4% | 6.6–11.0% |
+| [7–19 June 2022](2022-06-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 9.0% | 8.1–10.0% | 7.9–10.2% | 7.7–10.5% | 7.3–11.0% |
 | [6–16 June 2022](2022-06-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 7.9% | 7.5–8.3% | 7.4–8.4% | 7.3–8.5% | 7.2–8.7% |
 | [31 May–9 June 2022](2022-06-09-Demoskop.html) | Demoskop <br> Aftonbladet | 7.6% | 6.9–8.4% | 6.7–8.6% | 6.5–8.8% | 6.2–9.2% |
 | [9 May–5 June 2022](2022-06-05-Novus.html) | Novus <br> SVT | 9.4% | 8.8–10.0% | 8.7–10.2% | 8.5–10.4% | 8.2–10.7% |
@@ -251,6 +252,7 @@ Last result: **28** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 31 | 28–37 | 26–38 | 26–39 | 24–41 |
+| [7–19 June 2022](2022-06-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 33 | 30–36 | 29–38 | 28–39 | 27–40 |
 | [6–16 June 2022](2022-06-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 29 | 28–31 | 27–31 | 27–31 | 26–32 |
 | [31 May–9 June 2022](2022-06-09-Demoskop.html) | Demoskop <br> Aftonbladet | 28 | 25–31 | 24–32 | 23–32 | 23–34 |
 | [9 May–5 June 2022](2022-06-05-Novus.html) | Novus <br> SVT | 35 | 34–38 | 33–39 | 33–40 | 31–41 |
@@ -481,21 +483,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 3% | 94% |  |
 | 28 | 8% | 91% | Last Result |
 | 29 | 14% | 83% |  |
-| 30 | 13% | 69% |  |
-| 31 | 7% | 56% | Median |
-| 32 | 8% | 48% |  |
-| 33 | 6% | 41% |  |
-| 34 | 7% | 35% |  |
-| 35 | 8% | 28% |  |
-| 36 | 8% | 20% |  |
-| 37 | 5% | 12% |  |
-| 38 | 2% | 7% |  |
-| 39 | 2% | 4% |  |
-| 40 | 1.2% | 2% |  |
-| 41 | 0.5% | 1.0% |  |
-| 42 | 0.3% | 0.5% |  |
-| 43 | 0.1% | 0.2% |  |
-| 44 | 0.1% | 0.1% |  |
+| 30 | 14% | 69% |  |
+| 31 | 8% | 55% | Median |
+| 32 | 7% | 46% |  |
+| 33 | 7% | 39% |  |
+| 34 | 7% | 32% |  |
+| 35 | 8% | 24% |  |
+| 36 | 6% | 16% |  |
+| 37 | 5% | 10% |  |
+| 38 | 2% | 5% |  |
+| 39 | 2% | 3% |  |
+| 40 | 1.0% | 2% |  |
+| 41 | 0.4% | 0.7% |  |
+| 42 | 0.2% | 0.3% |  |
+| 43 | 0.1% | 0.1% |  |
+| 44 | 0% | 0.1% |  |
 | 45 | 0% | 0% |  |
 
 
