@@ -11,7 +11,7 @@ Last result: **4.4%** (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.4% | 2.8–4.7% | 2.6–5.1% | 2.4–5.4% | 2.0–5.8% |
-| [22–28 June 2022](2022-06-28-Demoskop.html) | Demoskop <br> Aftonbladet | 4.9% | 4.3–5.5% | 4.2–5.7% | 4.1–5.9% | 3.8–6.2% |
+| [22–30 June 2022](2022-06-30-Demoskop.html) | Demoskop <br> Aftonbladet | 4.9% | 4.3–5.5% | 4.2–5.7% | 4.1–5.9% | 3.8–6.2% |
 | [6–26 June 2022](2022-06-26-Novus.html) | Novus <br> SVT | 3.5% | 3.1–4.0% | 3.0–4.1% | 2.9–4.2% | 2.7–4.5% |
 | [7–19 June 2022](2022-06-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 3.0% | 2.5–3.6% | 2.4–3.8% | 2.3–3.9% | 2.1–4.3% |
 | [6–16 June 2022](2022-06-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 3.4% | 3.2–3.7% | 3.1–3.7% | 3.0–3.8% | 2.9–3.9% |
@@ -252,7 +252,7 @@ Last result: **16** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–17 | 0–18 | 0–19 | 0–20 |
-| [22–28 June 2022](2022-06-28-Demoskop.html) | Demoskop <br> Aftonbladet | 17 | 15–19 | 15–20 | 14–21 | 0–22 |
+| [22–30 June 2022](2022-06-30-Demoskop.html) | Demoskop <br> Aftonbladet | 17 | 15–19 | 15–20 | 14–21 | 0–22 |
 | [6–26 June 2022](2022-06-26-Novus.html) | Novus <br> SVT | 0 | 0 | 0–14 | 0–15 | 0–16 |
 | [7–19 June 2022](2022-06-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 0 | 0 | 0 | 0 | 0–15 |
 | [6–16 June 2022](2022-06-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 0 | 0 | 0 | 0 | 0 |

@@ -11,7 +11,7 @@ Last result: **6.3%** (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.1% | 5.1–6.9% | 5.0–7.1% | 4.9–7.3% | 4.5–7.8% |
-| [22–28 June 2022](2022-06-28-Demoskop.html) | Demoskop <br> Aftonbladet | 6.1% | 5.5–6.8% | 5.3–7.0% | 5.2–7.2% | 4.9–7.6% |
+| [22–30 June 2022](2022-06-30-Demoskop.html) | Demoskop <br> Aftonbladet | 6.1% | 5.5–6.8% | 5.3–7.0% | 5.2–7.2% | 4.9–7.6% |
 | [6–26 June 2022](2022-06-26-Novus.html) | Novus <br> SVT | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.8–7.7% | 5.6–8.0% |
 | [7–19 June 2022](2022-06-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 6.0% | 5.3–6.8% | 5.1–7.1% | 4.9–7.3% | 4.6–7.7% |
 | [6–16 June 2022](2022-06-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 6.3% | 6.0–6.6% | 5.9–6.7% | 5.8–6.8% | 5.7–7.0% |
@@ -252,7 +252,7 @@ Last result: **22** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 19–25 | 19–26 | 18–27 | 17–29 |
-| [22–28 June 2022](2022-06-28-Demoskop.html) | Demoskop <br> Aftonbladet | 22 | 19–24 | 19–25 | 18–26 | 17–27 |
+| [22–30 June 2022](2022-06-30-Demoskop.html) | Demoskop <br> Aftonbladet | 22 | 19–24 | 19–25 | 18–26 | 17–27 |
 | [6–26 June 2022](2022-06-26-Novus.html) | Novus <br> SVT | 25 | 22–27 | 22–28 | 21–28 | 20–29 |
 | [7–19 June 2022](2022-06-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 22 | 19–25 | 19–26 | 18–26 | 17–28 |
 | [6–16 June 2022](2022-06-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 23 | 22–25 | 22–25 | 21–25 | 21–26 |

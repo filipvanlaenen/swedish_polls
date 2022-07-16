@@ -11,7 +11,7 @@ Last result: **19.8%** (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.4% | 19.0–21.8% | 18.7–22.2% | 18.4–22.6% | 17.7–23.4% |
-| [22–28 June 2022](2022-06-28-Demoskop.html) | Demoskop <br> Aftonbladet | 21.0% | 19.9–22.2% | 19.6–22.5% | 19.3–22.8% | 18.8–23.4% |
+| [22–30 June 2022](2022-06-30-Demoskop.html) | Demoskop <br> Aftonbladet | 21.0% | 19.9–22.2% | 19.6–22.5% | 19.3–22.8% | 18.8–23.4% |
 | [6–26 June 2022](2022-06-26-Novus.html) | Novus <br> SVT | 19.6% | 18.7–20.6% | 18.4–20.9% | 18.2–21.1% | 17.7–21.6% |
 | [7–19 June 2022](2022-06-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 20.0% | 18.8–21.3% | 18.4–21.7% | 18.1–22.0% | 17.6–22.7% |
 | [6–16 June 2022](2022-06-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 19.3% | 18.7–19.8% | 18.6–20.0% | 18.5–20.1% | 18.2–20.4% |
@@ -255,7 +255,7 @@ Last result: **70** seats (General Election of 9 September 2018)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 75 | 69–82 | 68–84 | 68–85 | 65–88 |
-| [22–28 June 2022](2022-06-28-Demoskop.html) | Demoskop <br> Aftonbladet | 74 | 70–78 | 69–80 | 68–81 | 67–84 |
+| [22–30 June 2022](2022-06-30-Demoskop.html) | Demoskop <br> Aftonbladet | 74 | 70–78 | 69–80 | 68–81 | 67–84 |
 | [6–26 June 2022](2022-06-26-Novus.html) | Novus <br> SVT | 72 | 68–76 | 67–77 | 67–78 | 65–79 |
 | [7–19 June 2022](2022-06-19-Ipsos.html) | Ipsos <br> Dagens Nyheter | 74 | 69–78 | 68–79 | 66–81 | 64–83 |
 | [6–16 June 2022](2022-06-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 71 | 69–73 | 68–74 | 68–75 | 67–76 |
