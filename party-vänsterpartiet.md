@@ -10,7 +10,8 @@ Last result: **8.0%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.0% | 7.1–10.2% | 6.8–10.9% | 6.6–11.4% | 6.1–12.3% |
+| N/A | [Poll Average](average.html) | 8.0% | 7.0–10.2% | 6.8–10.9% | 6.5–11.4% | 6.1–12.3% |
+| [11–13 August 2022](2022-08-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 7.7% | 7.0–8.6% | 6.8–8.8% | 6.6–9.0% | 6.3–9.4% |
 | [10–12 August 2022](2022-08-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 8.0% | 7.3–8.9% | 7.1–9.1% | 6.9–9.3% | 6.5–9.8% |
 | [9–11 August 2022](2022-08-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 7.6% | 6.8–8.4% | 6.6–8.7% | 6.4–8.9% | 6.1–9.3% |
 | [1–7 August 2022](2022-08-07-Novus.html) | Novus <br> SVT | 7.2% | 6.5–8.0% | 6.3–8.2% | 6.1–8.4% | 5.8–8.9% |
@@ -240,10 +241,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 2% | 100% |  |
-| 6.5–7.5% | 22% | 98% |  |
-| 7.5–8.5% | 42% | 76% | Last Result, Median |
-| 8.5–9.5% | 17% | 34% |  |
+| 5.5–6.5% | 3% | 100% |  |
+| 6.5–7.5% | 24% | 97% |  |
+| 7.5–8.5% | 41% | 73% | Last Result, Median |
+| 8.5–9.5% | 15% | 32% |  |
 | 9.5–10.5% | 10% | 17% |  |
 | 10.5–11.5% | 5% | 7% |  |
 | 11.5–12.5% | 2% | 2% |  |
@@ -259,7 +260,8 @@ Last result: **28** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30 | 25–38 | 24–40 | 23–41 | 22–45 |
+| N/A | [Poll Average](average.html) | 29 | 25–38 | 24–40 | 23–41 | 22–45 |
+| [11–13 August 2022](2022-08-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 28 | 25–31 | 24–32 | 24–33 | 22–34 |
 | [10–12 August 2022](2022-08-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 29 | 26–32 | 25–33 | 24–34 | 23–35 |
 | [9–11 August 2022](2022-08-11-Sifo.html) | Sifo <br> Svenska Dagbladet | 27 | 25–30 | 24–31 | 23–32 | 22–34 |
 | [1–7 August 2022](2022-08-07-Novus.html) | Novus <br> SVT | 26 | 23–28 | 22–29 | 22–30 | 21–31 |
@@ -492,19 +494,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 20 | 0.1% | 100% |  |
 | 21 | 0.3% | 99.9% |  |
-| 22 | 0.7% | 99.7% |  |
-| 23 | 2% | 99.0% |  |
+| 22 | 0.7% | 99.6% |  |
+| 23 | 2% | 98.9% |  |
 | 24 | 4% | 97% |  |
-| 25 | 5% | 93% |  |
-| 26 | 10% | 88% |  |
-| 27 | 8% | 78% |  |
-| 28 | 7% | 70% | Last Result |
-| 29 | 11% | 63% |  |
-| 30 | 12% | 52% | Median |
-| 31 | 8% | 40% |  |
-| 32 | 5% | 32% |  |
+| 25 | 5% | 92% |  |
+| 26 | 10% | 87% |  |
+| 27 | 9% | 77% |  |
+| 28 | 7% | 68% | Last Result |
+| 29 | 12% | 61% | Median |
+| 30 | 12% | 49% |  |
+| 31 | 6% | 37% |  |
+| 32 | 4% | 31% |  |
 | 33 | 5% | 27% |  |
-| 34 | 5% | 23% |  |
+| 34 | 4% | 22% |  |
 | 35 | 3% | 18% |  |
 | 36 | 2% | 15% |  |
 | 37 | 2% | 12% |  |
