@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Riksdagen</title>
     <link>https://filipvanlaenen.github.io/swedish_polls</link>
     <description>All Registered Polls for the Riksdagen</description>
-    <pubDate>Thu, 18 Aug 2022 16:49:04 +0200</pubDate>
+    <pubDate>Thu, 18 Aug 2022 21:37:40 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 15–17 August 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-08-17-Sifo.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 105–119 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 59–71 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 55–67 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 18–26 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 25–33 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 17–24 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 18–25 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 17–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-08-17-Sifo-seats.png"
+        length="228059"
+        type="image/png"/>
+      <pubDate>Thu, 18 Aug 2022 19:48:09 +0200</pubDate>
+      <dc:date>2022-08-18T19:48:09.366162+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 15–17 August 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-08-17-Sifo.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-08-17-Sifo-coalitions-seats.png"
+        length="348917"
+        type="image/png"/>
+      <pubDate>Thu, 18 Aug 2022 19:48:09 +0200</pubDate>
+      <dc:date>2022-08-18T19:48:09.366162+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Sifo for Svenska Dagbladet, 15–17 August 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-08-17-Sifo.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 29.2–33.2%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 16.6–19.9%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 15.6–18.8%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.1–7.1%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 6.9–9.3%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.7–6.7%&lt;/li&gt;&lt;li&gt;Liberalerna: 5.0–7.0%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 4.6–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-08-17-Sifo.png"
+        length="260512"
+        type="image/png"/>
+      <pubDate>Thu, 18 Aug 2022 19:48:09 +0200</pubDate>
+      <dc:date>2022-08-18T19:48:09.366162+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 14–16 August 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2022-08-16-Sifo.html#seats</link>
@@ -100,36 +130,6 @@
       <dc:date>2022-08-16T20:40:33.138364+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Novus for SVT, 8–15 August 2022 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2022-08-15-Novus.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 94–109 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 63–76 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 61–73 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 18–25 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 30–39 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 17–24 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 18–25 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-08-15-Novus-seats.png"
-        length="241303"
-        type="image/png"/>
-      <pubDate>Thu, 18 Aug 2022 16:49:04 +0200</pubDate>
-      <dc:date>2022-08-18T16:49:04.383786+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Novus for SVT, 8–15 August 2022 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2022-08-15-Novus.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-08-15-Novus-coalitions-seats.png"
-        length="374409"
-        type="image/png"/>
-      <pubDate>Thu, 18 Aug 2022 16:49:04 +0200</pubDate>
-      <dc:date>2022-08-18T16:49:04.383786+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Novus for SVT, 8–15 August 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/swedish_polls/2022-08-15-Novus.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 26.6–30.5%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.9–21.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 17.2–20.6%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.0–7.1%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.5–11.0%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.7–6.7%&lt;/li&gt;&lt;li&gt;Liberalerna: 4.9–6.9%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.7–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-08-15-Novus.png"
-        length="259347"
-        type="image/png"/>
-      <pubDate>Thu, 18 Aug 2022 16:49:04 +0200</pubDate>
-      <dc:date>2022-08-18T16:49:04.383786+02:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 12–14 August 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/swedish_polls/2022-08-14-Sifo.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 100–114 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 63–75 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 55–67 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 17–24 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 24–33 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 19–27 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 16–24 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 16–24 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -158,6 +158,36 @@
         type="image/png"/>
       <pubDate>Mon, 15 Aug 2022 23:56:50 +0200</pubDate>
       <dc:date>2022-08-15T23:56:50.224234+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 8–14 August 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-08-14-Novus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 94–109 seats&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 63–76 seats&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 61–73 seats&lt;/li&gt;&lt;li&gt;Centerpartiet: 18–25 seats&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 30–39 seats&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 17–24 seats&lt;/li&gt;&lt;li&gt;Liberalerna: 18–25 seats&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 0–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-08-14-Novus-seats.png"
+        length="241024"
+        type="image/png"/>
+      <pubDate>Thu, 18 Aug 2022 21:37:40 +0200</pubDate>
+      <dc:date>2022-08-18T21:37:40.522757+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 8–14 August 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-08-14-Novus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-08-14-Novus-coalitions-seats.png"
+        length="374243"
+        type="image/png"/>
+      <pubDate>Thu, 18 Aug 2022 21:37:40 +0200</pubDate>
+      <dc:date>2022-08-18T21:37:40.522757+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Novus for SVT, 8–14 August 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/swedish_polls/2022-08-14-Novus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sveriges socialdemokratiska arbetareparti: 26.6–30.5%&lt;/li&gt;&lt;li&gt;Moderata samlingspartiet: 17.9–21.4%&lt;/li&gt;&lt;li&gt;Sverigedemokraterna: 17.2–20.6%&lt;/li&gt;&lt;li&gt;Centerpartiet: 5.0–7.1%&lt;/li&gt;&lt;li&gt;Vänsterpartiet: 8.5–11.0%&lt;/li&gt;&lt;li&gt;Kristdemokraterna: 4.7–6.7%&lt;/li&gt;&lt;li&gt;Liberalerna: 4.9–6.9%&lt;/li&gt;&lt;li&gt;Miljöpartiet de gröna: 3.7–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/swedish_polls/2022-08-14-Novus.png"
+        length="259285"
+        type="image/png"/>
+      <pubDate>Thu, 18 Aug 2022 21:37:40 +0200</pubDate>
+      <dc:date>2022-08-18T21:37:40.522757+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sifo for Svenska Dagbladet, 11–13 August 2022 – Seat Projections for the Parties</title>
@@ -6479,6 +6509,6 @@
       <pubDate>Sat, 27 Oct 2018 21:13:38 +0200</pubDate>
       <dc:date>2018-10-27T21:13:38+02:00</dc:date>
     </item>
-    <dc:date>2022-08-18T16:49:04.383786+02:00</dc:date>
+    <dc:date>2022-08-18T21:37:40.522757+02:00</dc:date>
   </channel>
 </rss>
