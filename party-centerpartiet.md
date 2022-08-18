@@ -10,8 +10,11 @@ Last result: **8.6%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.1–7.4% | 4.7–7.7% | 4.5–8.0% | 4.1–8.4% |
+| N/A | [Poll Average](average.html) | 6.4% | 5.1–7.5% | 4.7–7.9% | 4.5–8.2% | 4.1–8.7% |
+| [14–16 August 2022](2022-08-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 6.3% | 5.6–7.0% | 5.4–7.2% | 5.3–7.4% | 5.0–7.8% |
+| [6–16 August 2022](2022-08-16-Demoskop.html) | Demoskop <br> Aftonbladet | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.5–8.7% | 6.2–9.1% |
 | [13–15 August 2022](2022-08-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 5.9% | 5.2–6.6% | 5.1–6.8% | 4.9–7.0% | 4.6–7.4% |
+| [8–15 August 2022](2022-08-15-Novus.html) | Novus <br> SVT | 6.0% | 5.4–6.7% | 5.2–6.9% | 5.0–7.1% | 4.8–7.5% |
 | [12–14 August 2022](2022-08-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 5.7% | 5.1–6.4% | 4.9–6.6% | 4.7–6.8% | 4.5–7.2% |
 | [11–13 August 2022](2022-08-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 5.3% | 4.7–6.0% | 4.5–6.2% | 4.4–6.4% | 4.1–6.7% |
 | [10–12 August 2022](2022-08-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 5.3% | 4.7–6.0% | 4.5–6.2% | 4.4–6.4% | 4.1–6.8% |
@@ -245,10 +248,10 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 3% | 100% |  |
 | 4.5–5.5% | 17% | 97% |  |
-| 5.5–6.5% | 33% | 80% |  |
-| 6.5–7.5% | 39% | 47% | Median |
-| 7.5–8.5% | 8% | 8% |  |
-| 8.5–9.5% | 0.3% | 0.3% | Last Result |
+| 5.5–6.5% | 37% | 80% | Median |
+| 6.5–7.5% | 33% | 43% |  |
+| 7.5–8.5% | 9% | 10% |  |
+| 8.5–9.5% | 0.8% | 0.8% | Last Result |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -260,8 +263,11 @@ Last result: **31** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 18–27 | 17–27 | 17–28 | 15–30 |
+| N/A | [Poll Average](average.html) | 23 | 18–27 | 17–28 | 17–29 | 15–31 |
+| [14–16 August 2022](2022-08-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 22 | 20–25 | 19–26 | 19–27 | 18–28 |
+| [6–16 August 2022](2022-08-16-Demoskop.html) | Demoskop <br> Aftonbladet | 27 | 24–29 | 23–30 | 23–31 | 22–32 |
 | [13–15 August 2022](2022-08-15-Sifo.html) | Sifo <br> Svenska Dagbladet | 21 | 19–24 | 18–24 | 18–25 | 16–26 |
+| [8–15 August 2022](2022-08-15-Novus.html) | Novus <br> SVT | 22 | 19–24 | 19–25 | 18–25 | 17–27 |
 | [12–14 August 2022](2022-08-14-Sifo.html) | Sifo <br> Svenska Dagbladet | 21 | 18–23 | 18–24 | 17–24 | 16–26 |
 | [11–13 August 2022](2022-08-13-Sifo.html) | Sifo <br> Svenska Dagbladet | 19 | 17–21 | 16–22 | 16–23 | 15–24 |
 | [10–12 August 2022](2022-08-12-Sifo.html) | Sifo <br> Svenska Dagbladet | 19 | 17–22 | 16–22 | 15–23 | 15–24 |
@@ -512,21 +518,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0.9% | 99.8% |  |
 | 16 | 1.2% | 98.9% |  |
 | 17 | 3% | 98% |  |
-| 18 | 5% | 94% |  |
+| 18 | 4% | 94% |  |
 | 19 | 6% | 90% |  |
-| 20 | 8% | 84% |  |
-| 21 | 8% | 76% |  |
-| 22 | 9% | 68% |  |
-| 23 | 9% | 58% | Median |
-| 24 | 9% | 49% |  |
-| 25 | 15% | 40% |  |
-| 26 | 13% | 25% |  |
-| 27 | 8% | 12% |  |
-| 28 | 3% | 5% |  |
-| 29 | 1.1% | 2% |  |
-| 30 | 0.4% | 0.7% |  |
-| 31 | 0.1% | 0.2% | Last Result |
-| 32 | 0.1% | 0.1% |  |
-| 33 | 0% | 0% |  |
+| 20 | 9% | 84% |  |
+| 21 | 9% | 74% |  |
+| 22 | 10% | 65% |  |
+| 23 | 9% | 55% | Median |
+| 24 | 9% | 46% |  |
+| 25 | 10% | 37% |  |
+| 26 | 13% | 27% |  |
+| 27 | 7% | 14% |  |
+| 28 | 3% | 7% |  |
+| 29 | 2% | 4% |  |
+| 30 | 1.2% | 2% |  |
+| 31 | 0.4% | 0.6% | Last Result |
+| 32 | 0.1% | 0.2% |  |
+| 33 | 0% | 0.1% |  |
+| 34 | 0% | 0% |  |
 
 
