@@ -10,7 +10,8 @@ Last result: **19.8%** (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.6% | 17.8–21.3% | 17.3–21.6% | 17.0–21.8% | 16.2–22.2% |
+| N/A | [Poll Average](average.html) | 19.6% | 17.4–21.3% | 16.9–21.6% | 16.5–21.8% | 15.8–22.2% |
+| [16–18 August 2022](2022-08-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 17.6% | 16.5–18.9% | 16.1–19.2% | 15.9–19.5% | 15.3–20.1% |
 | [15–17 August 2022](2022-08-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 18.2% | 17.2–19.3% | 16.9–19.6% | 16.6–19.9% | 16.1–20.5% |
 | [14–16 August 2022](2022-08-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 19.2% | 18.1–20.3% | 17.8–20.7% | 17.5–20.9% | 17.0–21.5% |
 | [6–16 August 2022](2022-08-16-Demoskop.html) | Demoskop <br> Aftonbladet | 19.9% | 18.8–21.0% | 18.5–21.3% | 18.3–21.6% | 17.8–22.1% |
@@ -247,11 +248,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 1.0% | 99.9% |  |
-| 16.5–17.5% | 6% | 98.9% |  |
-| 17.5–18.5% | 16% | 93% |  |
-| 18.5–19.5% | 25% | 77% |  |
+| 14.5–15.5% | 0.2% | 100% |  |
+| 15.5–16.5% | 2% | 99.8% |  |
+| 16.5–17.5% | 8% | 97% |  |
+| 17.5–18.5% | 15% | 89% |  |
+| 18.5–19.5% | 22% | 74% |  |
 | 19.5–20.5% | 24% | 52% | Last Result, Median |
 | 20.5–21.5% | 22% | 28% |  |
 | 21.5–22.5% | 6% | 6% |  |
@@ -267,7 +268,8 @@ Last result: **70** seats (General Election of 9 September 2018)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 70 | 64–81 | 62–82 | 61–83 | 58–84 |
+| N/A | [Poll Average](average.html) | 70 | 62–81 | 61–82 | 59–83 | 56–84 |
+| [16–18 August 2022](2022-08-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 63 | 59–68 | 58–68 | 56–69 | 55–72 |
 | [15–17 August 2022](2022-08-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 65 | 61–69 | 60–70 | 59–71 | 57–73 |
 | [14–16 August 2022](2022-08-16-Sifo.html) | Sifo <br> Svenska Dagbladet | 68 | 64–73 | 63–74 | 62–75 | 61–76 |
 | [6–16 August 2022](2022-08-16-Demoskop.html) | Demoskop <br> Aftonbladet | 70 | 67–74 | 66–75 | 65–76 | 63–79 |
@@ -505,28 +507,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 55 | 0.1% | 100% |  |
-| 56 | 0.1% | 99.9% |  |
-| 57 | 0.3% | 99.8% |  |
-| 58 | 0.3% | 99.5% |  |
-| 59 | 0.6% | 99.2% |  |
-| 60 | 0.6% | 98.7% |  |
-| 61 | 2% | 98% |  |
-| 62 | 2% | 97% |  |
-| 63 | 3% | 95% |  |
-| 64 | 4% | 92% |  |
-| 65 | 6% | 88% |  |
-| 66 | 7% | 82% |  |
-| 67 | 8% | 75% |  |
-| 68 | 6% | 68% |  |
-| 69 | 6% | 62% |  |
-| 70 | 6% | 56% | Last Result, Median |
+| 54 | 0.1% | 100% |  |
+| 55 | 0.2% | 99.9% |  |
+| 56 | 0.4% | 99.7% |  |
+| 57 | 0.5% | 99.3% |  |
+| 58 | 0.8% | 98.8% |  |
+| 59 | 1.4% | 98% |  |
+| 60 | 1.4% | 97% |  |
+| 61 | 3% | 95% |  |
+| 62 | 3% | 93% |  |
+| 63 | 3% | 90% |  |
+| 64 | 4% | 86% |  |
+| 65 | 5% | 83% |  |
+| 66 | 6% | 78% |  |
+| 67 | 6% | 72% |  |
+| 68 | 6% | 66% |  |
+| 69 | 6% | 60% |  |
+| 70 | 6% | 55% | Last Result, Median |
 | 71 | 6% | 49% |  |
 | 72 | 6% | 43% |  |
 | 73 | 5% | 37% |  |
 | 74 | 4% | 31% |  |
 | 75 | 4% | 27% |  |
-| 76 | 3% | 23% |  |
+| 76 | 2% | 23% |  |
 | 77 | 1.3% | 20% |  |
 | 78 | 1.5% | 19% |  |
 | 79 | 3% | 18% |  |
