@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
+| [18–20 August 2022](2022-08-20-Sifo.html) | Sifo <br> Svenska Dagbladet | 30–35% <br> 108–124 | 16–19% <br> 56–69 | 15–19% <br> 54–66 | 5–7% <br> 18–26 | 7–9% <br> 25–33 | 5–7% <br> 17–25 | 5–7% <br> 17–24 | 5–7% <br> 16–24 |
 | [17–19 August 2022](2022-08-19-Sifo.html) | Sifo <br> Svenska Dagbladet | 30–34% <br> 108–123 | 16–20% <br> 58–71 | 15–19% <br> 54–67 | 5–7% <br> 18–26 | 7–9% <br> 24–33 | 5–7% <br> 18–26 | 5–7% <br> 16–24 | 4–6% <br> 15–22 |
 | [16–18 August 2022](2022-08-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 31–35% <br> 109–125 | 16–20% <br> 56–69 | 14–18% <br> 52–64 | 5–7% <br> 18–26 | 7–9% <br> 24–34 | 5–7% <br> 18–26 | 5–7% <br> 16–24 | 4–6% <br> 15–23 |
 | [15–17 August 2022](2022-08-17-Sifo.html) | Sifo <br> Svenska Dagbladet | 29–33% <br> 105–119 | 17–20% <br> 59–71 | 16–19% <br> 55–67 | 5–7% <br> 18–26 | 7–9% <br> 25–33 | 5–7% <br> 17–24 | 5–7% <br> 18–25 | 5–7% <br> 17–23 |
