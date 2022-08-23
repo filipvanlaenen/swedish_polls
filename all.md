@@ -5,6 +5,12 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
+| [20–22 August 2022](2022-08-22-Sifo.html) | Sifo <br> Svenska Dagbladet | 28–32% <br> 101–115 | 16–19% <br> 57–68 | 17–21% <br> 62–74 | 5–7% <br> 18–26 | 6–8% <br> 22–30 | 6–8% <br> 20–28 | 5–6% <br> 16–23 | 5–7% <br> 16–23 |
+| [20–22 August 2022](2022-08-22-Novus.html) | Novus <br> SVT | 26–31% <br> 93–108 | 16–19% <br> 55–68 | 19–24% <br> 69–82 | 6–9% <br> 21–30 | 8–11% <br> 29–39 | 4–6% <br> 15–22 | 4–6% <br> 15–22 | 4–6% <br> 0–22 |
+| [19–21 August 2022](2022-08-21-Sifo.html) | Sifo <br> Svenska Dagbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [18–21 August 2022](2022-08-21-SKOP.html) | SKOP | 25–30% <br> 89–108 | 15–20% <br> 55–70 | 17–22% <br> 60–77 | 7–10% <br> 25–37 | 7–10% <br> 25–36 | 4–6% <br> 0–22 | 5–8% <br> 18–28 | 5–7% <br> 16–26 |
+| [19–21 August 2022](2022-08-21-Novus.html) | Novus <br> SVT | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [16–21 August 2022](2022-08-21-Demoskop.html) | Demoskop <br> Aftonbladet | 27–31% <br> 96–112 | 18–22% <br> 65–78 | 17–20% <br> 61–74 | 6–8% <br> 21–28 | 8–10% <br> 28–36 | 5–7% <br> 19–27 | 3–5% <br> 0–18 | 4–6% <br> 14–21 |
 | [18–20 August 2022](2022-08-20-Sifo.html) | Sifo <br> Svenska Dagbladet | 30–35% <br> 108–124 | 16–19% <br> 56–69 | 15–19% <br> 54–66 | 5–7% <br> 18–26 | 7–9% <br> 25–33 | 5–7% <br> 17–25 | 5–7% <br> 17–24 | 5–7% <br> 16–24 |
 | [17–19 August 2022](2022-08-19-Sifo.html) | Sifo <br> Svenska Dagbladet | 30–34% <br> 108–123 | 16–20% <br> 58–71 | 15–19% <br> 54–67 | 5–7% <br> 18–26 | 7–9% <br> 24–33 | 5–7% <br> 18–26 | 5–7% <br> 16–24 | 4–6% <br> 15–22 |
 | [16–18 August 2022](2022-08-18-Sifo.html) | Sifo <br> Svenska Dagbladet | 31–35% <br> 109–125 | 16–20% <br> 56–69 | 14–18% <br> 52–64 | 5–7% <br> 18–26 | 7–9% <br> 24–34 | 5–7% <br> 18–26 | 5–7% <br> 16–24 | 4–6% <br> 15–23 |
