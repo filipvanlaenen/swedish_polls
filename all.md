@@ -5,6 +5,15 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
+| [26–28 August 2022](2022-08-28-Sifo.html) | Sifo <br> Svenska Dagbladet | 29–33% <br> 102–117 | 16–20% <br> 58–70 | 18–21% <br> 62–75 | 5–8% <br> 19–27 | 7–9% <br> 23–32 | 4–6% <br> 15–21 | 5–7% <br> 17–24 | 4–6% <br> 16–22 |
+| [24–28 August 2022](2022-08-28-SKOP.html) | SKOP | 25–30% <br> 87–104 | 17–21% <br> 58–72 | 17–21% <br> 59–72 | 7–10% <br> 24–34 | 7–10% <br> 26–36 | 5–8% <br> 19–28 | 5–7% <br> 17–26 | 4–7% <br> 15–23 |
+| [26–28 August 2022](2022-08-28-Novus.html) | Novus <br> SVT | 28–33% <br> 99–118 | 14–18% <br> 50–64 | 19–23% <br> 66–82 | 7–9% <br> 24–34 | 7–9% <br> 23–33 | 5–8% <br> 19–28 | 4–6% <br> 0–20 | 4–6% <br> 0–22 |
+| [25–27 August 2022](2022-08-27-Sifo.html) | Sifo <br> Svenska Dagbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [23–27 August 2022](2022-08-27-SKOP.html) | SKOP | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [25–27 August 2022](2022-08-27-Novus.html) | Novus <br> SVT | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [24–26 August 2022](2022-08-26-Sifo.html) | Sifo <br> Svenska Dagbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [22–26 August 2022](2022-08-26-SKOP.html) | SKOP | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [24–26 August 2022](2022-08-26-Novus.html) | Novus <br> SVT | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–25 August 2022](2022-08-25-Sifo.html) | Sifo <br> Svenska Dagbladet | 29–33% <br> 104–118 | 16–19% <br> 57–68 | 18–22% <br> 64–76 | 5–7% <br> 17–24 | 6–8% <br> 22–30 | 5–7% <br> 17–24 | 4–6% <br> 15–22 | 5–7% <br> 17–24 |
 | [21–25 August 2022](2022-08-25-SKOP.html) | SKOP | 26–31% <br> 92–109 | 16–20% <br> 58–72 | 17–21% <br> 59–73 | 6–8% <br> 20–30 | 8–11% <br> 28–39 | 5–8% <br> 18–27 | 5–7% <br> 17–26 | 4–6% <br> 0–22 |
 | [23–25 August 2022](2022-08-25-Novus.html) | Novus <br> SVT | 26–30% <br> 91–107 | 16–20% <br> 56–70 | 21–25% <br> 73–88 | 5–7% <br> 16–24 | 7–10% <br> 25–35 | 5–7% <br> 18–26 | 4–7% <br> 16–24 | 4–6% <br> 0–21 |
