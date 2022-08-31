@@ -7,9 +7,9 @@ The table below lists all polls registered and analyzed so far.
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
 | [28–30 August 2022](2022-08-30-Novus.html) | Novus <br> SVT | 26–31% <br> 91–107 | 17–20% <br> 58–71 | 18–22% <br> 62–76 | 6–9% <br> 21–31 | 6–9% <br> 21–31 | 5–8% <br> 19–28 | 5–7% <br> 16–24 | 5–7% <br> 17–26 |
 | [27–29 August 2022](2022-08-29-Sifo.html) | Sifo <br> Svenska Dagbladet | 28–32% <br> 100–114 | 15–18% <br> 52–64 | 19–23% <br> 68–80 | 6–8% <br> 20–28 | 7–9% <br> 24–32 | 4–6% <br> 15–22 | 5–8% <br> 19–27 | 4–6% <br> 15–22 |
-| [25–29 August 2022](2022-08-29-SKOP.html) | SKOP | 24–30% <br> 86–104 | 16–21% <br> 55–70 | 17–21% <br> 57–72 | 6–9% <br> 22–32 | 7–11% <br> 26–36 | 5–8% <br> 18–29 | 5–8% <br> 19–28 | 5–7% <br> 16–25 |
+| [25–29 August 2022](2022-08-29-SKOP.html) | SKOP | 24–30% <br> 86–104 | 16–21% <br> 56–73 | 17–21% <br> 58–74 | 6–9% <br> 20–31 | 7–11% <br> 25–37 | 5–8% <br> 18–29 | 5–8% <br> 18–29 | 5–7% <br> 16–26 |
 | [27–29 August 2022](2022-08-29-Novus.html) | Novus <br> SVT | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [21–29 August 2022](2022-08-29-Demoskop.html) | Demoskop <br> Aftonbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [21–29 August 2022](2022-08-29-Demoskop.html) | Demoskop <br> Aftonbladet | 28–32% <br> 98–112 | 16–20% <br> 58–70 | 19–22% <br> 67–79 | 6–9% <br> 23–31 | 7–9% <br> 24–32 | 5–6% <br> 16–23 | 4–6% <br> 0–20 | 4–6% <br> 16–22 |
 | [26–28 August 2022](2022-08-28-Sifo.html) | Sifo <br> Svenska Dagbladet | 29–33% <br> 102–117 | 16–20% <br> 58–70 | 18–21% <br> 62–75 | 5–8% <br> 19–27 | 7–9% <br> 23–32 | 4–6% <br> 15–21 | 5–7% <br> 17–24 | 4–6% <br> 16–22 |
 | [24–28 August 2022](2022-08-28-SKOP.html) | SKOP | 25–30% <br> 87–104 | 17–21% <br> 58–72 | 17–21% <br> 59–72 | 7–10% <br> 24–34 | 7–10% <br> 26–36 | 5–8% <br> 19–28 | 5–7% <br> 17–26 | 4–7% <br> 15–23 |
 | [26–28 August 2022](2022-08-28-Novus.html) | Novus <br> SVT | 28–33% <br> 99–118 | 14–18% <br> 50–64 | 19–23% <br> 66–82 | 7–9% <br> 24–34 | 7–9% <br> 23–33 | 5–8% <br> 19–28 | 4–6% <br> 0–20 | 4–6% <br> 0–22 |
@@ -25,7 +25,7 @@ The table below lists all polls registered and analyzed so far.
 | [22–24 August 2022](2022-08-24-Sifo.html) | Sifo <br> Svenska Dagbladet | 29–32% <br> 102–116 | 17–20% <br> 60–71 | 19–22% <br> 67–78 | 5–7% <br> 17–24 | 7–9% <br> 24–31 | 5–7% <br> 17–24 | 4–6% <br> 0–20 | 4–6% <br> 16–22 |
 | [20–24 August 2022](2022-08-24-SKOP.html) | SKOP | 25–31% <br> 89–109 | 16–20% <br> 56–71 | 17–21% <br> 58–74 | 5–8% <br> 17–27 | 8–11% <br> 28–40 | 5–8% <br> 18–28 | 5–8% <br> 18–28 | 4–7% <br> 16–25 |
 | [22–24 August 2022](2022-08-24-Novus.html) | Novus <br> SVT | 25–30% <br> 89–106 | 16–20% <br> 56–70 | 20–25% <br> 71–87 | 5–8% <br> 19–28 | 7–10% <br> 25–36 | 4–7% <br> 16–24 | 5–7% <br> 17–26 | 4–6% <br> 0–21 |
-| [16–24 August 2022](2022-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [16–24 August 2022](2022-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | 28–33% <br> 100–117 | 15–18% <br> 53–66 | 19–23% <br> 67–82 | 6–8% <br> 21–29 | 7–10% <br> 26–35 | 5–7% <br> 16–24 | 4–6% <br> 0–20 | 4–6% <br> 14–22 |
 | [21–23 August 2022](2022-08-23-Sifo.html) | Sifo <br> Svenska Dagbladet | 28–32% <br> 101–116 | 17–20% <br> 61–73 | 18–21% <br> 63–75 | 5–7% <br> 18–25 | 7–9% <br> 24–33 | 5–7% <br> 19–26 | 4–6% <br> 0–21 | 4–6% <br> 0–20 |
 | [19–23 August 2022](2022-08-23-SKOP.html) | SKOP | 26–32% <br> 91–115 | 17–21% <br> 59–75 | 16–20% <br> 56–73 | 5–8% <br> 18–28 | 7–10% <br> 23–35 | 4–6% <br> 0–22 | 6–9% <br> 19–33 | 5–7% <br> 16–26 |
 | [21–23 August 2022](2022-08-23-Novus.html) | Novus <br> SVT | 26–31% <br> 91–108 | 16–20% <br> 55–69 | 20–24% <br> 70–86 | 6–8% <br> 20–29 | 7–10% <br> 25–35 | 4–6% <br> 14–22 | 5–7% <br> 18–26 | 4–6% <br> 0–21 |
