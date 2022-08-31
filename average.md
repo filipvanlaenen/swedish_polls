@@ -9,10 +9,10 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | S | M | SD | C | V | KD | L | MP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
-| N/A | Poll Average | 29–33% <br> 103–118 | 14–18% <br> 51–62 | 18–22% <br> 64–76 | 5–8% <br> 19–27 | 7–10% <br> 25–34 | 5–7% <br> 17–24 | 6–8% <br> 20–29 | 4–6% <br> 0–20 |
-| [28–30 August 2022](2022-08-30-Sifo.html) | Sifo <br> Svenska Dagbladet | 29–33% <br> 103–118 | 14–18% <br> 51–62 | 18–21% <br> 64–76 | 5–8% <br> 19–27 | 7–9% <br> 25–34 | 5–7% <br> 17–24 | 6–8% <br> 20–29 | 4–6% <br> 0–20 |
-| [27–30 August 2022](2022-08-30-SKOP.html) | SKOP | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [28–30 August 2022](2022-08-30-Novus.html) | Novus <br> SVT | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 25–32% <br> 91–112 | 15–20% <br> 53–70 | 17–22% <br> 59–78 | 6–9% <br> 20–31 | 6–10% <br> 23–34 | 5–8% <br> 16–28 | 5–8% <br> 17–28 | 4–7% <br> 16–25 |
+| [28–30 August 2022](2022-08-30-Novus.html) | Novus <br> SVT | 26–31% <br> 91–107 | 17–20% <br> 58–71 | 18–22% <br> 62–76 | 6–9% <br> 21–31 | 6–9% <br> 21–31 | 5–8% <br> 19–28 | 5–7% <br> 16–24 | 5–7% <br> 17–26 |
+| [27–29 August 2022](2022-08-29-Sifo.html) | Sifo <br> Svenska Dagbladet | 28–32% <br> 100–114 | 15–18% <br> 52–64 | 19–23% <br> 68–80 | 6–8% <br> 20–28 | 7–9% <br> 24–32 | 4–6% <br> 15–22 | 5–8% <br> 19–27 | 4–6% <br> 15–22 |
+| [25–29 August 2022](2022-08-29-SKOP.html) | SKOP | 24–30% <br> 86–104 | 16–21% <br> 55–70 | 17–21% <br> 57–72 | 6–9% <br> 22–32 | 7–11% <br> 26–36 | 5–8% <br> 18–29 | 5–8% <br> 19–28 | 5–7% <br> 16–25 |
 | [21–29 August 2022](2022-08-29-Demoskop.html) | Demoskop <br> Aftonbladet | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [16–24 August 2022](2022-08-24-Ipsos.html) | Ipsos <br> Dagens Nyheter | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 9 September 2018 | General Election | 28.3% <br> 100 | 19.8% <br> 70 | 17.5% <br> 62 | 8.6% <br> 31 | 8.0% <br> 28 | 6.3% <br> 22 | 5.5% <br> 20 | 4.4% <br> 16 |
@@ -41,14 +41,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#sveriges-socialdemokratiska-arbetareparti">Sveriges socialdemokratiska arbetareparti</a> | 28.3% | 31.1% | 29.8–32.4% |29.4–32.8% | 29.1–33.1% | 28.5–33.8% |
-| <a href="#moderata-samlingspartiet">Moderata samlingspartiet</a> | 19.8% | 15.9% | 14.9–17.0% |14.6–17.3% | 14.3–17.6% | 13.9–18.1% |
-| <a href="#sverigedemokraterna">Sverigedemokraterna</a> | 17.5% | 19.7% | 18.6–20.9% |18.3–21.2% | 18.0–21.5% | 17.5–22.0% |
-| <a href="#centerpartiet">Centerpartiet</a> | 8.6% | 6.4% | 5.7–7.1% |5.6–7.4% | 5.4–7.6% | 5.1–7.9% |
-| <a href="#vänsterpartiet">Vänsterpartiet</a> | 8.0% | 8.2% | 7.5–9.0% |7.2–9.3% | 7.1–9.5% | 6.7–9.9% |
-| <a href="#kristdemokraterna">Kristdemokraterna</a> | 6.3% | 5.7% | 5.1–6.4% |4.9–6.6% | 4.8–6.8% | 4.5–7.2% |
-| <a href="#liberalerna">Liberalerna</a> | 5.5% | 6.8% | 6.1–7.6% |5.9–7.8% | 5.8–8.0% | 5.5–8.4% |
-| <a href="#miljöpartiet-de-gröna">Miljöpartiet de gröna</a> | 4.4% | 4.7% | 4.1–5.4% |4.0–5.5% | 3.8–5.7% | 3.6–6.0% |
+| <a href="#sveriges-socialdemokratiska-arbetareparti">Sveriges socialdemokratiska arbetareparti</a> | 28.3% | 28.5% | 26.0–30.9% |25.4–31.4% | 24.9–31.8% | 24.0–32.6% |
+| <a href="#moderata-samlingspartiet">Moderata samlingspartiet</a> | 19.8% | 17.7% | 15.9–19.4% |15.5–19.9% | 15.2–20.3% | 14.6–21.0% |
+| <a href="#sverigedemokraterna">Sverigedemokraterna</a> | 17.5% | 19.8% | 18.0–21.5% |17.5–21.9% | 17.1–22.3% | 16.3–22.9% |
+| <a href="#centerpartiet">Centerpartiet</a> | 8.6% | 7.0% | 6.2–8.1% |5.9–8.4% | 5.7–8.7% | 5.4–9.2% |
+| <a href="#vänsterpartiet">Vänsterpartiet</a> | 8.0% | 7.9% | 6.9–9.3% |6.6–9.7% | 6.4–10.0% | 6.0–10.7% |
+| <a href="#kristdemokraterna">Kristdemokraterna</a> | 6.3% | 6.2% | 5.0–7.4% |4.8–7.7% | 4.6–7.9% | 4.3–8.5% |
+| <a href="#liberalerna">Liberalerna</a> | 5.5% | 6.2% | 5.3–7.2% |5.0–7.5% | 4.8–7.7% | 4.4–8.3% |
+| <a href="#miljöpartiet-de-gröna">Miljöpartiet de gröna</a> | 4.4% | 5.7% | 4.9–6.7% |4.6–7.0% | 4.5–7.2% | 4.2–7.7% |
 
 ### Sveriges socialdemokratiska arbetareparti
 
@@ -56,16 +56,19 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 26.5–27.5% | 0% | 100% |  |
-| 27.5–28.5% | 0.6% | 100% | Last Result |
-| 28.5–29.5% | 6% | 99.4% |  |
-| 29.5–30.5% | 23% | 93% |  |
-| 30.5–31.5% | 37% | 70% | Median |
-| 31.5–32.5% | 25% | 33% |  |
-| 32.5–33.5% | 7% | 8% |  |
-| 33.5–34.5% | 0.9% | 0.9% |  |
-| 34.5–35.5% | 0% | 0% |  |
-| 35.5–36.5% | 0% | 0% |  |
+| 21.5–22.5% | 0% | 100% |  |
+| 22.5–23.5% | 0.2% | 100% |  |
+| 23.5–24.5% | 1.3% | 99.8% |  |
+| 24.5–25.5% | 4% | 98.5% |  |
+| 25.5–26.5% | 10% | 94% |  |
+| 26.5–27.5% | 16% | 84% |  |
+| 27.5–28.5% | 18% | 68% | Last Result |
+| 28.5–29.5% | 18% | 49% | Median |
+| 29.5–30.5% | 16% | 31% |  |
+| 30.5–31.5% | 11% | 15% |  |
+| 31.5–32.5% | 4% | 4% |  |
+| 32.5–33.5% | 0.5% | 0.5% |  |
+| 33.5–34.5% | 0% | 0% |  |
 
 ### Moderata samlingspartiet
 
@@ -73,15 +76,17 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 0.1% | 100% |  |
-| 13.5–14.5% | 4% | 99.9% |  |
-| 14.5–15.5% | 28% | 95% |  |
-| 15.5–16.5% | 45% | 67% | Median |
-| 16.5–17.5% | 19% | 22% |  |
-| 17.5–18.5% | 2% | 3% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
-| 19.5–20.5% | 0% | 0% | Last Result |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.4% | 100% |  |
+| 14.5–15.5% | 5% | 99.6% |  |
+| 15.5–16.5% | 17% | 95% |  |
+| 16.5–17.5% | 24% | 77% |  |
+| 17.5–18.5% | 26% | 53% | Median |
+| 18.5–19.5% | 19% | 28% |  |
+| 19.5–20.5% | 7% | 9% | Last Result |
+| 20.5–21.5% | 1.3% | 1.5% |  |
+| 21.5–22.5% | 0.1% | 0.1% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 ### Sverigedemokraterna
 
@@ -89,15 +94,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.6% | 100% |  |
-| 17.5–18.5% | 9% | 99.4% | Last Result |
-| 18.5–19.5% | 34% | 91% |  |
-| 19.5–20.5% | 39% | 57% | Median |
-| 20.5–21.5% | 15% | 17% |  |
-| 21.5–22.5% | 2% | 2% |  |
-| 22.5–23.5% | 0.1% | 0.1% |  |
-| 23.5–24.5% | 0% | 0% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0.1% | 100% |  |
+| 15.5–16.5% | 0.8% | 99.9% |  |
+| 16.5–17.5% | 4% | 99.1% |  |
+| 17.5–18.5% | 13% | 95% | Last Result |
+| 18.5–19.5% | 24% | 81% |  |
+| 19.5–20.5% | 27% | 58% | Median |
+| 20.5–21.5% | 21% | 31% |  |
+| 21.5–22.5% | 8% | 9% |  |
+| 22.5–23.5% | 1.3% | 1.4% |  |
+| 23.5–24.5% | 0.1% | 0.1% |  |
+| 24.5–25.5% | 0% | 0% |  |
 
 ### Centerpartiet
 
@@ -106,11 +114,13 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 5% | 100% |  |
-| 5.5–6.5% | 55% | 95% | Median |
-| 6.5–7.5% | 38% | 41% |  |
-| 7.5–8.5% | 3% | 3% |  |
-| 8.5–9.5% | 0% | 0% | Last Result |
+| 4.5–5.5% | 1.1% | 100% |  |
+| 5.5–6.5% | 24% | 98.9% |  |
+| 6.5–7.5% | 48% | 75% | Median |
+| 7.5–8.5% | 23% | 27% |  |
+| 8.5–9.5% | 3% | 4% | Last Result |
+| 9.5–10.5% | 0.2% | 0.2% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 ### Vänsterpartiet
 
@@ -118,13 +128,15 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.2% | 100% |  |
-| 6.5–7.5% | 13% | 99.8% |  |
-| 7.5–8.5% | 57% | 87% | Last Result, Median |
-| 8.5–9.5% | 28% | 30% |  |
-| 9.5–10.5% | 2% | 2% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 4.5–5.5% | 0.1% | 100% |  |
+| 5.5–6.5% | 4% | 99.9% |  |
+| 6.5–7.5% | 27% | 96% |  |
+| 7.5–8.5% | 42% | 69% | Last Result, Median |
+| 8.5–9.5% | 20% | 26% |  |
+| 9.5–10.5% | 5% | 6% |  |
+| 10.5–11.5% | 0.7% | 0.8% |  |
+| 11.5–12.5% | 0% | 0% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 ### Kristdemokraterna
 
@@ -133,12 +145,13 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.8% | 100% |  |
-| 4.5–5.5% | 36% | 99.2% |  |
-| 5.5–6.5% | 57% | 63% | Last Result, Median |
-| 6.5–7.5% | 6% | 6% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 3.5–4.5% | 2% | 100% |  |
+| 4.5–5.5% | 24% | 98% |  |
+| 5.5–6.5% | 38% | 74% | Last Result, Median |
+| 6.5–7.5% | 29% | 36% |  |
+| 7.5–8.5% | 6% | 7% |  |
+| 8.5–9.5% | 0.4% | 0.4% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 ### Liberalerna
 
@@ -146,11 +159,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.8% | 100% | Last Result |
-| 5.5–6.5% | 31% | 99.2% |  |
-| 6.5–7.5% | 58% | 69% | Median |
-| 7.5–8.5% | 10% | 11% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.9% | 100% |  |
+| 4.5–5.5% | 18% | 99.1% | Last Result |
+| 5.5–6.5% | 49% | 81% | Median |
+| 6.5–7.5% | 28% | 32% |  |
+| 7.5–8.5% | 4% | 4% |  |
 | 8.5–9.5% | 0.2% | 0.2% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -160,12 +174,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.3% | 100% |  |
-| 3.5–4.5% | 36% | 99.7% | Last Result |
-| 4.5–5.5% | 59% | 64% | Median |
-| 5.5–6.5% | 5% | 5% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 4% | 100% | Last Result |
+| 4.5–5.5% | 39% | 96% |  |
+| 5.5–6.5% | 45% | 58% | Median |
+| 6.5–7.5% | 12% | 13% |  |
+| 7.5–8.5% | 0.9% | 0.9% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -178,14 +193,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#sveriges-socialdemokratiska-arbetareparti">Sveriges socialdemokratiska arbetareparti</a> | 100 | 110 | 106–115 |103–117 | 103–118 | 101–121 |
-| <a href="#moderata-samlingspartiet">Moderata samlingspartiet</a> | 70 | 54 | 53–61 |52–61 | 51–62 | 50–65 |
-| <a href="#sverigedemokraterna">Sverigedemokraterna</a> | 62 | 70 | 66–74 |65–76 | 64–76 | 62–78 |
-| <a href="#centerpartiet">Centerpartiet</a> | 31 | 23 | 20–25 |20–26 | 19–27 | 18–28 |
-| <a href="#vänsterpartiet">Vänsterpartiet</a> | 28 | 29 | 26–32 |26–33 | 25–34 | 24–35 |
-| <a href="#kristdemokraterna">Kristdemokraterna</a> | 22 | 20 | 18–23 |17–24 | 17–24 | 16–26 |
-| <a href="#liberalerna">Liberalerna</a> | 20 | 24 | 22–27 |21–27 | 20–29 | 19–30 |
-| <a href="#miljöpartiet-de-gröna">Miljöpartiet de gröna</a> | 16 | 17 | 15–19 |14–19 | 0–20 | 0–21 |
+| <a href="#sveriges-socialdemokratiska-arbetareparti">Sveriges socialdemokratiska arbetareparti</a> | 100 | 101 | 94–109 |93–110 | 91–112 | 85–115 |
+| <a href="#moderata-samlingspartiet">Moderata samlingspartiet</a> | 70 | 62 | 56–68 |55–69 | 53–70 | 52–73 |
+| <a href="#sverigedemokraterna">Sverigedemokraterna</a> | 62 | 69 | 62–75 |61–77 | 59–78 | 57–80 |
+| <a href="#centerpartiet">Centerpartiet</a> | 31 | 25 | 22–29 |21–30 | 20–31 | 19–33 |
+| <a href="#vänsterpartiet">Vänsterpartiet</a> | 28 | 28 | 24–32 |23–33 | 23–34 | 21–37 |
+| <a href="#kristdemokraterna">Kristdemokraterna</a> | 22 | 22 | 18–26 |17–27 | 16–28 | 15–29 |
+| <a href="#liberalerna">Liberalerna</a> | 20 | 22 | 18–25 |17–27 | 17–28 | 15–30 |
+| <a href="#miljöpartiet-de-gröna">Miljöpartiet de gröna</a> | 16 | 20 | 17–23 |16–24 | 16–25 | 15–27 |
 
 ### Sveriges socialdemokratiska arbetareparti
 
@@ -195,35 +210,46 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 98 | 0.1% | 100% |  |
-| 99 | 0.2% | 99.9% |  |
-| 100 | 0.1% | 99.8% | Last Result |
-| 101 | 0.5% | 99.6% |  |
-| 102 | 0.6% | 99.1% |  |
-| 103 | 4% | 98.5% |  |
-| 104 | 2% | 94% |  |
-| 105 | 2% | 93% |  |
-| 106 | 6% | 91% |  |
-| 107 | 7% | 85% |  |
-| 108 | 10% | 78% |  |
-| 109 | 10% | 68% |  |
-| 110 | 11% | 57% | Median |
-| 111 | 8% | 47% |  |
-| 112 | 9% | 39% |  |
-| 113 | 9% | 29% |  |
-| 114 | 8% | 20% |  |
-| 115 | 3% | 12% |  |
-| 116 | 3% | 10% |  |
-| 117 | 3% | 7% |  |
-| 118 | 2% | 4% |  |
-| 119 | 0.6% | 2% |  |
-| 120 | 0.3% | 1.0% |  |
-| 121 | 0.3% | 0.7% |  |
-| 122 | 0.2% | 0.4% |  |
-| 123 | 0.1% | 0.3% |  |
-| 124 | 0.1% | 0.2% |  |
-| 125 | 0% | 0.1% |  |
-| 126 | 0% | 0% |  |
+| 80 | 0% | 100% |  |
+| 81 | 0% | 99.9% |  |
+| 82 | 0.2% | 99.9% |  |
+| 83 | 0.1% | 99.8% |  |
+| 84 | 0.1% | 99.6% |  |
+| 85 | 0.2% | 99.6% |  |
+| 86 | 0.3% | 99.4% |  |
+| 87 | 0.2% | 99.1% |  |
+| 88 | 0.2% | 98.9% |  |
+| 89 | 0.3% | 98.7% |  |
+| 90 | 0.4% | 98% |  |
+| 91 | 1.1% | 98% |  |
+| 92 | 1.1% | 97% |  |
+| 93 | 3% | 96% |  |
+| 94 | 3% | 93% |  |
+| 95 | 3% | 90% |  |
+| 96 | 6% | 86% |  |
+| 97 | 7% | 81% |  |
+| 98 | 6% | 74% |  |
+| 99 | 5% | 68% |  |
+| 100 | 8% | 63% | Last Result |
+| 101 | 7% | 54% | Median |
+| 102 | 8% | 47% |  |
+| 103 | 5% | 39% |  |
+| 104 | 5% | 34% |  |
+| 105 | 6% | 29% |  |
+| 106 | 5% | 24% |  |
+| 107 | 4% | 19% |  |
+| 108 | 3% | 14% |  |
+| 109 | 4% | 11% |  |
+| 110 | 3% | 8% |  |
+| 111 | 2% | 5% |  |
+| 112 | 1.0% | 3% |  |
+| 113 | 0.9% | 2% |  |
+| 114 | 0.5% | 1.0% |  |
+| 115 | 0.3% | 0.6% |  |
+| 116 | 0.1% | 0.3% |  |
+| 117 | 0.1% | 0.2% |  |
+| 118 | 0% | 0.1% |  |
+| 119 | 0% | 0% |  |
 
 ### Moderata samlingspartiet
 
@@ -233,30 +259,35 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 47 | 0% | 100% |  |
-| 48 | 0% | 99.9% |  |
-| 49 | 0.3% | 99.9% |  |
-| 50 | 1.4% | 99.7% |  |
-| 51 | 2% | 98% |  |
-| 52 | 2% | 96% |  |
-| 53 | 19% | 94% |  |
-| 54 | 26% | 75% | Median |
-| 55 | 5% | 49% |  |
-| 56 | 3% | 44% |  |
-| 57 | 9% | 41% |  |
-| 58 | 7% | 32% |  |
-| 59 | 3% | 25% |  |
-| 60 | 11% | 22% |  |
-| 61 | 8% | 11% |  |
-| 62 | 1.4% | 4% |  |
-| 63 | 0.8% | 2% |  |
-| 64 | 0.9% | 1.5% |  |
-| 65 | 0.5% | 0.6% |  |
-| 66 | 0.1% | 0.1% |  |
-| 67 | 0% | 0.1% |  |
-| 68 | 0% | 0% |  |
-| 69 | 0% | 0% |  |
-| 70 | 0% | 0% | Last Result |
+| 49 | 0.1% | 100% |  |
+| 50 | 0.1% | 99.9% |  |
+| 51 | 0.3% | 99.8% |  |
+| 52 | 0.8% | 99.5% |  |
+| 53 | 1.2% | 98.7% |  |
+| 54 | 2% | 97% |  |
+| 55 | 3% | 95% |  |
+| 56 | 7% | 92% |  |
+| 57 | 4% | 85% |  |
+| 58 | 9% | 81% |  |
+| 59 | 5% | 72% |  |
+| 60 | 8% | 67% |  |
+| 61 | 8% | 59% |  |
+| 62 | 10% | 51% | Median |
+| 63 | 5% | 41% |  |
+| 64 | 5% | 36% |  |
+| 65 | 10% | 31% |  |
+| 66 | 5% | 21% |  |
+| 67 | 5% | 16% |  |
+| 68 | 3% | 11% |  |
+| 69 | 3% | 8% |  |
+| 70 | 2% | 4% | Last Result |
+| 71 | 0.9% | 2% |  |
+| 72 | 0.3% | 1.2% |  |
+| 73 | 0.6% | 1.0% |  |
+| 74 | 0.2% | 0.4% |  |
+| 75 | 0.1% | 0.2% |  |
+| 76 | 0.1% | 0.1% |  |
+| 77 | 0% | 0% |  |
 
 ### Sverigedemokraterna
 
@@ -266,30 +297,37 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 60 | 0.1% | 100% |  |
-| 61 | 0.1% | 99.9% |  |
-| 62 | 0.4% | 99.7% | Last Result |
-| 63 | 0.7% | 99.3% |  |
-| 64 | 2% | 98.6% |  |
-| 65 | 4% | 97% |  |
-| 66 | 6% | 92% |  |
-| 67 | 6% | 86% |  |
-| 68 | 19% | 80% |  |
-| 69 | 10% | 61% |  |
-| 70 | 15% | 51% | Median |
-| 71 | 7% | 36% |  |
-| 72 | 11% | 29% |  |
-| 73 | 7% | 18% |  |
-| 74 | 4% | 11% |  |
-| 75 | 1.3% | 7% |  |
-| 76 | 3% | 5% |  |
-| 77 | 0.9% | 2% |  |
-| 78 | 0.7% | 1.1% |  |
-| 79 | 0.1% | 0.4% |  |
-| 80 | 0.2% | 0.3% |  |
-| 81 | 0.1% | 0.1% |  |
-| 82 | 0% | 0.1% |  |
-| 83 | 0% | 0% |  |
+| 54 | 0% | 100% |  |
+| 55 | 0.1% | 99.9% |  |
+| 56 | 0.3% | 99.8% |  |
+| 57 | 0.5% | 99.5% |  |
+| 58 | 0.8% | 99.0% |  |
+| 59 | 2% | 98% |  |
+| 60 | 1.4% | 97% |  |
+| 61 | 3% | 95% |  |
+| 62 | 3% | 93% | Last Result |
+| 63 | 4% | 89% |  |
+| 64 | 5% | 86% |  |
+| 65 | 7% | 81% |  |
+| 66 | 7% | 74% |  |
+| 67 | 7% | 68% |  |
+| 68 | 6% | 61% |  |
+| 69 | 6% | 55% | Median |
+| 70 | 6% | 49% |  |
+| 71 | 8% | 43% |  |
+| 72 | 7% | 35% |  |
+| 73 | 7% | 28% |  |
+| 74 | 7% | 22% |  |
+| 75 | 5% | 15% |  |
+| 76 | 4% | 10% |  |
+| 77 | 3% | 6% |  |
+| 78 | 1.5% | 4% |  |
+| 79 | 1.1% | 2% |  |
+| 80 | 0.5% | 1.0% |  |
+| 81 | 0.2% | 0.5% |  |
+| 82 | 0.1% | 0.2% |  |
+| 83 | 0% | 0.1% |  |
+| 84 | 0% | 0% |  |
 
 ### Centerpartiet
 
@@ -299,21 +337,25 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0.2% | 100% |  |
-| 18 | 1.0% | 99.8% |  |
-| 19 | 3% | 98.8% |  |
-| 20 | 9% | 96% |  |
-| 21 | 11% | 86% |  |
-| 22 | 18% | 75% |  |
-| 23 | 19% | 57% | Median |
-| 24 | 17% | 38% |  |
-| 25 | 12% | 21% |  |
-| 26 | 4% | 8% |  |
-| 27 | 3% | 4% |  |
-| 28 | 0.5% | 0.8% |  |
-| 29 | 0.2% | 0.3% |  |
-| 30 | 0% | 0.1% |  |
-| 31 | 0% | 0% | Last Result |
+| 18 | 0.1% | 100% |  |
+| 19 | 0.7% | 99.9% |  |
+| 20 | 2% | 99.2% |  |
+| 21 | 5% | 97% |  |
+| 22 | 7% | 91% |  |
+| 23 | 10% | 84% |  |
+| 24 | 17% | 74% |  |
+| 25 | 14% | 57% | Median |
+| 26 | 11% | 43% |  |
+| 27 | 9% | 32% |  |
+| 28 | 8% | 23% |  |
+| 29 | 7% | 14% |  |
+| 30 | 4% | 8% |  |
+| 31 | 2% | 3% | Last Result |
+| 32 | 0.9% | 1.5% |  |
+| 33 | 0.3% | 0.6% |  |
+| 34 | 0.2% | 0.2% |  |
+| 35 | 0.1% | 0.1% |  |
+| 36 | 0% | 0% |  |
 
 ### Vänsterpartiet
 
@@ -323,22 +365,29 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 23 | 0.2% | 100% |  |
-| 24 | 0.7% | 99.7% |  |
-| 25 | 3% | 99.0% |  |
-| 26 | 7% | 96% |  |
-| 27 | 12% | 89% |  |
-| 28 | 15% | 77% | Last Result |
-| 29 | 17% | 62% | Median |
-| 30 | 16% | 45% |  |
-| 31 | 8% | 30% |  |
-| 32 | 16% | 22% |  |
-| 33 | 2% | 6% |  |
-| 34 | 2% | 4% |  |
-| 35 | 0.9% | 1.4% |  |
-| 36 | 0.3% | 0.5% |  |
-| 37 | 0.1% | 0.1% |  |
-| 38 | 0% | 0% |  |
+| 20 | 0.2% | 100% |  |
+| 21 | 0.7% | 99.8% |  |
+| 22 | 2% | 99.1% |  |
+| 23 | 3% | 98% |  |
+| 24 | 5% | 95% |  |
+| 25 | 13% | 89% |  |
+| 26 | 9% | 77% |  |
+| 27 | 12% | 68% |  |
+| 28 | 13% | 56% | Last Result, Median |
+| 29 | 13% | 43% |  |
+| 30 | 11% | 30% |  |
+| 31 | 7% | 19% |  |
+| 32 | 4% | 12% |  |
+| 33 | 5% | 8% |  |
+| 34 | 1.4% | 4% |  |
+| 35 | 1.3% | 2% |  |
+| 36 | 0.2% | 1.1% |  |
+| 37 | 0.4% | 0.8% |  |
+| 38 | 0.1% | 0.4% |  |
+| 39 | 0.2% | 0.3% |  |
+| 40 | 0% | 0.1% |  |
+| 41 | 0.1% | 0.1% |  |
+| 42 | 0% | 0% |  |
 
 ### Kristdemokraterna
 
@@ -348,20 +397,40 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0.2% | 100% |  |
-| 16 | 1.1% | 99.8% |  |
-| 17 | 5% | 98.7% |  |
-| 18 | 9% | 93% |  |
-| 19 | 15% | 84% |  |
-| 20 | 22% | 68% | Median |
-| 21 | 23% | 46% |  |
-| 22 | 11% | 23% | Last Result |
-| 23 | 6% | 12% |  |
-| 24 | 4% | 6% |  |
-| 25 | 1.3% | 2% |  |
-| 26 | 0.4% | 0.5% |  |
-| 27 | 0.1% | 0.1% |  |
-| 28 | 0% | 0% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 0% | 99.9% |  |
+| 2 | 0% | 99.9% |  |
+| 3 | 0% | 99.9% |  |
+| 4 | 0% | 99.9% |  |
+| 5 | 0% | 99.9% |  |
+| 6 | 0% | 99.9% |  |
+| 7 | 0% | 99.9% |  |
+| 8 | 0% | 99.9% |  |
+| 9 | 0% | 99.9% |  |
+| 10 | 0% | 99.9% |  |
+| 11 | 0% | 99.9% |  |
+| 12 | 0% | 99.9% |  |
+| 13 | 0% | 99.9% |  |
+| 14 | 0.1% | 99.9% |  |
+| 15 | 0.7% | 99.8% |  |
+| 16 | 2% | 99.1% |  |
+| 17 | 5% | 97% |  |
+| 18 | 7% | 92% |  |
+| 19 | 9% | 85% |  |
+| 20 | 11% | 76% |  |
+| 21 | 13% | 65% |  |
+| 22 | 10% | 52% | Last Result, Median |
+| 23 | 10% | 42% |  |
+| 24 | 11% | 32% |  |
+| 25 | 9% | 21% |  |
+| 26 | 5% | 12% |  |
+| 27 | 3% | 7% |  |
+| 28 | 3% | 5% |  |
+| 29 | 1.1% | 2% |  |
+| 30 | 0.3% | 0.4% |  |
+| 31 | 0.1% | 0.2% |  |
+| 32 | 0.1% | 0.1% |  |
+| 33 | 0% | 0% |  |
 
 ### Liberalerna
 
@@ -371,22 +440,25 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 18 | 0.1% | 100% |  |
-| 19 | 0.4% | 99.9% |  |
-| 20 | 3% | 99.5% | Last Result |
-| 21 | 5% | 96% |  |
-| 22 | 12% | 92% |  |
-| 23 | 22% | 80% |  |
-| 24 | 19% | 58% | Median |
-| 25 | 11% | 39% |  |
-| 26 | 17% | 28% |  |
-| 27 | 7% | 11% |  |
-| 28 | 2% | 4% |  |
-| 29 | 2% | 3% |  |
-| 30 | 0.4% | 0.6% |  |
-| 31 | 0.1% | 0.1% |  |
-| 32 | 0% | 0.1% |  |
-| 33 | 0% | 0% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 0.4% | 99.9% |  |
+| 16 | 1.2% | 99.5% |  |
+| 17 | 3% | 98% |  |
+| 18 | 5% | 95% |  |
+| 19 | 10% | 90% |  |
+| 20 | 11% | 79% | Last Result |
+| 21 | 13% | 69% |  |
+| 22 | 15% | 56% | Median |
+| 23 | 11% | 40% |  |
+| 24 | 12% | 29% |  |
+| 25 | 10% | 17% |  |
+| 26 | 2% | 8% |  |
+| 27 | 2% | 5% |  |
+| 28 | 2% | 3% |  |
+| 29 | 0.2% | 0.7% |  |
+| 30 | 0.3% | 0.5% |  |
+| 31 | 0.2% | 0.2% |  |
+| 32 | 0% | 0% |  |
 
 ### Miljöpartiet de gröna
 
@@ -396,31 +468,37 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 0% | 96% |  |
-| 2 | 0% | 96% |  |
-| 3 | 0% | 96% |  |
-| 4 | 0% | 96% |  |
-| 5 | 0% | 96% |  |
-| 6 | 0% | 96% |  |
-| 7 | 0% | 96% |  |
-| 8 | 0% | 96% |  |
-| 9 | 0% | 96% |  |
-| 10 | 0% | 96% |  |
-| 11 | 0% | 96% |  |
-| 12 | 0% | 96% |  |
-| 13 | 0% | 96% |  |
-| 14 | 2% | 96% |  |
-| 15 | 13% | 94% |  |
-| 16 | 28% | 82% | Last Result |
-| 17 | 20% | 54% | Median |
-| 18 | 15% | 34% |  |
-| 19 | 15% | 19% |  |
-| 20 | 3% | 4% |  |
-| 21 | 1.1% | 2% |  |
-| 22 | 0.3% | 0.4% |  |
-| 23 | 0.1% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 0 | 0.2% | 100% |  |
+| 1 | 0% | 99.8% |  |
+| 2 | 0% | 99.8% |  |
+| 3 | 0% | 99.8% |  |
+| 4 | 0% | 99.8% |  |
+| 5 | 0% | 99.8% |  |
+| 6 | 0% | 99.8% |  |
+| 7 | 0% | 99.8% |  |
+| 8 | 0% | 99.8% |  |
+| 9 | 0% | 99.8% |  |
+| 10 | 0% | 99.8% |  |
+| 11 | 0% | 99.8% |  |
+| 12 | 0% | 99.8% |  |
+| 13 | 0% | 99.8% |  |
+| 14 | 0.2% | 99.8% |  |
+| 15 | 1.4% | 99.6% |  |
+| 16 | 5% | 98% | Last Result |
+| 17 | 11% | 93% |  |
+| 18 | 14% | 83% |  |
+| 19 | 19% | 69% |  |
+| 20 | 15% | 50% | Median |
+| 21 | 12% | 35% |  |
+| 22 | 8% | 24% |  |
+| 23 | 7% | 16% |  |
+| 24 | 5% | 9% |  |
+| 25 | 2% | 3% |  |
+| 26 | 1.1% | 2% |  |
+| 27 | 0.3% | 0.6% |  |
+| 28 | 0.2% | 0.2% |  |
+| 29 | 0% | 0.1% |  |
+| 30 | 0% | 0% |  |
 
 
 ## Coalitions
@@ -431,24 +509,25 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Sveriges socialdemokratiska arbetareparti – Centerpartiet – Vänsterpartiet – Liberalerna – Miljöpartiet de gröna | 195 | 204 | 100% | 196–209 | 195–210 | 193–211 | 190–213 |
-| Sveriges socialdemokratiska arbetareparti – Moderata samlingspartiet – Centerpartiet | 201 | 189 | 100% | 185–193 | 184–195 | 182–198 | 179–204 |
-| Sveriges socialdemokratiska arbetareparti – Centerpartiet – Vänsterpartiet – Miljöpartiet de gröna | 175 | 180 | 74% | 172–185 | 171–186 | 169–186 | 163–188 |
-| Sveriges socialdemokratiska arbetareparti – Centerpartiet – Liberalerna – Miljöpartiet de gröna | 167 | 174 | 42% | 168–180 | 166–181 | 164–182 | 158–185 |
-| Moderata samlingspartiet – Sverigedemokraterna – Kristdemokraterna – Liberalerna | 174 | 169 | 26% | 164–177 | 163–178 | 163–180 | 161–186 |
-| Sveriges socialdemokratiska arbetareparti – Moderata samlingspartiet | 170 | 166 | 3% | 162–171 | 160–173 | 159–175 | 157–180 |
-| Sveriges socialdemokratiska arbetareparti – Vänsterpartiet – Miljöpartiet de gröna | 144 | 157 | 0% | 150–162 | 148–163 | 146–164 | 141–166 |
-| Sveriges socialdemokratiska arbetareparti – Centerpartiet – Miljöpartiet de gröna | 147 | 150 | 0% | 143–155 | 142–157 | 139–157 | 133–160 |
-| Moderata samlingspartiet – Sverigedemokraterna – Kristdemokraterna | 154 | 145 | 0% | 140–153 | 139–154 | 138–156 | 136–159 |
-| Sveriges socialdemokratiska arbetareparti – Vänsterpartiet | 128 | 140 | 0% | 134–145 | 132–146 | 131–148 | 129–151 |
-| Moderata samlingspartiet – Sverigedemokraterna | 132 | 125 | 0% | 120–132 | 119–134 | 118–135 | 117–138 |
-| Sveriges socialdemokratiska arbetareparti – Miljöpartiet de gröna | 116 | 127 | 0% | 122–132 | 119–134 | 116–135 | 110–137 |
-| Moderata samlingspartiet – Centerpartiet – Kristdemokraterna – Liberalerna | 143 | 123 | 0% | 119–128 | 118–130 | 116–132 | 114–136 |
-| Moderata samlingspartiet – Centerpartiet – Liberalerna | 121 | 102 | 0% | 99–108 | 97–110 | 96–111 | 94–114 |
-| Moderata samlingspartiet – Kristdemokraterna – Liberalerna | 112 | 100 | 0% | 96–106 | 95–108 | 93–109 | 92–111 |
-| Moderata samlingspartiet – Centerpartiet – Kristdemokraterna | 123 | 99 | 0% | 95–103 | 95–105 | 93–107 | 91–110 |
-| Moderata samlingspartiet – Centerpartiet | 101 | 78 | 0% | 75–83 | 75–85 | 73–86 | 71–89 |
-| Moderata samlingspartiet – Kristdemokraterna | 92 | 76 | 0% | 72–81 | 71–82 | 71–84 | 68–86 |
+| Sveriges socialdemokratiska arbetareparti – Centerpartiet – Vänsterpartiet – Liberalerna – Miljöpartiet de gröna | 195 | 197 | 100% | 188–203 | 187–205 | 185–206 | 181–209 |
+| Sveriges socialdemokratiska arbetareparti – Moderata samlingspartiet – Centerpartiet | 201 | 188 | 99.6% | 182–194 | 181–196 | 179–197 | 175–200 |
+| Moderata samlingspartiet – Sverigedemokraterna – Kristdemokraterna – Liberalerna | 174 | 174 | 50% | 168–181 | 167–182 | 166–184 | 163–188 |
+| Sveriges socialdemokratiska arbetareparti – Centerpartiet – Vänsterpartiet – Miljöpartiet de gröna | 175 | 175 | 50% | 168–181 | 167–182 | 165–183 | 161–186 |
+| Sveriges socialdemokratiska arbetareparti – Centerpartiet – Liberalerna – Miljöpartiet de gröna | 167 | 169 | 11% | 162–175 | 160–176 | 158–177 | 152–180 |
+| Sveriges socialdemokratiska arbetareparti – Moderata samlingspartiet | 170 | 163 | 0.6% | 157–169 | 155–170 | 153–172 | 149–175 |
+| Moderata samlingspartiet – Sverigedemokraterna – Kristdemokraterna | 154 | 152 | 0% | 146–161 | 144–162 | 143–164 | 140–168 |
+| Sveriges socialdemokratiska arbetareparti – Vänsterpartiet – Miljöpartiet de gröna | 144 | 149 | 0% | 142–156 | 141–157 | 139–159 | 135–162 |
+| Sveriges socialdemokratiska arbetareparti – Centerpartiet – Miljöpartiet de gröna | 147 | 146 | 0% | 140–152 | 138–154 | 137–155 | 130–158 |
+| Moderata samlingspartiet – Centerpartiet – Kristdemokraterna – Liberalerna | 143 | 132 | 0% | 121–140 | 119–142 | 116–144 | 114–148 |
+| Moderata samlingspartiet – Sverigedemokraterna | 132 | 131 | 0% | 125–137 | 123–139 | 122–141 | 119–144 |
+| Sveriges socialdemokratiska arbetareparti – Vänsterpartiet | 128 | 130 | 0% | 122–137 | 120–138 | 118–140 | 114–143 |
+| Sveriges socialdemokratiska arbetareparti – Miljöpartiet de gröna | 116 | 121 | 0% | 114–128 | 112–129 | 111–131 | 106–134 |
+| Moderata samlingspartiet – Centerpartiet – Kristdemokraterna | 123 | 110 | 0% | 98–118 | 96–120 | 95–122 | 92–125 |
+| Moderata samlingspartiet – Centerpartiet – Liberalerna | 121 | 109 | 0% | 102–116 | 100–119 | 98–121 | 95–124 |
+| Moderata samlingspartiet – Kristdemokraterna – Liberalerna | 112 | 106 | 0% | 97–113 | 95–116 | 94–117 | 91–120 |
+| Sveriges socialdemokratiska arbetareparti | 100 | 101 | 0% | 94–109 | 93–110 | 91–112 | 85–115 |
+| Moderata samlingspartiet – Centerpartiet | 101 | 87 | 0% | 79–94 | 78–96 | 76–98 | 74–101 |
+| Moderata samlingspartiet – Kristdemokraterna | 92 | 84 | 0% | 75–91 | 73–93 | 72–95 | 69–98 |
 
 ### Sveriges socialdemokratiska arbetareparti – Centerpartiet – Vänsterpartiet – Liberalerna – Miljöpartiet de gröna
 
@@ -456,37 +535,43 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 186 | 0.1% | 100% |  |
-| 187 | 0% | 99.9% |  |
-| 188 | 0.2% | 99.9% |  |
-| 189 | 0.1% | 99.7% |  |
-| 190 | 0.2% | 99.6% |  |
-| 191 | 0.2% | 99.3% |  |
-| 192 | 0.7% | 99.1% |  |
-| 193 | 1.0% | 98% |  |
-| 194 | 2% | 97% |  |
-| 195 | 1.0% | 95% | Last Result |
-| 196 | 5% | 94% |  |
-| 197 | 4% | 90% |  |
-| 198 | 6% | 86% |  |
-| 199 | 7% | 80% |  |
-| 200 | 7% | 74% |  |
-| 201 | 5% | 67% |  |
-| 202 | 5% | 62% |  |
-| 203 | 6% | 57% | Median |
-| 204 | 7% | 52% |  |
-| 205 | 10% | 45% |  |
-| 206 | 10% | 35% |  |
-| 207 | 8% | 25% |  |
-| 208 | 6% | 17% |  |
-| 209 | 5% | 12% |  |
-| 210 | 2% | 6% |  |
-| 211 | 3% | 4% |  |
-| 212 | 0.6% | 1.2% |  |
-| 213 | 0.4% | 0.6% |  |
-| 214 | 0.1% | 0.2% |  |
-| 215 | 0.1% | 0.1% |  |
-| 216 | 0% | 0% |  |
+| 177 | 0% | 100% |  |
+| 178 | 0% | 99.9% |  |
+| 179 | 0.1% | 99.9% |  |
+| 180 | 0.2% | 99.8% |  |
+| 181 | 0.2% | 99.7% |  |
+| 182 | 0.4% | 99.5% |  |
+| 183 | 0.4% | 99.1% |  |
+| 184 | 0.9% | 98.7% |  |
+| 185 | 0.9% | 98% |  |
+| 186 | 0.7% | 97% |  |
+| 187 | 3% | 96% |  |
+| 188 | 4% | 93% |  |
+| 189 | 2% | 90% |  |
+| 190 | 2% | 87% |  |
+| 191 | 5% | 85% |  |
+| 192 | 3% | 80% |  |
+| 193 | 6% | 77% |  |
+| 194 | 6% | 71% |  |
+| 195 | 6% | 65% | Last Result |
+| 196 | 5% | 59% | Median |
+| 197 | 9% | 54% |  |
+| 198 | 8% | 45% |  |
+| 199 | 9% | 37% |  |
+| 200 | 8% | 29% |  |
+| 201 | 5% | 21% |  |
+| 202 | 4% | 16% |  |
+| 203 | 2% | 12% |  |
+| 204 | 4% | 9% |  |
+| 205 | 3% | 6% |  |
+| 206 | 1.4% | 3% |  |
+| 207 | 0.7% | 2% |  |
+| 208 | 0.3% | 0.9% |  |
+| 209 | 0.3% | 0.6% |  |
+| 210 | 0.1% | 0.3% |  |
+| 211 | 0.1% | 0.1% |  |
+| 212 | 0% | 0.1% |  |
+| 213 | 0% | 0% |  |
 
 ### Sveriges socialdemokratiska arbetareparti – Moderata samlingspartiet – Centerpartiet
 
@@ -494,121 +579,42 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 176 | 0.1% | 100% |  |
-| 177 | 0.1% | 99.9% |  |
-| 178 | 0.1% | 99.8% |  |
-| 179 | 0.3% | 99.7% |  |
-| 180 | 0.3% | 99.4% |  |
-| 181 | 0.7% | 99.1% |  |
-| 182 | 1.3% | 98% |  |
-| 183 | 2% | 97% |  |
-| 184 | 4% | 96% |  |
-| 185 | 5% | 92% |  |
-| 186 | 10% | 87% |  |
-| 187 | 9% | 76% | Median |
-| 188 | 9% | 68% |  |
-| 189 | 18% | 58% |  |
-| 190 | 10% | 40% |  |
-| 191 | 7% | 30% |  |
-| 192 | 9% | 23% |  |
-| 193 | 4% | 14% |  |
-| 194 | 3% | 10% |  |
-| 195 | 2% | 7% |  |
-| 196 | 1.5% | 5% |  |
-| 197 | 0.9% | 4% |  |
-| 198 | 0.5% | 3% |  |
-| 199 | 0.6% | 2% |  |
-| 200 | 0.3% | 2% |  |
-| 201 | 0.3% | 1.2% | Last Result |
-| 202 | 0.1% | 0.9% |  |
-| 203 | 0.3% | 0.8% |  |
-| 204 | 0.1% | 0.5% |  |
-| 205 | 0% | 0.4% |  |
-| 206 | 0.1% | 0.4% |  |
-| 207 | 0.2% | 0.3% |  |
-| 208 | 0% | 0.1% |  |
-| 209 | 0% | 0.1% |  |
-| 210 | 0% | 0% |  |
-
-### Sveriges socialdemokratiska arbetareparti – Centerpartiet – Vänsterpartiet – Miljöpartiet de gröna
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-s–c–v–mp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 161 | 0.1% | 100% |  |
-| 162 | 0.1% | 99.9% |  |
-| 163 | 0.4% | 99.8% |  |
-| 164 | 0% | 99.4% |  |
-| 165 | 0.2% | 99.3% |  |
-| 166 | 0.4% | 99.1% |  |
-| 167 | 0.3% | 98.7% |  |
-| 168 | 0.4% | 98% |  |
-| 169 | 0.7% | 98% |  |
-| 170 | 1.4% | 97% |  |
-| 171 | 3% | 96% |  |
-| 172 | 3% | 93% |  |
-| 173 | 7% | 90% |  |
-| 174 | 9% | 83% |  |
-| 175 | 4% | 74% | Last Result, Majority |
-| 176 | 5% | 69% |  |
-| 177 | 3% | 64% |  |
-| 178 | 4% | 61% |  |
-| 179 | 4% | 57% | Median |
-| 180 | 5% | 53% |  |
-| 181 | 9% | 48% |  |
-| 182 | 8% | 39% |  |
-| 183 | 12% | 31% |  |
-| 184 | 7% | 19% |  |
-| 185 | 6% | 12% |  |
-| 186 | 5% | 6% |  |
-| 187 | 0.9% | 2% |  |
-| 188 | 0.5% | 0.8% |  |
-| 189 | 0.2% | 0.3% |  |
-| 190 | 0% | 0.1% |  |
-| 191 | 0% | 0% |  |
-
-### Sveriges socialdemokratiska arbetareparti – Centerpartiet – Liberalerna – Miljöpartiet de gröna
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-s–c–l–mp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 154 | 0% | 100% |  |
-| 155 | 0% | 99.9% |  |
-| 156 | 0.2% | 99.9% |  |
-| 157 | 0.1% | 99.7% |  |
-| 158 | 0.2% | 99.6% |  |
-| 159 | 0% | 99.5% |  |
-| 160 | 0.4% | 99.4% |  |
-| 161 | 0.1% | 99.0% |  |
-| 162 | 0.6% | 98.9% |  |
-| 163 | 0.5% | 98% |  |
-| 164 | 0.6% | 98% |  |
-| 165 | 1.3% | 97% |  |
-| 166 | 2% | 96% |  |
-| 167 | 2% | 94% | Last Result |
-| 168 | 4% | 91% |  |
-| 169 | 5% | 87% |  |
-| 170 | 7% | 82% |  |
-| 171 | 4% | 75% |  |
-| 172 | 9% | 71% |  |
-| 173 | 9% | 62% |  |
-| 174 | 11% | 53% | Median |
-| 175 | 7% | 42% | Majority |
-| 176 | 6% | 36% |  |
-| 177 | 9% | 29% |  |
-| 178 | 5% | 20% |  |
-| 179 | 4% | 14% |  |
-| 180 | 5% | 11% |  |
-| 181 | 3% | 6% |  |
-| 182 | 2% | 3% |  |
-| 183 | 0.5% | 1.3% |  |
-| 184 | 0.3% | 0.9% |  |
-| 185 | 0.3% | 0.6% |  |
-| 186 | 0.1% | 0.2% |  |
-| 187 | 0% | 0.1% |  |
-| 188 | 0% | 0% |  |
+| 170 | 0% | 100% |  |
+| 171 | 0.1% | 99.9% |  |
+| 172 | 0% | 99.8% |  |
+| 173 | 0.1% | 99.8% |  |
+| 174 | 0.1% | 99.7% |  |
+| 175 | 0.2% | 99.6% | Majority |
+| 176 | 0.4% | 99.3% |  |
+| 177 | 0.2% | 99.0% |  |
+| 178 | 1.1% | 98.7% |  |
+| 179 | 0.8% | 98% |  |
+| 180 | 2% | 97% |  |
+| 181 | 2% | 95% |  |
+| 182 | 4% | 93% |  |
+| 183 | 4% | 89% |  |
+| 184 | 6% | 86% |  |
+| 185 | 5% | 80% |  |
+| 186 | 10% | 75% |  |
+| 187 | 7% | 64% |  |
+| 188 | 8% | 57% | Median |
+| 189 | 9% | 49% |  |
+| 190 | 9% | 41% |  |
+| 191 | 6% | 32% |  |
+| 192 | 7% | 25% |  |
+| 193 | 5% | 18% |  |
+| 194 | 4% | 13% |  |
+| 195 | 3% | 9% |  |
+| 196 | 2% | 6% |  |
+| 197 | 2% | 4% |  |
+| 198 | 0.8% | 2% |  |
+| 199 | 0.5% | 1.3% |  |
+| 200 | 0.3% | 0.8% |  |
+| 201 | 0.2% | 0.5% | Last Result |
+| 202 | 0.1% | 0.2% |  |
+| 203 | 0.1% | 0.1% |  |
+| 204 | 0% | 0.1% |  |
+| 205 | 0% | 0% |  |
 
 ### Moderata samlingspartiet – Sverigedemokraterna – Kristdemokraterna – Liberalerna
 
@@ -616,37 +622,128 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 159 | 0% | 100% |  |
-| 160 | 0.2% | 99.9% |  |
-| 161 | 0.5% | 99.7% |  |
-| 162 | 0.9% | 99.2% |  |
-| 163 | 5% | 98% |  |
-| 164 | 6% | 94% |  |
-| 165 | 7% | 88% |  |
-| 166 | 12% | 81% |  |
-| 167 | 8% | 69% |  |
-| 168 | 9% | 61% | Median |
-| 169 | 5% | 52% |  |
-| 170 | 4% | 47% |  |
-| 171 | 4% | 43% |  |
-| 172 | 3% | 39% |  |
-| 173 | 5% | 36% |  |
-| 174 | 4% | 31% | Last Result |
-| 175 | 9% | 26% | Majority |
-| 176 | 7% | 17% |  |
-| 177 | 3% | 10% |  |
-| 178 | 3% | 7% |  |
-| 179 | 1.4% | 4% |  |
-| 180 | 0.7% | 3% |  |
-| 181 | 0.4% | 2% |  |
-| 182 | 0.3% | 2% |  |
-| 183 | 0.4% | 1.3% |  |
-| 184 | 0.2% | 0.9% |  |
-| 185 | 0% | 0.7% |  |
-| 186 | 0.4% | 0.6% |  |
-| 187 | 0.1% | 0.2% |  |
+| 160 | 0% | 100% |  |
+| 161 | 0.1% | 99.9% |  |
+| 162 | 0.3% | 99.9% |  |
+| 163 | 0.3% | 99.6% |  |
+| 164 | 0.5% | 99.3% |  |
+| 165 | 0.6% | 98.8% |  |
+| 166 | 2% | 98% |  |
+| 167 | 2% | 97% |  |
+| 168 | 4% | 94% |  |
+| 169 | 5% | 90% |  |
+| 170 | 5% | 85% |  |
+| 171 | 6% | 80% |  |
+| 172 | 7% | 74% |  |
+| 173 | 9% | 67% |  |
+| 174 | 9% | 58% | Last Result |
+| 175 | 9% | 50% | Median, Majority |
+| 176 | 7% | 40% |  |
+| 177 | 6% | 33% |  |
+| 178 | 6% | 26% |  |
+| 179 | 6% | 20% |  |
+| 180 | 2% | 14% |  |
+| 181 | 4% | 12% |  |
+| 182 | 3% | 8% |  |
+| 183 | 2% | 5% |  |
+| 184 | 0.7% | 3% |  |
+| 185 | 0.6% | 2% |  |
+| 186 | 0.5% | 2% |  |
+| 187 | 0.3% | 1.1% |  |
+| 188 | 0.3% | 0.8% |  |
+| 189 | 0.2% | 0.4% |  |
+| 190 | 0.1% | 0.3% |  |
+| 191 | 0% | 0.2% |  |
+| 192 | 0.1% | 0.1% |  |
+| 193 | 0% | 0.1% |  |
+| 194 | 0% | 0% |  |
+
+### Sveriges socialdemokratiska arbetareparti – Centerpartiet – Vänsterpartiet – Miljöpartiet de gröna
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-s–c–v–mp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 156 | 0% | 100% |  |
+| 157 | 0.1% | 99.9% |  |
+| 158 | 0% | 99.9% |  |
+| 159 | 0.1% | 99.8% |  |
+| 160 | 0.2% | 99.7% |  |
+| 161 | 0.3% | 99.6% |  |
+| 162 | 0.3% | 99.2% |  |
+| 163 | 0.5% | 98.9% |  |
+| 164 | 0.6% | 98% |  |
+| 165 | 0.7% | 98% |  |
+| 166 | 2% | 97% |  |
+| 167 | 3% | 95% |  |
+| 168 | 4% | 92% |  |
+| 169 | 2% | 88% |  |
+| 170 | 6% | 86% |  |
+| 171 | 6% | 80% |  |
+| 172 | 6% | 74% |  |
+| 173 | 7% | 67% |  |
+| 174 | 9% | 60% | Median |
+| 175 | 9% | 50% | Last Result, Majority |
+| 176 | 9% | 42% |  |
+| 177 | 7% | 33% |  |
+| 178 | 6% | 26% |  |
+| 179 | 5% | 20% |  |
+| 180 | 5% | 15% |  |
+| 181 | 4% | 10% |  |
+| 182 | 2% | 6% |  |
+| 183 | 2% | 3% |  |
+| 184 | 0.6% | 2% |  |
+| 185 | 0.5% | 1.2% |  |
+| 186 | 0.3% | 0.7% |  |
+| 187 | 0.3% | 0.4% |  |
 | 188 | 0.1% | 0.1% |  |
-| 189 | 0% | 0% |  |
+| 189 | 0% | 0.1% |  |
+| 190 | 0% | 0% |  |
+
+### Sveriges socialdemokratiska arbetareparti – Centerpartiet – Liberalerna – Miljöpartiet de gröna
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-s–c–l–mp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 147 | 0% | 100% |  |
+| 148 | 0% | 99.9% |  |
+| 149 | 0.1% | 99.9% |  |
+| 150 | 0.1% | 99.9% |  |
+| 151 | 0.1% | 99.7% |  |
+| 152 | 0.2% | 99.7% |  |
+| 153 | 0.1% | 99.5% |  |
+| 154 | 0.2% | 99.4% |  |
+| 155 | 0.2% | 99.2% |  |
+| 156 | 0.3% | 98.9% |  |
+| 157 | 0.6% | 98.6% |  |
+| 158 | 0.9% | 98% |  |
+| 159 | 1.1% | 97% |  |
+| 160 | 1.4% | 96% |  |
+| 161 | 2% | 95% |  |
+| 162 | 3% | 93% |  |
+| 163 | 6% | 89% |  |
+| 164 | 5% | 83% |  |
+| 165 | 5% | 78% |  |
+| 166 | 6% | 73% |  |
+| 167 | 10% | 67% | Last Result |
+| 168 | 8% | 58% | Median |
+| 169 | 9% | 50% |  |
+| 170 | 9% | 42% |  |
+| 171 | 7% | 32% |  |
+| 172 | 7% | 25% |  |
+| 173 | 5% | 18% |  |
+| 174 | 3% | 14% |  |
+| 175 | 5% | 11% | Majority |
+| 176 | 2% | 5% |  |
+| 177 | 1.2% | 3% |  |
+| 178 | 0.9% | 2% |  |
+| 179 | 0.5% | 1.2% |  |
+| 180 | 0.4% | 0.7% |  |
+| 181 | 0.1% | 0.3% |  |
+| 182 | 0.1% | 0.2% |  |
+| 183 | 0.1% | 0.1% |  |
+| 184 | 0% | 0% |  |
 
 ### Sveriges socialdemokratiska arbetareparti – Moderata samlingspartiet
 
@@ -654,122 +751,43 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 153 | 0% | 100% |  |
-| 154 | 0.1% | 99.9% |  |
-| 155 | 0.2% | 99.9% |  |
-| 156 | 0.1% | 99.7% |  |
-| 157 | 0.7% | 99.6% |  |
-| 158 | 0.7% | 98.8% |  |
-| 159 | 2% | 98% |  |
-| 160 | 2% | 96% |  |
-| 161 | 1.5% | 95% |  |
-| 162 | 10% | 93% |  |
-| 163 | 8% | 83% |  |
-| 164 | 10% | 76% | Median |
-| 165 | 7% | 66% |  |
-| 166 | 12% | 59% |  |
-| 167 | 11% | 47% |  |
-| 168 | 11% | 35% |  |
-| 169 | 8% | 25% |  |
-| 170 | 3% | 17% | Last Result |
-| 171 | 5% | 14% |  |
-| 172 | 3% | 9% |  |
-| 173 | 2% | 5% |  |
-| 174 | 0.9% | 3% |  |
-| 175 | 0.4% | 3% | Majority |
-| 176 | 0.5% | 2% |  |
-| 177 | 0.6% | 2% |  |
-| 178 | 0.2% | 1.0% |  |
-| 179 | 0.3% | 0.8% |  |
-| 180 | 0.1% | 0.6% |  |
-| 181 | 0.1% | 0.4% |  |
-| 182 | 0% | 0.4% |  |
-| 183 | 0.2% | 0.3% |  |
-| 184 | 0% | 0.1% |  |
-| 185 | 0% | 0.1% |  |
-| 186 | 0% | 0% |  |
-
-### Sveriges socialdemokratiska arbetareparti – Vänsterpartiet – Miljöpartiet de gröna
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-s–v–mp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 137 | 0.1% | 100% |  |
-| 138 | 0.1% | 99.9% |  |
-| 139 | 0% | 99.8% |  |
-| 140 | 0.1% | 99.8% |  |
-| 141 | 0.4% | 99.6% |  |
-| 142 | 0.1% | 99.3% |  |
-| 143 | 0.5% | 99.1% |  |
-| 144 | 0.3% | 98.6% | Last Result |
-| 145 | 0.4% | 98% |  |
-| 146 | 1.5% | 98% |  |
-| 147 | 0.7% | 96% |  |
-| 148 | 1.3% | 96% |  |
-| 149 | 2% | 95% |  |
-| 150 | 4% | 93% |  |
-| 151 | 6% | 89% |  |
-| 152 | 8% | 83% |  |
-| 153 | 5% | 76% |  |
-| 154 | 8% | 71% |  |
-| 155 | 6% | 63% |  |
-| 156 | 5% | 57% | Median |
-| 157 | 14% | 52% |  |
-| 158 | 7% | 38% |  |
-| 159 | 5% | 31% |  |
-| 160 | 8% | 26% |  |
-| 161 | 5% | 18% |  |
-| 162 | 7% | 13% |  |
-| 163 | 3% | 6% |  |
-| 164 | 1.0% | 3% |  |
-| 165 | 2% | 2% |  |
-| 166 | 0.4% | 0.8% |  |
-| 167 | 0.3% | 0.4% |  |
-| 168 | 0.1% | 0.1% |  |
-| 169 | 0% | 0.1% |  |
-| 170 | 0% | 0% |  |
-
-### Sveriges socialdemokratiska arbetareparti – Centerpartiet – Miljöpartiet de gröna
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-s–c–mp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 130 | 0% | 100% |  |
-| 131 | 0.2% | 99.9% |  |
-| 132 | 0.1% | 99.7% |  |
-| 133 | 0.3% | 99.6% |  |
-| 134 | 0.4% | 99.3% |  |
-| 135 | 0.1% | 98.9% |  |
-| 136 | 0.4% | 98.8% |  |
-| 137 | 0.3% | 98% |  |
-| 138 | 0.3% | 98% |  |
-| 139 | 0.4% | 98% |  |
-| 140 | 0.4% | 97% |  |
-| 141 | 2% | 97% |  |
-| 142 | 1.4% | 95% |  |
-| 143 | 4% | 94% |  |
-| 144 | 3% | 90% |  |
-| 145 | 5% | 87% |  |
-| 146 | 7% | 82% |  |
-| 147 | 8% | 74% | Last Result |
-| 148 | 5% | 67% |  |
-| 149 | 9% | 61% |  |
-| 150 | 7% | 52% | Median |
-| 151 | 10% | 46% |  |
-| 152 | 8% | 36% |  |
-| 153 | 6% | 28% |  |
-| 154 | 3% | 21% |  |
-| 155 | 9% | 18% |  |
-| 156 | 4% | 10% |  |
-| 157 | 4% | 6% |  |
-| 158 | 0.8% | 2% |  |
-| 159 | 0.7% | 1.2% |  |
-| 160 | 0.3% | 0.5% |  |
-| 161 | 0.1% | 0.2% |  |
-| 162 | 0.1% | 0.1% |  |
-| 163 | 0% | 0% |  |
+| 144 | 0% | 100% |  |
+| 145 | 0% | 99.9% |  |
+| 146 | 0.1% | 99.9% |  |
+| 147 | 0.1% | 99.8% |  |
+| 148 | 0.3% | 99.8% |  |
+| 149 | 0.3% | 99.5% |  |
+| 150 | 0.2% | 99.2% |  |
+| 151 | 0.6% | 99.0% |  |
+| 152 | 0.6% | 98% |  |
+| 153 | 0.9% | 98% |  |
+| 154 | 1.2% | 97% |  |
+| 155 | 2% | 96% |  |
+| 156 | 2% | 93% |  |
+| 157 | 4% | 91% |  |
+| 158 | 6% | 87% |  |
+| 159 | 5% | 82% |  |
+| 160 | 7% | 77% |  |
+| 161 | 6% | 70% |  |
+| 162 | 10% | 65% |  |
+| 163 | 9% | 55% | Median |
+| 164 | 6% | 46% |  |
+| 165 | 9% | 40% |  |
+| 166 | 5% | 31% |  |
+| 167 | 6% | 26% |  |
+| 168 | 8% | 20% |  |
+| 169 | 5% | 12% |  |
+| 170 | 3% | 7% | Last Result |
+| 171 | 1.4% | 5% |  |
+| 172 | 0.9% | 3% |  |
+| 173 | 0.8% | 2% |  |
+| 174 | 1.0% | 2% |  |
+| 175 | 0.3% | 0.6% | Majority |
+| 176 | 0.2% | 0.3% |  |
+| 177 | 0.1% | 0.2% |  |
+| 178 | 0.1% | 0.1% |  |
+| 179 | 0% | 0.1% |  |
+| 180 | 0% | 0% |  |
 
 ### Moderata samlingspartiet – Sverigedemokraterna – Kristdemokraterna
 
@@ -777,154 +795,132 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 134 | 0.1% | 100% |  |
-| 135 | 0.1% | 99.9% |  |
-| 136 | 0.4% | 99.8% |  |
-| 137 | 0.6% | 99.4% |  |
-| 138 | 3% | 98.8% |  |
-| 139 | 2% | 96% |  |
-| 140 | 5% | 94% |  |
-| 141 | 6% | 88% |  |
-| 142 | 8% | 83% |  |
-| 143 | 10% | 75% |  |
-| 144 | 10% | 65% | Median |
-| 145 | 7% | 55% |  |
-| 146 | 6% | 48% |  |
-| 147 | 5% | 43% |  |
-| 148 | 5% | 38% |  |
-| 149 | 7% | 33% |  |
-| 150 | 7% | 26% |  |
-| 151 | 6% | 20% |  |
-| 152 | 4% | 14% |  |
-| 153 | 5% | 10% |  |
-| 154 | 1.0% | 6% | Last Result |
-| 155 | 2% | 5% |  |
-| 156 | 1.0% | 3% |  |
-| 157 | 0.7% | 2% |  |
-| 158 | 0.2% | 0.9% |  |
-| 159 | 0.2% | 0.7% |  |
-| 160 | 0.1% | 0.4% |  |
-| 161 | 0.2% | 0.3% |  |
-| 162 | 0% | 0.1% |  |
-| 163 | 0.1% | 0.1% |  |
-| 164 | 0% | 0% |  |
+| 137 | 0% | 100% |  |
+| 138 | 0.1% | 99.9% |  |
+| 139 | 0.1% | 99.9% |  |
+| 140 | 0.3% | 99.7% |  |
+| 141 | 0.3% | 99.4% |  |
+| 142 | 0.7% | 99.1% |  |
+| 143 | 1.4% | 98% |  |
+| 144 | 3% | 97% |  |
+| 145 | 4% | 94% |  |
+| 146 | 2% | 91% |  |
+| 147 | 4% | 88% |  |
+| 148 | 5% | 84% |  |
+| 149 | 8% | 79% |  |
+| 150 | 9% | 71% |  |
+| 151 | 8% | 63% |  |
+| 152 | 9% | 55% |  |
+| 153 | 5% | 46% | Median |
+| 154 | 6% | 41% | Last Result |
+| 155 | 6% | 35% |  |
+| 156 | 6% | 29% |  |
+| 157 | 3% | 23% |  |
+| 158 | 5% | 20% |  |
+| 159 | 2% | 15% |  |
+| 160 | 2% | 13% |  |
+| 161 | 4% | 10% |  |
+| 162 | 3% | 7% |  |
+| 163 | 0.7% | 4% |  |
+| 164 | 0.9% | 3% |  |
+| 165 | 0.9% | 2% |  |
+| 166 | 0.4% | 1.3% |  |
+| 167 | 0.4% | 0.9% |  |
+| 168 | 0.2% | 0.5% |  |
+| 169 | 0.2% | 0.3% |  |
+| 170 | 0.1% | 0.2% |  |
+| 171 | 0% | 0.1% |  |
+| 172 | 0% | 0.1% |  |
+| 173 | 0% | 0% |  |
 
-### Sveriges socialdemokratiska arbetareparti – Vänsterpartiet
+### Sveriges socialdemokratiska arbetareparti – Vänsterpartiet – Miljöpartiet de gröna
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-s–v.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-s–v–mp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 126 | 0% | 100% |  |
+| 131 | 0% | 100% |  |
+| 132 | 0.1% | 99.9% |  |
+| 133 | 0.1% | 99.9% |  |
+| 134 | 0.1% | 99.8% |  |
+| 135 | 0.2% | 99.7% |  |
+| 136 | 0.5% | 99.4% |  |
+| 137 | 0.5% | 98.9% |  |
+| 138 | 0.7% | 98% |  |
+| 139 | 0.9% | 98% |  |
+| 140 | 2% | 97% |  |
+| 141 | 3% | 95% |  |
+| 142 | 3% | 92% |  |
+| 143 | 4% | 89% |  |
+| 144 | 5% | 85% | Last Result |
+| 145 | 5% | 79% |  |
+| 146 | 7% | 74% |  |
+| 147 | 8% | 67% |  |
+| 148 | 5% | 60% |  |
+| 149 | 6% | 55% | Median |
+| 150 | 5% | 49% |  |
+| 151 | 8% | 44% |  |
+| 152 | 7% | 36% |  |
+| 153 | 9% | 29% |  |
+| 154 | 4% | 20% |  |
+| 155 | 4% | 16% |  |
+| 156 | 4% | 11% |  |
+| 157 | 3% | 7% |  |
+| 158 | 1.1% | 5% |  |
+| 159 | 2% | 4% |  |
+| 160 | 0.7% | 2% |  |
+| 161 | 0.6% | 1.4% |  |
+| 162 | 0.4% | 0.8% |  |
+| 163 | 0.2% | 0.4% |  |
+| 164 | 0.1% | 0.2% |  |
+| 165 | 0% | 0.1% |  |
+| 166 | 0% | 0% |  |
+
+### Sveriges socialdemokratiska arbetareparti – Centerpartiet – Miljöpartiet de gröna
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-s–c–mp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 124 | 0% | 100% |  |
+| 125 | 0% | 99.9% |  |
+| 126 | 0% | 99.9% |  |
 | 127 | 0.1% | 99.9% |  |
-| 128 | 0.2% | 99.8% | Last Result |
-| 129 | 0.4% | 99.6% |  |
-| 130 | 1.0% | 99.2% |  |
-| 131 | 2% | 98% |  |
-| 132 | 2% | 96% |  |
-| 133 | 2% | 95% |  |
-| 134 | 4% | 92% |  |
-| 135 | 7% | 88% |  |
-| 136 | 7% | 81% |  |
-| 137 | 7% | 74% |  |
-| 138 | 7% | 67% |  |
-| 139 | 8% | 61% | Median |
-| 140 | 9% | 53% |  |
-| 141 | 7% | 44% |  |
-| 142 | 10% | 37% |  |
-| 143 | 7% | 27% |  |
-| 144 | 7% | 20% |  |
-| 145 | 5% | 13% |  |
-| 146 | 3% | 8% |  |
-| 147 | 1.5% | 5% |  |
-| 148 | 0.8% | 3% |  |
-| 149 | 1.1% | 2% |  |
-| 150 | 0.4% | 1.1% |  |
-| 151 | 0.3% | 0.8% |  |
-| 152 | 0.1% | 0.5% |  |
-| 153 | 0% | 0.4% |  |
-| 154 | 0.2% | 0.3% |  |
-| 155 | 0.1% | 0.2% |  |
-| 156 | 0% | 0.1% |  |
-| 157 | 0% | 0% |  |
-
-### Moderata samlingspartiet – Sverigedemokraterna
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-m–sd.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 115 | 0.1% | 100% |  |
-| 116 | 0.3% | 99.9% |  |
-| 117 | 0.5% | 99.6% |  |
-| 118 | 3% | 99.1% |  |
-| 119 | 5% | 96% |  |
-| 120 | 4% | 92% |  |
-| 121 | 6% | 88% |  |
-| 122 | 14% | 82% |  |
-| 123 | 12% | 68% |  |
-| 124 | 6% | 56% | Median |
-| 125 | 4% | 51% |  |
-| 126 | 6% | 46% |  |
-| 127 | 3% | 40% |  |
-| 128 | 5% | 38% |  |
-| 129 | 5% | 32% |  |
-| 130 | 6% | 27% |  |
-| 131 | 6% | 20% |  |
-| 132 | 6% | 14% | Last Result |
-| 133 | 3% | 9% |  |
-| 134 | 2% | 5% |  |
-| 135 | 1.4% | 3% |  |
-| 136 | 0.5% | 2% |  |
-| 137 | 0.3% | 1.0% |  |
-| 138 | 0.4% | 0.7% |  |
-| 139 | 0.1% | 0.3% |  |
-| 140 | 0.1% | 0.2% |  |
-| 141 | 0% | 0.1% |  |
-| 142 | 0% | 0.1% |  |
-| 143 | 0% | 0% |  |
-
-### Sveriges socialdemokratiska arbetareparti – Miljöpartiet de gröna
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-s–mp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 106 | 0.1% | 100% |  |
-| 107 | 0.1% | 99.9% |  |
-| 108 | 0.1% | 99.8% |  |
-| 109 | 0.2% | 99.7% |  |
-| 110 | 0.1% | 99.5% |  |
-| 111 | 0.6% | 99.5% |  |
-| 112 | 0.2% | 98.9% |  |
-| 113 | 0.2% | 98.7% |  |
-| 114 | 0.3% | 98% |  |
-| 115 | 0.4% | 98% |  |
-| 116 | 0.3% | 98% | Last Result |
-| 117 | 0.6% | 97% |  |
-| 118 | 0.9% | 97% |  |
-| 119 | 2% | 96% |  |
-| 120 | 1.3% | 94% |  |
-| 121 | 2% | 93% |  |
-| 122 | 5% | 91% |  |
-| 123 | 5% | 86% |  |
-| 124 | 8% | 81% |  |
-| 125 | 9% | 73% |  |
-| 126 | 13% | 64% |  |
-| 127 | 7% | 51% | Median |
-| 128 | 13% | 44% |  |
-| 129 | 4% | 31% |  |
-| 130 | 8% | 27% |  |
-| 131 | 5% | 19% |  |
-| 132 | 5% | 15% |  |
-| 133 | 4% | 9% |  |
-| 134 | 2% | 6% |  |
-| 135 | 2% | 3% |  |
-| 136 | 0.5% | 1.2% |  |
-| 137 | 0.3% | 0.7% |  |
-| 138 | 0.2% | 0.4% |  |
-| 139 | 0.1% | 0.1% |  |
-| 140 | 0% | 0% |  |
+| 128 | 0% | 99.8% |  |
+| 129 | 0.1% | 99.8% |  |
+| 130 | 0.1% | 99.6% |  |
+| 131 | 0.1% | 99.5% |  |
+| 132 | 0.2% | 99.4% |  |
+| 133 | 0.1% | 99.2% |  |
+| 134 | 0.2% | 99.1% |  |
+| 135 | 0.5% | 98.9% |  |
+| 136 | 0.7% | 98% |  |
+| 137 | 1.0% | 98% |  |
+| 138 | 2% | 97% |  |
+| 139 | 2% | 95% |  |
+| 140 | 3% | 93% |  |
+| 141 | 4% | 90% |  |
+| 142 | 4% | 86% |  |
+| 143 | 6% | 81% |  |
+| 144 | 8% | 75% |  |
+| 145 | 9% | 68% |  |
+| 146 | 9% | 58% | Median |
+| 147 | 8% | 49% | Last Result |
+| 148 | 8% | 41% |  |
+| 149 | 9% | 33% |  |
+| 150 | 5% | 25% |  |
+| 151 | 7% | 20% |  |
+| 152 | 5% | 13% |  |
+| 153 | 3% | 8% |  |
+| 154 | 2% | 5% |  |
+| 155 | 1.2% | 3% |  |
+| 156 | 0.7% | 2% |  |
+| 157 | 0.4% | 1.1% |  |
+| 158 | 0.4% | 0.7% |  |
+| 159 | 0.2% | 0.3% |  |
+| 160 | 0.1% | 0.1% |  |
+| 161 | 0% | 0.1% |  |
+| 162 | 0% | 0% |  |
 
 ### Moderata samlingspartiet – Centerpartiet – Kristdemokraterna – Liberalerna
 
@@ -932,111 +928,182 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 111 | 0.1% | 100% |  |
+| 110 | 0% | 100% |  |
+| 111 | 0% | 99.9% |  |
 | 112 | 0.1% | 99.9% |  |
-| 113 | 0.2% | 99.8% |  |
+| 113 | 0.3% | 99.8% |  |
+| 114 | 0.6% | 99.6% |  |
+| 115 | 0.5% | 98.9% |  |
+| 116 | 1.0% | 98% |  |
+| 117 | 0.8% | 97% |  |
+| 118 | 1.4% | 97% |  |
+| 119 | 1.4% | 95% |  |
+| 120 | 3% | 94% |  |
+| 121 | 3% | 91% |  |
+| 122 | 5% | 88% |  |
+| 123 | 3% | 83% |  |
+| 124 | 6% | 80% |  |
+| 125 | 3% | 74% |  |
+| 126 | 3% | 71% |  |
+| 127 | 3% | 68% |  |
+| 128 | 3% | 65% |  |
+| 129 | 4% | 62% |  |
+| 130 | 4% | 58% |  |
+| 131 | 4% | 54% | Median |
+| 132 | 4% | 50% |  |
+| 133 | 6% | 46% |  |
+| 134 | 4% | 40% |  |
+| 135 | 5% | 35% |  |
+| 136 | 4% | 31% |  |
+| 137 | 7% | 26% |  |
+| 138 | 4% | 19% |  |
+| 139 | 3% | 15% |  |
+| 140 | 4% | 12% |  |
+| 141 | 2% | 8% |  |
+| 142 | 2% | 7% |  |
+| 143 | 1.3% | 4% | Last Result |
+| 144 | 0.6% | 3% |  |
+| 145 | 1.2% | 2% |  |
+| 146 | 0.3% | 1.2% |  |
+| 147 | 0.3% | 0.9% |  |
+| 148 | 0.3% | 0.6% |  |
+| 149 | 0.1% | 0.2% |  |
+| 150 | 0.1% | 0.2% |  |
+| 151 | 0.1% | 0.1% |  |
+| 152 | 0% | 0.1% |  |
+| 153 | 0% | 0% |  |
+
+### Moderata samlingspartiet – Sverigedemokraterna
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-m–sd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 116 | 0% | 100% |  |
+| 117 | 0.1% | 99.9% |  |
+| 118 | 0.1% | 99.8% |  |
+| 119 | 0.6% | 99.7% |  |
+| 120 | 0.5% | 99.1% |  |
+| 121 | 0.9% | 98.7% |  |
+| 122 | 2% | 98% |  |
+| 123 | 3% | 96% |  |
+| 124 | 3% | 93% |  |
+| 125 | 6% | 91% |  |
+| 126 | 4% | 84% |  |
+| 127 | 6% | 80% |  |
+| 128 | 5% | 74% |  |
+| 129 | 9% | 70% |  |
+| 130 | 9% | 60% |  |
+| 131 | 6% | 51% | Median |
+| 132 | 11% | 45% | Last Result |
+| 133 | 6% | 34% |  |
+| 134 | 4% | 28% |  |
+| 135 | 5% | 24% |  |
+| 136 | 7% | 19% |  |
+| 137 | 4% | 12% |  |
+| 138 | 2% | 9% |  |
+| 139 | 3% | 7% |  |
+| 140 | 0.9% | 4% |  |
+| 141 | 1.3% | 3% |  |
+| 142 | 0.6% | 2% |  |
+| 143 | 0.5% | 1.1% |  |
+| 144 | 0.3% | 0.6% |  |
+| 145 | 0.1% | 0.3% |  |
+| 146 | 0.1% | 0.2% |  |
+| 147 | 0.1% | 0.1% |  |
+| 148 | 0% | 0.1% |  |
+| 149 | 0% | 0% |  |
+
+### Sveriges socialdemokratiska arbetareparti – Vänsterpartiet
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-s–v.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 110 | 0% | 100% |  |
+| 111 | 0% | 99.9% |  |
+| 112 | 0.1% | 99.9% |  |
+| 113 | 0.1% | 99.8% |  |
 | 114 | 0.3% | 99.7% |  |
-| 115 | 1.1% | 99.3% |  |
-| 116 | 0.9% | 98% |  |
-| 117 | 2% | 97% |  |
-| 118 | 4% | 95% |  |
-| 119 | 7% | 91% |  |
-| 120 | 6% | 85% |  |
-| 121 | 13% | 79% | Median |
-| 122 | 10% | 66% |  |
-| 123 | 13% | 55% |  |
-| 124 | 9% | 42% |  |
-| 125 | 10% | 34% |  |
-| 126 | 4% | 24% |  |
-| 127 | 8% | 20% |  |
-| 128 | 3% | 12% |  |
-| 129 | 4% | 9% |  |
-| 130 | 2% | 6% |  |
-| 131 | 2% | 4% |  |
-| 132 | 0.8% | 3% |  |
-| 133 | 0.6% | 2% |  |
-| 134 | 0.3% | 1.1% |  |
-| 135 | 0.2% | 0.7% |  |
-| 136 | 0.3% | 0.5% |  |
-| 137 | 0.1% | 0.3% |  |
-| 138 | 0.1% | 0.2% |  |
-| 139 | 0.1% | 0.1% |  |
-| 140 | 0% | 0% |  |
-| 141 | 0% | 0% |  |
-| 142 | 0% | 0% |  |
-| 143 | 0% | 0% | Last Result |
+| 115 | 0.3% | 99.4% |  |
+| 116 | 0.4% | 99.1% |  |
+| 117 | 0.7% | 98.8% |  |
+| 118 | 1.3% | 98% |  |
+| 119 | 1.2% | 97% |  |
+| 120 | 2% | 96% |  |
+| 121 | 3% | 94% |  |
+| 122 | 3% | 90% |  |
+| 123 | 5% | 87% |  |
+| 124 | 5% | 82% |  |
+| 125 | 4% | 77% |  |
+| 126 | 6% | 73% |  |
+| 127 | 6% | 67% |  |
+| 128 | 4% | 60% | Last Result |
+| 129 | 4% | 56% | Median |
+| 130 | 8% | 51% |  |
+| 131 | 5% | 44% |  |
+| 132 | 8% | 38% |  |
+| 133 | 4% | 30% |  |
+| 134 | 6% | 26% |  |
+| 135 | 4% | 20% |  |
+| 136 | 6% | 16% |  |
+| 137 | 2% | 10% |  |
+| 138 | 4% | 9% |  |
+| 139 | 1.1% | 5% |  |
+| 140 | 2% | 3% |  |
+| 141 | 0.5% | 2% |  |
+| 142 | 0.5% | 1.4% |  |
+| 143 | 0.4% | 0.9% |  |
+| 144 | 0.2% | 0.4% |  |
+| 145 | 0.1% | 0.2% |  |
+| 146 | 0.1% | 0.1% |  |
+| 147 | 0% | 0% |  |
 
-### Moderata samlingspartiet – Centerpartiet – Liberalerna
+### Sveriges socialdemokratiska arbetareparti – Miljöpartiet de gröna
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-m–c–l.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 92 | 0.1% | 100% |  |
-| 93 | 0.2% | 99.9% |  |
-| 94 | 0.5% | 99.7% |  |
-| 95 | 0.5% | 99.2% |  |
-| 96 | 1.4% | 98.6% |  |
-| 97 | 3% | 97% |  |
-| 98 | 4% | 95% |  |
-| 99 | 8% | 91% |  |
-| 100 | 10% | 83% |  |
-| 101 | 12% | 73% | Median |
-| 102 | 11% | 61% |  |
-| 103 | 12% | 50% |  |
-| 104 | 5% | 38% |  |
-| 105 | 9% | 33% |  |
-| 106 | 6% | 24% |  |
-| 107 | 6% | 18% |  |
-| 108 | 4% | 12% |  |
-| 109 | 3% | 8% |  |
-| 110 | 2% | 5% |  |
-| 111 | 1.0% | 3% |  |
-| 112 | 0.8% | 2% |  |
-| 113 | 0.4% | 1.1% |  |
-| 114 | 0.3% | 0.7% |  |
-| 115 | 0.2% | 0.5% |  |
-| 116 | 0.1% | 0.2% |  |
-| 117 | 0% | 0.1% |  |
-| 118 | 0.1% | 0.1% |  |
-| 119 | 0% | 0% |  |
-| 120 | 0% | 0% |  |
-| 121 | 0% | 0% | Last Result |
-
-### Moderata samlingspartiet – Kristdemokraterna – Liberalerna
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-m–kd–l.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-s–mp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 89 | 0% | 100% |  |
-| 90 | 0.1% | 99.9% |  |
-| 91 | 0.1% | 99.9% |  |
-| 92 | 1.0% | 99.8% |  |
-| 93 | 2% | 98.8% |  |
-| 94 | 2% | 97% |  |
-| 95 | 4% | 95% |  |
-| 96 | 11% | 92% |  |
-| 97 | 7% | 81% |  |
-| 98 | 12% | 74% | Median |
-| 99 | 9% | 62% |  |
-| 100 | 8% | 53% |  |
-| 101 | 4% | 45% |  |
-| 102 | 6% | 40% |  |
-| 103 | 14% | 34% |  |
-| 104 | 5% | 20% |  |
-| 105 | 4% | 15% |  |
-| 106 | 2% | 11% |  |
-| 107 | 4% | 9% |  |
-| 108 | 2% | 5% |  |
-| 109 | 1.3% | 3% |  |
-| 110 | 0.7% | 1.4% |  |
-| 111 | 0.2% | 0.7% |  |
-| 112 | 0.2% | 0.4% | Last Result |
-| 113 | 0% | 0.3% |  |
-| 114 | 0.2% | 0.2% |  |
-| 115 | 0% | 0.1% |  |
-| 116 | 0% | 0% |  |
+| 100 | 0% | 100% |  |
+| 101 | 0% | 99.9% |  |
+| 102 | 0% | 99.9% |  |
+| 103 | 0.1% | 99.9% |  |
+| 104 | 0.2% | 99.8% |  |
+| 105 | 0.1% | 99.6% |  |
+| 106 | 0.2% | 99.5% |  |
+| 107 | 0.2% | 99.4% |  |
+| 108 | 0.4% | 99.2% |  |
+| 109 | 0.3% | 98.8% |  |
+| 110 | 0.7% | 98% |  |
+| 111 | 1.0% | 98% |  |
+| 112 | 2% | 97% |  |
+| 113 | 3% | 95% |  |
+| 114 | 2% | 92% |  |
+| 115 | 5% | 90% |  |
+| 116 | 5% | 84% | Last Result |
+| 117 | 5% | 80% |  |
+| 118 | 6% | 74% |  |
+| 119 | 5% | 68% |  |
+| 120 | 6% | 63% |  |
+| 121 | 9% | 57% | Median |
+| 122 | 6% | 49% |  |
+| 123 | 8% | 42% |  |
+| 124 | 7% | 34% |  |
+| 125 | 7% | 27% |  |
+| 126 | 5% | 20% |  |
+| 127 | 3% | 15% |  |
+| 128 | 5% | 11% |  |
+| 129 | 2% | 6% |  |
+| 130 | 2% | 5% |  |
+| 131 | 1.2% | 3% |  |
+| 132 | 0.5% | 2% |  |
+| 133 | 0.6% | 1.1% |  |
+| 134 | 0.2% | 0.5% |  |
+| 135 | 0.1% | 0.3% |  |
+| 136 | 0.1% | 0.2% |  |
+| 137 | 0% | 0.1% |  |
+| 138 | 0% | 0% |  |
 
 ### Moderata samlingspartiet – Centerpartiet – Kristdemokraterna
 
@@ -1044,43 +1111,188 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 87 | 0% | 100% |  |
+| 86 | 0% | 100% |  |
+| 87 | 0% | 99.9% |  |
 | 88 | 0% | 99.9% |  |
-| 89 | 0.2% | 99.9% |  |
-| 90 | 0.2% | 99.7% |  |
-| 91 | 0.3% | 99.5% |  |
-| 92 | 1.0% | 99.2% |  |
-| 93 | 0.9% | 98% |  |
-| 94 | 2% | 97% |  |
-| 95 | 7% | 95% |  |
-| 96 | 4% | 88% |  |
-| 97 | 14% | 84% | Median |
-| 98 | 19% | 70% |  |
-| 99 | 10% | 51% |  |
-| 100 | 10% | 40% |  |
-| 101 | 12% | 31% |  |
-| 102 | 4% | 18% |  |
-| 103 | 6% | 14% |  |
-| 104 | 3% | 9% |  |
-| 105 | 2% | 6% |  |
-| 106 | 1.1% | 4% |  |
-| 107 | 1.1% | 3% |  |
-| 108 | 0.5% | 2% |  |
-| 109 | 0.9% | 2% |  |
-| 110 | 0.2% | 0.6% |  |
-| 111 | 0.2% | 0.5% |  |
-| 112 | 0.2% | 0.3% |  |
-| 113 | 0% | 0.1% |  |
-| 114 | 0.1% | 0.1% |  |
-| 115 | 0% | 0% |  |
-| 116 | 0% | 0% |  |
-| 117 | 0% | 0% |  |
-| 118 | 0% | 0% |  |
+| 89 | 0% | 99.9% |  |
+| 90 | 0.1% | 99.9% |  |
+| 91 | 0.2% | 99.8% |  |
+| 92 | 0.3% | 99.6% |  |
+| 93 | 0.7% | 99.3% |  |
+| 94 | 1.0% | 98.6% |  |
+| 95 | 1.1% | 98% |  |
+| 96 | 3% | 96% |  |
+| 97 | 3% | 94% |  |
+| 98 | 2% | 91% |  |
+| 99 | 3% | 89% |  |
+| 100 | 4% | 85% |  |
+| 101 | 5% | 82% |  |
+| 102 | 3% | 77% |  |
+| 103 | 3% | 74% |  |
+| 104 | 4% | 71% |  |
+| 105 | 3% | 67% |  |
+| 106 | 2% | 64% |  |
+| 107 | 3% | 63% |  |
+| 108 | 3% | 60% |  |
+| 109 | 4% | 57% | Median |
+| 110 | 3% | 53% |  |
+| 111 | 6% | 50% |  |
+| 112 | 3% | 44% |  |
+| 113 | 7% | 41% |  |
+| 114 | 6% | 34% |  |
+| 115 | 5% | 28% |  |
+| 116 | 7% | 23% |  |
+| 117 | 3% | 16% |  |
+| 118 | 4% | 12% |  |
+| 119 | 3% | 9% |  |
+| 120 | 2% | 5% |  |
+| 121 | 1.0% | 4% |  |
+| 122 | 1.1% | 3% |  |
+| 123 | 0.5% | 2% | Last Result |
+| 124 | 0.5% | 1.0% |  |
+| 125 | 0.2% | 0.6% |  |
+| 126 | 0.2% | 0.3% |  |
+| 127 | 0.1% | 0.2% |  |
+| 128 | 0.1% | 0.1% |  |
+| 129 | 0% | 0% |  |
+
+### Moderata samlingspartiet – Centerpartiet – Liberalerna
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-m–c–l.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 93 | 0% | 100% |  |
+| 94 | 0.1% | 99.9% |  |
+| 95 | 0.8% | 99.9% |  |
+| 96 | 0.3% | 99.1% |  |
+| 97 | 0.5% | 98.7% |  |
+| 98 | 1.2% | 98% |  |
+| 99 | 2% | 97% |  |
+| 100 | 2% | 96% |  |
+| 101 | 2% | 94% |  |
+| 102 | 3% | 91% |  |
+| 103 | 7% | 88% |  |
+| 104 | 7% | 81% |  |
+| 105 | 4% | 73% |  |
+| 106 | 7% | 69% |  |
+| 107 | 5% | 63% |  |
+| 108 | 6% | 58% |  |
+| 109 | 6% | 52% | Median |
+| 110 | 6% | 45% |  |
+| 111 | 5% | 39% |  |
+| 112 | 4% | 34% |  |
+| 113 | 7% | 30% |  |
+| 114 | 5% | 23% |  |
+| 115 | 4% | 18% |  |
+| 116 | 6% | 14% |  |
+| 117 | 2% | 9% |  |
+| 118 | 2% | 7% |  |
+| 119 | 1.5% | 5% |  |
+| 120 | 1.0% | 4% |  |
+| 121 | 1.4% | 3% | Last Result |
+| 122 | 0.3% | 1.2% |  |
+| 123 | 0.3% | 0.9% |  |
+| 124 | 0.2% | 0.6% |  |
+| 125 | 0.2% | 0.4% |  |
+| 126 | 0.1% | 0.2% |  |
+| 127 | 0% | 0.1% |  |
+| 128 | 0% | 0% |  |
+
+### Moderata samlingspartiet – Kristdemokraterna – Liberalerna
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-m–kd–l.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 85 | 0% | 100% |  |
+| 86 | 0% | 99.9% |  |
+| 87 | 0% | 99.9% |  |
+| 88 | 0% | 99.9% |  |
+| 89 | 0.1% | 99.9% |  |
+| 90 | 0.1% | 99.8% |  |
+| 91 | 0.2% | 99.6% |  |
+| 92 | 0.7% | 99.5% |  |
+| 93 | 0.8% | 98.8% |  |
+| 94 | 2% | 98% |  |
+| 95 | 2% | 96% |  |
+| 96 | 2% | 95% |  |
+| 97 | 3% | 92% |  |
+| 98 | 3% | 90% |  |
+| 99 | 5% | 87% |  |
+| 100 | 5% | 81% |  |
+| 101 | 7% | 76% |  |
+| 102 | 4% | 70% |  |
+| 103 | 4% | 66% |  |
+| 104 | 5% | 61% |  |
+| 105 | 6% | 56% |  |
+| 106 | 5% | 51% | Median |
+| 107 | 6% | 46% |  |
+| 108 | 7% | 40% |  |
+| 109 | 5% | 33% |  |
+| 110 | 5% | 28% |  |
+| 111 | 5% | 23% |  |
+| 112 | 4% | 17% | Last Result |
+| 113 | 3% | 13% |  |
+| 114 | 2% | 10% |  |
+| 115 | 2% | 8% |  |
+| 116 | 2% | 5% |  |
+| 117 | 2% | 4% |  |
+| 118 | 0.5% | 2% |  |
+| 119 | 0.7% | 1.4% |  |
+| 120 | 0.4% | 0.7% |  |
+| 121 | 0.1% | 0.4% |  |
+| 122 | 0.1% | 0.2% |  |
+| 123 | 0.1% | 0.1% |  |
+| 124 | 0% | 0.1% |  |
+| 125 | 0% | 0% |  |
+
+### Sveriges socialdemokratiska arbetareparti
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-s.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 80 | 0% | 100% |  |
+| 81 | 0% | 99.9% |  |
+| 82 | 0.2% | 99.9% |  |
+| 83 | 0.1% | 99.8% |  |
+| 84 | 0.1% | 99.6% |  |
+| 85 | 0.2% | 99.6% |  |
+| 86 | 0.3% | 99.4% |  |
+| 87 | 0.2% | 99.1% |  |
+| 88 | 0.2% | 98.9% |  |
+| 89 | 0.3% | 98.7% |  |
+| 90 | 0.4% | 98% |  |
+| 91 | 1.1% | 98% |  |
+| 92 | 1.1% | 97% |  |
+| 93 | 3% | 96% |  |
+| 94 | 3% | 93% |  |
+| 95 | 3% | 90% |  |
+| 96 | 6% | 86% |  |
+| 97 | 7% | 81% |  |
+| 98 | 6% | 74% |  |
+| 99 | 5% | 68% |  |
+| 100 | 8% | 63% | Last Result |
+| 101 | 7% | 54% | Median |
+| 102 | 8% | 47% |  |
+| 103 | 5% | 39% |  |
+| 104 | 5% | 34% |  |
+| 105 | 6% | 29% |  |
+| 106 | 5% | 24% |  |
+| 107 | 4% | 19% |  |
+| 108 | 3% | 14% |  |
+| 109 | 4% | 11% |  |
+| 110 | 3% | 8% |  |
+| 111 | 2% | 5% |  |
+| 112 | 1.0% | 3% |  |
+| 113 | 0.9% | 2% |  |
+| 114 | 0.5% | 1.0% |  |
+| 115 | 0.3% | 0.6% |  |
+| 116 | 0.1% | 0.3% |  |
+| 117 | 0.1% | 0.2% |  |
+| 118 | 0% | 0.1% |  |
 | 119 | 0% | 0% |  |
-| 120 | 0% | 0% |  |
-| 121 | 0% | 0% |  |
-| 122 | 0% | 0% |  |
-| 123 | 0% | 0% | Last Result |
 
 ### Moderata samlingspartiet – Centerpartiet
 
@@ -1088,39 +1300,41 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 69 | 0.1% | 100% |  |
-| 70 | 0.3% | 99.8% |  |
-| 71 | 0.7% | 99.6% |  |
-| 72 | 0.6% | 98.9% |  |
-| 73 | 1.4% | 98% |  |
-| 74 | 2% | 97% |  |
-| 75 | 6% | 95% |  |
-| 76 | 8% | 90% |  |
-| 77 | 19% | 82% | Median |
-| 78 | 16% | 63% |  |
-| 79 | 14% | 47% |  |
-| 80 | 8% | 33% |  |
-| 81 | 6% | 25% |  |
-| 82 | 7% | 19% |  |
-| 83 | 4% | 12% |  |
-| 84 | 3% | 8% |  |
-| 85 | 2% | 5% |  |
-| 86 | 1.0% | 3% |  |
-| 87 | 0.8% | 2% |  |
-| 88 | 0.6% | 2% |  |
-| 89 | 0.6% | 1.0% |  |
-| 90 | 0.2% | 0.4% |  |
-| 91 | 0.1% | 0.2% |  |
-| 92 | 0% | 0% |  |
-| 93 | 0% | 0% |  |
-| 94 | 0% | 0% |  |
-| 95 | 0% | 0% |  |
-| 96 | 0% | 0% |  |
-| 97 | 0% | 0% |  |
-| 98 | 0% | 0% |  |
-| 99 | 0% | 0% |  |
-| 100 | 0% | 0% |  |
-| 101 | 0% | 0% | Last Result |
+| 71 | 0% | 100% |  |
+| 72 | 0.1% | 99.9% |  |
+| 73 | 0.3% | 99.8% |  |
+| 74 | 0.4% | 99.5% |  |
+| 75 | 1.0% | 99.1% |  |
+| 76 | 1.3% | 98% |  |
+| 77 | 2% | 97% |  |
+| 78 | 3% | 95% |  |
+| 79 | 4% | 93% |  |
+| 80 | 5% | 89% |  |
+| 81 | 6% | 84% |  |
+| 82 | 5% | 79% |  |
+| 83 | 4% | 73% |  |
+| 84 | 5% | 69% |  |
+| 85 | 5% | 64% |  |
+| 86 | 5% | 59% |  |
+| 87 | 5% | 54% | Median |
+| 88 | 6% | 49% |  |
+| 89 | 4% | 43% |  |
+| 90 | 8% | 40% |  |
+| 91 | 5% | 31% |  |
+| 92 | 7% | 26% |  |
+| 93 | 6% | 19% |  |
+| 94 | 4% | 13% |  |
+| 95 | 3% | 9% |  |
+| 96 | 2% | 7% |  |
+| 97 | 2% | 5% |  |
+| 98 | 1.4% | 3% |  |
+| 99 | 0.7% | 2% |  |
+| 100 | 0.3% | 0.9% |  |
+| 101 | 0.2% | 0.6% | Last Result |
+| 102 | 0.2% | 0.3% |  |
+| 103 | 0.1% | 0.2% |  |
+| 104 | 0.1% | 0.1% |  |
+| 105 | 0% | 0% |  |
 
 ### Moderata samlingspartiet – Kristdemokraterna
 
@@ -1128,38 +1342,53 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 66 | 0% | 100% |  |
+| 61 | 0% | 100% |  |
+| 62 | 0% | 99.9% |  |
+| 63 | 0% | 99.9% |  |
+| 64 | 0% | 99.9% |  |
+| 65 | 0% | 99.9% |  |
+| 66 | 0% | 99.9% |  |
 | 67 | 0.1% | 99.9% |  |
-| 68 | 0.3% | 99.8% |  |
-| 69 | 0.4% | 99.5% |  |
-| 70 | 2% | 99.1% |  |
-| 71 | 3% | 98% |  |
-| 72 | 6% | 94% |  |
-| 73 | 10% | 88% |  |
-| 74 | 10% | 78% | Median |
-| 75 | 18% | 68% |  |
-| 76 | 7% | 50% |  |
-| 77 | 10% | 43% |  |
-| 78 | 5% | 33% |  |
-| 79 | 8% | 28% |  |
-| 80 | 8% | 19% |  |
-| 81 | 4% | 12% |  |
-| 82 | 3% | 7% |  |
-| 83 | 2% | 5% |  |
-| 84 | 1.0% | 3% |  |
-| 85 | 0.7% | 1.5% |  |
-| 86 | 0.4% | 0.8% |  |
-| 87 | 0.2% | 0.4% |  |
-| 88 | 0.1% | 0.2% |  |
-| 89 | 0% | 0.1% |  |
-| 90 | 0% | 0% |  |
-| 91 | 0% | 0% |  |
-| 92 | 0% | 0% | Last Result |
+| 68 | 0.1% | 99.8% |  |
+| 69 | 0.3% | 99.8% |  |
+| 70 | 0.4% | 99.4% |  |
+| 71 | 1.0% | 99.0% |  |
+| 72 | 1.2% | 98% |  |
+| 73 | 3% | 97% |  |
+| 74 | 2% | 94% |  |
+| 75 | 4% | 91% |  |
+| 76 | 4% | 88% |  |
+| 77 | 6% | 84% |  |
+| 78 | 4% | 78% |  |
+| 79 | 4% | 74% |  |
+| 80 | 5% | 70% |  |
+| 81 | 3% | 65% |  |
+| 82 | 4% | 62% |  |
+| 83 | 6% | 58% |  |
+| 84 | 4% | 52% | Median |
+| 85 | 4% | 48% |  |
+| 86 | 6% | 43% |  |
+| 87 | 6% | 38% |  |
+| 88 | 6% | 32% |  |
+| 89 | 5% | 26% |  |
+| 90 | 7% | 21% |  |
+| 91 | 4% | 14% |  |
+| 92 | 2% | 10% | Last Result |
+| 93 | 3% | 7% |  |
+| 94 | 2% | 4% |  |
+| 95 | 1.1% | 3% |  |
+| 96 | 0.6% | 2% |  |
+| 97 | 0.5% | 1.1% |  |
+| 98 | 0.2% | 0.5% |  |
+| 99 | 0.1% | 0.3% |  |
+| 100 | 0.1% | 0.2% |  |
+| 101 | 0% | 0.1% |  |
+| 102 | 0% | 0% |  |
 
 
 ## Technical Information
 
 + **Number of polls included in this average:** 5
 + **Lowest number of simulations done in a poll included in this average:** 0
-+ **Total number of simulations done in the polls included in this average:** 524,288
-+ **Error estimate:** 0.75%
++ **Total number of simulations done in the polls included in this average:** 2,359,296
++ **Error estimate:** 1.77%
